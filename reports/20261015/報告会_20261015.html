@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="VAEによるボトル画像の異常検知：既存実験の振り返りと今週の研究計画。2026年10月15日。">
+<title>報告会資料｜2026年10月15日｜大越宙弥</title>
+<style>
+:root{--ink:#2e2b21;--muted:#605b4f;--olive:#a9a57c;--teal:#9cbebd;--pale:#eef4f3;--sand:#d8d6be;--warn:#9b6831;--paper:#fff}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;color:var(--ink)}body{background:#deded8;font-family:"Times New Roman","Yu Mincho","ＭＳ 明朝",serif}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #526f6e;outline-offset:4px}
+.deck{width:1280px;margin:28px auto 90px;transform-origin:top left}.slide{position:relative;width:1280px;height:720px;background:var(--paper);overflow:hidden;margin-bottom:28px;box-shadow:0 4px 24px #2e2b211c;break-after:page;page-break-after:always}.slide:last-child{break-after:auto;page-break-after:auto}
+.heading{position:absolute;left:80px;right:76px;top:65px;min-height:100px;display:flex;align-items:center;border-left:3px solid var(--teal);padding-left:28px}h2{font-family:"Times New Roman","MS Gothic","Yu Gothic",sans-serif;font-size:36px;line-height:1.4;font-weight:500;margin:0;letter-spacing:.03em}.body{position:absolute;top:191px;left:108px;right:87px;bottom:69px;font-size:25px;line-height:1.65}p{margin:0 0 18px}h3{font-size:26px;margin:0 0 13px;font-weight:bold}strong{font-weight:700}.eyebrow{font-size:15px;letter-spacing:.16em;color:var(--muted);font-family:"Yu Gothic",sans-serif;margin-bottom:10px}.lead{font-size:29px;line-height:1.65}.small{font-size:19px;line-height:1.65}.tiny{font-size:16px;line-height:1.55}.muted{color:var(--muted)}.footer{position:absolute;bottom:16px;left:28px;right:28px;display:flex;justify-content:space-between;font-size:15px;color:var(--muted)}.source{position:absolute;left:108px;right:87px;bottom:43px;font-size:13px;line-height:1.4;color:var(--muted);font-family:"Yu Gothic",sans-serif}.cols{display:grid;grid-template-columns:1fr 1fr;gap:44px}.thirds{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}.panel{background:#f7f7f2;border-top:4px solid var(--olive);padding:23px 26px}.panel.teal{border-color:var(--teal);background:var(--pale)}.panel h3{font-size:25px}.callout{border-left:5px solid var(--teal);background:var(--pale);padding:17px 23px;font-size:24px;line-height:1.55;margin-top:24px}.callout.ochre{border-color:#c89f5d;background:#faf5ed}ul,ol{padding-left:1.25em;margin:8px 0}li{margin-bottom:13px}li::marker{color:#789493}.badge{display:inline-block;font-family:"Yu Gothic",sans-serif;font-size:14px;line-height:1.3;padding:6px 10px;background:var(--pale);color:#486765;vertical-align:middle;letter-spacing:.04em}.badge.plan{background:#f4f1e5;color:#766b40}table{border-collapse:collapse;width:100%;font-size:23px;line-height:1.45}th{text-align:left;background:#eef0e5;font-weight:500;padding:15px 18px;border-bottom:2px solid var(--olive)}td{padding:16px 18px;border-bottom:1px solid #deded2}tr.best td{background:var(--pale)}.num{font-variant-numeric:tabular-nums;text-align:right}.model{font-family:"Times New Roman",serif}.formula{text-align:center;font-size:32px;padding:20px;background:#f7f7f2;line-height:1.5;margin:18px 0}.flow{display:flex;gap:13px;align-items:center;margin:32px 0}.flow .node{padding:25px 14px;text-align:center;background:#f3f4ed;border-top:4px solid var(--olive);flex:1;font-size:24px;line-height:1.55}.flow .node.accent{background:var(--pale);border-color:var(--teal)}.flow .arrow{font-size:30px;color:#789493}.value{font-size:66px;line-height:1.1;display:block;margin:19px 0 12px;font-variant-numeric:tabular-nums}.value small{font-size:25px}.arrow-large{font-size:55px;color:#789493;text-align:center}.metric{display:grid;grid-template-columns:1fr 80px 1fr;align-items:center}.metric-box{padding:20px 24px;background:#f7f7f2}.metric-box.after{background:var(--pale)}.compact td,.compact th{padding:12px 17px;font-size:21px}.steps{counter-reset:step;list-style:none;padding:0}.steps li{counter-increment:step;position:relative;padding-left:58px;margin:0 0 25px}.steps li:before{content:counter(step,decimal-leading-zero);position:absolute;left:0;top:1px;color:#789493;font-size:28px}.rule{height:2px;background:var(--sand);margin:21px 0}.refs{font-size:17px;line-height:1.7;overflow-wrap:anywhere}.refs p{margin-bottom:12px}.refs code{font-family:Consolas,monospace;font-size:15px}.title-slide .title-field{position:absolute;inset:0 0 auto;height:480px;background:var(--teal)}.title-topic{position:absolute;left:87px;top:100px;max-width:1040px;font-size:42px;line-height:1.6;font-weight:400;letter-spacing:.045em}.title-topic .sub{display:block;font-size:26px;letter-spacing:.04em;margin-top:24px}.title-bottom{position:absolute;left:48px;right:48px;top:519px;display:grid;grid-template-columns:1fr 340px;align-items:center;gap:36px}.title-bottom h1{font-size:58px;font-weight:400;letter-spacing:.12em;text-align:right;margin:0;padding-right:30px}.title-meta{border-left:3px solid var(--teal);padding:14px 0 14px 34px;font-size:25px;line-height:1.75}.title-status{position:absolute;left:89px;top:420px;font-size:17px;letter-spacing:.09em}.chart{width:100%;height:265px;display:block}.chart text{fill:var(--ink);font-family:"Times New Roman","Yu Mincho",serif}.toolbar{position:fixed;z-index:10;bottom:14px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:12px;padding:10px 16px;background:#fffffff5;border:1px solid #d8d6be;border-radius:8px;box-shadow:0 2px 16px #0002;font-family:"Yu Gothic",sans-serif;font-size:14px;white-space:nowrap}.toolbar button{border:1px solid #c9cec5;background:white;border-radius:4px;padding:6px 12px;color:var(--ink)}.toolbar button:hover{background:var(--pale)}.toolbar button:disabled{opacity:.4;cursor:default}.toolbar .help{font-size:12px;color:var(--muted)}.toolbar output{min-width:50px;text-align:center}
+body.present{overflow:hidden;background:#202520}body.present .deck{position:absolute;left:50%;top:50%;margin:0;transform-origin:center center}body.present .slide{display:none;margin:0;box-shadow:none}body.present .slide.active{display:block}body.present .toolbar{opacity:.18;transition:opacity .15s}body.present .toolbar:hover,body.present .toolbar:focus-within{opacity:1}
+.panel p:last-child{margin-bottom:0}#slide-3 .flow{margin:20px 0}#slide-4 td,#slide-6 td{padding-top:14px;padding-bottom:14px}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+@media print{@page{size:338.6667mm 190.5mm;margin:0}html,body,body.present{background:white;width:1280px;height:auto;overflow:visible}body .deck,body.present .deck{position:static;width:1280px;max-width:none;margin:0;transform:none!important}body .slide,body.present .slide{display:block!important;margin:0;box-shadow:none;width:1280px;height:720px;print-color-adjust:exact;-webkit-print-color-adjust:exact}.toolbar{display:none!important}}
+</style>
+</head>
+<body>
+<main class="deck" aria-label="研究報告スライド">
+<section class="slide title-slide" id="slide-1" aria-label="1 表紙">
+ <div class="title-field"></div>
+ <div class="title-topic">VAEを用いたボトル画像の異常検知<span class="sub">これまでの振り返りと、今週の研究計画</span></div>
+ <div class="title-status">既存実験の整理 ／ Sparse VAE導入に向けた準備</div>
+ <div class="title-bottom"><h1>報告会資料</h1><div class="title-meta">大越宙弥<br><time datetime="2026-10-15">2026/10/15</time></div></div>
+ <footer class="footer"><span>研究再開時点の整理資料</span><span>1</span></footer>
+</section>
+<section class="slide" id="slide-2" aria-label="2 前回報告と今週の目的">
+ <header class="heading"><h2>前回のおさらいと、今週の目的</h2></header>
+ <div class="body"><div class="cols">
+  <div><div class="eyebrow">前回報告　2026/07/09</div><h3>評価方法と改善の方向性を検討</h3><ul><li>AUROCを用いた4種類のVAEの比較</li><li>再構成性能と検知性能の関係を整理</li><li>Sparse VAEの調査・再現を次の候補に設定</li></ul></div>
+  <div><div class="eyebrow">今週の優先事項</div><h3>実装・実験・課題を説明できる形に</h3><ul><li>既存ノートブックと結果の対応を整理</li><li>データ拡張前後の実験を振り返る</li><li>確認済みの結果と原因仮説を分ける</li></ul></div>
+ </div><div class="callout">余裕があれば、参照論文と公式コードの確認、Sparse VAEの実装に進む。</div><p class="tiny muted" style="margin-top:14px">本資料の数値は保存済みの実験出力。今週の新規学習・再実験の成果を示すものではない。</p></div>
+ <div class="source">出典：報告会_20260709.pptx（2〜12枚目）、memory/memory.md、今週の研究方針</div><footer class="footer"><span>2026/10/15</span><span>2</span></footer>
+</section>
+<section class="slide" id="slide-3" aria-label="3 研究の全体像">
+ <header class="heading"><h2>研究の全体像：正常画像から異常を検知する</h2></header>
+ <div class="body"><p class="lead">正常なボトル画像のみを学習し、<br>入力と再構成画像の違いを異常スコアとして評価する。</p>
+ <div class="flow"><div class="node">入力画像<br><span class="small">128 × 128・グレースケール</span></div><span class="arrow">→</span><div class="node accent">VAE<br><span class="small">圧縮・サンプリング・再構成</span></div><span class="arrow">→</span><div class="node">再構成画像<br><span class="small">入力とのSSIMを計算</span></div></div>
+ <div class="cols"><div class="panel"><h3>学習データ</h3><p class="small">正常209枚。回転拡張後は2090枚。<br>異常画像は学習に使用しない。</p></div><div class="panel teal"><h3>現在のテストデータ</h3><p class="small">正常20枚 ＋ 異常63枚 ＝ 83枚。<br>異常内訳：大きな破損20・小さな破損22・汚れ21。</p></div></div></div>
+ <div class="source">出典：評価ノートブックの前処理、data/bottle/test内のPNG件数（2026/10/15確認）</div><footer class="footer"><span>2026/10/15</span><span>3</span></footer>
+</section>
+<section class="slide" id="slide-4" aria-label="4 比較したモデル">
+ <header class="heading"><h2>実装した4種類のVAE</h2></header>
+ <div class="body"><table><thead><tr><th style="width:32%">モデル</th><th>構成・比較の観点</th></tr></thead><tbody>
+ <tr><td class="model">VAE_FC</td><td>全結合層を用いたベースライン</td></tr>
+ <tr><td class="model">VAE_CNN_Shallow3</td><td>3層のCNNによる空間的特徴の抽出</td></tr>
+ <tr><td class="model">VAE_CNN_Deep5</td><td>5層のCNNによる、より深い特徴抽出</td></tr>
+ <tr><td class="model">VAE_Hybrid_CNN_FC</td><td>5層CNNと全結合層を組み合わせた特徴圧縮</td></tr>
+ </tbody></table><div class="callout">入力サイズと評価方法を揃え、構造の違いが異常分離能力にどう表れるかを比較。</div><p class="tiny muted" style="margin-top:12px">既存学習にはKLアニーリングを導入。層構成・損失の集約方法・学習条件の詳細は再確認対象。</p></div>
+ <div class="source">出典：code/260611.ipynb、code/260709AUROCを用いた比較評価.ipynb</div><footer class="footer"><span>2026/10/15</span><span>4</span></footer>
+</section>
+<section class="slide" id="slide-5" aria-label="5 異常スコアと評価方法">
+ <header class="heading"><h2>異常スコアと評価方法の整理</h2></header>
+ <div class="body"><p>SSIMマップの各位置で類似度の低下を計算し、<br>異常度が高い<strong>上位130点</strong>を平均する。</p>
+ <div class="formula">A = 1 − SSIM<sub>map</sub>(x, x̂)<br><span style="font-size:26px">異常スコア s(x) = mean（flatten(A) の上位130点）</span></div>
+ <div class="cols"><div><h3>AUROC <span class="badge">閾値に依存しない評価</span></h3><p class="small">正常と異常のスコアの順位関係を評価。<br>モデル間の異常分離能力を比較する。</p></div><div><h3>F1・Recall・混同行列 <span class="badge">閾値を使う評価</span></h3><p class="small">PR曲線からF1が最大となる閾値を探索。<br>判定後の見逃し・過剰検知を確認する。</p></div></div>
+ <p class="tiny muted" style="margin-top:14px">SSIMの局所窓は11×11。コード上のTop-130は、独立した130パッチの抽出ではなくマップ値の選択。</p></div>
+ <div class="source">出典：260709・260719評価ノートブックのevaluate_dataset、compute_optimal_threshold_f1</div><footer class="footer"><span>2026/10/15</span><span>5</span></footer>
+</section>
+<section class="slide" id="slide-6" aria-label="6 7月9日の比較結果">
+ <header class="heading"><h2>既存結果①：4種類のモデル比較（7月9日）</h2></header>
+ <div class="body"><table><thead><tr><th>モデル</th><th class="num">AUROC</th><th class="num">Recall</th><th class="num">判定後F1</th></tr></thead><tbody>
+ <tr><td class="model">FC</td><td class="num">0.9548</td><td class="num">93.65%</td><td class="num">94.40%</td></tr>
+ <tr class="best"><td class="model">CNN_Shallow3</td><td class="num"><strong>0.9722</strong></td><td class="num">95.24%</td><td class="num">93.75%</td></tr>
+ <tr><td class="model">CNN_Deep5</td><td class="num">0.9619</td><td class="num">92.06%</td><td class="num">94.31%</td></tr>
+ <tr><td class="model">Hybrid_CNN5_FC</td><td class="num">0.9683</td><td class="num">93.65%</td><td class="num">95.93%</td></tr>
+ </tbody></table><div class="callout">保存済みの単回評価では、AUROCはShallow3、判定後F1はHybridが最高。</div><p class="tiny muted" style="margin-top:12px">F1は最終判定の出力値を採用。閾値探索時のMax F1とは値が異なる。乱数を含む単回評価のため、優劣の確定には反復評価が必要。</p></div>
+ <div class="source">出典：code/260709AUROCを用いた比較評価.ipynb、セル0〜3の保存済み出力（再実行なし）</div><footer class="footer"><span>2026/10/15</span><span>6</span></footer>
+</section>
+<section class="slide" id="slide-7" aria-label="7 回転データ拡張">
+ <header class="heading"><h2>実施したデータ拡張：36度刻みの回転</h2></header>
+ <div class="body"><p>ボトルの形状を踏まえ、背景の白枠を維持する回転拡張を実施。</p>
+ <div class="metric"><div class="metric-box"><div class="eyebrow">元の学習データ</div><span class="value">209<small> 枚</small></span><div class="small">正常画像のみ</div></div><div class="arrow-large">→</div><div class="metric-box after"><div class="eyebrow">オフライン回転拡張後</div><span class="value">2090<small> 枚</small></span><div class="small">1枚につき10方向（0°, 36°, …, 324°）</div></div></div>
+ <div class="cols" style="margin-top:25px"><div><h3>期待した効果</h3><p class="small">正常画像の向きの変化を学習し、正常構造の表現を安定させる。</p></div><div><h3>検証した対象</h3><p class="small">Hybridモデルを拡張データで再学習。<br>テスト画像は回転拡張せず評価する。</p></div></div></div>
+ <div class="source">出典：code/260718画像データの拡張.ipynb、code/260718拡張データによる学習.ipynb</div><footer class="footer"><span>2026/10/15</span><span>7</span></footer>
+</section>
+<section class="slide" id="slide-8" aria-label="8 拡張前後の結果">
+ <header class="heading"><h2>既存結果②：拡張後に検知性能が低下</h2></header>
+ <div class="body"><div class="cols" style="grid-template-columns:1.05fr 1fr;gap:36px"><div>
+ <svg class="chart" viewBox="0 0 540 280" role="img" aria-label="HybridのAUROC。拡張前0.9683、拡張後0.9460。縦軸0から1。"><line x1="70" y1="225" x2="500" y2="225" stroke="#a9a57c"/><line x1="70" y1="25" x2="70" y2="225" stroke="#a9a57c"/><line x1="70" y1="125" x2="500" y2="125" stroke="#e0e1d6"/><line x1="70" y1="25" x2="500" y2="25" stroke="#e0e1d6"/><text x="50" y="232" text-anchor="end" font-size="17">0</text><text x="50" y="132" text-anchor="end" font-size="17">0.5</text><text x="50" y="32" text-anchor="end" font-size="17">1.0</text><rect x="128" y="31.34" width="120" height="193.66" fill="#a9a57c"/><rect x="325" y="35.8" width="120" height="189.2" fill="#9cbebd"/><text x="188" y="18" text-anchor="middle" font-size="24">0.9683</text><text x="385" y="23" text-anchor="middle" font-size="24">0.9460</text><text x="188" y="254" text-anchor="middle" font-size="21">拡張前</text><text x="385" y="254" text-anchor="middle" font-size="21">拡張後</text><text x="285" y="279" text-anchor="middle" font-size="17">HybridモデルのAUROC</text></svg>
+ <p class="small">AUROCの差：<strong>−0.0223</strong><br>異常と正常の分離が改善しなかった。</p></div><div><table class="compact"><thead><tr><th>指標</th><th class="num">拡張前</th><th class="num">拡張後</th></tr></thead><tbody><tr><td>AUROC</td><td class="num">0.9683</td><td class="num">0.9460</td></tr><tr><td>Recall</td><td class="num">93.65%</td><td class="num">88.89%</td></tr><tr><td>判定後F1</td><td class="num">95.93%</td><td class="num">92.56%</td></tr><tr><td>判定閾値</td><td class="num">0.8772</td><td class="num">0.8678</td></tr></tbody></table><p class="tiny muted" style="margin-top:14px">拡張前：7/9評価、拡張後：7/19評価。保存済み出力の比較であり、乱数や学習条件を統制した再実験ではない。</p></div></div>
+ <div class="callout ochre" style="margin-top:14px">確認できたのは「この実験では性能が低下した」という事実。原因は未確定。</div></div>
+ <div class="source">出典：260709AUROCを用いた比較評価.ipynb（セル0）、260719新しいモデルによる検証.ipynb（セル0）</div><footer class="footer"><span>2026/10/15</span><span>8</span></footer>
+</section>
+<section class="slide" id="slide-9" aria-label="9 結果と原因仮説">
+ <header class="heading"><h2>結果から言えることと、検証すべき仮説</h2></header>
+ <div class="body"><div class="cols"><div class="panel teal"><h3>確認済みの結果 <span class="badge">保存済み出力</span></h3><ul class="small"><li>拡張後HybridのAUROC・Recall・F1は、拡張前より低い。</li><li>4モデル比較で、AUROCとF1の順位は一致しない。</li><li>データ拡張だけでは改善を確認できなかった。</li></ul></div><div class="panel"><h3>原因候補 <span class="badge plan">未検証</span></h3><ul class="small"><li>異常も再構成し、SSIM誤差が小さくなった可能性。</li><li>回転時の補間や分布変化が影響した可能性。</li><li>学習・推論の乱数や更新回数の違いによる変動。</li></ul></div></div>
+ <div class="callout">次に必要なのは、見逃し画像の入力・再構成・誤差マップを比較し、原因を切り分けること。</div><p class="tiny muted" style="margin-top:12px">Sparse VAEは改善候補として検討する。導入効果や、上の原因仮説を証明する結果はまだない。</p></div>
+ <div class="source">出典：保存済み評価結果に基づく整理。右欄は本研究で今後検証する仮説。</div><footer class="footer"><span>2026/10/15</span><span>9</span></footer>
+</section>
+<section class="slide" id="slide-10" aria-label="10 実験条件と実装の確認事項">
+ <header class="heading"><h2>整理の中で見つかった確認事項</h2></header>
+ <div class="body"><table class="compact"><thead><tr><th style="width:22%">確認事項</th><th style="width:43%">現状</th><th>次に確認すること</th></tr></thead><tbody>
+ <tr><td>テスト枚数</td><td>memoryは43枚、現在の実データは83枚</td><td>過去の評価対象・分割履歴を特定</td></tr>
+ <tr><td>Top-130の定義</td><td>SSIMマップを平坦化した上位130点</td><td>説明を実装に合わせて整理</td></tr>
+ <tr><td>F1の値の差</td><td>探索時Max F1と判定後F1が一致しない</td><td>PR曲線側と判定側の比較演算子</td></tr>
+ <tr><td>推論の再現性</td><td>評価時にも潜在変数を乱数サンプリング</td><td>乱数固定・反復評価・推論方法</td></tr>
+ <tr><td>評価の独立性</td><td>同じ評価ラベルで閾値探索と性能計算</td><td>閾値選択用と最終テストの分離</td></tr>
+ </tbody></table><p class="small muted" style="margin-top:20px">現コードの最終判定は <span class="model">score &gt; threshold</span>。閾値と等しいスコアの扱いを確認する。<br>本資料ではコードの修正・学習の再実行は行っていない。</p></div>
+ <div class="source">出典：評価ノートブックのコード・出力、memory/memory.md、現在のテストディレクトリの照合</div><footer class="footer"><span>2026/10/15</span><span>10</span></footer>
+</section>
+<section class="slide" id="slide-11" aria-label="11 今週の作業計画">
+ <header class="heading"><h2>今週の方針：振り返りと整理を優先する</h2></header>
+ <div class="body"><div class="cols" style="grid-template-columns:1.2fr 1fr"><div><h3>優先して取り組むこと</h3><ol class="steps"><li><strong>実装の整理</strong><br><span class="small">モデル構成・損失・スコア計算を説明する。</span></li><li><strong>実験結果の整理</strong><br><span class="small">条件・指標・対象データ・見逃し例を対応づける。</span></li><li><strong>次の実験を定義</strong><br><span class="small">原因仮説と、それを確かめる比較条件を決める。</span></li></ol></div><div class="panel teal"><h3>余裕があれば <span class="badge plan">追加目標</span></h3><ul class="small"><li>参照論文の書誌情報と主張を確認</li><li>著者の公式リポジトリを特定</li><li>Sparse VAEの損失・サンプリング処理を読み解く</li><li>既存Hybridへの導入・動作確認に着手</li></ul><div class="rule"></div><p class="small">論文・公式コードの確認結果を踏まえ、実装範囲を決める。</p></div></div></div>
+ <div class="source">出典：2026/10/15の研究方針。Sparse VAEの実装・再現実験は今後の作業。</div><footer class="footer"><span>2026/10/15</span><span>11</span></footer>
+</section>
+<section class="slide" id="slide-12" aria-label="12 まとめと参照資料">
+ <header class="heading"><h2>まとめと参照資料</h2></header>
+ <div class="body"><p class="lead">評価環境は構築済み。今週は、既存結果の条件と根拠を整理し、<br><strong>次の改善実験に進むための比較基準を固める。</strong></p><div class="rule"></div>
+ <div class="cols" style="gap:35px"><div class="refs"><h3 style="font-size:23px">実験・実装の参照元</h3><p><code>code/260709AUROCを用いた比較評価.ipynb</code><br>4モデルの評価・スコア計算・閾値探索</p><p><code>code/260718画像データの拡張.ipynb</code><br><code>code/260718拡張データによる学習.ipynb</code><br><code>code/260719新しいモデルによる検証.ipynb</code></p><p><code>memory/memory.md</code> ／ 現在のテスト画像83枚</p></div><div class="refs"><h3 style="font-size:23px">前回資料・論文候補</h3><p>報告会_20260709.pptx<br>構成・配色・書体・前回方針の参照</p><p><em>Mitigating the reconstruction-detection trade-off in VAE-based unsupervised anomaly detection</em><br><span class="muted">前回資料に記載された論文候補。書誌情報・原文・公式コードは今後確認する。</span></p><p class="muted">数値は保存済み出力の転記。新規学習・再評価および論文内容の再検証は未実施。</p></div></div></div>
+ <footer class="footer"><span>2026/10/15</span><span>12</span></footer>
+</section>
+</main>
+<nav class="toolbar" aria-label="スライド操作"><button type="button" id="prev" aria-label="前のスライド">←</button><output id="counter" aria-live="polite">1 / 12</output><button type="button" id="next" aria-label="次のスライド">→</button><button type="button" id="mode" aria-pressed="false">発表表示</button><button type="button" id="print">印刷 / PDF</button><span class="help">← → 移動 ／ F 発表 ／ Esc 一覧</span></nav>
+<script>
+(()=>{
+ 'use strict';
+ const slides=[...document.querySelectorAll('.slide')], deck=document.querySelector('.deck');
+ const prev=document.getElementById('prev'),next=document.getElementById('next'),mode=document.getElementById('mode'),counter=document.getElementById('counter');
+ let current=0,present=false,raf=0;
+ function fit(){
+  const scale=present?Math.min(innerWidth/1280,innerHeight/720):Math.min(1,Math.max(.1,(innerWidth-24)/1280));
+  deck.style.transform=present?`translate(-50%,-50%) scale(${scale})`:`scale(${scale})`;
+  if(!present){deck.style.marginLeft=`${Math.max(12,(innerWidth-1280*scale)/2)}px`;deck.style.marginRight='0';deck.style.height=`${(slides.length*748-28)*scale}px`;}
+  else{deck.style.marginLeft='0';deck.style.height='720px';}
+ }
+ function update(){slides.forEach((s,i)=>{s.classList.toggle('active',i===current);s.setAttribute('aria-hidden',String(present&&i!==current));});counter.value=`${current+1} / ${slides.length}`;prev.disabled=current===0;next.disabled=current===slides.length-1;}
+ function go(index,scroll=true){current=Math.max(0,Math.min(slides.length-1,index));update();if(scroll&&!present){const r=slides[current].getBoundingClientRect();window.scrollTo({top:window.scrollY+r.top-20,behavior:'instant'});}history.replaceState(null,'',`#slide-${current+1}`);}
+ function toggle(value){present=value;document.body.classList.toggle('present',present);mode.textContent=present?'一覧表示':'発表表示';mode.setAttribute('aria-pressed',String(present));fit();go(current);}
+ prev.addEventListener('click',()=>go(current-1));next.addEventListener('click',()=>go(current+1));mode.addEventListener('click',()=>toggle(!present));document.getElementById('print').addEventListener('click',()=>window.print());
+ document.addEventListener('keydown',event=>{if(event.altKey||event.ctrlKey||event.metaKey||/INPUT|TEXTAREA|SELECT/.test(event.target.tagName))return;const key=event.key;if(['ArrowRight','PageDown','ArrowLeft','PageUp','Home','End','Escape','f','F'].includes(key)||(key===' '&&event.target===document.body)){event.preventDefault();if(key==='ArrowRight'||key==='PageDown'||key===' ')go(current+1);else if(key==='ArrowLeft'||key==='PageUp')go(current-1);else if(key==='Home')go(0);else if(key==='End')go(slides.length-1);else if(key==='Escape')toggle(false);else toggle(!present);}});
+ window.addEventListener('resize',fit);window.addEventListener('scroll',()=>{if(present||raf)return;raf=requestAnimationFrame(()=>{raf=0;const mid=innerHeight*.4;let best=0,distance=Infinity;slides.forEach((s,i)=>{const r=s.getBoundingClientRect(),d=Math.abs(r.top+r.height*.4-mid);if(d<distance){distance=d;best=i;}});current=best;update();});},{passive:true});
+ const match=location.hash.match(/^#slide-(\d+)$/);fit();go(match?Number(match[1])-1:0,Boolean(match));
+ window.addEventListener('afterprint',fit);
+})();
+</script>
+</body>
+</html>
