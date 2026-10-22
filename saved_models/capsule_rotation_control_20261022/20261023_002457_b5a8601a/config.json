@@ -1,0 +1,71 @@
+{
+  "experiment": "capsule_rotation_control_20261022_edge",
+  "run_id": "20261023_002457_b5a8601a",
+  "dataset": "capsule",
+  "seeds": [
+    42
+  ],
+  "epochs": 100,
+  "batch_size": 32,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "latent_dim": 64,
+  "annealing_epochs": 50,
+  "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+  "angles": [
+    0,
+    36,
+    72,
+    108,
+    144,
+    180,
+    216,
+    252,
+    288,
+    324
+  ],
+  "rotation_interpolation": "NEAREST",
+  "rotation_expand": false,
+  "rotation_background": "edge",
+  "padding_formula": "ceil((hypot(width,height)-min(width,height))/2)+4",
+  "edge_pad_width_by_source_size": {
+    "1000x1000": 212
+  },
+  "supported_original_pixels": "preserve original rotate NEAREST values before resizing",
+  "rotation_stage": "full_resolution_before_resize",
+  "rotation_input_size": [
+    1000,
+    1000
+  ],
+  "source_size": [
+    1000,
+    1000
+  ],
+  "center_crop": false,
+  "network_input_size": [
+    128,
+    128
+  ],
+  "preprocessing": "Full image RGB, optional edge rotation at1000, Resize128 LANCZOS, Grayscale, ToTensor",
+  "preprocessing_by_condition": {
+    "A_original": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+    "B_repeat10": "Full RGB -> repeat without rotation -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+    "C_rotate10": "Full RGB -> edge pad -> Rotate NEAREST -> central1000 -> preserve original-supported pixels -> Resize128 LANCZOS -> Grayscale -> ToTensor"
+  },
+  "test_preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+  "training_loss": "sum pixel squared error + beta * sum standard-normal KL",
+  "training_inference": "posterior sampling",
+  "normal_test_inference": "posterior mean",
+  "train_normal_count": 219,
+  "test_normal_count": 23,
+  "device": "cpu",
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "torchvision": "0.27.0",
+    "numpy": "2.4.6",
+    "Pillow": "12.2.0"
+  },
+  "torch_threads": 4,
+  "status": "completed"
+}

@@ -1,0 +1,14 @@
+{
+  "condition": "C_rotate10",
+  "seed": 42,
+  "epochs": 100,
+  "images_per_epoch": 2190,
+  "updates": 6900,
+  "initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+  "sample_order_sha256": "befeb0bda8ac38374d15e51284e2de87af813f92ab8e3d28e3fbbe84efbeff46",
+  "final_train_sse_per_image": 14.131220046788046,
+  "normal_test_sse_per_image": 13.15110645086869,
+  "normal_test_mse_per_pixel": 0.0008026798370891535,
+  "normal_test_inference": "posterior mean, no sampling",
+  "seconds": 2411.295669599989
+}

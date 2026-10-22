@@ -1,0 +1,1321 @@
+{
+  "evaluation_datetime_jst": "2026-10-23T02:00:42.956252+09:00",
+  "training_run_id": "20261023_002457_b5a8601a",
+  "seed": 42,
+  "test_counts": {
+    "good": 23,
+    "crack": 23,
+    "faulty_imprint": 22,
+    "poke": 21,
+    "scratch": 23,
+    "squeeze": 20
+  },
+  "test_manifest_sha256": "b82c309cc1a2898fcb2ddcc2ab5de933bab7cab0b9125ce2e8ccfe97f17c8f80",
+  "inference": "posterior mean; model.eval(); no sampling",
+  "preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor; no rotation or padding",
+  "ssim_window": 11,
+  "top_k": 130,
+  "device": "cpu",
+  "torch_threads": 4,
+  "training_config": {
+    "experiment": "capsule_rotation_control_20261022_edge",
+    "run_id": "20261023_002457_b5a8601a",
+    "dataset": "capsule",
+    "seeds": [
+      42
+    ],
+    "epochs": 100,
+    "batch_size": 32,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "latent_dim": 64,
+    "annealing_epochs": 50,
+    "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+    "angles": [
+      0,
+      36,
+      72,
+      108,
+      144,
+      180,
+      216,
+      252,
+      288,
+      324
+    ],
+    "rotation_interpolation": "NEAREST",
+    "rotation_expand": false,
+    "rotation_background": "edge",
+    "padding_formula": "ceil((hypot(width,height)-min(width,height))/2)+4",
+    "edge_pad_width_by_source_size": {
+      "1000x1000": 212
+    },
+    "supported_original_pixels": "preserve original rotate NEAREST values before resizing",
+    "rotation_stage": "full_resolution_before_resize",
+    "rotation_input_size": [
+      1000,
+      1000
+    ],
+    "source_size": [
+      1000,
+      1000
+    ],
+    "center_crop": false,
+    "network_input_size": [
+      128,
+      128
+    ],
+    "preprocessing": "Full image RGB, optional edge rotation at1000, Resize128 LANCZOS, Grayscale, ToTensor",
+    "preprocessing_by_condition": {
+      "A_original": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+      "B_repeat10": "Full RGB -> repeat without rotation -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+      "C_rotate10": "Full RGB -> edge pad -> Rotate NEAREST -> central1000 -> preserve original-supported pixels -> Resize128 LANCZOS -> Grayscale -> ToTensor"
+    },
+    "test_preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+    "training_loss": "sum pixel squared error + beta * sum standard-normal KL",
+    "training_inference": "posterior sampling",
+    "normal_test_inference": "posterior mean",
+    "train_normal_count": 219,
+    "test_normal_count": 23,
+    "device": "cpu",
+    "python": "3.13.14",
+    "versions": {
+      "torch": "2.12.0",
+      "torchvision": "0.27.0",
+      "numpy": "2.4.6",
+      "Pillow": "12.2.0"
+    },
+    "torch_threads": 4,
+    "status": "completed"
+  },
+  "metrics": [
+    {
+      "condition": "A_original",
+      "seed": 42,
+      "auroc": 0.6110889509373753,
+      "normal_test_sse_per_image": 6.748959292536196,
+      "normal_test_mse_per_pixel": 0.0004119237849448362,
+      "final_train_sse_per_image": 5.922872395275935,
+      "updates": 700,
+      "model_sha256": "24a0c832b589f01afb234918d67b1462117021b10d5fa542e5bd515f2ccd2843"
+    },
+    {
+      "condition": "B_repeat10",
+      "seed": 42,
+      "auroc": 0.6170721978460312,
+      "normal_test_sse_per_image": 5.4377539261527685,
+      "normal_test_mse_per_pixel": 0.0003318941605317852,
+      "final_train_sse_per_image": 5.19468675726625,
+      "updates": 6900,
+      "model_sha256": "081712c33715e23684a02778333da5763e32522b395c6bb69336048c7edb6639"
+    },
+    {
+      "condition": "C_rotate10",
+      "seed": 42,
+      "auroc": 0.6090945353011568,
+      "normal_test_sse_per_image": 13.151107062464176,
+      "normal_test_mse_per_pixel": 0.0008026798744179795,
+      "final_train_sse_per_image": 14.131220046788046,
+      "updates": 6900,
+      "model_sha256": "6707a970a49d7d16c6d2d05df5288cdac3483783624ed31e597fe6c8312f8c34"
+    }
+  ],
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "torchvision": "0.27.0",
+    "numpy": "2.4.6",
+    "scikit-image": "0.26.0",
+    "Pillow": "12.2.0"
+  },
+  "test_manifest": [
+    {
+      "relative_path": "crack/000.png",
+      "repo_path": "data/capsule/test/crack/000.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "6462a533da731a19e4df05fc1815719b94603aee341a2ac620add75ec2334ef4",
+      "preprocessed_sha256": "b4ac5fd45ce9f10b5b39fac4b64b1e99c894f34058a23b267285263f36d9f84f"
+    },
+    {
+      "relative_path": "crack/001.png",
+      "repo_path": "data/capsule/test/crack/001.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "dd07c258e465acf0dc3770da851f3671fb4721df60bc460e053a95b9b21acccb",
+      "preprocessed_sha256": "b2e5b422a83c440dfb730067621bc104108d73b4b7f49f01421b4334da59833d"
+    },
+    {
+      "relative_path": "crack/002.png",
+      "repo_path": "data/capsule/test/crack/002.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "d7ff9e57c30e59fb1d5ec8885de04b14e6ebb20321e7a68398389dc7e28f2e2e",
+      "preprocessed_sha256": "658d1e63d0df6cb56ea8eb9f742a12c17b3bc0f8ac01116f676799948260320b"
+    },
+    {
+      "relative_path": "crack/003.png",
+      "repo_path": "data/capsule/test/crack/003.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "c53205f6aba7f10cf1302155ec173c4b5fc04a85cec9d5cf32bb464443f8bab3",
+      "preprocessed_sha256": "dddd648c6ee956a3b0b32792d037de71ecb50cdda1341d7979e5353cd2975f81"
+    },
+    {
+      "relative_path": "crack/004.png",
+      "repo_path": "data/capsule/test/crack/004.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "5f9a15491b9b942276e72deeaf4f89a5fe9be28a797177eaf6e09cceaed83cce",
+      "preprocessed_sha256": "50c536980b89286909373a0d2497eaaea1d63f2cae9d9a45a2c2060092996dc4"
+    },
+    {
+      "relative_path": "crack/005.png",
+      "repo_path": "data/capsule/test/crack/005.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "0b4b50fbd5d7a91d41ca2b30ecafc34a2877f3543456f3b9c0fafadc075fa9a7",
+      "preprocessed_sha256": "7eb27e94cc482f95781d94e3a44028907d006c3aadd7a83966abb65f2487f3c7"
+    },
+    {
+      "relative_path": "crack/006.png",
+      "repo_path": "data/capsule/test/crack/006.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "d63295f7073046911ab3d84d5d38ca12adbb0de33951a05d03578da9e0163904",
+      "preprocessed_sha256": "495175630845733ce831b9e4da8c0ffd64b5d494dabdac30204b1abb7bcd977e"
+    },
+    {
+      "relative_path": "crack/007.png",
+      "repo_path": "data/capsule/test/crack/007.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "de3bf8155e2b6e153688ef71bbb5bdcc0f390e20e48dd60aa36cedad5b37717d",
+      "preprocessed_sha256": "08b60a8d0b7d56a09642bb46d569798a776eadd3604d74eb4344110272f2ecbe"
+    },
+    {
+      "relative_path": "crack/008.png",
+      "repo_path": "data/capsule/test/crack/008.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "b53477da88bffb2f380a5616b50020f98db5fc1040ff26bbe3d5e25490f5e2e1",
+      "preprocessed_sha256": "6b069ef044ce73c4eaacc45b86bc854e24cccd7f68154444ac59d356730c8af0"
+    },
+    {
+      "relative_path": "crack/009.png",
+      "repo_path": "data/capsule/test/crack/009.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "782833236292a0ea278d42fd87265dae63be3aed5f8649e76dfa95a5616fd755",
+      "preprocessed_sha256": "5372e3ca70946be9243bfa4a11fd7e2eadee1159d16ad3691dab98e7e836faa0"
+    },
+    {
+      "relative_path": "crack/010.png",
+      "repo_path": "data/capsule/test/crack/010.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "e6b6bf744e2d563ce02319699a30fa25e2a23dae26fd09901b9f3c3cf74cdce6",
+      "preprocessed_sha256": "67e8a79a9e1ebad48915f351f41de698434886de63d8464f88c6363160042fea"
+    },
+    {
+      "relative_path": "crack/011.png",
+      "repo_path": "data/capsule/test/crack/011.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "f414406fd3a64283e0540349e11a2a1f7f6e705a9c1e50fd649c372562832e7f",
+      "preprocessed_sha256": "0439d6577a9bd72f714725ff3e38865a5ac202dab4208a6924767b894d8ed09b"
+    },
+    {
+      "relative_path": "crack/012.png",
+      "repo_path": "data/capsule/test/crack/012.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "51da9479d5dfc761473cb55b2bcfd0a9cc9d29137e97602ce5d82f814a840e60",
+      "preprocessed_sha256": "6484b16adff787f5a2522b439b9eabc543b405096c8a7f7a6a754c7a8ee36140"
+    },
+    {
+      "relative_path": "crack/013.png",
+      "repo_path": "data/capsule/test/crack/013.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "dcbb91269aa12ab84a1bb098db2e10327caa3d685a81559fc26e63edb91b7066",
+      "preprocessed_sha256": "050430bd9a5832f203c3c8402cd233ab0178fbbfa3de6dcd5719127081aa6323"
+    },
+    {
+      "relative_path": "crack/014.png",
+      "repo_path": "data/capsule/test/crack/014.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "7bc31f4c4acf1d0878d55b62742f5933afeabb41e0509840fc864cc2dbef339c",
+      "preprocessed_sha256": "9b1050ad83f4a93a4710b7e7cfe15afc199811edf9868794dd122082b942bef6"
+    },
+    {
+      "relative_path": "crack/015.png",
+      "repo_path": "data/capsule/test/crack/015.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "ed0ebdbea5764d2031057aedbd4e0152cfbbc250d222fb40acf58d0c3f13be91",
+      "preprocessed_sha256": "31d470a1a88cb22508df02c3b7c46c0ef8a782f4bafe5ea03470ab8a20818375"
+    },
+    {
+      "relative_path": "crack/016.png",
+      "repo_path": "data/capsule/test/crack/016.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "d79566142ee85520ae5db0a443b3643aed87152c9a5bf6dbd42cb7f2c119a770",
+      "preprocessed_sha256": "34dfd537ef4c36cd79fc0139588a067f5bb8cd0905c6e5e5b5f5a329359120f0"
+    },
+    {
+      "relative_path": "crack/017.png",
+      "repo_path": "data/capsule/test/crack/017.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "6bb618afda23bd841859c2a4f9b6878ef37ff783299789725662a370d56fc99d",
+      "preprocessed_sha256": "eaecf892a3892f907ba4b5ae1ded8de1105905f5533d4f6d8c163b5e8f4b57e5"
+    },
+    {
+      "relative_path": "crack/018.png",
+      "repo_path": "data/capsule/test/crack/018.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "1e4e8416bf13c74855eddc1a9e58c7595f9602838a2732ed0b167695b2253182",
+      "preprocessed_sha256": "5f7a8f0dde8e0839b5a596fd85ad17f3fb0bd2368fc621673cbfe9d53dd3e311"
+    },
+    {
+      "relative_path": "crack/019.png",
+      "repo_path": "data/capsule/test/crack/019.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "ec586c61c746b65bbec897e4c006d3f7a7d6b87f5e13c0c5b7326518d8e25f22",
+      "preprocessed_sha256": "08f58c6c3015c15ff4bb60762ed1b50f446d7a14ad40bc1a6ee94bf1ccae58a4"
+    },
+    {
+      "relative_path": "crack/020.png",
+      "repo_path": "data/capsule/test/crack/020.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "4b9ce648bbfb22d9c0eee48eb5aaafa070810978a0015e24b90bfcfd4fca1e88",
+      "preprocessed_sha256": "b44bb79cbf653da49711480e8e6d737b223344950ec36e50c722cc9344265dd3"
+    },
+    {
+      "relative_path": "crack/021.png",
+      "repo_path": "data/capsule/test/crack/021.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "d3e8b402bd2df1af7835e7ea3bb387d9d004cc877fea345025583970751a9558",
+      "preprocessed_sha256": "9ce328de63c6cae3fc5b10779cb4dcfdea232b2a7ccbe535976788b4debc5041"
+    },
+    {
+      "relative_path": "crack/022.png",
+      "repo_path": "data/capsule/test/crack/022.png",
+      "category": "crack",
+      "category_ja": "亀裂",
+      "true_label": 1,
+      "file_sha256": "75f1a25009977e45a5127951d3853eae5c0d44751dddf0a9765710915ba37572",
+      "preprocessed_sha256": "34c8f1b87e0eb0f83aa04f8c1f9223b83b95e4af186d85de15471d5c6cced99a"
+    },
+    {
+      "relative_path": "faulty_imprint/000.png",
+      "repo_path": "data/capsule/test/faulty_imprint/000.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "e43e63a51d649a3fb162ed6dfc4fffe7e4903c1eb647d0702f63dfebb413d819",
+      "preprocessed_sha256": "3f1567172f39ec76d942416100cb7ca27390270edfd509337183da8c82f8f7e5"
+    },
+    {
+      "relative_path": "faulty_imprint/001.png",
+      "repo_path": "data/capsule/test/faulty_imprint/001.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "f38f91331210d596aee8e37a91d46213ef10fe5109c34c902cce30b095a22bdf",
+      "preprocessed_sha256": "3da0a900d8883bddf55bbaed235b211979f2f65c223d69e76dec0d3155bca606"
+    },
+    {
+      "relative_path": "faulty_imprint/002.png",
+      "repo_path": "data/capsule/test/faulty_imprint/002.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "82263975ce6bf195ba9a5faeed506769c5827562b18313245cd3118e0a9ab506",
+      "preprocessed_sha256": "115955dabe905dfc2f9758734111326bdd0e905935becf9b5dcfe20b09322cfc"
+    },
+    {
+      "relative_path": "faulty_imprint/003.png",
+      "repo_path": "data/capsule/test/faulty_imprint/003.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "07685635e898f3ed4e7ffc8c67cac6f683e43c9988af19b14e4da4ae3c36fd55",
+      "preprocessed_sha256": "62294494bab3b9642c13f387974392dff6c031bf7a65cf33c06f0353a71be6a1"
+    },
+    {
+      "relative_path": "faulty_imprint/004.png",
+      "repo_path": "data/capsule/test/faulty_imprint/004.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "fdc302644d72f7db32e66a26ce3b9d44a66a6186d3530e50e7b1de4717b6a0cc",
+      "preprocessed_sha256": "8df3dee65aaf09cfa3326077b96d489cbe4c982d78acc18424b3fb1b3d7af402"
+    },
+    {
+      "relative_path": "faulty_imprint/005.png",
+      "repo_path": "data/capsule/test/faulty_imprint/005.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "bc0930333583307b875b43e883e6940a67ec4da5620d87a920c698597614195c",
+      "preprocessed_sha256": "14a6ffed47b4c682790b9ec2b4419b622963d7047b6686ee663d88c7fc4588b4"
+    },
+    {
+      "relative_path": "faulty_imprint/006.png",
+      "repo_path": "data/capsule/test/faulty_imprint/006.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "547857a4d9cc535fedabc276502b0f9cd083ea1f01640d50cbc8d7141d0217dc",
+      "preprocessed_sha256": "12f2a9f21c52db6cbc4693c79b89e1a4b0f5f2f75d46d2129b7ef295c36d4f8a"
+    },
+    {
+      "relative_path": "faulty_imprint/007.png",
+      "repo_path": "data/capsule/test/faulty_imprint/007.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "543152859956436afc3587eb2d3d7a956deb2436c9ece9b6c629904050a87f2f",
+      "preprocessed_sha256": "946b3d993e5d92e21c5c9d0778d7388b372e2bbc090d38c0efb46dc7b9d426e5"
+    },
+    {
+      "relative_path": "faulty_imprint/008.png",
+      "repo_path": "data/capsule/test/faulty_imprint/008.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "cb489a83e577bbff57c61a0d1733b495bd728f0b7ca265eac6fa04cb6252e66a",
+      "preprocessed_sha256": "98ec04f227990a19ef6b51fe1e2018acbadcd7b485151fac882a7a12e6eeea0b"
+    },
+    {
+      "relative_path": "faulty_imprint/009.png",
+      "repo_path": "data/capsule/test/faulty_imprint/009.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "88f6285eea87cbdb784d3c9a4118d2f3c381b219364c62f113c9912d820be8b3",
+      "preprocessed_sha256": "8fcb61e922cad9ec8ae2aa8a4e95d862a3a9d28946d0ab6dd33b7a61bac1bb20"
+    },
+    {
+      "relative_path": "faulty_imprint/010.png",
+      "repo_path": "data/capsule/test/faulty_imprint/010.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "80f1a72c37815bae5d0733c6e6586293cd8283f58cc662104297f3a7917ca908",
+      "preprocessed_sha256": "88a83056896be37026f3cdc391675a07078aa1c274a158834beadfc3321d6aa1"
+    },
+    {
+      "relative_path": "faulty_imprint/011.png",
+      "repo_path": "data/capsule/test/faulty_imprint/011.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "119dff7b931cb8738bb76f2d409ff2472c4f301f22895a0effbd6dc55c38f4d5",
+      "preprocessed_sha256": "43498e660907ba7aca5f82d04379cb13d3cc9daee13695fbdd1a78753cd83dfd"
+    },
+    {
+      "relative_path": "faulty_imprint/012.png",
+      "repo_path": "data/capsule/test/faulty_imprint/012.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "163c7e218ba779b31f49768b33e1a54e1da66327a7088745241714582511161e",
+      "preprocessed_sha256": "e08326d88bbbcb87f47652946821156c460f2133f6aa12a1ef5ff1c8f3426b3f"
+    },
+    {
+      "relative_path": "faulty_imprint/013.png",
+      "repo_path": "data/capsule/test/faulty_imprint/013.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "a7871a5a0de1974ccdc0ec53e2bddf7e1291fcb4573cc5466e0608b76f88713d",
+      "preprocessed_sha256": "9e2b73c83dd571a21e1e5a5ffbba2305f87eeccdad62cbb39e9ccab625b6dbfe"
+    },
+    {
+      "relative_path": "faulty_imprint/014.png",
+      "repo_path": "data/capsule/test/faulty_imprint/014.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "8594fdb86e2720d7177ec117ecbc1a7a3db5af38b92d67b9dfd8e5cb54938b4e",
+      "preprocessed_sha256": "761de5c60fc982937c69f0a9d810f1f310123fbb54a3cd85cb4e363a6031c5d5"
+    },
+    {
+      "relative_path": "faulty_imprint/015.png",
+      "repo_path": "data/capsule/test/faulty_imprint/015.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "8e72426f391e3fa629fd1a758d381b117867a2b8da02d6486b742c15f3bd18eb",
+      "preprocessed_sha256": "013785a8370e210d7b02a9c11371d0b36be199375f84d430302516626b73e109"
+    },
+    {
+      "relative_path": "faulty_imprint/016.png",
+      "repo_path": "data/capsule/test/faulty_imprint/016.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "71eadf823708eb4d51088ba8f95f9aae5e763b4f2540886eaaa65aa575cef163",
+      "preprocessed_sha256": "176751bf1c7dcbb0ae3e27fd876405700ce0b2b70d13710dc5a6925555d0ea2f"
+    },
+    {
+      "relative_path": "faulty_imprint/017.png",
+      "repo_path": "data/capsule/test/faulty_imprint/017.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "4e1d9bc962cf9ea39e2c102afb6d606ecec986fc693e18be9d3ef7f47b9d8439",
+      "preprocessed_sha256": "1f98cdbb092dfc99e4b7ae369738ce3007f202d934cc9704daec4a50a13946b1"
+    },
+    {
+      "relative_path": "faulty_imprint/018.png",
+      "repo_path": "data/capsule/test/faulty_imprint/018.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "c1a9cb94bbadbc38e9dbcbb7fe723574db7b5331167e72a4c577c9c4f235bcdf",
+      "preprocessed_sha256": "fd5f49aba4710af349bcbd02e7f04f7475ef985336bc3a2ea9d9cd4c3d4f5d09"
+    },
+    {
+      "relative_path": "faulty_imprint/019.png",
+      "repo_path": "data/capsule/test/faulty_imprint/019.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "bb51dd955baf0700a94b8eeca32816ea8365bfdfdcdc332f569a91592014c919",
+      "preprocessed_sha256": "30037bc777488c3f96e0662356ff9264019fc3aecd26ffd23e56c98826a8b37b"
+    },
+    {
+      "relative_path": "faulty_imprint/020.png",
+      "repo_path": "data/capsule/test/faulty_imprint/020.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "080e2c2c0141764e6d85402f28b08f75ebd452f8deb5535a9917b0d13ff96ed9",
+      "preprocessed_sha256": "7ad6e4d0a3baea44fb734dd5139fec380e1ba1fc6c31a8dae4f8439de6ed9fbe"
+    },
+    {
+      "relative_path": "faulty_imprint/021.png",
+      "repo_path": "data/capsule/test/faulty_imprint/021.png",
+      "category": "faulty_imprint",
+      "category_ja": "印字不良",
+      "true_label": 1,
+      "file_sha256": "154bc60aeb74906946b1aba1a41ee49f21a7146dd28937cb2c341eb58dfef8e7",
+      "preprocessed_sha256": "135608e272e211de98aeab31aadabd69aef81e14c05a72399534b0a28064879a"
+    },
+    {
+      "relative_path": "good/000.png",
+      "repo_path": "data/capsule/test/good/000.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "86366d544a0182b04fdeacb62c9b23af8c72af24d35eaafeb8c210f603174728",
+      "preprocessed_sha256": "c76f79bc8509e0b77918760558e99a6c3078b491c4ddfc2b9e440d778cf6267d"
+    },
+    {
+      "relative_path": "good/001.png",
+      "repo_path": "data/capsule/test/good/001.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "329429f109ca9750ed6accb74c719f9257bee603fbfcd91017932b06dfa21ef3",
+      "preprocessed_sha256": "ded1f9522b298ad3a1374f188df3d3a8880f03b0ee7deb5b916faec6859cbacc"
+    },
+    {
+      "relative_path": "good/002.png",
+      "repo_path": "data/capsule/test/good/002.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "ae639724afbb0cd1f6c8fa9fc25518a12c05856ec755346d3f328dff0d096072",
+      "preprocessed_sha256": "021ad466797183c225196a93a2ae014a836ae4d96d68f6bc2aa77a2aaed0588a"
+    },
+    {
+      "relative_path": "good/003.png",
+      "repo_path": "data/capsule/test/good/003.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "04ba8c639ea47eead9e9e19e439aff38eafb735efd49e35f6f84f05791d3cd02",
+      "preprocessed_sha256": "6bdc5e3c222b15fe4e516dff0003d6c5aca02bd7872edae610330be8851fafdb"
+    },
+    {
+      "relative_path": "good/004.png",
+      "repo_path": "data/capsule/test/good/004.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "f0ed2675bd817654bea97f73fd60ed1128b576124b5e183abd806eef1c9430bf",
+      "preprocessed_sha256": "c81b037e51272929c26b3bc554be7f4f2d8544be0a03a8047fec34aaa4f66f75"
+    },
+    {
+      "relative_path": "good/005.png",
+      "repo_path": "data/capsule/test/good/005.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "10b27fd42d8fb15049a3c3a1654dfd2a271657cb339643e7b6878d06212338cf",
+      "preprocessed_sha256": "61b09a4d6e24ca3755fe1a5e2d7390e124b48cd7ad64e8bc99e633a25fbbb6b1"
+    },
+    {
+      "relative_path": "good/006.png",
+      "repo_path": "data/capsule/test/good/006.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "68eecb14ce7aeca6f1db41ce4a3e1d47c9e40221e2e2b5eee74b1333469828a5",
+      "preprocessed_sha256": "f30b525af87384f646fe037a5c969e0ccb6be4f46f897063fb224f077837c3aa"
+    },
+    {
+      "relative_path": "good/007.png",
+      "repo_path": "data/capsule/test/good/007.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "a1ead780817351c8eab7c1a8e3bb8578bad97b2c94ad6b0eae126b0bd18e3cd7",
+      "preprocessed_sha256": "8b25dd18ae509e2d7efc841aed6eeec0203c01be4ce8bd4087262c0e52652838"
+    },
+    {
+      "relative_path": "good/008.png",
+      "repo_path": "data/capsule/test/good/008.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "85840f30a41dd16c28973a43c2b25a38da5114b4d60e5966595af6c490fef44d",
+      "preprocessed_sha256": "328f5992516e8b4ec1ced07e4adecdeb53d21de0904ca0954b0fdf902bc6a5e8"
+    },
+    {
+      "relative_path": "good/009.png",
+      "repo_path": "data/capsule/test/good/009.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "90f188a440702eeaf5da17c8dca5c72296fb34ce49993dc802585ce3a7d14eae",
+      "preprocessed_sha256": "f84977e8bf9c8058ac4794d8984296771467351f90dde34ebc4d124ab5aa7d88"
+    },
+    {
+      "relative_path": "good/010.png",
+      "repo_path": "data/capsule/test/good/010.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "3e1d45837e483b3a95a66aabd9c19947691f14fd54b020723f42fad08a62c922",
+      "preprocessed_sha256": "47f9bf066f07cfe9334a65e16c04d9c9c6fdc6543e49258d82542f96ef71a0b1"
+    },
+    {
+      "relative_path": "good/011.png",
+      "repo_path": "data/capsule/test/good/011.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "f4d1ddcfc0389391a704e4f4c9ab71457195d844a2e7d4b7f2c0692898d0d227",
+      "preprocessed_sha256": "429ba51db754c27c91f1d7e8551cceb14c194fe5a848c2e9a4f560fdb9f7983e"
+    },
+    {
+      "relative_path": "good/012.png",
+      "repo_path": "data/capsule/test/good/012.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "3e2dc3cb88d1d937c41e5a0cc317f253eb89a369b03fd5b77f904857a6e802fd",
+      "preprocessed_sha256": "56f4d7f57c7de1cbbffd543e3f0530e7ea7379ccfadaceec66db413c3cd5c947"
+    },
+    {
+      "relative_path": "good/013.png",
+      "repo_path": "data/capsule/test/good/013.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "2934c67a6c46d6a8ede27f506ea989b30bdaca87d700548fc2bac5b00a6ce596",
+      "preprocessed_sha256": "210d5f56c44ff1aceca96dfaa073d73dd56b463ac9ed805b176a0a839507341d"
+    },
+    {
+      "relative_path": "good/014.png",
+      "repo_path": "data/capsule/test/good/014.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "4f0f1a2180cea8d3c1d77a6c27535553c2d6b9d069bf5904205f2990050665cc",
+      "preprocessed_sha256": "711871f426d949c4acc8d85eb4fa68033e82bcb86537b41287ea5d7135dba37f"
+    },
+    {
+      "relative_path": "good/015.png",
+      "repo_path": "data/capsule/test/good/015.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "73f9292911fe95711bec4fcb425d3bee1c98cd7644c85060cc07128a4a4503da",
+      "preprocessed_sha256": "b1962d8f559eb3a08c20fb032fb3e35959982c6cfafae18e23191b4ae67cd573"
+    },
+    {
+      "relative_path": "good/016.png",
+      "repo_path": "data/capsule/test/good/016.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "9308c98dc2b02a4ef41facc17f016b7a2badddf085945cee047bc724db1b7cee",
+      "preprocessed_sha256": "98d67203fdbe682a4d6a9915391976d71ab0102890f43a63f424d02d32d8b6ef"
+    },
+    {
+      "relative_path": "good/017.png",
+      "repo_path": "data/capsule/test/good/017.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "210099387bd7d4e3812bfddc1071e60dc9b532ed7feb21487c88ad6b1e3e7e93",
+      "preprocessed_sha256": "3f65a520d8d9e874976be67ad2f485becd7244b6a2adcbdfc801d16a5e900a1a"
+    },
+    {
+      "relative_path": "good/018.png",
+      "repo_path": "data/capsule/test/good/018.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "d049beb23eae822a019c2bf52a260196a2747ea921262306529ac23ded549fb4",
+      "preprocessed_sha256": "6dbd2c251be6ae3bcd1d9a52e7cca078510627ad8ff944cf0b805e40d127e79b"
+    },
+    {
+      "relative_path": "good/019.png",
+      "repo_path": "data/capsule/test/good/019.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "776cd10c653f7a3db4b4a60989644e406dd891d018ac53bf163d1d79cde7cf74",
+      "preprocessed_sha256": "cdaa87c2fc064f8795b5db76a4641d0e1eb09c4a1c65f975c338a4d5212eff91"
+    },
+    {
+      "relative_path": "good/020.png",
+      "repo_path": "data/capsule/test/good/020.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "245a48284fa594533271fd723a55e8d05fbc7c8c514fd5d355eec6f8ff2e9e92",
+      "preprocessed_sha256": "5ed0abb7c415dda46f5522b3046f2b829f7b7a171b4572a4861904d729735103"
+    },
+    {
+      "relative_path": "good/021.png",
+      "repo_path": "data/capsule/test/good/021.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "0fabdfb2dabccf3b013229260e9ebddf945449879d1d802b315b17465628b145",
+      "preprocessed_sha256": "2e95e81315c7170dea7a4a27a3d97db3bcd61bcd6af409f7a9d904eef3ce07a8"
+    },
+    {
+      "relative_path": "good/022.png",
+      "repo_path": "data/capsule/test/good/022.png",
+      "category": "good",
+      "category_ja": "正常",
+      "true_label": 0,
+      "file_sha256": "23dd64f41289b176284ed71e86025ad347d7e242772df0dac61eda0244ce9b8c",
+      "preprocessed_sha256": "1901931b540836b88486d1e234718cd0fb4dadcf8c60dbb3b6db2b1e58005aa1"
+    },
+    {
+      "relative_path": "poke/000.png",
+      "repo_path": "data/capsule/test/poke/000.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "17250f77c17c15f653c9924933e192a4e96647ed91eceb5935156bf819629be1",
+      "preprocessed_sha256": "a2ccbbc6d753166cafc438ce8bf8b0246ed00cd1be343d7e0e14b3c7bf038ad4"
+    },
+    {
+      "relative_path": "poke/001.png",
+      "repo_path": "data/capsule/test/poke/001.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "3ced8e481d7d7cc07f5f885dc7db4b5e10e3017ad193f33194f3856975d2f5b6",
+      "preprocessed_sha256": "359ab5fe2abbfe2598201b6a29533f8b97a43fe1bcd245fdb8b2cd7c2b691528"
+    },
+    {
+      "relative_path": "poke/002.png",
+      "repo_path": "data/capsule/test/poke/002.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "03a69b4967602ff7e8070a90c71b872bde0703df4195fbfd1fb675ce04b37f12",
+      "preprocessed_sha256": "5337b18a389c795f8de256c51593781a476d235d1c9685a581b0384fe89506a3"
+    },
+    {
+      "relative_path": "poke/003.png",
+      "repo_path": "data/capsule/test/poke/003.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "865fe5dd2f4ea60b3c2a43ae8a6b5142eb6195bf15b6284e30ae31aee09f3836",
+      "preprocessed_sha256": "3f34354d9104c5cb0ec821cc928c30df66ed51d15eb43a088556434f6dbd3a64"
+    },
+    {
+      "relative_path": "poke/004.png",
+      "repo_path": "data/capsule/test/poke/004.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "a7a8ca3ca91328131b21b885486b611483c8df41eb4ff0931fccd2df1cb99724",
+      "preprocessed_sha256": "31c44507f5e0906e7dfcf0b51ec00f7ee0df442f444ae93112e2e5596ec17448"
+    },
+    {
+      "relative_path": "poke/005.png",
+      "repo_path": "data/capsule/test/poke/005.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "6274475577cc2ef066fcd79f01048a7229ba212fa3c529e6445f0cc2258063df",
+      "preprocessed_sha256": "d2ebfa33d1896fde2ba1865d805d170b365a7ee963b9b8bb02727516044890fc"
+    },
+    {
+      "relative_path": "poke/006.png",
+      "repo_path": "data/capsule/test/poke/006.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "30dc259e94f5caeccc4612e43681c4f7f886e4180d132bdf6ac9fbba9bb38c97",
+      "preprocessed_sha256": "b372e401c2cb465dd9d556ad4c3cfa43cb4215bf636942817a3ea1a091997774"
+    },
+    {
+      "relative_path": "poke/007.png",
+      "repo_path": "data/capsule/test/poke/007.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "7108497f69c6e388ec6b3626179dfa59c671dcb33307406136ee818de23eed94",
+      "preprocessed_sha256": "c68f4b9798174dc73b22d025b69fbf9ce1c16072c7e145d8aed5f3cad25bdca0"
+    },
+    {
+      "relative_path": "poke/008.png",
+      "repo_path": "data/capsule/test/poke/008.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "a4b4bc791f7a92dbc5c4561eb9c3367a833c57583e927d27c347f5b0549bac7f",
+      "preprocessed_sha256": "a8d8945ab047a5cab1f2e88217dceb05d61504d9b05dcf6de90686f0c82e1dff"
+    },
+    {
+      "relative_path": "poke/009.png",
+      "repo_path": "data/capsule/test/poke/009.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "797b1a12f6a2540ec5c66a24dccca383eb889459d526931ff684371524dd6bab",
+      "preprocessed_sha256": "4de3841262e8f8bea185932e7322dbf3c4de13b870264da50c7202bcd1cd1402"
+    },
+    {
+      "relative_path": "poke/010.png",
+      "repo_path": "data/capsule/test/poke/010.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "a233644e417b9589d1043afa8e3656610cdf2e878b557915c1bbf95285b5a1e1",
+      "preprocessed_sha256": "2d884215c57b2f300a42975bf5f29b0871ab4918c47eb9fc45c50cb552174c96"
+    },
+    {
+      "relative_path": "poke/011.png",
+      "repo_path": "data/capsule/test/poke/011.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "9387d05db7611210021c2bc1f4d8be5d65a6844bcc6e8c8fa437b345ae703693",
+      "preprocessed_sha256": "da2586254e3a237c1a8e4f001641c6424845105cfc530f8a05dfcddcf500b404"
+    },
+    {
+      "relative_path": "poke/012.png",
+      "repo_path": "data/capsule/test/poke/012.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "e39b8b40ca516ceb5ce03ed8b77fda4634ed5c98b29f3939769dd50edb3f66d3",
+      "preprocessed_sha256": "24a78c88e99573f5217da609dfe654e683bd28ad483d74ea3e6920567eb9203a"
+    },
+    {
+      "relative_path": "poke/013.png",
+      "repo_path": "data/capsule/test/poke/013.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "fe07e95a22d0c76f11d9d8b9ddf1b6fd57ae4d81673d74bd6cac16f6de86900b",
+      "preprocessed_sha256": "4b5edfea39adf744683c953f9b449f79b98711a9fa5f472b59f80f91593d8df6"
+    },
+    {
+      "relative_path": "poke/014.png",
+      "repo_path": "data/capsule/test/poke/014.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "437fd4ab34aa452b9740d7f709c81b01e3afbb4df5d3906e15cfebdca1a58897",
+      "preprocessed_sha256": "6eaa6554cfe7d18c33cdbd71d4f46e92b3f96b5e6f136cf69c55751b7cb7c22f"
+    },
+    {
+      "relative_path": "poke/015.png",
+      "repo_path": "data/capsule/test/poke/015.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "39f343cff6f44a9c15dee56ed6695f4eb811273eb6f35115189b1b14dda8be9c",
+      "preprocessed_sha256": "0b28df792bcffe69bc2ef715602b23e627fbf78f86dee52670165eed9b5bece2"
+    },
+    {
+      "relative_path": "poke/016.png",
+      "repo_path": "data/capsule/test/poke/016.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "612810f76fdcf9b6b26e86e4978de50949fd18bb787f41084120a337e6db69c5",
+      "preprocessed_sha256": "a1376a16ed57b1d305813e3cfd7929b21dbfb84a670ebff8dd95f18b542618ec"
+    },
+    {
+      "relative_path": "poke/017.png",
+      "repo_path": "data/capsule/test/poke/017.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "6aa71a125ac0f802b6d8c6900ffdb66223edbba0cd1ac02cb340d7f1f64b9119",
+      "preprocessed_sha256": "38ba1c7feec918bf38f5ef34ff6147f376fadfd3ef2de4ddb713e7dd7935f2f8"
+    },
+    {
+      "relative_path": "poke/018.png",
+      "repo_path": "data/capsule/test/poke/018.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "3a8b1bb45cf4bef0f0df199d4c3483d7f51dd0b1ad9bc28d6aa9824f4405619d",
+      "preprocessed_sha256": "0dad2f7d6eeaac120dab4f315b682c25d7d3e00a608b6446621ac3aa99aa294c"
+    },
+    {
+      "relative_path": "poke/019.png",
+      "repo_path": "data/capsule/test/poke/019.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "41906b8812ea9016906882a5a9bb0b9aa6629670e792de6a2112b8672cdb4d55",
+      "preprocessed_sha256": "dfa41c593eb0c1cecddefe92754d857d4e0c852dfd5407924c057d0a24b42ee9"
+    },
+    {
+      "relative_path": "poke/020.png",
+      "repo_path": "data/capsule/test/poke/020.png",
+      "category": "poke",
+      "category_ja": "穴・突き傷",
+      "true_label": 1,
+      "file_sha256": "01e3fe444e2924034b2cca2cd36cbb8961cfc7b2c1810b749bb2d147649b382b",
+      "preprocessed_sha256": "be889d14ad3b8bbb840337bc5ab57e05c634024fa3e7e3c100ba0cec4bb252c6"
+    },
+    {
+      "relative_path": "scratch/000.png",
+      "repo_path": "data/capsule/test/scratch/000.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "f2affe78c2d06202819520c1d74a13cd4ff2467d5c6eaa52f073c2b0644f449f",
+      "preprocessed_sha256": "5c6391b3a8ebfc16d1c4591b1e06a533e4844ac58374be655fe40cfef53acae0"
+    },
+    {
+      "relative_path": "scratch/001.png",
+      "repo_path": "data/capsule/test/scratch/001.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "873e3d60c26ebf78d3da28ebeaf98cdeb9e9cd54e9e417123cd42ada9dfda00a",
+      "preprocessed_sha256": "68d6629e655dc14b99e652e5afb3fabf7b61c7d1ebcd5b0f672edcb4ec799a32"
+    },
+    {
+      "relative_path": "scratch/002.png",
+      "repo_path": "data/capsule/test/scratch/002.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "42b5cf1f33d376c206cf18f87417a8935387fb88f7a9aecc7f24234a0de1230f",
+      "preprocessed_sha256": "2d777aec06ab965402160d4a6b7b4a33f5bf93961c5ebf194afad2521ee0badd"
+    },
+    {
+      "relative_path": "scratch/003.png",
+      "repo_path": "data/capsule/test/scratch/003.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "40aa88ba337cb327f148ee7e067e606e2fccecfe881bb81a0d1b74bf6abeb0c5",
+      "preprocessed_sha256": "7e05fa632714c1cb2c4b6aafee63bf55689cb44ae55cc870645cc7ec9b518eb4"
+    },
+    {
+      "relative_path": "scratch/004.png",
+      "repo_path": "data/capsule/test/scratch/004.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "10811cc8d0fd21bba9a49bfd2fb3a039ab728e6ab5842bc9c7ae1583060de80b",
+      "preprocessed_sha256": "56fc939917c766cdc2507e905d71c1f66ae8db67eb02936b08f640c15d2bf189"
+    },
+    {
+      "relative_path": "scratch/005.png",
+      "repo_path": "data/capsule/test/scratch/005.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "23fae062f8cf5bee1a5244e8851be88c739e6cb5f952f2ba5534dc737fdbfc6a",
+      "preprocessed_sha256": "16de3257ea5703a5b857c05ab0c6abba9b026b34d9d706fff531b15eaeb4933b"
+    },
+    {
+      "relative_path": "scratch/006.png",
+      "repo_path": "data/capsule/test/scratch/006.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "a2ec6b8501226f3d1dab0df63689f3e222f5ae54709f9af5948fa8f06cdce7b9",
+      "preprocessed_sha256": "fa5a3cb139c920ae14669c7b126a34e00a5f9a6077fd5e291f6b5c21f905dbf3"
+    },
+    {
+      "relative_path": "scratch/007.png",
+      "repo_path": "data/capsule/test/scratch/007.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "468c60496275b35ba5e6531bce1ff4ffdf45b50eea5166333d96cedd27aff9c2",
+      "preprocessed_sha256": "1da2cc1dd1d2e68ea7e37daaec26d60d8438f82b5bbc9617a24613f6efd9c1a7"
+    },
+    {
+      "relative_path": "scratch/008.png",
+      "repo_path": "data/capsule/test/scratch/008.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "3e56a31ae634749add4c51afc972156d0e6470959bbb5e804e13dc5c15296294",
+      "preprocessed_sha256": "d0fdde414c987e9fbffa8ebf18e087f0703e9094285758d0b9489a73e9b68cc6"
+    },
+    {
+      "relative_path": "scratch/009.png",
+      "repo_path": "data/capsule/test/scratch/009.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "640e26355112bc65a4cc729edd4714ae12ca69acfa5a0f646fcb8fa03e04cd61",
+      "preprocessed_sha256": "2a2be7ddb7f95a3cae73d9f083b606ff4ec26336bbe983ae529a600573a396ca"
+    },
+    {
+      "relative_path": "scratch/010.png",
+      "repo_path": "data/capsule/test/scratch/010.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "ed445d2a41ffd00d09217a0f038081e790a94fcc869bc5c5698913941fc19246",
+      "preprocessed_sha256": "f52588b689406c2cc52c1dd5aa868cfec12435a131559b06af8685c9ee0e5835"
+    },
+    {
+      "relative_path": "scratch/011.png",
+      "repo_path": "data/capsule/test/scratch/011.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "2b600445249d235479d2e108d427bb5dd65f1458509115a1ae40330378208a8b",
+      "preprocessed_sha256": "33c510f9996efc10d35b5d43d596dbe3d27bb13ddc852df4f51b8610ff2b7f5c"
+    },
+    {
+      "relative_path": "scratch/012.png",
+      "repo_path": "data/capsule/test/scratch/012.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "10da7d708dba9a273461adf5a2950d6f5e158b5ba19c5ffd3dc0c650ac08c70f",
+      "preprocessed_sha256": "d1a4496c8ea2be2cfe051c64b16802f823c4e62f501a788d7b4cc2d58a756ad0"
+    },
+    {
+      "relative_path": "scratch/013.png",
+      "repo_path": "data/capsule/test/scratch/013.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "08a532f218f9155fb934a4a704b5b054b71e366628f4a1294950a30c1a2f71c3",
+      "preprocessed_sha256": "e384ab61f7d710275d8d620b44d36b1288084cd0827c70d73878f2896d0295bc"
+    },
+    {
+      "relative_path": "scratch/014.png",
+      "repo_path": "data/capsule/test/scratch/014.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "f635566a061fec1d63ebdf07d26f3a685812b274d4ca0101acf284155e4d6704",
+      "preprocessed_sha256": "e82f859914dce7226ae30e906c8b3e2a316301c43b7dc37b7afda50344d25a54"
+    },
+    {
+      "relative_path": "scratch/015.png",
+      "repo_path": "data/capsule/test/scratch/015.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "5c2aa9ea18d892aabf60463ef08bf4eaaf2f4543b7739a6b3f66e9109409b1dd",
+      "preprocessed_sha256": "288c29d421e33bce60e475d8cd2f869a632b59a8fbb7d913f9f6d7961d5c4e6e"
+    },
+    {
+      "relative_path": "scratch/016.png",
+      "repo_path": "data/capsule/test/scratch/016.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "88d285a89ac941ad0fa6173451ebb439b022fdfe3ec7ae15f01dad74166baa04",
+      "preprocessed_sha256": "80f60b4a8eff26276239652f395e72a50e1e2aaed67f87e092f656c84d269858"
+    },
+    {
+      "relative_path": "scratch/017.png",
+      "repo_path": "data/capsule/test/scratch/017.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "4fefcd482a9d7dc7516ee76657db2547c8474007b1514b56e1fefc29839f30cf",
+      "preprocessed_sha256": "bd64f9d6c0acb28c508e4e0524d4e7a59324f2ec5dbbd14bafb9f3d0af022261"
+    },
+    {
+      "relative_path": "scratch/018.png",
+      "repo_path": "data/capsule/test/scratch/018.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "ee36046089cd9cc7482058a120d0824a871437232b7c2536bb8fdbde2afd6526",
+      "preprocessed_sha256": "2b1b30270f5affc7b79af083d7c92b9fd2e4d6c61dd107726bcea39b02ee0e69"
+    },
+    {
+      "relative_path": "scratch/019.png",
+      "repo_path": "data/capsule/test/scratch/019.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "100f302f1da941165f4df94726685edca222c6937fffb069a9d77adae9b38570",
+      "preprocessed_sha256": "ee0e92fcd751b777396a4f9c5fbbe3f8cddce17bb2dfaa5d9de0fe019c153d06"
+    },
+    {
+      "relative_path": "scratch/020.png",
+      "repo_path": "data/capsule/test/scratch/020.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "093bc97fa7a7c2a21337981c725a503e7da858f787968e032522aedd246bacd4",
+      "preprocessed_sha256": "e4165d63986317d01d0968e93afb3455ac0a2a0da1a4b7ff564fd97c893adc6f"
+    },
+    {
+      "relative_path": "scratch/021.png",
+      "repo_path": "data/capsule/test/scratch/021.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "4f842004993f5e1bfd51d25201b8fadfe487ce5ca9dd19509e37abad1d697a44",
+      "preprocessed_sha256": "62fd5726d492b961e260dd5d17127597e1869bd4bb2af7f8936439a6261a65ea"
+    },
+    {
+      "relative_path": "scratch/022.png",
+      "repo_path": "data/capsule/test/scratch/022.png",
+      "category": "scratch",
+      "category_ja": "擦り傷",
+      "true_label": 1,
+      "file_sha256": "92b5f90ce33d9080f9de3fc4bca5bdfa81c385994d5418789417fd29407aedad",
+      "preprocessed_sha256": "f1004ffbd769aef19762d6232c1bfb6a1ca4d2c00bb8f31e1c0ba9bc6b51a169"
+    },
+    {
+      "relative_path": "squeeze/000.png",
+      "repo_path": "data/capsule/test/squeeze/000.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "28e839bfc1dcc9c8c811d0f3817fb7c1184147883f5fefbb7b6fef787e69dc9a",
+      "preprocessed_sha256": "449178c80a8e843e2e35ee7aac825227c249ec5950df06a9b045c82ab70efa3e"
+    },
+    {
+      "relative_path": "squeeze/001.png",
+      "repo_path": "data/capsule/test/squeeze/001.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "3e60541e78494f3a3d410859f742ea3aa3b9d050a86e1eba967c616d46b6643e",
+      "preprocessed_sha256": "66069ae35fead9e958c94ebb86d6f297691163d72b91e0ef072a123b6199a32f"
+    },
+    {
+      "relative_path": "squeeze/002.png",
+      "repo_path": "data/capsule/test/squeeze/002.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "057d11aeff99cac7065c36bfe9c59af373affbe783ab27abc244aeec7353878a",
+      "preprocessed_sha256": "f923901ee951e2176c3b1024b2d526a4948eba78d556d5ef31d7721f7a903a8f"
+    },
+    {
+      "relative_path": "squeeze/003.png",
+      "repo_path": "data/capsule/test/squeeze/003.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "9f1de3ad0ae22f3dc6dd842eae09fd7347170c5706f534c909952a96d0cc5437",
+      "preprocessed_sha256": "e7e02cb82afe43e25f4282c775a06916b50a8791f75cf0418c6661a5c8234bea"
+    },
+    {
+      "relative_path": "squeeze/004.png",
+      "repo_path": "data/capsule/test/squeeze/004.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "6d5f8898ae3d8affadd8c8853a8026c48586aa71c7cbe8fb7e1f8186163eae46",
+      "preprocessed_sha256": "b129ba5c9144be70033e0a5308f669dd1f486b1ebeda5568b3c9c9e668ff3c00"
+    },
+    {
+      "relative_path": "squeeze/005.png",
+      "repo_path": "data/capsule/test/squeeze/005.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "550557b98d77ceb698d72060e66d8fe0f0598c3efbd62966da3a70763eea2433",
+      "preprocessed_sha256": "442a4ac952273c44291639aefd773c6a323dc4be974395b3e125077cfdc5e585"
+    },
+    {
+      "relative_path": "squeeze/006.png",
+      "repo_path": "data/capsule/test/squeeze/006.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "ce1d557eadfc4405172155258c0258b27b2dddb00504b2cd9dcdb43f9b6dfe62",
+      "preprocessed_sha256": "83424f857fca44bbc607f2bbe09db44b98bb9546ad801c4445bacdfdbaa4f984"
+    },
+    {
+      "relative_path": "squeeze/007.png",
+      "repo_path": "data/capsule/test/squeeze/007.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "8650a8a8c307ee3dfb943cf1ce7baf8d83f602598d14669e6d312a45e78e5dfd",
+      "preprocessed_sha256": "d60f206eb643507ab5729246b8e5ed32ebf8165129b2e0ce6e2ff577e7a51046"
+    },
+    {
+      "relative_path": "squeeze/008.png",
+      "repo_path": "data/capsule/test/squeeze/008.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "3c16fb6d6353c4daf656788dedbcdc0bfecc59206dd4d3fe9476c4277350c8ce",
+      "preprocessed_sha256": "dd94397f947f8493e22b00c9f51ed2617d2ef995a80acda42647d48577fb4d2c"
+    },
+    {
+      "relative_path": "squeeze/009.png",
+      "repo_path": "data/capsule/test/squeeze/009.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "e131c1a2c4244b0be1a48ba4de390f3e88bc2bbe925548f83b3f28b149d9ac17",
+      "preprocessed_sha256": "92dde2ff888d5f63760a26f3ae4c50c123dfdcf849965a604cb3aca7020160f0"
+    },
+    {
+      "relative_path": "squeeze/010.png",
+      "repo_path": "data/capsule/test/squeeze/010.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "5981c80512292dc9e1805b9a0cf9590146a70f188347bd9a356b8d3dd3dff30f",
+      "preprocessed_sha256": "06beb8bb63102762368a46c549fbee68c729e0572cbfa7e6885e45551057bb7b"
+    },
+    {
+      "relative_path": "squeeze/011.png",
+      "repo_path": "data/capsule/test/squeeze/011.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "46e573a917f738d07564eec5cf5ab0a3c6d4b4f0fe6373e62f0a06603260ce24",
+      "preprocessed_sha256": "60ee20e4788a34582ca89651e57698495743478fb0a0e19b66bbaf2c897594ec"
+    },
+    {
+      "relative_path": "squeeze/012.png",
+      "repo_path": "data/capsule/test/squeeze/012.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "9ab2faa52919adf2d631b8ab40985612796c8caae0ab2559f641876d89f0708a",
+      "preprocessed_sha256": "f4a6c04b2f1620339975e5b0509f84997651c96d6902a14d31032fd2d841b42a"
+    },
+    {
+      "relative_path": "squeeze/013.png",
+      "repo_path": "data/capsule/test/squeeze/013.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "e1d897f13ae7c2a27dcbe9e723a6808fd8d67edcf361e956dcb9007c3a45c737",
+      "preprocessed_sha256": "32302f1edb8979a1bb63ac417fc0eb227dc0ff4ab4c54b31c32290d6709c2a68"
+    },
+    {
+      "relative_path": "squeeze/014.png",
+      "repo_path": "data/capsule/test/squeeze/014.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "b9ea85e491b90c032b0ef245ab0b013b4b6c15926e2843d9e9dbdb41205c4889",
+      "preprocessed_sha256": "bca67bdc5bab360df1aea7f76183a5310080974ab036eeafa5126255ddaa76da"
+    },
+    {
+      "relative_path": "squeeze/015.png",
+      "repo_path": "data/capsule/test/squeeze/015.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "31bd0709c5e0e416b2610045839391543ce0b9408a1f1765a1026463fbfbb120",
+      "preprocessed_sha256": "883342cf8efb52e6c936a0ca1a73403bb19fdd1ff38d53298c9bed577d0b25af"
+    },
+    {
+      "relative_path": "squeeze/016.png",
+      "repo_path": "data/capsule/test/squeeze/016.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "c7ed7b1bd4564c4f3ee8becef329d97626d6fb6862c7723809df8a39190640c2",
+      "preprocessed_sha256": "5d145ccb61fa565ecf7af17f7dae33accc5553cd1f576e978fdec67cc0a0405e"
+    },
+    {
+      "relative_path": "squeeze/017.png",
+      "repo_path": "data/capsule/test/squeeze/017.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "f96d65a4ac8b65746dd62174a8f1970898299b9ca07f6e91491167f464ce0700",
+      "preprocessed_sha256": "56186c34ff3e97b83c2a0f718509b04037a8f821618f1e7c613dd5c1d0a6c6a3"
+    },
+    {
+      "relative_path": "squeeze/018.png",
+      "repo_path": "data/capsule/test/squeeze/018.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "01c1cdcc7256f649610df76d9ca1baab74d829f49f62008c562d2620b1172ade",
+      "preprocessed_sha256": "7077d7c4264eead437050e868427b1bc5015fe338d1b877078de668b9a199ee7"
+    },
+    {
+      "relative_path": "squeeze/019.png",
+      "repo_path": "data/capsule/test/squeeze/019.png",
+      "category": "squeeze",
+      "category_ja": "変形",
+      "true_label": 1,
+      "file_sha256": "af90e2923a87291bdfc110d928b4c2a417189088f7c837cca4e7f44717508203",
+      "preprocessed_sha256": "99ccc265ca7e99c2b0fa4349f017cb10517768d718c4bce34a397ba0b20dc266"
+    }
+  ]
+}

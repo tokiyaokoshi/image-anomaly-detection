@@ -1,0 +1,14 @@
+{
+  "condition": "A_original",
+  "seed": 42,
+  "epochs": 100,
+  "images_per_epoch": 219,
+  "updates": 700,
+  "initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+  "sample_order_sha256": "93ab1041b174ebdc93c989451b72c773a983004397d0ce279867f881ca9f884b",
+  "final_train_sse_per_image": 5.922872395275935,
+  "normal_test_sse_per_image": 6.748959209607995,
+  "normal_test_mse_per_pixel": 0.0004119237798833005,
+  "normal_test_inference": "posterior mean, no sampling",
+  "seconds": 261.02728260000004
+}
