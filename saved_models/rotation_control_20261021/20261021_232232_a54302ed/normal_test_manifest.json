@@ -1,0 +1,102 @@
+[
+  {
+    "path": "data/bottle/test/good/000.png",
+    "file_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "1bbb55a8e198e82dd0634e065798a3eddf5a8ec2128bd31bd20717341da05324"
+  },
+  {
+    "path": "data/bottle/test/good/001.png",
+    "file_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "3351042cb047cfb99658188df4c4446f3f0cfb78e01cdc8f33a2e22079310ec8"
+  },
+  {
+    "path": "data/bottle/test/good/002.png",
+    "file_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "84872de21f8ddb69d4fb83ff8c680769c015481121978b6860531ea6aa6ee669"
+  },
+  {
+    "path": "data/bottle/test/good/003.png",
+    "file_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "58e62e899ca61c7fec489d7fed7da48f1ffd6649b7c0c8f754849b84eea2fc65"
+  },
+  {
+    "path": "data/bottle/test/good/004.png",
+    "file_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "9631a34a9e0b03e2e8f27d3170aa1ece5b3b2287a388a8bf7d4120ac4bfa2052"
+  },
+  {
+    "path": "data/bottle/test/good/005.png",
+    "file_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "ba81522fbdd1ec3b513ab6deb61750fab3b2288a35b1f4b1c1e32da8f82854a7"
+  },
+  {
+    "path": "data/bottle/test/good/006.png",
+    "file_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "6c9327a262ef08ddc0207188b23da5f9128d9ef55a544bfb8040f84c7c390c5d"
+  },
+  {
+    "path": "data/bottle/test/good/007.png",
+    "file_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "7ed2dd5b0f183f0e1a1b737508357530d6c26485d88265a93152f4c53e82f977"
+  },
+  {
+    "path": "data/bottle/test/good/008.png",
+    "file_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "9cd2830105383fc2339732cb800863ab2ec460805e95cd63d46606b16dd2c15d"
+  },
+  {
+    "path": "data/bottle/test/good/009.png",
+    "file_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "f4849631d35a11c4e1e9fe53757108fb2e7fde0ea48bdf0ed58b5cdb511fbaee"
+  },
+  {
+    "path": "data/bottle/test/good/010.png",
+    "file_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "984a4349a2735e128efe3dfbc5f84f1d8fe78344196bf6598fab41cd8cb23da1"
+  },
+  {
+    "path": "data/bottle/test/good/011.png",
+    "file_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "419cde55da06f3f804c580919a693c5546d0b86ead3aadd634d355579535e9ca"
+  },
+  {
+    "path": "data/bottle/test/good/012.png",
+    "file_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "914c4cc706a18753f7db1f7b9a63e0b29dc6abcdb8714f4ce3fbfbdf7e505057"
+  },
+  {
+    "path": "data/bottle/test/good/013.png",
+    "file_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "b1e276f40b631c406c66a344f05e0d0f49d80b1a2a5a24c92220582318cab43e"
+  },
+  {
+    "path": "data/bottle/test/good/014.png",
+    "file_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "5397910000df1af9d7b0dd90cbd37a5975b94eacfa5e2fb51a4a4fdde88e812c"
+  },
+  {
+    "path": "data/bottle/test/good/015.png",
+    "file_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "6b9c332221f6b1754b2e5417bbeb0c061f052289655c497a93e8aa00e9dd5309"
+  },
+  {
+    "path": "data/bottle/test/good/016.png",
+    "file_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "0a56afa2f6698b7e4843e48e4a9a7ecc5fabe0c80e66a6f974d1851bb771087b"
+  },
+  {
+    "path": "data/bottle/test/good/017.png",
+    "file_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "de19d03bbe5d0d1c6ce544cc04bbfcbeb0fca7dbb485f7ebcb861cd824448097"
+  },
+  {
+    "path": "data/bottle/test/good/018.png",
+    "file_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "7d64ec578d51416527f49fdeabde1d95f4e556b61874ca6b07daf1862cd063d3"
+  },
+  {
+    "path": "data/bottle/test/good/019.png",
+    "file_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "afe5af71d6118bf5fcd5de988d10049e3bec511bd9e7a0b5cd4a3707d5fc2398"
+  }
+]

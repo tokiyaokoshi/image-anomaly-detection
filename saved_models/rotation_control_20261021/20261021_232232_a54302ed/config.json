@@ -1,0 +1,43 @@
+{
+  "experiment": "rotation_control_20261021",
+  "run_id": "20261021_232232_a54302ed",
+  "seeds": [
+    42
+  ],
+  "epochs": 100,
+  "batch_size": 32,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "latent_dim": 64,
+  "annealing_epochs": 50,
+  "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+  "angles": [
+    0,
+    36,
+    72,
+    108,
+    144,
+    180,
+    216,
+    252,
+    288,
+    324
+  ],
+  "rotation_interpolation": "NEAREST",
+  "rotation_fill": 255,
+  "rotation_expand": false,
+  "preprocessing": "CenterCrop820, Resize128 LANCZOS, Grayscale, ToTensor",
+  "training_loss": "sum pixel squared error + beta * sum standard-normal KL",
+  "training_inference": "posterior sampling",
+  "normal_test_inference": "posterior mean",
+  "device": "cpu",
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "torchvision": "0.27.0",
+    "numpy": "2.4.6",
+    "Pillow": "12.2.0"
+  },
+  "torch_threads": 4,
+  "status": "completed"
+}

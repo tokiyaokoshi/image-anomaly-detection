@@ -1,0 +1,1047 @@
+[
+  {
+    "path": "data/bottle/train/good/000.png",
+    "file_sha256": "8a25eb07475a5102f4823fefd82662dd65f8f2a0a333bf958124ceeee38f0e38",
+    "preprocessed_sha256": "5cb3b12be26454ccda18c74f3ca4682be535c81559850b0dfef437e0ed285d4b"
+  },
+  {
+    "path": "data/bottle/train/good/001.png",
+    "file_sha256": "ba13b82fc8c732a02277816521fe93a0fee00c524f2742bbb3feed0a31cda8df",
+    "preprocessed_sha256": "411e7dbbe55ad40c801f8178c56122c4a0a0d2f38b8e6635a3c3f98fbb87e2d7"
+  },
+  {
+    "path": "data/bottle/train/good/002.png",
+    "file_sha256": "7de0414f1744aaf5cec488928ee3b761509e4bad4f607dc4f6d41ad7862dab69",
+    "preprocessed_sha256": "a12d48b43dcaf206286aa544705edbd64df58b0eb0d6f4e91372d88230a5992c"
+  },
+  {
+    "path": "data/bottle/train/good/003.png",
+    "file_sha256": "83a8754d0215c4512cdba27caa15d478f21e4314ac85efa639d4d31d1a82122d",
+    "preprocessed_sha256": "f24a8ce20f0e974c3bbee38f2f8a1d7e34780895ce23082f826e8dd81ee8b759"
+  },
+  {
+    "path": "data/bottle/train/good/004.png",
+    "file_sha256": "e322ab1ce2714be77610b25209d5ce91df9ef3f434403cf3dc5041f469d2ade3",
+    "preprocessed_sha256": "4b87fe2c7895ae15718c570f1f5a5014ded8a49797a71cc454da769fdaac0e3d"
+  },
+  {
+    "path": "data/bottle/train/good/005.png",
+    "file_sha256": "ce025f228af389707430c4ff417bb0a4ccf4324b9cef4f60e4ad87ed75c735b6",
+    "preprocessed_sha256": "1a2b6dc77f27da4fd1c771a4cb32857128df0fb5c1556a86033bad3bf102b183"
+  },
+  {
+    "path": "data/bottle/train/good/006.png",
+    "file_sha256": "037acb142ec7494e749da9a46de367df92df345ea3c9c4d0e0e5fe24f8b93461",
+    "preprocessed_sha256": "d70531a2e68376c5d9fc982fc1b2bb165b46f0c7c5f6f5f4c026886c4680d679"
+  },
+  {
+    "path": "data/bottle/train/good/007.png",
+    "file_sha256": "070d4cbe696071aabc660f9362273d79f0cf36b2b60084f6d545902fa455c254",
+    "preprocessed_sha256": "01b4ad8475567c888976961076a67774d00415d8c216e12a8bb34f3f706a67d5"
+  },
+  {
+    "path": "data/bottle/train/good/008.png",
+    "file_sha256": "fbdca6b40932e967780ba859bb752eeed1996e874581c47d29da7d23f33048be",
+    "preprocessed_sha256": "32bd711bda0e11be0999c82d15d3784c1eac43908d057072dc0a00b75a9c4895"
+  },
+  {
+    "path": "data/bottle/train/good/009.png",
+    "file_sha256": "935dd12766cf96bbdeb48ba5801a896cbd7047212f601077d1adef0db9a6ae57",
+    "preprocessed_sha256": "db05b23425ad9718cf09d32b2b8c38891fa16100ab064393f1407cd98a629fab"
+  },
+  {
+    "path": "data/bottle/train/good/010.png",
+    "file_sha256": "ad500d6c2c625ecc17f8b276a597f76ce5cabfece6326fd39682b5d6b9192db0",
+    "preprocessed_sha256": "9d35411c5611b68b7fc0948a0ebfcc8f6a58ce95277acb773d6059883220fb85"
+  },
+  {
+    "path": "data/bottle/train/good/011.png",
+    "file_sha256": "8493f6eb590418997ff950e1a2cfbe5f31ebbf49a8d075b838a98abfe851ae26",
+    "preprocessed_sha256": "b2f010e879b0f84a36c8ce4fc790ca462ff8c71bb723b8a35530de74d1c4a162"
+  },
+  {
+    "path": "data/bottle/train/good/012.png",
+    "file_sha256": "0c45f021e169dc8b27120c4c70ea09c0a4e3391482ed4dda4a04baf7b2098b85",
+    "preprocessed_sha256": "cea8ea1f6e556627c8168f01464000afc43b1338d73050ababc27874eee39afb"
+  },
+  {
+    "path": "data/bottle/train/good/013.png",
+    "file_sha256": "13d287cd1cc8b7e7e09ecb74594f7a30d94c35fd5e95b9421b2081d9ead6aa36",
+    "preprocessed_sha256": "9feffead8531d93a407e375175699ff94aed46cd0118468a94926a043ec43cf0"
+  },
+  {
+    "path": "data/bottle/train/good/014.png",
+    "file_sha256": "a8826579631c43c66b2e0d33f00cf6d5beac3dcab0cadf50bec3c8837a329288",
+    "preprocessed_sha256": "ea11be4b4e05a824accf3607d0ee02fe5c9ac357439740e94d8d3072859c49b4"
+  },
+  {
+    "path": "data/bottle/train/good/015.png",
+    "file_sha256": "8ce929a477e23b50c37913300541f324eaf6073155e4abea524a3fdd9d7c49b2",
+    "preprocessed_sha256": "e8daa08f6721f1bb4f196dda48fc51d635b2fff04055c2fefd8eefb7de93334d"
+  },
+  {
+    "path": "data/bottle/train/good/016.png",
+    "file_sha256": "92a6d4b311360bcd5c96ae630a377ea2ebcb29d9b9a39e2f0c1c3ad1f1b88a9a",
+    "preprocessed_sha256": "6dd84a797508124bda29527c1b0206bf19bc91ebb1910ff90d0beff19953f571"
+  },
+  {
+    "path": "data/bottle/train/good/017.png",
+    "file_sha256": "7d546aa84dbfe0c37b19346fa88e579d6b45b3075073e0ba3f1e2e8657e6cefb",
+    "preprocessed_sha256": "599775a0815c81bb7cbae11dfc6bb5df7efb734e6d6e3b5959dfb6af5f4b1436"
+  },
+  {
+    "path": "data/bottle/train/good/018.png",
+    "file_sha256": "83b1d0683d6c9dbf41ab72464838991bbb931dff24d644cd8e4bf7582ef784ce",
+    "preprocessed_sha256": "dd343e35c0dc8e255db60590ff47c4cc02f6d3dc6d375bb19640e9c95df01b4c"
+  },
+  {
+    "path": "data/bottle/train/good/019.png",
+    "file_sha256": "a12a98cfa582797afce9dd170f5f6795747df8672deaed80d03c7e26406c1aa0",
+    "preprocessed_sha256": "4778e0520f1b9a3f47a4b0eb72d7970cea1b745c4ba938c74294b83d49743df8"
+  },
+  {
+    "path": "data/bottle/train/good/020.png",
+    "file_sha256": "96a7e24ec9ca27a9ff389ccba0260d6d78d6762968803260804aef65f26fe077",
+    "preprocessed_sha256": "254098aedcf65be636428b87e028cc95ae3a2521b0c5e58af8a7348feb0f4477"
+  },
+  {
+    "path": "data/bottle/train/good/021.png",
+    "file_sha256": "92fe0a4a396df3bc95852130a063c241486dccb21ac54017145265a1a5dd72f2",
+    "preprocessed_sha256": "e98b17e6b79bc0f9c5c191ede1986341dcb7585e0683f3ea9d0cb75a4787b090"
+  },
+  {
+    "path": "data/bottle/train/good/022.png",
+    "file_sha256": "f8e1ece1086cc7e75dcacffdb7ac5485f767a7a53cb2f92033fc29f58e2708ba",
+    "preprocessed_sha256": "8bb0f53b6bc808fb036a4019f8745718b636bfbc0dc5a558ddcb633e3a4ca376"
+  },
+  {
+    "path": "data/bottle/train/good/023.png",
+    "file_sha256": "5bebcd96862ca137cf0a1be85230cffb0098bd06636747c98dd3109c223dd3a0",
+    "preprocessed_sha256": "1f3bcb5765b7cfb1bf3d9cffa2f48ba107d66c98c408be9fd69c2d423f1707a9"
+  },
+  {
+    "path": "data/bottle/train/good/024.png",
+    "file_sha256": "0e59918793e8ad42caa415776b381f5366afbd11a9fff2511970dbc1389b8ddf",
+    "preprocessed_sha256": "46448c8975235c511cce61346609b59c1507e30201a61a4ab94920fb2d82fc93"
+  },
+  {
+    "path": "data/bottle/train/good/025.png",
+    "file_sha256": "311f88b86169b4516486999726e702ebca6c8f12c2500cc0449158ffbe0f929b",
+    "preprocessed_sha256": "326e9d45278a73d70c01aba1dc06369ce3863e5ae5e333072af81d69ce97d594"
+  },
+  {
+    "path": "data/bottle/train/good/026.png",
+    "file_sha256": "8c9ae9da77c9a3add73dae83d25abbd444ee9445d4e4c6f1d27d946421fa6542",
+    "preprocessed_sha256": "91cffe8b99799a54192fdb3314bca0c32c907ee9d6c8d5a63dbf99ed82ed4b28"
+  },
+  {
+    "path": "data/bottle/train/good/027.png",
+    "file_sha256": "c3d7ae38ba8602d8effc716068bb71a4e67d4c0acddd9caf5ec761d3f2853372",
+    "preprocessed_sha256": "58acd865ca4c9e5d3c48f1037abff29ea33331b717f1e14ad252a4a1a9e265cd"
+  },
+  {
+    "path": "data/bottle/train/good/028.png",
+    "file_sha256": "20ad78aefe7af62b170a569a2c96b95f12621af240e259bb1b32ba142d87638e",
+    "preprocessed_sha256": "d8f4c10371629eb908543c6e7f398a4d1482399f563f011a4b40270ea3983f5f"
+  },
+  {
+    "path": "data/bottle/train/good/029.png",
+    "file_sha256": "b8253d5c07aaf8c58f8d0d4a1884ea4e7e7f26b8529b27e6b55e9392db97f67f",
+    "preprocessed_sha256": "75e6823471d74725aeea94989bf01149f26a7ff3f8a91c00458d5d42e124717e"
+  },
+  {
+    "path": "data/bottle/train/good/030.png",
+    "file_sha256": "2ae6e2e8ca1e90f4e0804e28faeb9bb51cd3c130bda50ed0bafe05fb4533cfd0",
+    "preprocessed_sha256": "678a455d4b441b0213e317961d51ee0a02d54136733d3edced51c5d0bdcfc789"
+  },
+  {
+    "path": "data/bottle/train/good/031.png",
+    "file_sha256": "47980ffc9411c7ef921b750051640587d829f34b2326e08144b0ac3a5e28c106",
+    "preprocessed_sha256": "84db4a0260c7faa672eed24600e67ff1f686107e83c407e67eca2246c10b0032"
+  },
+  {
+    "path": "data/bottle/train/good/032.png",
+    "file_sha256": "22ea2f7d08c0a5ba4f1494737bdc198375760ce42eed8fe29b68436acf2ceb7c",
+    "preprocessed_sha256": "185a28a20fa29a50b1e15a83de70306480d2a9d9b6558f2470d71c88acb82536"
+  },
+  {
+    "path": "data/bottle/train/good/033.png",
+    "file_sha256": "16e52b8b32fcaa6295840300340287fed67abcaf1d4ee9d8edd5e674e46b17ca",
+    "preprocessed_sha256": "406e3669b8e6bd5a98212d702b55d3b080003940b5ab43cba3f9c5cb6574c40e"
+  },
+  {
+    "path": "data/bottle/train/good/034.png",
+    "file_sha256": "4a44f447a81d1a9c18577b667e5dd3131b10205d2a739deedf45490f277a402b",
+    "preprocessed_sha256": "74f67bdba89d394a1a13bde37c976caada4065d39bb1f7c512bc9a39d4ae2fa3"
+  },
+  {
+    "path": "data/bottle/train/good/035.png",
+    "file_sha256": "1ee9369e10c7f3d73b6a03e2bf3e648ccf29b52e47de99141cbd74603fbd76f0",
+    "preprocessed_sha256": "fca39f4075938d2e8f31dd497200d15f6d041fb9b6d6350116f2890fcb51cd4e"
+  },
+  {
+    "path": "data/bottle/train/good/036.png",
+    "file_sha256": "9302580815770c06ed9fccad8512b25d3e80053c35dfeb35d743dd5c907761ee",
+    "preprocessed_sha256": "aaf7d72e3941b86fd3ae66c0ef925233db541e13c97468ab60a4ec1272ef739a"
+  },
+  {
+    "path": "data/bottle/train/good/037.png",
+    "file_sha256": "3575e4f0785d679737e5d870d4ab308be47ea1565c0b4b6c8d76af502f9a080b",
+    "preprocessed_sha256": "f82c5a88a9f5fe88c09c760f556dfe6299dead445c11a9fef57e8d48349b2b15"
+  },
+  {
+    "path": "data/bottle/train/good/038.png",
+    "file_sha256": "905e9e23f2c982de65f7687ad31d35c750f4812cf681b7263b6cd072548d474d",
+    "preprocessed_sha256": "461fb7ccf93f97ef10b64a7debfe8bcd4f8d48d7f656a5a9988b9dc91842ee2f"
+  },
+  {
+    "path": "data/bottle/train/good/039.png",
+    "file_sha256": "663b485f3c271b3c7fd83c3312339c09010e7bc81dcb95d5a4f5646bb776aaaf",
+    "preprocessed_sha256": "e3aa7d43d91c86286dc754b1b0a252fb8a047cfd56828a73885cd5800dea16bd"
+  },
+  {
+    "path": "data/bottle/train/good/040.png",
+    "file_sha256": "0981ee2efcd397b9881f46d2bf9a568b94f31b5905e8cd787116e9e4cea47603",
+    "preprocessed_sha256": "c8fe61c83ae97d8f985ae94e48d135ad6302a4436dac2f9889ecffc792f4377b"
+  },
+  {
+    "path": "data/bottle/train/good/041.png",
+    "file_sha256": "52c84bab48a67573f1bf589366ad7a882b1c7c866c09e3f4fffa3693bf4a69c3",
+    "preprocessed_sha256": "a18ffbe314a18452c27fbafea0b23a2789b46996e54cad13765e2c73d6d2f06c"
+  },
+  {
+    "path": "data/bottle/train/good/042.png",
+    "file_sha256": "034e70851f06468c7c48fee1845a890074f96887beaa08c0d72b86b10aa4343c",
+    "preprocessed_sha256": "9222ae2c329b19b503db871b564918bf9fc6cf68e6d74759aaa2544cbb41a8e5"
+  },
+  {
+    "path": "data/bottle/train/good/043.png",
+    "file_sha256": "6174ef1513643d78ff3228e0e117208b55febcd10b2b86e16c65c26ad9df3c0c",
+    "preprocessed_sha256": "ea28a596f4890710c5fdba8fcc88d8de545b68dd6eda143a2b500ac1bccc2dbd"
+  },
+  {
+    "path": "data/bottle/train/good/044.png",
+    "file_sha256": "4ec7f7015c79583007984f83a57df369c6f81551d095386d3c3e9a4554be3aee",
+    "preprocessed_sha256": "b1d5f6decda452770ccd9cbe84e2c3420b4da375beeb14b5f82b37f457973210"
+  },
+  {
+    "path": "data/bottle/train/good/045.png",
+    "file_sha256": "e49f59e90918e7d94cd5439eb595e019722a3b254e12ea6ccf901bab2a25112a",
+    "preprocessed_sha256": "41edcc99eddff4111330167d2317529486904c9f731b78c9864972efeff54ae4"
+  },
+  {
+    "path": "data/bottle/train/good/046.png",
+    "file_sha256": "1adba5092ba0706b293e0ce283629a1af776e46d8c809acb2cd084cf9d49d127",
+    "preprocessed_sha256": "81becdc3da3414a65e8d31c89d49ce36bbc77564363f9e2b6e496dd041a163f8"
+  },
+  {
+    "path": "data/bottle/train/good/047.png",
+    "file_sha256": "87038a5973815117ec24b5cca8cd798dc31d738a0cb6f2efd5803d62f6ef9f1c",
+    "preprocessed_sha256": "276ee4e475aebb1fd4303bc57dab170f54b25c8707a61f6cc25a59d493a5a135"
+  },
+  {
+    "path": "data/bottle/train/good/048.png",
+    "file_sha256": "15fa6566a8c01bfcd546f0cf2b34f7e351c9f10126b77ea3ad6ddb9200e21398",
+    "preprocessed_sha256": "efa7c2c0355034466513ead1b9e23e646bd8577bd9b364b83a61720c1b9b1fb5"
+  },
+  {
+    "path": "data/bottle/train/good/049.png",
+    "file_sha256": "59233798220711bc931bbb9f4c88a7a42e933e831749df316f949b7572f3f5a1",
+    "preprocessed_sha256": "e5b6bf602384a50e4cd0e2d35675d77276e05b3588a1eb8f9b8b2cae34b2e458"
+  },
+  {
+    "path": "data/bottle/train/good/050.png",
+    "file_sha256": "fe999421df95604555b3c253f524e4a6328f16dc8dfe24de6eb66a34fda43d97",
+    "preprocessed_sha256": "34b600d58300cebdc1fab456618babab915b9616ddbd6b4ed317b9918a15e24d"
+  },
+  {
+    "path": "data/bottle/train/good/051.png",
+    "file_sha256": "0e3eeb97862eaa2125829f6f6336036b3ce72ab6e8bcf8795bce2c28d8ea425f",
+    "preprocessed_sha256": "912a3f64471a515c9a4295522abb5d9edb968cb4e03b34827a471cc9462b6fbd"
+  },
+  {
+    "path": "data/bottle/train/good/052.png",
+    "file_sha256": "af57768856d61b24bfdd780989cc5a6623a14c3fd66be2d755af16560fe0e8db",
+    "preprocessed_sha256": "a8bd3268a1e91d25176b2e9555b3ece0761690e12c5da3652cee8adab08088f0"
+  },
+  {
+    "path": "data/bottle/train/good/053.png",
+    "file_sha256": "60b6cc8478b5638a07677159ddb2d9310eafb8ec86458661ad9163693a0dbab8",
+    "preprocessed_sha256": "5382e1e0a49229707410cb1764442060216b15351ff70b326eee014135b7ef30"
+  },
+  {
+    "path": "data/bottle/train/good/054.png",
+    "file_sha256": "7ed6a41a7d4b684bfbfb89fbe3989ce90c7ea1179bbf4abec4964d15a91f28ec",
+    "preprocessed_sha256": "cc8f253deda43c8e2e290a1c814a625efb3516fc362579bb8883a557277be8e4"
+  },
+  {
+    "path": "data/bottle/train/good/055.png",
+    "file_sha256": "7e2044cf73cb8df6b2d728553ab2a5d0366e93374beabe22a3e412ddd9d9907e",
+    "preprocessed_sha256": "4a86b5bc6e2980e04279e3bdf4f9bc794bff2b8e73fd23e6506fd840887dee98"
+  },
+  {
+    "path": "data/bottle/train/good/056.png",
+    "file_sha256": "ccd542b186751026009fc32ecbd8f9f48fee61cf6274ecd0b4c8ca2b4e53f1f4",
+    "preprocessed_sha256": "ed13eb5dc1405fcac9865c5439785a38c6db95105944b684a590a20940a1a9a4"
+  },
+  {
+    "path": "data/bottle/train/good/057.png",
+    "file_sha256": "ff41fa6adf5452d5f2d3abf0939aacac53779b4f70de4db2a816843a3179a171",
+    "preprocessed_sha256": "4e0bf3d51ad8600d3efe002c47e981fbabba8b640baed6bab9888cb382cda33a"
+  },
+  {
+    "path": "data/bottle/train/good/058.png",
+    "file_sha256": "af31fae36d103e0142ba02f91359e963a50277d8af341d738e8463560dafdf86",
+    "preprocessed_sha256": "54ffac2b30850c35f7fe6c2916885a410acb5198689957f88c8879ad062ebc18"
+  },
+  {
+    "path": "data/bottle/train/good/059.png",
+    "file_sha256": "1ba282c78f37753d7036a8d36c79a37707f46108346e88051d84e18d924cee2e",
+    "preprocessed_sha256": "cefed2e6b4ad168e06a79fd0a51a0728e0e831cf21ae2d5bc3153daa816dd53b"
+  },
+  {
+    "path": "data/bottle/train/good/060.png",
+    "file_sha256": "d325b1ada72a37bae2b950f5e5077637144f30ab4c91ce31768f0edfddd76dab",
+    "preprocessed_sha256": "a8a99bf4021727b0d40ffe777dfb11135e8f98fada86e192ab43906c6c656b3c"
+  },
+  {
+    "path": "data/bottle/train/good/061.png",
+    "file_sha256": "f40106f40a441d24b6ef04228cab8572b81ef0daaad134b65bfe07aefa622322",
+    "preprocessed_sha256": "2855a01a67981a0a812e487b45108f89386bfe1b53ed92afb48852ad6fb696ac"
+  },
+  {
+    "path": "data/bottle/train/good/062.png",
+    "file_sha256": "bfafe9b9838a8668983da26610405ea0e5f31c3564a4746e80a79722085f56a2",
+    "preprocessed_sha256": "eb578b58a03d6f09830e6dd1cb09f03a38c6c5afefa1cdea4e43e890297c4111"
+  },
+  {
+    "path": "data/bottle/train/good/063.png",
+    "file_sha256": "28ce3e5c3cbc27ecd934bf1eb3117122baa2fd4c37a036b128771b910920b3b9",
+    "preprocessed_sha256": "34cb3968624265bd100102fd394883d4e1487f86f699aa6472f3f5f91c76934b"
+  },
+  {
+    "path": "data/bottle/train/good/064.png",
+    "file_sha256": "7d8468608a182806104633419bb09162dbc314247e1040226199f594ee6b6e8e",
+    "preprocessed_sha256": "24bd8bd39d729937b4ed1e7001aee7bdb3bea6a5dbe4bfecd84dd261af5867e6"
+  },
+  {
+    "path": "data/bottle/train/good/065.png",
+    "file_sha256": "e3e3f61e8377655bef0a6f54c775f128d37160ddb78bc53da0a360aac572a21a",
+    "preprocessed_sha256": "101082394eaf70e5ae09035da774de5fa0a82ac4c10f1ea3bc7e96662a792e18"
+  },
+  {
+    "path": "data/bottle/train/good/066.png",
+    "file_sha256": "534a0841762a1bc90995a3e59ab7de332b127daed8208644819e9d28de706450",
+    "preprocessed_sha256": "3dc94716b29dc47cf9554d0c34d4ce4fb9631719c056ec4b4bc7005a4531935b"
+  },
+  {
+    "path": "data/bottle/train/good/067.png",
+    "file_sha256": "0dff6a5f0dbc1cff776a090aa6fac8943497081470e6c454d38239b625bc8daa",
+    "preprocessed_sha256": "6e8261b8c5998270f4cbc07dfcf76acab8221fe84f678be9adbf4952382bef71"
+  },
+  {
+    "path": "data/bottle/train/good/068.png",
+    "file_sha256": "93ade48246691fc145a13d531819652b915eeb5da738add2615c40f5590bcc5f",
+    "preprocessed_sha256": "f82ae69810eb65bcc50a9f74eff247ea781c42cfc79d60f108f84d97bf4967eb"
+  },
+  {
+    "path": "data/bottle/train/good/069.png",
+    "file_sha256": "40802acb289937ab895aa716810049c5fa1a6d3f7129820eb55dc48ba63c4324",
+    "preprocessed_sha256": "ab75889e8beab23eebcfa603cb3c064b7ec082c4e58ae353762e8def9460fe0a"
+  },
+  {
+    "path": "data/bottle/train/good/070.png",
+    "file_sha256": "3689f72faebef73b1697dd8cf5e62614d06c305c84befe0655eefd0e6a4f7d45",
+    "preprocessed_sha256": "57e3a2d52263899dfa00acf3db611909ffd1627329a96a36811d8f7c80ebac72"
+  },
+  {
+    "path": "data/bottle/train/good/071.png",
+    "file_sha256": "ae1e456faaa780be0379f6ae80207d27be94369deef26e26d4cc9a62fc0dc872",
+    "preprocessed_sha256": "75a9a701d05bfa3559673a3562652ced558cb1128774af556191a8ba0a1f5d8a"
+  },
+  {
+    "path": "data/bottle/train/good/072.png",
+    "file_sha256": "e5f4084f3a58ea10d75f9baa674e830ab07658920d10dcd90f25d332fdc650c8",
+    "preprocessed_sha256": "cd2c61fcc3aa5a265c94a0206f2b8b977fee5376955a8c073b05912cd534dafd"
+  },
+  {
+    "path": "data/bottle/train/good/073.png",
+    "file_sha256": "afdbf14a9e365688685b3bf1ece84ae649927fa96a14cbf8fa546b481aa6af78",
+    "preprocessed_sha256": "76bb91002891b70980dacf4396e7402164b4d1382e9c9c3fd65c0e44584323ff"
+  },
+  {
+    "path": "data/bottle/train/good/074.png",
+    "file_sha256": "0db6035ac38a14a842ca2fb4d9f761dcf0b633437b73b1e1de89d53cfb859b76",
+    "preprocessed_sha256": "74cf24e2d937676fa3c9a0735f7c86c94a16ccc457e60077d1710135021fa854"
+  },
+  {
+    "path": "data/bottle/train/good/075.png",
+    "file_sha256": "1f87cfa2cc3e2152ee3593e2092cc48e23132c4aaea23de20ef4547a2bb612a9",
+    "preprocessed_sha256": "553e73a5c9febaf10c3dafb6ac7ef0a2381ff59a759bc027c47c5205aa229f87"
+  },
+  {
+    "path": "data/bottle/train/good/076.png",
+    "file_sha256": "446fa2757b9850abe43f25a02c97fee4e187f7ba093e4684adfb227a4f70ae94",
+    "preprocessed_sha256": "1173bf4aea9bd2ec589ab9525b40ba19fc08a7eded971a38fefa629dfee1ca36"
+  },
+  {
+    "path": "data/bottle/train/good/077.png",
+    "file_sha256": "f37ab3e128c33f16326fc701a53a91afd2a7787e8686ca6efdbe78efe22fdcd5",
+    "preprocessed_sha256": "f9b0537c1f016833ce137c71f912ee46bf23426008ea9fafcdd8cc47d7ad8fbb"
+  },
+  {
+    "path": "data/bottle/train/good/078.png",
+    "file_sha256": "fb3190cddbc2de31ae046c672fe9959c02dcce3b7942795bbd3a1b294418ed5d",
+    "preprocessed_sha256": "1fe1f31e6a0d7fb3c95d95119bdef67d9c031267187e4dafb48baf57fa205f00"
+  },
+  {
+    "path": "data/bottle/train/good/079.png",
+    "file_sha256": "408802ee90d3dadd130284d54bd702d2d3e79bd1ffbf4c3c6668731229e5cf06",
+    "preprocessed_sha256": "af8282b7b2e96f9f201ca5481717e4b1c6c7a23555b6c6ac94f5a65e83941f38"
+  },
+  {
+    "path": "data/bottle/train/good/080.png",
+    "file_sha256": "8c9594232eb77990d314c9cccc953bc375917f677b9abf283417f2e26c1d0bd8",
+    "preprocessed_sha256": "54a43a5de569338d6c5644dc49f6d16b08f753fbc1e3874a9fef818a6c10d865"
+  },
+  {
+    "path": "data/bottle/train/good/081.png",
+    "file_sha256": "7cb0735f9914baa21ceda3699215a8e15665639b181703f3cec94b8f27e1b1a6",
+    "preprocessed_sha256": "1b324181ef6e015eea830f87462e8656854edea93e9199f77d6712c2ca61b9f3"
+  },
+  {
+    "path": "data/bottle/train/good/082.png",
+    "file_sha256": "ea1e99464a55dffd111a3de3a415e8a2e0191e045cfc8a8fd8f52408f5680cb0",
+    "preprocessed_sha256": "d1c280c3b8775c34c9242233eaf361d1222e498feccb7d55f7d3319d5d10a757"
+  },
+  {
+    "path": "data/bottle/train/good/083.png",
+    "file_sha256": "2ad85b709cd69e57a816f46ef33da97056a47ed4311a4c6b1d81878bf169fe4e",
+    "preprocessed_sha256": "2795938d2677c64668f2019aa159a6dae71cef32456dac07d51d8b4ee303f522"
+  },
+  {
+    "path": "data/bottle/train/good/084.png",
+    "file_sha256": "bb3c89c1d05c96c49283f1143b56695e0374741d18e40902b7d5cb857a778e0c",
+    "preprocessed_sha256": "f2f5a678241e6961eff182405357ee3c50fb2fca01328318f1d87157d204116c"
+  },
+  {
+    "path": "data/bottle/train/good/085.png",
+    "file_sha256": "8d93da99228a622b5be23bbd3edc5e434648bcd86b7b803c67fee86160c587dc",
+    "preprocessed_sha256": "76cd0e0f666269a0cb9e3433d7d59b4d5fc9a6aabbb79ece9bf3ed676dd9e803"
+  },
+  {
+    "path": "data/bottle/train/good/086.png",
+    "file_sha256": "b440fd1c2dc1b8621dae3697a59b75be7046675045c8bc91715f755962435738",
+    "preprocessed_sha256": "a4b89dbf36ff89c1072df4f596f2aa1f05c0d026734b829a32f8e79b488b43cd"
+  },
+  {
+    "path": "data/bottle/train/good/087.png",
+    "file_sha256": "d90d26b8cf6ae5684cc3d15a7f1648a2bc7bac59af7646d933a8b8f0924a2999",
+    "preprocessed_sha256": "16c3b0409175e558100f7912ce4305e489b62f1327754a6a7a8fcc64c9ab69be"
+  },
+  {
+    "path": "data/bottle/train/good/088.png",
+    "file_sha256": "53c201c39528e848f3b046eb2c29ff7f02c6bd4933c330a5394ab3a1af5b1879",
+    "preprocessed_sha256": "a35fd10913625e48b4eefd27e33526311bde40c659e608f6eea21970e7d3f8c1"
+  },
+  {
+    "path": "data/bottle/train/good/089.png",
+    "file_sha256": "e9861f73abb873306db658ae65a7c240974c4ee5453d22ecbe6dd460c7762979",
+    "preprocessed_sha256": "c701acdc6622dc3c2815fd67fb3616049d9106487f435862eaa1c9b8b0f06f3d"
+  },
+  {
+    "path": "data/bottle/train/good/090.png",
+    "file_sha256": "3237e873613706a97f28c8279f1b78188a51318c39b1d1ce019ab01cf170ceab",
+    "preprocessed_sha256": "0fe9570a3812a29b9d1dff966d81b9bcdfc9db43d3a4e3c5631de67a7fa93bc3"
+  },
+  {
+    "path": "data/bottle/train/good/091.png",
+    "file_sha256": "f12a6e2cc58c98b93b6aba11e6bda12af38b75216f876709e6544733072dfb68",
+    "preprocessed_sha256": "0ead22b962bd77ecff61c1ead48d4abad8de09ff3a826b1ee0b288de90979cf1"
+  },
+  {
+    "path": "data/bottle/train/good/092.png",
+    "file_sha256": "aef55a3c7a99c440ec4b449236be122888dab71ec5bed8d1b8bcd97b92a8591b",
+    "preprocessed_sha256": "64fedf8375caa7685cc301ae75c513755fc1eca5bc7eb2712f961d51da1b4e66"
+  },
+  {
+    "path": "data/bottle/train/good/093.png",
+    "file_sha256": "6e3c4a472fca99a3e843fa141a0fdf5190b63e492cc58ec711437701f899bf80",
+    "preprocessed_sha256": "1caf9de4a20a1579604e0c2bad9033c1d3162b72c0c9391da64fb8c91dc2f336"
+  },
+  {
+    "path": "data/bottle/train/good/094.png",
+    "file_sha256": "60d532f4ed02d61a11b1f27f729adada0f39b793cca317f5d39a8deb794a3b16",
+    "preprocessed_sha256": "7dfe7e4205ff444d1118909e938bc18a1ecf8ae106e58694746adf6104a00b4f"
+  },
+  {
+    "path": "data/bottle/train/good/095.png",
+    "file_sha256": "3c7a20d8570806e20856fc9abde069a46cfdf9a51c7176bf9c1f49246a3de6f8",
+    "preprocessed_sha256": "4c35dba6c0077f6534f39cce2d8b0bae4d7f3fde54cca8acd19a8328a4639f42"
+  },
+  {
+    "path": "data/bottle/train/good/096.png",
+    "file_sha256": "4fb0a3c26dc80d417473f52c3d6d5c7c410bac411b8e86391b0e23a5b0eec5cb",
+    "preprocessed_sha256": "895642bd1a47022be40e77f9c12291b7f212d160b180bfb463d748a9054c80c3"
+  },
+  {
+    "path": "data/bottle/train/good/097.png",
+    "file_sha256": "c56961852e48d230edf7edb841f5ca8644cf0c37c6669ac9e604fb674b6e4ada",
+    "preprocessed_sha256": "61d3daef48cea9a079678ff93a98ce8afb661b4adc83550d72433bbf026a433e"
+  },
+  {
+    "path": "data/bottle/train/good/098.png",
+    "file_sha256": "d11ced0126ff870d2a31c52f0884d1f7fdc8db3c6a6d7ebbef00b3eaecd1cdef",
+    "preprocessed_sha256": "ee5d532f2fbc5a0fc697f5bd0b7ce9d698e0ab6a75469062b4ef7f4b67403c6f"
+  },
+  {
+    "path": "data/bottle/train/good/099.png",
+    "file_sha256": "e1a4c992c162158ced8b193ba0a9f6633fa2ed317f345946db4d46733de9eddb",
+    "preprocessed_sha256": "6c3c1054db40a4e6473adfe5f956c940f16d24b314e1c922455ebd19e68fd826"
+  },
+  {
+    "path": "data/bottle/train/good/100.png",
+    "file_sha256": "f3b65510a1f6480b73b7072ccd05d154cd66dda782de1628ea68045a50c129d0",
+    "preprocessed_sha256": "81a8ada953ca119b22dbeedb9de2d498d74e6c6f890608a9b03206336d63c601"
+  },
+  {
+    "path": "data/bottle/train/good/101.png",
+    "file_sha256": "2d7c15f07db47803d9f631772b08b32d33df095df5d51c32a2ace9c1c7883568",
+    "preprocessed_sha256": "aecdb0fc05ec6701c025bf74f274ce662afb55ad67c5a4440e2571d28c6546bc"
+  },
+  {
+    "path": "data/bottle/train/good/102.png",
+    "file_sha256": "5386d806e16ce5d9d015cd90fe1b191c335b6b6e64026f41fa7bf14e603dc65e",
+    "preprocessed_sha256": "c9ab8ed2f7eb435b1d6c97b54fd5699485fc257f62a475477e7a7e6315f75874"
+  },
+  {
+    "path": "data/bottle/train/good/103.png",
+    "file_sha256": "46ca5e6ad7e75e3289a64eb6e8ac045253c9b6fe730dc1a0c913ec3a89c54803",
+    "preprocessed_sha256": "4926e886f7d6f476f85c3892582dd9203e72cf8f5822f37793b3211fec298790"
+  },
+  {
+    "path": "data/bottle/train/good/104.png",
+    "file_sha256": "e5647ac4f4f8bd8b2a717efabfa810e88760718a3e9e402e130db44b2f0bc58a",
+    "preprocessed_sha256": "99ad4144eb3ba96a7858ae8420228ad2b0d1936f0d59794f3aa8f02e188cbc2d"
+  },
+  {
+    "path": "data/bottle/train/good/105.png",
+    "file_sha256": "c4de3ba2c7d63be43db74b68fa16188f3e00cb4a2c7d51a8e37b84ab02c1b4d2",
+    "preprocessed_sha256": "6239e243d43865bddf08c5b1700c14f13e1d8d64a3611b319454bdbf8a502627"
+  },
+  {
+    "path": "data/bottle/train/good/106.png",
+    "file_sha256": "3a2700ef2b72514e52b11af74a2b1e9a8bc22155391e6dd2a45540b91c682e53",
+    "preprocessed_sha256": "9fb0b1cd84634520cf9c58a9bf0e6fe10c145a0e9dfb06677235910b62facc90"
+  },
+  {
+    "path": "data/bottle/train/good/107.png",
+    "file_sha256": "a5a5db9a4c258216dfdfef27343b7b51bb866556927f08c2aa475be9afd00ab9",
+    "preprocessed_sha256": "c9b96ae77d511cbb860c4ef0ebef4f3e831169b1d342bac483d21fc88e3f1666"
+  },
+  {
+    "path": "data/bottle/train/good/108.png",
+    "file_sha256": "c2af50f74c6d58638e645a9fb055ab56439d0e67a4da8daa63d00e61220c47b0",
+    "preprocessed_sha256": "de14d60cbd1ce9547721bea95aeb223dbfac1a0588826129854ffd39b07f33ce"
+  },
+  {
+    "path": "data/bottle/train/good/109.png",
+    "file_sha256": "21762b7de09dcabc7934dc0c493575036cf26830ebf23492ecd6f6ce15c056c9",
+    "preprocessed_sha256": "52a58fbd290b69373161ae0f4677cbeaa9c9ccde8d764a2a503ffb8f0d6f2866"
+  },
+  {
+    "path": "data/bottle/train/good/110.png",
+    "file_sha256": "319d8fecca8a1c0f16a3e809598c8fead6716184b74d29a43a8de4dd0d4d6408",
+    "preprocessed_sha256": "518a48e649b567cd2b0678e2814f1f1f7dcd60744d24f45be7388e33cc74e6c4"
+  },
+  {
+    "path": "data/bottle/train/good/111.png",
+    "file_sha256": "141e42f26599992fea73fa005382ad25bb75518aeabbfd8d705ac83bfca1ecae",
+    "preprocessed_sha256": "0eb770f5f342133e46472bd9eb103d038b8c1c4d08271572c02685584010530c"
+  },
+  {
+    "path": "data/bottle/train/good/112.png",
+    "file_sha256": "54f1cbac4964908eea641c2c61a283c98055b5330a7ae85596abb75b883041ec",
+    "preprocessed_sha256": "d1db87f53694ec670fa2ddef6a602ec3838df60ac7c6153d271cabf5dc1816b0"
+  },
+  {
+    "path": "data/bottle/train/good/113.png",
+    "file_sha256": "8799b98307e89010a0266eaccdacc20c72048b5866d2e9c01119375cd94c8d03",
+    "preprocessed_sha256": "b3562e1adf86472ff270864258b4ada0d41dd74c5a9839ef8d0021c24545ddcc"
+  },
+  {
+    "path": "data/bottle/train/good/114.png",
+    "file_sha256": "36d4e92d88ef92c638b5dbf17667a001b98beb6213acd7eeaf411be54c930bca",
+    "preprocessed_sha256": "77de9977a5d92a7202ca1b717df98a464af68a71f9007639c7ef76224d27aa11"
+  },
+  {
+    "path": "data/bottle/train/good/115.png",
+    "file_sha256": "458a7e5623885f31ec175d1bd517e3e60b21f1e06de113573c00f6c917f8bd69",
+    "preprocessed_sha256": "d0754a08c8ab76aca51d303bab151dd9e703b7dfc30b6a2db1ffdfe93a9ce135"
+  },
+  {
+    "path": "data/bottle/train/good/116.png",
+    "file_sha256": "4ddfaaeec9edb8483cd037577e3f78a1642737f2894189b128327c3bf19fa485",
+    "preprocessed_sha256": "144af9657df4cb76537d170c526d929b2c7b1f07afac7ccdf7b624d04132f2e7"
+  },
+  {
+    "path": "data/bottle/train/good/117.png",
+    "file_sha256": "94ce4a1ae16cea15ec2cd49deb1fde4461ad3b17956019c428904d1480fac2c2",
+    "preprocessed_sha256": "2b8ab9cf7f84a1cf2b25cc0d5d4949643b53735d1fdf2858490367d2b87bb566"
+  },
+  {
+    "path": "data/bottle/train/good/118.png",
+    "file_sha256": "786cbe4aa69cdba4b0f1dcc1aecb37b47cd6f8e0558c2fd73b9a8c811efddae1",
+    "preprocessed_sha256": "c3d57ae4676fa0c8354e0436560270ca9bf1bf1aa02f1f54a9c30a07c5e08530"
+  },
+  {
+    "path": "data/bottle/train/good/119.png",
+    "file_sha256": "cf1cdb1de9963e0acb7d97d8f26d7b78902026d65408b5d43b2e851aaffb81d4",
+    "preprocessed_sha256": "713ffe83bb00ab0470cd3259d771af90d6a0fa324f97b1c581556d9e7d7c641f"
+  },
+  {
+    "path": "data/bottle/train/good/120.png",
+    "file_sha256": "b569d619e8e419448ff8ea6e708a3f999e348efed72d19895cd947a25c398315",
+    "preprocessed_sha256": "13cad24d3ec4a5cc1d3b9bf6e246154fc0bfca82a87a9741ba7038b1f37e4590"
+  },
+  {
+    "path": "data/bottle/train/good/121.png",
+    "file_sha256": "e776eef773529b358c1c300eabb3840115b8d30bf9e4c0e349d7c84fe0360433",
+    "preprocessed_sha256": "3481498ca7b471c53f5ee5c326ae58ef900e3ee2aa8d134f623273cfe17d0963"
+  },
+  {
+    "path": "data/bottle/train/good/122.png",
+    "file_sha256": "31d47d2f89ce2d347e5bf13a30263e57845a2afa1ce942b8b7c09a5d5d3b0828",
+    "preprocessed_sha256": "775d99a4d7505666e4135740551214d00a19e60700bfa06b55137340d6a4d9c4"
+  },
+  {
+    "path": "data/bottle/train/good/123.png",
+    "file_sha256": "3b43b81d89c9e3ba46c91ba2eef5c86c932626d91e8ed1ecf53b2a657075f0cd",
+    "preprocessed_sha256": "839e52efb615305305a24b99e06117ecdedc20e99e13dcd2a6ca52a7d2fd4f29"
+  },
+  {
+    "path": "data/bottle/train/good/124.png",
+    "file_sha256": "6a58ec43b155b45b76d076437925e4f167f04091748a508048d5ff96c1104136",
+    "preprocessed_sha256": "a4b44c2b99cff533b10e50696bac37ca1c9583a28ed77b9867fbc40dc6aa155f"
+  },
+  {
+    "path": "data/bottle/train/good/125.png",
+    "file_sha256": "8d3909fa8bf034d1cdb026bcb216a498debc272c20d5f78f2ad6a0a788be7eb3",
+    "preprocessed_sha256": "c2be384e57243ea841dee1d3c5ac04ec8a22a20184983b456c048d3e1a6c4bb8"
+  },
+  {
+    "path": "data/bottle/train/good/126.png",
+    "file_sha256": "944059e23461e9720ccf90348e03ae5d401bc470d96e5f2ff6f2609a851c5afb",
+    "preprocessed_sha256": "a69926082fcbe572b4d7963a52c786e159796f8aa43648567d8b621782358789"
+  },
+  {
+    "path": "data/bottle/train/good/127.png",
+    "file_sha256": "f21003dd0ed9f30ed6dee799023e198c5acd034c96c0b902acb6f71ca978cd2d",
+    "preprocessed_sha256": "e410024da621cd8a03e1f4d0fcb1ab463645b93501f7fea5b6224f610911ce07"
+  },
+  {
+    "path": "data/bottle/train/good/128.png",
+    "file_sha256": "80de6ae7a48146eb91e9e8cc51d107f6fa1d2114598156e625b7ba1ab2d894bc",
+    "preprocessed_sha256": "c94f32bd5c02e218b8dcd6d06c0124e0d1dec898f044902abf9c332b0c3c0a10"
+  },
+  {
+    "path": "data/bottle/train/good/129.png",
+    "file_sha256": "0c4c543d0d3f770119334e438b619b649fa84316225ee323bd3c2a558ce35c4f",
+    "preprocessed_sha256": "13e469147574c0a1098bae3d5ce81bb2b09db78c609f82de01f61b4274d510d2"
+  },
+  {
+    "path": "data/bottle/train/good/130.png",
+    "file_sha256": "dd2b011340ba2b28f471e25c24cd70e86cf5501f6a7d4f413c568503a15721fe",
+    "preprocessed_sha256": "3f01f6affeb659848ebb0bf5d1a10ac3d43e5be3ea6d921e99b3690230d52f62"
+  },
+  {
+    "path": "data/bottle/train/good/131.png",
+    "file_sha256": "0c3bd83326c85b3ecec654964a8fec78e16010777146ac5709028ff3c430db76",
+    "preprocessed_sha256": "67f83c503c5c78aab070bfa954d42291f6b359b0a9f8fb945d01eba86b3f2b05"
+  },
+  {
+    "path": "data/bottle/train/good/132.png",
+    "file_sha256": "fb22cbb08c73151c8aa89c415d88b23688dccf394444243f04e9c192f2de83b1",
+    "preprocessed_sha256": "9666da5dcc80c8419cba630eda8d6312bb885f6fc2a5556a559fa4955b8c5b67"
+  },
+  {
+    "path": "data/bottle/train/good/133.png",
+    "file_sha256": "7406eeb9d09eacdcf9ea6c54637e5586d188a0be44615cba24723bafbd547029",
+    "preprocessed_sha256": "769af6b1844ceec24e806e672fd0336ecaf499bcda07bffd0b8b207ed2d6fe2c"
+  },
+  {
+    "path": "data/bottle/train/good/134.png",
+    "file_sha256": "ce3d2d784e15987c508213c87ea538e4dd82639856ce1ffd5701b175143249d4",
+    "preprocessed_sha256": "655639e70838baaf42325e9507b929d99d13efba3e835f0caf06ebcecee87d69"
+  },
+  {
+    "path": "data/bottle/train/good/135.png",
+    "file_sha256": "0340069a42fff669cc7b902d001cad76c636a65cbd47e521dfe21172fcc244fb",
+    "preprocessed_sha256": "390e1df1165637e138f2f1c54c0b6e12f3b29df3f34edd9a845b4af7382b2875"
+  },
+  {
+    "path": "data/bottle/train/good/136.png",
+    "file_sha256": "dee19a0c68ba61c18615ed8516ece0b6f072427e77ba57b93aca4798cfb1b979",
+    "preprocessed_sha256": "9ceb910ac721260a15cdd78b7b0ec11903fe5da61137b1a1f7b119e6f6ce540d"
+  },
+  {
+    "path": "data/bottle/train/good/137.png",
+    "file_sha256": "73af601ed1d53e3ef2d320bf9e9d37f66190b372ee12a183a0e163d4b7301e4b",
+    "preprocessed_sha256": "7021c9dbc01d1cee1e8bc4fcfc5666d8d7c687770dd72cc399549a6fc7d44f2e"
+  },
+  {
+    "path": "data/bottle/train/good/138.png",
+    "file_sha256": "be3e7df715fd4d0072670f7058c70c7374475700272b8af7c95846d0eed75766",
+    "preprocessed_sha256": "dc11dc1393fc0c2650b0319d5d8f83578ae7eb1e0e9acb0a63b1ba300d97d7ab"
+  },
+  {
+    "path": "data/bottle/train/good/139.png",
+    "file_sha256": "1072c0c297215735147490bdc7cf954a3d2703a897d7455b67e8684f353e4ed9",
+    "preprocessed_sha256": "7d193938245de52a7f21e61caa5820eff2c00dbeac262fab31932a20835acd7d"
+  },
+  {
+    "path": "data/bottle/train/good/140.png",
+    "file_sha256": "f2719c759aefc178d546217dc97640fb0f641b3dbba5735f3ce5629249cb3c47",
+    "preprocessed_sha256": "157dda4b14a247dee62b304a59c070f986406a4304f6bc4d23d68082a72997d1"
+  },
+  {
+    "path": "data/bottle/train/good/141.png",
+    "file_sha256": "3ae2b333497d25fb2bc7833a9cf99591c85c0ce8b857eb13c84fe6ff8fa99886",
+    "preprocessed_sha256": "4f4a330eeb04a99be57e8f30cae374df49457297d62dd828786d8e72dbf1a463"
+  },
+  {
+    "path": "data/bottle/train/good/142.png",
+    "file_sha256": "a814867244980bcb110736f1dde7dcca3eb17e710f0a7bae4d2b1f5efe06f005",
+    "preprocessed_sha256": "29354269cf886afaa78bce24119d309b91dcc1ada60b31ea7a756e153e112f1b"
+  },
+  {
+    "path": "data/bottle/train/good/143.png",
+    "file_sha256": "ec15d8a9a4d1a476b96e03ffbaf3607362f6f80f42c6f968a17d7984c63d3794",
+    "preprocessed_sha256": "5dab2df4429229828aea0183b18f0189495259535ee07a1a677542b874e4d912"
+  },
+  {
+    "path": "data/bottle/train/good/144.png",
+    "file_sha256": "73891507bcb540604d8bf4269ec73bb8121cd088813b70857f386330c07ce1ed",
+    "preprocessed_sha256": "bc6ce516c9b7fb0e3a6c835802c66008d32c5dba30631d7204580a56abbf9bb7"
+  },
+  {
+    "path": "data/bottle/train/good/145.png",
+    "file_sha256": "964f0ba0b2bd34352267b72b4d8d4aa5bc447b7accdb3ac30c30b3f59d73c5fa",
+    "preprocessed_sha256": "40678a36a1ceae5773304e28d56ea57237cc26898a8a27908d69d9121f8eb8ce"
+  },
+  {
+    "path": "data/bottle/train/good/146.png",
+    "file_sha256": "227c97eca0417a674392776fd7656d30a52af454835b84fdfb021dcbcdae5ec4",
+    "preprocessed_sha256": "bd2644cf4c1fa79d91c457a2257055df15ec775d4e31e3c5bb49147d8e4066cc"
+  },
+  {
+    "path": "data/bottle/train/good/147.png",
+    "file_sha256": "effbfa26216c3804c353abf7fa8a15b802612706fc929d6176bef6ce17882652",
+    "preprocessed_sha256": "cd8294ccb932e635e5da213259e12d87c1d1e817c0406913ec385d499b4318eb"
+  },
+  {
+    "path": "data/bottle/train/good/148.png",
+    "file_sha256": "23b47753e2badee3fa340475d4896b2a17677c3d11d276a9a251c10e155bd36c",
+    "preprocessed_sha256": "785c987249d5eba54e713069d71da92564854629001a7e5c499ec18c7896eb00"
+  },
+  {
+    "path": "data/bottle/train/good/149.png",
+    "file_sha256": "444a2d7be71e2cc32928cbdbe379c3f3c9e219362e4c6189ac188e5029e404d4",
+    "preprocessed_sha256": "fa636849792b34a4baccc7333d9d0c4d0cb7d79b3d71b81f18fde8b78ad04138"
+  },
+  {
+    "path": "data/bottle/train/good/150.png",
+    "file_sha256": "7933da0e3fe172474fe04c5e7fc75f5121275c5d04d539a9af8d212a89e8034b",
+    "preprocessed_sha256": "a0748b13b4c031f1926ab252c5deabc879415d2abfbfc8965009ca40aecc2c38"
+  },
+  {
+    "path": "data/bottle/train/good/151.png",
+    "file_sha256": "9963bf9ef414a7e822b51a61dc817c113c309c661d4d619a24771da1a25e52b3",
+    "preprocessed_sha256": "f45ca4554e43e3049ab5ad1e9e463c6ae92d83c915056fd815fc191965000a70"
+  },
+  {
+    "path": "data/bottle/train/good/152.png",
+    "file_sha256": "ba7d31e40f6a3eed3dfb2d38ddc14785bbe81ad579b16368e3208a748d8da84c",
+    "preprocessed_sha256": "761f40debfcfa22831159bdcefef32ae23faea7f92387348ee042457cead2e58"
+  },
+  {
+    "path": "data/bottle/train/good/153.png",
+    "file_sha256": "4efc403ad8589117d6707151da82beb4a0f2d50ba96c35beabbd4a88fc4798d8",
+    "preprocessed_sha256": "6f1ce68064b3af6d48cf18ccb97a66965375da407e0be0aeb307c928f06be832"
+  },
+  {
+    "path": "data/bottle/train/good/154.png",
+    "file_sha256": "240f78d67c686abbbd1e96066a1e4d2d128778431e9088a26ab20807247dd75f",
+    "preprocessed_sha256": "79c0c63b3a0fee78c930685b62a3bcef951e0b31bd5ed97b5f2dab5184a00041"
+  },
+  {
+    "path": "data/bottle/train/good/155.png",
+    "file_sha256": "c931f3c7a8335fa857f2b0573bd5e261ec27ee1292f76f085132a2b4b03181de",
+    "preprocessed_sha256": "89390e9284c9cfd16ae63084e2ae414c953c38d903985fbad76f476cf5ad581f"
+  },
+  {
+    "path": "data/bottle/train/good/156.png",
+    "file_sha256": "8c49d86dee53b3ce63e8269c8c2ee2c83258ec34528b082e5ccb4b7e1fb61fb6",
+    "preprocessed_sha256": "54846654234b03934e360a9bd1ed7e5c61562656585dcac938953a613ed78695"
+  },
+  {
+    "path": "data/bottle/train/good/157.png",
+    "file_sha256": "e4a5c2f8ddb99cb6836996835134ce3a112dbc6ea7e124607263a7a6e310ee16",
+    "preprocessed_sha256": "43bbf77d1ceb1b6c4af639caac8c8e41637948de19c73b271335cb7df95dee56"
+  },
+  {
+    "path": "data/bottle/train/good/158.png",
+    "file_sha256": "395472854e57a8a7209202e88bbf76247a3ce2a434b015ee47ef53cde574da77",
+    "preprocessed_sha256": "4dedc480c509f4ce5a4a4a49342c82d49f0968dc03152d5ba0a921496fb46efa"
+  },
+  {
+    "path": "data/bottle/train/good/159.png",
+    "file_sha256": "1d01990504bc24efb343097f16c83ff63563cd71a9257e35d1226774b1c84d50",
+    "preprocessed_sha256": "48b7e95437acbde7e43ca1c2bcee45fcab46a4027223836d761786a4dbce8d50"
+  },
+  {
+    "path": "data/bottle/train/good/160.png",
+    "file_sha256": "041466aef5f025bef0f0f39a73caae2ba4bc78fbfc1158391bb45fdd98deaa62",
+    "preprocessed_sha256": "af54e41fde53562f46d5676ff13a3856b049b29882c9dfd449fd30dbfd6a47a7"
+  },
+  {
+    "path": "data/bottle/train/good/161.png",
+    "file_sha256": "c701921f9544bf7e6025faf7947357cdaacdb469cee2dd8757f33107c3370e63",
+    "preprocessed_sha256": "bde2999102e370f7626c1b35d4dfb4e986df88254c57b57fab8c9ee345d3fc1f"
+  },
+  {
+    "path": "data/bottle/train/good/162.png",
+    "file_sha256": "867f712355bb3b48debff36ae7aa6959a04c2886ce1fee7dbde8966302ac8b61",
+    "preprocessed_sha256": "7acd135addb0527471dd67f5e70676a443b141b0015cee4e5a0f0e3488a920dd"
+  },
+  {
+    "path": "data/bottle/train/good/163.png",
+    "file_sha256": "88821dc57a174f12252872f3bfd03dde2acc0c941bc9425035911ce969523249",
+    "preprocessed_sha256": "d2be9f6d45caf85e1280aa556b8604b4c7575f9f21000592f427512a4682e42c"
+  },
+  {
+    "path": "data/bottle/train/good/164.png",
+    "file_sha256": "27eda00fe8bd67fe8fb723ad5bd6074782d618f099c8831d3b365dc12c45f756",
+    "preprocessed_sha256": "b065334b60bbc56bef5dd6a0d82f528e69c44b217f372f7c01cb720cca9f7f1a"
+  },
+  {
+    "path": "data/bottle/train/good/165.png",
+    "file_sha256": "a8d92b29bad7077db7eded58bed35b8fe1e49faf3bc3d0886f01144d03d551ae",
+    "preprocessed_sha256": "4ae18fc80409d71d0a65571f02712d50adc018fb5ddec18fddf927eb95b14267"
+  },
+  {
+    "path": "data/bottle/train/good/166.png",
+    "file_sha256": "e182aaaada3d6b701fa542289bb70854036b7183a9b8749342f50f51a75e3590",
+    "preprocessed_sha256": "ab1023d1c91fff426b98cbde2f95e4c78adf05e835da90e54ad3b4143d55622f"
+  },
+  {
+    "path": "data/bottle/train/good/167.png",
+    "file_sha256": "17655246a2a4e78f10854ffb65786de5b9ca49bbe1a38e1e0149c6235b6942ad",
+    "preprocessed_sha256": "e4df5a1a0c3614fbdfcaa707a817fd9a73a0fa46a1f94ca24da19680cd3f5289"
+  },
+  {
+    "path": "data/bottle/train/good/168.png",
+    "file_sha256": "79cc0a25256a33f2091c6e28c0092b6747105f7498cedea841f500c12e7eb0e7",
+    "preprocessed_sha256": "1bf20af24a8c9cdbd4e392323395b059196ad9c610cfe2b5d8833e81bd34331a"
+  },
+  {
+    "path": "data/bottle/train/good/169.png",
+    "file_sha256": "1bf3ad96b67849c864e3efac2e90cda2d2cc51a9299c2ea3af4c39cd03366a4d",
+    "preprocessed_sha256": "f2c3e7a2590fca59297cf73adb7f277a97b32b34747f9587be4b4511e00f737c"
+  },
+  {
+    "path": "data/bottle/train/good/170.png",
+    "file_sha256": "f5656d35f7bcfffd99c88b525d62964e60950143fce0c7fee7a76be09448e656",
+    "preprocessed_sha256": "db988b5db9dbee5ac53b523214d01d0e532277fb1b273dc2db362e5f10799708"
+  },
+  {
+    "path": "data/bottle/train/good/171.png",
+    "file_sha256": "b16c0230ee604e6dd068ce3a43e21c81c6db9686e291cfa12c5848dd8d69b335",
+    "preprocessed_sha256": "48a784d357404bfb3ba7d0b57182f2ed84d6576978036e6457a593587fa98586"
+  },
+  {
+    "path": "data/bottle/train/good/172.png",
+    "file_sha256": "7b045f9d28f363ab8a73a86b06deb41f80533a46ebc07c5c803a36fe92c72b71",
+    "preprocessed_sha256": "4770467a3653f558551c21b8e05bc76455b1d197708d20e84f32ce3fb38a29b8"
+  },
+  {
+    "path": "data/bottle/train/good/173.png",
+    "file_sha256": "e5b4469783dba8533f176214f2cc98f888c7a500f0246ddfc3c3edd88f00f87b",
+    "preprocessed_sha256": "f37a25f9f2938620cf811a6ca35d0d9e89a570cd3fd9cda2b59d1afb833729b8"
+  },
+  {
+    "path": "data/bottle/train/good/174.png",
+    "file_sha256": "2fc95a18e00634fd3ccb286cf04ce92f945d817368caf7865462434103f820b8",
+    "preprocessed_sha256": "eae64b42734459cacd587bb1d4fb7bd5bc918d68313554a5ec02bd93fa9805e3"
+  },
+  {
+    "path": "data/bottle/train/good/175.png",
+    "file_sha256": "99c43c84a67ee65a17a25d324fef1853dc04459eaf6d0e03fa7ebc20962918ca",
+    "preprocessed_sha256": "05913c75cb7aeda56f2944d119888258ecb590c28afe57de2c3ba3533c72e876"
+  },
+  {
+    "path": "data/bottle/train/good/176.png",
+    "file_sha256": "342f28d113515dcb2bd68a71e33112377c95b9fe78bde3612db290f58e96e971",
+    "preprocessed_sha256": "03e0eb1e387b2eab995e23129f5c47b9d693a990a2000770164acaf7fe302119"
+  },
+  {
+    "path": "data/bottle/train/good/177.png",
+    "file_sha256": "6701c975a0815a9cda6b56967a252c50a88ea03fdd95f945849611f836d45db0",
+    "preprocessed_sha256": "4981325472c4f528d22a97824cbe98f6933277abe646f5f8bee5c10e3eb185f2"
+  },
+  {
+    "path": "data/bottle/train/good/178.png",
+    "file_sha256": "2f0bb978b83cf3bd2ff5f991a2978343d9604090d7255ff27557ab3888e49692",
+    "preprocessed_sha256": "3afce5e11591956fbb907b48bfef87af1b270c58746fa6a542e623be6f0fde6b"
+  },
+  {
+    "path": "data/bottle/train/good/179.png",
+    "file_sha256": "e54b7f1f22c1ed5795b3a09a426c15eac516fd712df3744223a0cd6440321c48",
+    "preprocessed_sha256": "18b86f8bb7b5d7c5f342c005399c004e73b5f76333b6154d88d08fdb222d75db"
+  },
+  {
+    "path": "data/bottle/train/good/180.png",
+    "file_sha256": "4abbc0205890a0501807ffedcd2525d554ec057c8f57bc9dbb906144b4d5563b",
+    "preprocessed_sha256": "58343b8d28226fe36484dbd4ed23cd072d758340cf70b983243516fa7776cb37"
+  },
+  {
+    "path": "data/bottle/train/good/181.png",
+    "file_sha256": "066c05b681ca052fbe526ed2a60e6f21009e2858afe3066ad4d9f1809e9a093a",
+    "preprocessed_sha256": "069c72592579271eee68efe612a1b93d02e1856823277487fba2d68216ff9903"
+  },
+  {
+    "path": "data/bottle/train/good/182.png",
+    "file_sha256": "74d3e9c93703ce8d8e75cc27bacd72a7cb6ae3b02c3ef24594dc557a22af335e",
+    "preprocessed_sha256": "a00dd6ab5b3e22220ebbb50e7e42fd956ab4cfc55333684909ed1f6c67bc2f8d"
+  },
+  {
+    "path": "data/bottle/train/good/183.png",
+    "file_sha256": "dfa04efa0b98ce6a73981b1bc971ee1e3ede3b43741cf6366e785454513dd5c4",
+    "preprocessed_sha256": "b148cb5ce12e6e67597ba6489704e03a30888353921176f7d9ba64d33153f772"
+  },
+  {
+    "path": "data/bottle/train/good/184.png",
+    "file_sha256": "e6a95fe96793a6eb825151968f468aea0d6bbc243f415cf53e70a487e74901c1",
+    "preprocessed_sha256": "16ffd946f3e4ce007da3312cd2ca1aedf64e7e4f8a58e765da0d51de134eceab"
+  },
+  {
+    "path": "data/bottle/train/good/185.png",
+    "file_sha256": "0769d698118a46bcab667178818940ffc7984f7cc0f2d356c539ae810bbd510e",
+    "preprocessed_sha256": "b528d905d485024f360c95a0aa758cc87ac5ba1525d6f73e677a2bf5353419f7"
+  },
+  {
+    "path": "data/bottle/train/good/186.png",
+    "file_sha256": "16e4ef828af6867ac5592a1c70cf0412518316d9d5ba90db98d9b3222db46b20",
+    "preprocessed_sha256": "94e9ad8b8e2d910b9f3588d8e5491b31857c699d3dac818b4edc6537a38b04ea"
+  },
+  {
+    "path": "data/bottle/train/good/187.png",
+    "file_sha256": "e10abf9d218aeac81d3cced1fd6367e7728c3abfb7072e003c8de3ea1a71eb34",
+    "preprocessed_sha256": "1546c725afbaee104912364152f7a15f3ff2b103645bbce08182f8d3f3a6a641"
+  },
+  {
+    "path": "data/bottle/train/good/188.png",
+    "file_sha256": "e8b29ec37dae399f398c4792aa8bf9821023a512ba49eb8936198ce8789f8353",
+    "preprocessed_sha256": "a6ee35ceb2fd73d4113823f97e235a9a3a8ffdc9c161b09cd4e5854ed2000725"
+  },
+  {
+    "path": "data/bottle/train/good/189.png",
+    "file_sha256": "3da89d6594be3ec58b05f9135b08dc7cbddf4326597c4f204fa4b61efb45f24c",
+    "preprocessed_sha256": "d847ba2c03dc99c31593a7cbf5cda2d9825759c6a15cb0b995fe8f7b89c90f2e"
+  },
+  {
+    "path": "data/bottle/train/good/190.png",
+    "file_sha256": "817fbc9e317c1f5072fb3b39af398e951a6432b01ddd049daa3af264d1b56095",
+    "preprocessed_sha256": "f60bd29d80112fb0a58b032c01f823536b81b75a63c44837c4323717ca3b1e03"
+  },
+  {
+    "path": "data/bottle/train/good/191.png",
+    "file_sha256": "aa2be01b4b501f33fa2b9c69b150774255302f39c29ed517326b9fce7fe4ece8",
+    "preprocessed_sha256": "8d21686c5e9cdccdf96d0e7d3fae0924e2ea3ece60154fb54e528cce6c9089cd"
+  },
+  {
+    "path": "data/bottle/train/good/192.png",
+    "file_sha256": "465ba527bdf40e00325285abe7b6028813661a7420a59e3dadd287c0290c8f87",
+    "preprocessed_sha256": "80e5496b4b14a38b0ae494b0ad5c0193b03ff6be4efead3479225d7eef649b77"
+  },
+  {
+    "path": "data/bottle/train/good/193.png",
+    "file_sha256": "1c1a127ff79f2de3391a8cb1bf93e87a4bd396b73fdacee8990b297e97c0601b",
+    "preprocessed_sha256": "85958e9469d477c7243ef15d4b89d2a3f2b20dc576400e08d4c4a5670dbfa2a7"
+  },
+  {
+    "path": "data/bottle/train/good/194.png",
+    "file_sha256": "bf8a182c3a5396d584aabc9c46e8f1bc422536eabb462306439d616770958fd8",
+    "preprocessed_sha256": "29a2bfee45dbec9a06e5c2b423bb9513aef176c64549a3b896e2764d8a2f755f"
+  },
+  {
+    "path": "data/bottle/train/good/195.png",
+    "file_sha256": "9fa40de41750f9e07991f2b81e157b0a24778cc3a0f891a4a4a3b66a6dac5f47",
+    "preprocessed_sha256": "6983f78a13b6fa65636691f484bf8be5a31e979d9f8cdad1e206755706535e03"
+  },
+  {
+    "path": "data/bottle/train/good/196.png",
+    "file_sha256": "5b2178c5d9c14f180faa21a3ed4f1f5210b8b9b539eeb31df44df5bb71b181ed",
+    "preprocessed_sha256": "143785028850e4780ede991717864c448ec381d81410fa1a0b2a575d48ddc415"
+  },
+  {
+    "path": "data/bottle/train/good/197.png",
+    "file_sha256": "852d1cf77861a48bfd88ebc23a0667fc062786e527ecbd385cfa5692213c96dc",
+    "preprocessed_sha256": "86c4f46f9b6a2c2bb4a3270509ef0cb18fd1b3f11d9d59a369c68cc774619735"
+  },
+  {
+    "path": "data/bottle/train/good/198.png",
+    "file_sha256": "4646f9fbdec0168c37f122a338968ad7b97db18ccaa35c4281a997e0d2f4cb67",
+    "preprocessed_sha256": "3943e83375a11f0634859ff9a4bcd23d5762a438ee95c67727d619a25e359df8"
+  },
+  {
+    "path": "data/bottle/train/good/199.png",
+    "file_sha256": "b2f9680e1c915daf3d8f705834f32382e0ddd2bf1196d228993e9644adeb7a00",
+    "preprocessed_sha256": "cf6e5ba23c84e19562705e8b80f9b880ed30b322c3960596a84d5665205b1457"
+  },
+  {
+    "path": "data/bottle/train/good/200.png",
+    "file_sha256": "62ff9c208bd7f59f04a1efe090f78aeb94507de20f6a71b80f31706677048338",
+    "preprocessed_sha256": "5dae84e1b44c0f74780b94bae92a39b7f08143c805339486cdc1bb128cbcb191"
+  },
+  {
+    "path": "data/bottle/train/good/201.png",
+    "file_sha256": "0e17e4c4825b1a2b44d605dcd5dee4d6cd0030c48d6cd407892e5ffc7af8e774",
+    "preprocessed_sha256": "00ba18d3cf8524ba9ecff2ef2fe98e342af3d46b6c4eeb5b6d07080b57d7c234"
+  },
+  {
+    "path": "data/bottle/train/good/202.png",
+    "file_sha256": "b8b4c42700a70431f50627b0f2d92ba6d2ba5505a4f17d2c8e54a07323e91cd2",
+    "preprocessed_sha256": "109d329ee08ccf9286a764fcbe6f3c45f2142cc313543aa8fe20e8651270ae7d"
+  },
+  {
+    "path": "data/bottle/train/good/203.png",
+    "file_sha256": "d67173e677dc3934521819b986d131f158e776e6c22935b516a97d821f82385a",
+    "preprocessed_sha256": "c4eae2a3a8325cf0eb6023d4b33212029bc67c7c74d56e74b0a35950f6b21331"
+  },
+  {
+    "path": "data/bottle/train/good/204.png",
+    "file_sha256": "503dfd1395d4ae17446c55bf77d9b611d2923ac4d44f80167fe7d4424c15614d",
+    "preprocessed_sha256": "be18a41ff14b10c260070ce16290a868c33ed34905731f04b4733eedb223c4c0"
+  },
+  {
+    "path": "data/bottle/train/good/205.png",
+    "file_sha256": "ebf6d056a9534420d51d13516ee3b46468b5d1c2a5198823b577f8e00bace25a",
+    "preprocessed_sha256": "0ad69dd227fc569249fd46722124d6d19ce92d79d978a07704486ac16851b1c6"
+  },
+  {
+    "path": "data/bottle/train/good/206.png",
+    "file_sha256": "d8c79bc8793403ad4a731bfda783b34126396f27ded0268392c2eea6ba6d3280",
+    "preprocessed_sha256": "bb6b819707dae10aaffe8ea64414f8c9a42fd5ff8489da02b22946bfad1971f1"
+  },
+  {
+    "path": "data/bottle/train/good/207.png",
+    "file_sha256": "8d3a37405af7d2713754db40c487a6f7d6abcc5968cabb36870ddafdfd682303",
+    "preprocessed_sha256": "cb7f5c1b2202173f1636209b7fd80d0e382038450032a324b1211043fb04cfd4"
+  },
+  {
+    "path": "data/bottle/train/good/208.png",
+    "file_sha256": "87bd5efa31f4d982b18104060c2a105c3981fa91f47b28b6be8fac2170b1b80d",
+    "preprocessed_sha256": "58660bc32afbe50fe65f4eb5b74da00692c0c3fee989d4d7840c524f515fe64f"
+  }
+]
