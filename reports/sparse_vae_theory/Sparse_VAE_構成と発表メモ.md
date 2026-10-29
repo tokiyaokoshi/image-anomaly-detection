@@ -236,21 +236,21 @@ https://arxiv.org/abs/2605.02918 第5.2節。専用正則化と次元方向の�
 
 ### 発表原稿（45〜60秒程度）
 
-Rの中身は、著者が指定した実装で確認したこの近似式です。まずℓをlog αと置いて学習すると、αをexp ℓで表せるので、正のαを制約のない変数で扱えます。赤いsigmoidは0から1へ滑らかに変わる関数で、ℓが増えると大きくなります。ただし前に負号があるため、この項は小さくなります。青いlogの項はsoftplusと呼ぶ滑らかな正の関数で、引数がマイナスℓなので、ℓが増えるほど小さくなります。したがってグラフのようにRも減り、損失を最小化する学習はαを大きくする方向に働きます。これは通常の標準正規事前に対するKLそのものではありません。実装ではRの計算に使うℓをマイナス8から8に制限します。
+Rの中身は、著者が指定した実装で確認したこの近似式です。log αを学習すると、αをexp(log α)で表せるので、正のαを制約のない変数で扱えます。赤いsigmoidは0から1へ滑らかに変わる関数で、log αが増えると大きくなります。ただし前に負号があるため、この項は小さくなります。青いlogの項はsoftplusと呼ぶ滑らかな正の関数で、引数がマイナスlog αなので、log αが増えるほど小さくなります。したがってグラフのようにRも減り、損失を最小化する学習はαを大きくする方向に働きます。これは通常の標準正規事前に対するKLそのものではありません。実装ではRの計算に使うlog αをマイナス8から8に制限します。
 
 ### 数式・要点
 
-$$R(\ell)=-k_1\operatorname{sigmoid}(k_2+k_3\ell)+\frac12\log(1+\exp(-\ell))+k_1$$
+$$R(\log\alpha)=-k_1\operatorname{sigmoid}(k_2+k_3\log\alpha)+\frac12\log(1+\exp(-\log\alpha))+k_1$$
 
-$\ell=\log\alpha$, $k_1=0.63576$, $k_2=1.87320$, $k_3=1.48695$.
+$k_1=0.63576$, $k_2=1.87320$, $k_3=1.48695$.
 
-$\operatorname{sigmoid}(t)=1/(1+\exp(-t))$, $\log(1+\exp(-\ell))=\operatorname{softplus}(-\ell)$.
+$\operatorname{sigmoid}(t)=1/(1+\exp(-t))$, $\log(1+\exp(-\log\alpha))=\operatorname{softplus}(-\log\alpha)$.
 
 - log αを学ぶと、α=exp(log α)で正を保ち、桁をまたぐ変化を扱える。
-- sigmoidは0〜1へ滑らかに変化する。負号付きの項はℓの増加で小さくなる。
-- softplus(-ℓ)もℓの増加で小さくなる。
-- 実装ではR計算に使うℓを−8〜8へ制限する。αの上限ではない。
-- 数値的にはlog分散＝log α＋2 log(|μ|＋10⁻⁸)。グラフはRの計算に使うℓの範囲内。
+- sigmoidは0〜1へ滑らかに変化する。負号付きの項はlog αの増加で小さくなる。
+- softplus(-log α)もlog αの増加で小さくなる。
+- 実装ではR計算に使うlog αを−8〜8へ制限する。αの上限ではない。
+- 数値的にはlog分散＝log α＋2 log(|μ|＋10⁻⁸)。グラフはRの計算に使うlog αの範囲内。
 - 実装のneg_KLとRの符号は逆で、返り値で符号を反転して次元方向に合計する。
 
 ### 出典・前提
@@ -258,7 +258,7 @@ $\operatorname{sigmoid}(t)=1/(1+\exp(-t))$, $\log(1+\exp(-\ell))=\operatorname{s
 式・係数・符号・計算時の制限：https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py
 対象論文第5.2節：https://arxiv.org/abs/2605.02918
 背景：Molchanov et al., Variational Dropout Sparsifies Deep Neural Networks (2017), https://arxiv.org/abs/1701.05369
-グラフ：07b_公式近似正則化R.svg。ℓの制限範囲内の理論曲線。Rの具体式は対象論文本文の展開式ではなく、公式依存実装で確認した式。
+グラフ：07b_公式近似正則化R.svg。log αの制限範囲内の理論曲線。Rの具体式は対象論文本文の展開式ではなく、公式依存実装で確認した式。
 
 ## 13. αの増加には、正常を復元する要求が対抗する
 

@@ -148,3 +148,7 @@ $$
 3. 著者指定MultiVae `adni_dev` の[固定コミット：分散と正則化](https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py)（138〜166行）、[CVAE本体](https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/cvae/cvae_model.py)。今回、固定URLのソースを再読して式・係数・log αの登録を確認。
 4. Molchanov, D., Ashukha, A., Vetrov, D. (2017). [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369)。公式実装が近似正則化の背景文献として参照。
 5. 既存の研究資料：[入門](../../docs/papers/sparse_vae_2026/Sparse_VAE_はじめの一歩.md)、[論文解説](../../docs/papers/sparse_vae_2026/論文解説_Sparse_VAE.md)、[比較理論資料](../../docs/papers/sparse_vae_2026/通常VAEと比較して理解するSparse_VAEの理論.md)、[研究記録](../../memory/memory.md)。
+
+### 2026-10-29：12枚目の記号表記を統一
+
+12枚目と正則化グラフ（07b）は、省略記号ℓを使わず、数式・説明・軸ラベルをlog αに統一しました。生成ノートブックの該当セルと発表ノートも更新しています。関数の値や計算条件は変えていません。
