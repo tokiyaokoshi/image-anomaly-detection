@@ -1,6 +1,6 @@
 # Sparse VAEの理論と画像異常検知への応用：構成と発表メモ
 
-2026/10/29。本文16枚＋補足3枚。評価指標はAUROCのみ。
+2026/10/29。本文19枚＋補足3枚。評価指標はAUROCのみ。
 
 [PowerPoint](Sparse_VAE_理論説明.pptx) / [全ページの一覧](previews/一覧.png)
 
@@ -141,7 +141,7 @@ https://arxiv.org/abs/2605.02918 式(3)。https://github.com/AgatheSenellart/Mul
 
 ### 出典・前提
 
-https://arxiv.org/abs/2605.02918 式(3)。図：04_αと分布の広がり.svg。μの変化は補足19。
+https://arxiv.org/abs/2605.02918 式(3)。図：04_αと分布の広がり.svg。μの変化は補足22。
 
 ## 8. 復元への影響に応じて、αと重みの学習が働く
 
@@ -203,9 +203,87 @@ https://arxiv.org/abs/2605.02918 第5.2節の説明を仮想曲線で可視化�
 
 https://arxiv.org/abs/2605.02918 第5.2節。https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py。図：07_復元損失と正則化のバランス.svg
 
-## 11. 線形モデルでは、ノイズに強く依存する代償を計算できる
+## 11. 損失は、復元項と各次元の正則化を足して最小化する
 
 [プレビュー](previews/slide-11.png)
+
+### 発表原稿（45〜60秒程度）
+
+Sparse VAEは、この合計の損失Lを小さくするように学習します。赤い復元項は、正常な入力画像と復元画像の違いを評価します。青い正則化項は、潜在次元iごとのRを合計したものです。αは各次元で学ぶ相対ノイズで、画像間で共有します。μは入力によって変わるため、同じαでも実際の分散は変わります。βは両者の重視の度合いを決め、他の条件が同じなら、大きいほど正則化の影響が相対的に強くなります。ただし著者のSparse設定はβを1に固定しています。本研究の通常VAEが50エポックでβを1まで増やす方式とは、分けて扱います。αもネットワークの重みも、この同じ損失から同時に学習します。
+
+### 数式・要点
+
+$$L=L_{\mathrm{recon}}+\beta\sum_i R(\log\alpha_i)$$
+
+- L：最小化する合計の損失。
+- L_recon：正常の入力画像と再構成画像の違い。
+- β：正則化の影響の調整。大きいほど相対的に強くする。
+- Σ_i：潜在次元方向の合計。
+- α_i：次元別に学習する相対ノイズ。画像間で共有。
+- R：Sparse専用の近似正則化。通常の標準正規KLとは区別。
+
+著者のSparse設定はβ=1固定。本研究の通常VAEは `beta=min(1.0, epoch/50)` であり、別の設定として説明する。
+
+### 出典・前提
+
+https://arxiv.org/abs/2605.02918 第5.2節。専用正則化と次元方向の合計：https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py
+著者のβ設定：https://github.com/AgatheSenellart/tradeoff_vae_uad/blob/01cbbd54b16c4507fde8bb0be0b218df73734d7b/mvae_ad/configs/configs_training/model/sparse.yaml
+本研究のβスケジュール：code/202610/261022capsuleの画像反復とedge回転拡張による比較学習.ipynb の beta=min(1.0, epoch/ANNEALING_EPOCHS)、ANNEALING_EPOCHS=50。
+
+## 12. Rを小さくする学習が、αを大きくする方向に働く
+
+[プレビュー](previews/slide-12.png)
+
+### 発表原稿（45〜60秒程度）
+
+Rの中身は、著者が指定した実装で確認したこの近似式です。まずℓをlog αと置いて学習すると、αをexp ℓで表せるので、正のαを制約のない変数で扱えます。赤いsigmoidは0から1へ滑らかに変わる関数で、ℓが増えると大きくなります。ただし前に負号があるため、この項は小さくなります。青いlogの項はsoftplusと呼ぶ滑らかな正の関数で、引数がマイナスℓなので、ℓが増えるほど小さくなります。したがってグラフのようにRも減り、損失を最小化する学習はαを大きくする方向に働きます。これは通常の標準正規事前に対するKLそのものではありません。実装ではRの計算に使うℓをマイナス8から8に制限します。
+
+### 数式・要点
+
+$$R(\ell)=-k_1\operatorname{sigmoid}(k_2+k_3\ell)+\frac12\log(1+\exp(-\ell))+k_1$$
+
+$\ell=\log\alpha$, $k_1=0.63576$, $k_2=1.87320$, $k_3=1.48695$.
+
+$\operatorname{sigmoid}(t)=1/(1+\exp(-t))$, $\log(1+\exp(-\ell))=\operatorname{softplus}(-\ell)$.
+
+- log αを学ぶと、α=exp(log α)で正を保ち、桁をまたぐ変化を扱える。
+- sigmoidは0〜1へ滑らかに変化する。負号付きの項はℓの増加で小さくなる。
+- softplus(-ℓ)もℓの増加で小さくなる。
+- 実装ではR計算に使うℓを−8〜8へ制限する。αの上限ではない。
+- 数値的にはlog分散＝log α＋2 log(|μ|＋10⁻⁸)。グラフはRの計算に使うℓの範囲内。
+- 実装のneg_KLとRの符号は逆で、返り値で符号を反転して次元方向に合計する。
+
+### 出典・前提
+
+式・係数・符号・計算時の制限：https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py
+対象論文第5.2節：https://arxiv.org/abs/2605.02918
+背景：Molchanov et al., Variational Dropout Sparsifies Deep Neural Networks (2017), https://arxiv.org/abs/1701.05369
+グラフ：07b_公式近似正則化R.svg。ℓの制限範囲内の理論曲線。Rの具体式は対象論文本文の展開式ではなく、公式依存実装で確認した式。
+
+## 13. αの増加には、正常を復元する要求が対抗する
+
+[プレビュー](previews/slide-13.png)
+
+### 発表原稿（45〜60秒程度）
+
+正則化だけを見ると、αを大きくする方向に学習が進みます。しかし必要な成分を大きく揺らすと、正常の復元誤差が増えることがあります。この増加が、正則化を減らしたい要求に対抗します。左の図は既存の10枚目と同じ例で、復元項を1足す0.6αと仮定したため、合計損失に最小点が現れています。一方、不要な成分ではノイズの影響が小さく、αが大きい方へ進む場合があります。Rはαに上限を付ける項ではなく、全次元のαが必ず有限値に止まる保証はありません。実際にはμやデコーダの重みも同時に変わるため、この図と同じ形になるとも限りません。次の線形モデルで、ノイズと重みが復元誤差へ入る関係を確認します。
+
+### 数式・要点
+
+- 既存10枚目のグラフを再利用し、復元項＝1＋0.6α、β=1の仮定と明記。
+- 必要な成分では、復元誤差の増加がαを増やす要求に対抗する。
+- 不要な成分では大きなαへ進む可能性があり、全次元が有限のαに止まる保証はない。
+- Rはαに上限を課す項ではない。実際の損失形状・有限位置の最小点は保証されない。
+- 次の14枚目の線形モデルへ接続する。
+
+### 出典・前提
+
+https://arxiv.org/abs/2605.02918 第5.2節。Rの計算時の制限：https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py
+図：07_復元損失と正則化のバランス.svg。復元項＝1＋0.6α、β＝1の説明用仮想モデル。実際のSparse VAEの損失形状・有限の最適αを保証しない。
+
+## 14. 線形モデルでは、ノイズに強く依存する代償を計算できる
+
+[プレビュー](previews/slide-14.png)
 
 ### 説明する内容
 
@@ -222,9 +300,9 @@ https://arxiv.org/abs/2605.02918 第5.2節。https://github.com/AgatheSenellart/
 
 解説のために導出した線形モデル。図：08_線形デコーダのノイズ誤差.svg
 
-## 12. 正常の周りから復元する練習が、異常入力にも役立つと期待する
+## 15. 正常の周りから復元する練習が、異常入力にも役立つと期待する
 
-[プレビュー](previews/slide-12.png)
+[プレビュー](previews/slide-15.png)
 
 ### 説明する内容
 
@@ -242,9 +320,9 @@ https://arxiv.org/abs/2605.02918 第5.2節。https://github.com/AgatheSenellart/
 
 https://arxiv.org/abs/2605.02918 第2.3・5.2節。本研究への応用は未検証。
 
-## 13. 復元画像との違いを、SSIM Top-130で画像のスコアにする
+## 16. 復元画像との違いを、SSIM Top-130で画像のスコアにする
 
-[プレビュー](previews/slide-13.png)
+[プレビュー](previews/slide-16.png)
 
 ### 説明する内容
 
@@ -258,9 +336,9 @@ https://arxiv.org/abs/2605.02918 第2.3・5.2節。本研究への応用は未�
 
 memory/memory.md 第6・46節。図：09_異常検知とSSIMスコア.svg
 
-## 14. ボトルでの目的は、正常復元を保ちながら異常の見逃しを抑える
+## 17. ボトルでの目的は、正常復元を保ちながら異常の見逃しを抑える
 
-[プレビュー](previews/slide-14.png)
+[プレビュー](previews/slide-17.png)
 
 ### 説明する内容
 
@@ -278,9 +356,9 @@ Sparse VAEのボトルでの効果はまだ検証していません。通常VAE�
 
 本研究の検証計画。memory/memory.md 第5・34・46節。
 
-## 15. 揺らぎと復元要求を組み合わせ、不要な依存を抑える
+## 18. 揺らぎと復元要求を組み合わせ、不要な依存を抑える
 
-[プレビュー](previews/slide-15.png)
+[プレビュー](previews/slide-18.png)
 
 ### 説明する内容
 
@@ -302,9 +380,9 @@ Sparse VAEのボトルでの効果はまだ検証していません。通常VAE�
 
 https://arxiv.org/abs/2605.02918 第5.2節。本研究への導入効果は未検証。
 
-## 16. 参考文献と実装の出典
+## 19. 参考文献と実装の出典
 
-[プレビュー](previews/slide-16.png)
+[プレビュー](previews/slide-19.png)
 
 ### 説明する内容
 
@@ -325,9 +403,9 @@ https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98dea
 https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/cvae/cvae_model.py
 https://github.com/AgatheSenellart/tradeoff_vae_uad/blob/01cbbd54b16c4507fde8bb0be0b218df73734d7b/mvae_ad/configs/configs_training/model/sparse.yaml
 
-## 17. 補足：通常VAEからは、分散と正則化の両方が変わる
+## 20. 補足：通常VAEからは、分散と正則化の両方が変わる
 
-[プレビュー](previews/slide-17.png)
+[プレビュー](previews/slide-20.png)
 
 ### 説明する内容
 
@@ -349,9 +427,9 @@ https://github.com/AgatheSenellart/tradeoff_vae_uad/blob/01cbbd54b16c4507fde8bb0
 
 https://arxiv.org/abs/2605.02918 第2.1・5.2節。https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/base/base_utils.py
 
-## 18. 補足：Rはlog αを大きくする方向に働く
+## 21. 補足：Rはlog αを大きくする方向に働く
 
-[プレビュー](previews/slide-18.png)
+[プレビュー](previews/slide-21.png)
 
 ### 説明する内容
 
@@ -371,9 +449,9 @@ https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98dea
 https://github.com/AgatheSenellart/tradeoff_vae_uad/blob/01cbbd54b16c4507fde8bb0be0b218df73734d7b/mvae_ad/configs/configs_training/model/sparse.yaml
 https://github.com/AgatheSenellart/MultiVae/blob/0df7a0d64be66e8ee95990e5ea98deaa6f3d1697/src/multivae/models/cvae/cvae_model.py
 
-## 19. 補足：同じαでも、|μ|が大きいほど絶対的な幅は広がる
+## 22. 補足：同じαでも、|μ|が大きいほど絶対的な幅は広がる
 
-[プレビュー](previews/slide-19.png)
+[プレビュー](previews/slide-22.png)
 
 ### 説明する内容
 
