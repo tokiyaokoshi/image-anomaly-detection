@@ -48,7 +48,7 @@ code/
 
 | 日付 | ノートブック | 内容 |
 | --- | --- | --- |
-| 11/5 | [261105transistorの反復とedge回転拡張の比較学習とAUROC評価.ipynb](202611/261105transistorの反復とedge回転拡張の比較学習とAUROC評価.ipynb) | transistorの元画像・10回反復・edge回転の比較学習、保存モデルのAUROC評価・種類別比較・入出力の可視化。初期設定では少量の動作確認のみ |
+| 11/5 | [261105transistorの通常学習とedge回転拡張の比較学習とAUROC評価.ipynb](202611/261105transistorの通常学習とedge回転拡張の比較学習とAUROC評価.ipynb) | transistorの通常学習・edge回転の2条件比較学習、保存モデルのAUROC評価・種類別比較・入出力の可視化。初期設定では少量の動作確認のみ |
 
 ## 開き方と参照パス
 
