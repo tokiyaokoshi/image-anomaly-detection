@@ -1,0 +1,9 @@
+condition,category,category_ja,normal_count,anomaly_count,auroc
+A_original,bent_lead,端子の曲がり,60,10,0.7999999999999999
+B_rotate10,bent_lead,端子の曲がり,60,10,0.8516666666666667
+A_original,cut_lead,端子の切断,60,10,0.7616666666666667
+B_rotate10,cut_lead,端子の切断,60,10,0.7
+A_original,damaged_case,本体の損傷,60,10,0.7583333333333333
+B_rotate10,damaged_case,本体の損傷,60,10,0.71
+A_original,misplaced,配置ずれ,60,10,0.985
+B_rotate10,misplaced,配置ずれ,60,10,0.965

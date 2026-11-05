@@ -1,0 +1,59 @@
+{
+  "experiment": "transistor_normal_reconstruction_four_vaes_20261106_v1",
+  "architecture_version": 1,
+  "run_id": "20261106_014303_0e537381",
+  "created_jst": "2026-11-06T01:43:03.340075+09:00",
+  "dataset": "transistor/train/good",
+  "augmentation": "none",
+  "model_keys": [
+    "FC",
+    "Shallow3",
+    "Deep5",
+    "Hybrid"
+  ],
+  "train_count": 170,
+  "validation_count": 43,
+  "split_seed": 42,
+  "train_seed": 42,
+  "data_signature": "2ca57397c1d41ea4fe0b3cf8dabeb67585d6b45ea69e8fee4440d965da65934c",
+  "epochs": 100,
+  "batch_size": 32,
+  "updates_per_epoch": 6,
+  "updates_per_model": 600,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "latent_dim": 64,
+  "annealing_epochs": 50,
+  "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+  "preprocessing": "Full RGB1024 -> Resize128 LANCZOS -> Grayscale -> float32/255; no crop/rotation/padding",
+  "input_size": [
+    1,
+    128,
+    128
+  ],
+  "logvar_clamp": [
+    -10,
+    10
+  ],
+  "training_inference": "posterior sampling",
+  "validation_inference": "posterior mean; eval mode",
+  "loss": "sum pixel SSE + beta * sum standard-normal KL",
+  "selection": "final-epoch validation mean MSE; SSIM and visual inspection supplementary",
+  "ssim": {
+    "window": 11,
+    "data_range": 1.0,
+    "top_k_used": false
+  },
+  "test_data_used": false,
+  "device": "cpu",
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "Pillow": "12.2.0",
+    "scikit-image": "0.26.0",
+    "matplotlib": "3.10.9"
+  },
+  "status": "completed"
+}

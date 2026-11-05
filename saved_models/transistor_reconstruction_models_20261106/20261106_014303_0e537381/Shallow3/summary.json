@@ -1,0 +1,16 @@
+{
+  "model": "Shallow3",
+  "epochs": 100,
+  "updates": 600,
+  "split_seed": 42,
+  "train_seed": 42,
+  "initial_state_sha256": "21ea84c31f3900840fca4b33d9c8b34def3e56d04f1c6adf4e157d6f204fbf85",
+  "sample_order_sha256": "65a4060cd677fcdfee2dfad8ce90d1c292bb1eb1b9cebdeedc9d3ca11f0177e5",
+  "weights_sha256": "36ff1b077c02120f07bc849b71b3d1cfa8734108ddc507e96c2c4e915c5f2348",
+  "data_signature": "2ca57397c1d41ea4fe0b3cf8dabeb67585d6b45ea69e8fee4440d965da65934c",
+  "val_mse": 0.002339402573767963,
+  "val_sse_per_image": 38.3287717686143,
+  "val_ssim": 0.8760794863467734,
+  "val_kl_per_image": 176.35890588095023,
+  "seconds": 130.7773457000003
+}

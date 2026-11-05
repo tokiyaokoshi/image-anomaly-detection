@@ -1,0 +1,16 @@
+{
+  "model": "FC",
+  "epochs": 100,
+  "updates": 600,
+  "split_seed": 42,
+  "train_seed": 42,
+  "initial_state_sha256": "6b82e38beeb33f9b0e449093027fe3b42b51d7bb381fc2df2420f0900b1318d4",
+  "sample_order_sha256": "65a4060cd677fcdfee2dfad8ce90d1c292bb1eb1b9cebdeedc9d3ca11f0177e5",
+  "weights_sha256": "07f8814a40f53ab0fcaf6e616ead735f8bfa36afff5134901a0e52a6c46f8537",
+  "data_signature": "2ca57397c1d41ea4fe0b3cf8dabeb67585d6b45ea69e8fee4440d965da65934c",
+  "val_mse": 0.004836638999539752,
+  "val_sse_per_image": 79.2434933684593,
+  "val_ssim": 0.7926225965057756,
+  "val_kl_per_image": 7.049900936525922,
+  "seconds": 268.54691359999924
+}

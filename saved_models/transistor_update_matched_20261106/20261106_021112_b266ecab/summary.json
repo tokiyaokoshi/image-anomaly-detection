@@ -1,0 +1,14 @@
+{
+  "condition": "A_original",
+  "seed": 42,
+  "updates": 6700,
+  "completed_full_epochs": 957,
+  "extra_batches": 1,
+  "initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+  "sample_order_sha256": "e08ab45c95ea40104b1fa81a0c67167734b53333dcdaf13481d47c6e76fd9a9a",
+  "seen_images": 203873,
+  "final_train_sse_per_image": 21.264194844863876,
+  "final_train_error_scope": "last 67 updates, not one normal-data epoch",
+  "seconds": 2265.549653099999,
+  "model_sha256": "380bb28d611612ecda31f97dee299c2310e1b39f6c52b2fbd92144e2ab3e4667"
+}

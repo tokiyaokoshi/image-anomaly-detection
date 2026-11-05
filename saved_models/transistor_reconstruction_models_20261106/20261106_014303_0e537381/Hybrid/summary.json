@@ -1,0 +1,16 @@
+{
+  "model": "Hybrid",
+  "epochs": 100,
+  "updates": 600,
+  "split_seed": 42,
+  "train_seed": 42,
+  "initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+  "sample_order_sha256": "65a4060cd677fcdfee2dfad8ce90d1c292bb1eb1b9cebdeedc9d3ca11f0177e5",
+  "weights_sha256": "0610d9d64a977e510597e25463205e393bf1696b6425766cbc63a2c1f1a8daed",
+  "data_signature": "2ca57397c1d41ea4fe0b3cf8dabeb67585d6b45ea69e8fee4440d965da65934c",
+  "val_mse": 0.004562813507089781,
+  "val_sse_per_image": 74.75713650015898,
+  "val_ssim": 0.7821246554437149,
+  "val_kl_per_image": 4.859038413957108,
+  "seconds": 227.89510669999981
+}
