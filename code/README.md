@@ -50,6 +50,7 @@ code/
 | --- | --- | --- |
 | 11/5 | [261105transistorの通常学習とreflect回転拡張の比較学習とAUROC評価.ipynb](202611/261105transistorの通常学習とreflect回転拡張の比較学習とAUROC評価.ipynb) | transistorのA：通常学習／B：reflect回転拡張の2条件比較学習、保存モデルのAUROC評価・種類別比較・入出力の可視化。11/6にreflectへ変更。改訂版は未実行。初期設定では少量の動作確認のみ |
 | 11/5 | [261105transistorの回転拡張におけるedge補完と反射補完の比較.ipynb](202611/261105transistorの回転拡張におけるedge補完と反射補完の比較.ipynb) | 白埋め・外周RGB中央値・edge・reflectの4方法と、中央切り出し・90度回転の補足比較。コード作成のみ・未実行。実行はユーザーが行う |
+| 11/6 | [261106transistor正常画像の復元に適したVAEモデルの比較.ipynb](202611/261106transistor正常画像の復元に適したVAEモデルの比較.ipynb) | 通常画像のみでFC・Shallow3・Deep5・Hybridを比較。170枚学習／43枚検証、MSE・SSIM・復元／端子拡大。RUN_FULL_TRAINING=Trueが初期値。コード作成のみ・未実行 |
 
 ## 開き方と参照パス
 
