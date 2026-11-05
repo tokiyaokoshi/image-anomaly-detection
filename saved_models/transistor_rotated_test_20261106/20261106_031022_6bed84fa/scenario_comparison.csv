@@ -1,0 +1,5 @@
+condition,scenario,sample_count,source_count,auroc
+A_original,unrotated,100,100,0.82625
+A_original,random_rotated,100,100,0.5679166666666667
+B_rotate10,unrotated,100,100,0.8066666666666666
+B_rotate10,random_rotated,100,100,0.7737499999999999

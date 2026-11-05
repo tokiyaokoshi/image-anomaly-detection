@@ -1,0 +1,306 @@
+{
+  "experiment": "transistor_rotated_test_20261106_random_nonzero_v2",
+  "run_id": "20261106_031022_6bed84fa",
+  "status": "completed",
+  "evaluation_mode": "one random nonzero angle per source image; exactly 100 inputs",
+  "model_hashes": {
+    "A_original": "380bb28d611612ecda31f97dee299c2310e1b39f6c52b2fbd92144e2ab3e4667",
+    "B_rotate10": "20b0568e0cbae99290cb474b7e327a95983368fb37ece7edbcd0cd1c91f42de5"
+  },
+  "source_hashes": {
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/model_final.pth": "380bb28d611612ecda31f97dee299c2310e1b39f6c52b2fbd92144e2ab3e4667",
+    "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/model_final.pth": "20b0568e0cbae99290cb474b7e327a95983368fb37ece7edbcd0cd1c91f42de5",
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/config.json": "8c0ced494c0f5a683cb9112afeac801ccd34de73d43f86999738e49650c81cc3",
+    "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/config.json": "905c5588331a3a0623de4ac0846e9ee33f31da38c735b0b3d0f9ecbe1b5dc738",
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/summary.json": "f1e739135078833ea95be57d6c2f76862cec3eff4909a31c0ad9303be61e6e83",
+    "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/summary.json": "7632c60df60ef71c990120a478153b0c4a007e45b16316d0745f949630f35042",
+    "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/test_manifest.json": "e795386e0894c5fc4ce5ff665f753bb30050be85a2125202667d225dc49fbd13",
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/test_manifest.json": "e795386e0894c5fc4ce5ff665f753bb30050be85a2125202667d225dc49fbd13",
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/evaluations/20261106_025126_58aad9c8/comparison.csv": "881430936b223aa164a267062b07fde30bf572974a025e041eb759fbecf441ba",
+    "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/evaluations/20261106_025126_58aad9c8/image_scores.csv": "7094bc0f1c2a3e21d3c61bc7c48c91ab79c1e7ea1f1acac31ce1efd9fb660f67"
+  },
+  "models": {
+    "A_original": "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/model_final.pth",
+    "B_rotate10": "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/model_final.pth"
+  },
+  "allowed_angles": [
+    36,
+    72,
+    108,
+    144,
+    180,
+    216,
+    252,
+    288,
+    324
+  ],
+  "assignment_seed": 42,
+  "assignment_method": "independent uniform choice with replacement",
+  "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82",
+  "normal_training_config": {
+    "experiment": "transistor_update_matched_20261106_v1",
+    "version": 1,
+    "model": "Hybrid CNN + FC",
+    "seed": 42,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "latent_dim": 64,
+    "target_updates": 6700,
+    "beta_schedule_sha256": "295b4c202e2a6efa1b2dfa84a71efe90606aab87f8653a26bdb7bdfa70b6d92c",
+    "source_run": "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165",
+    "source_model_sha256": "20b0568e0cbae99290cb474b7e327a95983368fb37ece7edbcd0cd1c91f42de5",
+    "source_initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+    "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82",
+    "device": "cpu",
+    "status": "completed",
+    "run_id": "20261106_021112_b266ecab",
+    "optimizer": "Adam",
+    "training_loss": "sum pixel SSE + beta * sum standard-normal KL",
+    "training_inference": "posterior sampling",
+    "evaluation_inference": "posterior mean",
+    "normal_full_epochs": 957,
+    "normal_extra_batches": 1,
+    "source_rotation_config": {
+      "experiment": "transistor_rotation_control_20261106_reflect_two_conditions_ab_v4",
+      "run_id": "20261106_002435_9b4da165",
+      "dataset": "transistor",
+      "conditions": [
+        "A_original",
+        "B_rotate10"
+      ],
+      "design_version": 4,
+      "comparison_note": "A/B have different update counts; not an isolated rotation-only effect",
+      "seeds": [
+        42
+      ],
+      "epochs": 100,
+      "batch_size": 32,
+      "optimizer": "Adam",
+      "learning_rate": 0.001,
+      "latent_dim": 64,
+      "annealing_epochs": 50,
+      "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+      "angles": [
+        0,
+        36,
+        72,
+        108,
+        144,
+        180,
+        216,
+        252,
+        288,
+        324
+      ],
+      "rotation_interpolation": "NEAREST",
+      "rotation_expand": false,
+      "rotation_background": "reflect",
+      "padding_formula": "ceil((hypot(width,height)-min(width,height))/2)+4",
+      "rotation_pad_width_by_source_size": {
+        "1024x1024": 217
+      },
+      "supported_original_pixels": "preserve original rotate NEAREST values before resizing",
+      "rotation_stage": "full_resolution_before_resize",
+      "rotation_input_size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1024,
+        1024
+      ],
+      "center_crop": false,
+      "network_input_size": [
+        128,
+        128
+      ],
+      "preprocessing": "Full image RGB, optional reflect rotation at1024, Resize128 LANCZOS, Grayscale, ToTensor",
+      "preprocessing_by_condition": {
+        "A_original": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+        "B_rotate10": "Full RGB -> reflect pad -> Rotate NEAREST -> central1024 -> preserve original-supported pixels -> Resize128 LANCZOS -> Grayscale -> ToTensor"
+      },
+      "test_preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+      "training_loss": "sum pixel squared error + beta * sum standard-normal KL",
+      "training_inference": "posterior sampling",
+      "normal_test_inference": "posterior mean",
+      "train_normal_count": 213,
+      "test_normal_count": 60,
+      "device": "cpu",
+      "python": "3.13.14",
+      "versions": {
+        "torch": "2.12.0",
+        "torchvision": "0.27.0",
+        "numpy": "2.4.6",
+        "Pillow": "12.2.0"
+      },
+      "torch_threads": 4,
+      "status": "completed",
+      "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82"
+    },
+    "source_file_hashes": {
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/model_final.pth": "20b0568e0cbae99290cb474b7e327a95983368fb37ece7edbcd0cd1c91f42de5",
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/config.json": "905c5588331a3a0623de4ac0846e9ee33f31da38c735b0b3d0f9ecbe1b5dc738",
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/summary.json": "7632c60df60ef71c990120a478153b0c4a007e45b16316d0745f949630f35042",
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/seed_42/B_rotate10/history.csv": "4564ad1e7a298ac4d6a205f94cbd22ed4d43a1e55656b7d3bcdb3636057f87f0",
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/train_manifest.json": "b29f818b461e3eea31343c626a7bb8810445de87ca244a50a71bee56b31b88fa",
+      "saved_models/transistor_rotation_control_20261106_reflect/20261106_002435_9b4da165/test_manifest.json": "e795386e0894c5fc4ce5ff665f753bb30050be85a2125202667d225dc49fbd13"
+    },
+    "preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+    "initial_state_sha256": "10407594976ad8f7d86db895415bb5ffd1b7d480b667817ab8aad5ca694d8334",
+    "python": "3.13.14",
+    "versions": {
+      "torch": "2.12.0",
+      "torchvision": "0.27.0",
+      "numpy": "2.4.6",
+      "Pillow": "12.2.0"
+    },
+    "torch_threads": 4,
+    "note": "Updates and beta matched; input distribution, batch sizes and sample order differ."
+  },
+  "rotation_training_config": {
+    "experiment": "transistor_rotation_control_20261106_reflect_two_conditions_ab_v4",
+    "run_id": "20261106_002435_9b4da165",
+    "dataset": "transistor",
+    "conditions": [
+      "A_original",
+      "B_rotate10"
+    ],
+    "design_version": 4,
+    "comparison_note": "A/B have different update counts; not an isolated rotation-only effect",
+    "seeds": [
+      42
+    ],
+    "epochs": 100,
+    "batch_size": 32,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "latent_dim": 64,
+    "annealing_epochs": 50,
+    "beta_rule": "min(1.0, zero_based_epoch / annealing_epochs)",
+    "angles": [
+      0,
+      36,
+      72,
+      108,
+      144,
+      180,
+      216,
+      252,
+      288,
+      324
+    ],
+    "rotation_interpolation": "NEAREST",
+    "rotation_expand": false,
+    "rotation_background": "reflect",
+    "padding_formula": "ceil((hypot(width,height)-min(width,height))/2)+4",
+    "rotation_pad_width_by_source_size": {
+      "1024x1024": 217
+    },
+    "supported_original_pixels": "preserve original rotate NEAREST values before resizing",
+    "rotation_stage": "full_resolution_before_resize",
+    "rotation_input_size": [
+      1024,
+      1024
+    ],
+    "source_size": [
+      1024,
+      1024
+    ],
+    "center_crop": false,
+    "network_input_size": [
+      128,
+      128
+    ],
+    "preprocessing": "Full image RGB, optional reflect rotation at1024, Resize128 LANCZOS, Grayscale, ToTensor",
+    "preprocessing_by_condition": {
+      "A_original": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+      "B_rotate10": "Full RGB -> reflect pad -> Rotate NEAREST -> central1024 -> preserve original-supported pixels -> Resize128 LANCZOS -> Grayscale -> ToTensor"
+    },
+    "test_preprocessing": "Full RGB -> Resize128 LANCZOS -> Grayscale -> ToTensor",
+    "training_loss": "sum pixel squared error + beta * sum standard-normal KL",
+    "training_inference": "posterior sampling",
+    "normal_test_inference": "posterior mean",
+    "train_normal_count": 213,
+    "test_normal_count": 60,
+    "device": "cpu",
+    "python": "3.13.14",
+    "versions": {
+      "torch": "2.12.0",
+      "torchvision": "0.27.0",
+      "numpy": "2.4.6",
+      "Pillow": "12.2.0"
+    },
+    "torch_threads": 4,
+    "status": "completed",
+    "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82"
+  },
+  "preprocessing": "Full RGB1024 -> reflect pad -> NEAREST rotation -> central1024 -> preserve original-supported pixels -> LANCZOS128 -> grayscale -> ToTensor",
+  "rotation_padding_width": 217,
+  "inference": "posterior mean, eval mode, no sampling",
+  "ssim_window": 11,
+  "data_range": 1,
+  "top_k": 130,
+  "device": "cpu",
+  "torch_threads": 4,
+  "visual_paths": [
+    "good/000.png",
+    "bent_lead/000.png",
+    "cut_lead/000.png",
+    "damaged_case/000.png",
+    "misplaced/000.png"
+  ],
+  "label_assumption": "Global rotation models camera orientation; original labels retained.",
+  "baseline_source": "saved_models/transistor_update_matched_20261106/20261106_021112_b266ecab/evaluations/20261106_025126_58aad9c8",
+  "baseline_inference_performed": false,
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "torchvision": "0.27.0",
+    "numpy": "2.4.6",
+    "scikit-image": "0.26.0",
+    "Pillow": "12.2.0"
+  },
+  "completed_datetime_jst": "2026-11-06T03:11:08.492720+09:00",
+  "unique_test_images": 100,
+  "evaluation_variants": 100,
+  "model_score_count": 200,
+  "baseline_auroc_verified_from_saved_scores": true,
+  "scenario_results": [
+    {
+      "condition": "A_original",
+      "scenario": "unrotated",
+      "sample_count": 100,
+      "source_count": 100,
+      "auroc": 0.82625
+    },
+    {
+      "condition": "A_original",
+      "scenario": "random_rotated",
+      "sample_count": 100,
+      "source_count": 100,
+      "auroc": 0.5679166666666667
+    },
+    {
+      "condition": "B_rotate10",
+      "scenario": "unrotated",
+      "sample_count": 100,
+      "source_count": 100,
+      "auroc": 0.8066666666666666
+    },
+    {
+      "condition": "B_rotate10",
+      "scenario": "random_rotated",
+      "sample_count": 100,
+      "source_count": 100,
+      "auroc": 0.7737499999999999
+    }
+  ],
+  "limitations": [
+    "synthetic rotation includes padding/cropping artifacts",
+    "original anomaly labels retained by assumption",
+    "single training seed and single random angle assignment",
+    "angle frequencies vary by chance",
+    "angles seen in rotation training",
+    "exploratory evaluation after viewing baseline results"
+  ]
+}
