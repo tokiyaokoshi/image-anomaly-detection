@@ -1,0 +1,1924 @@
+{
+  "seed": 42,
+  "train": [
+    {
+      "path": "data/transistor/train/good/000.png",
+      "file_sha256": "d755cd3f9334acc338db228fbccfe531397add1794181c09dafafa35c9014741",
+      "input_sha256": "9d030de8342cbe6970ca6e8bfce8bdb9e7993037e84a7ece42654dbbe5758596",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/001.png",
+      "file_sha256": "479e538decadde0c2d687834e117a6e1a3002ece07d6b02ed145b1f116497e75",
+      "input_sha256": "0f866ef43815df669b4c5b2f545037ac23a5c0c7aff2dda25657e058be922df3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/002.png",
+      "file_sha256": "7e29cfe96f5183455a3f0298f4b29fd1879908887224cb79a2aab7bb102db828",
+      "input_sha256": "01f201d4771886e5f747a5903c2fdc169156aed8b8b859b5ce60069357e88e70",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/003.png",
+      "file_sha256": "3203dedbfa1d24e13854c9b210c33b204a72291addd700c7d218f233bc8547ec",
+      "input_sha256": "3bd8c263b7d5f42aecd2ce0f60cb422c199bc105ca55e13d0508dfd559dfae4a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/004.png",
+      "file_sha256": "b8a0e96cfed2ff858b75fe7ed413e9fc219d2f8dbd8dc9d578b664dd66ee0438",
+      "input_sha256": "2dec09157a664c2f0eb94974e87d81399773f3548663081c5f284c87d2ad2faa",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/005.png",
+      "file_sha256": "7faf8ffc97db9081e4fd93815828d6971a7196ebf61cfacf01fdce770eb1f605",
+      "input_sha256": "e48e2408276d89a40928dfc84f94d128c64c8fe0900d71f1241f3a96a399de7d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/006.png",
+      "file_sha256": "452f80139d9dcc8702a161a8ec66d2613db3b75c85227c9fac4c2b536d230ac4",
+      "input_sha256": "0f1e81ad6d6c73d02474d94dbac18ceb8f15eeeb7841bde5892373d6a75ef20c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/008.png",
+      "file_sha256": "1a2b5a1295fb8fc73026a43e7ddf1e79aae688a71368f17459c8090198d10db9",
+      "input_sha256": "a4eb5d62a74cef572e007ad1ab8b577857174e68f1995575e33eb0e37887385a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/010.png",
+      "file_sha256": "fb90b42c14d2983dbfc2742c0f8708c25cc93aa03e9c27b8e1c73834f3ff1f05",
+      "input_sha256": "e34a407f8634a4f0594919404a9c845a79d54d4768ccc8fdb4df17172b7ea91e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/011.png",
+      "file_sha256": "a7e6384baac0f97a18b56b5360b94fa5972a4ac18ad0018f0fa84a43ca71b00a",
+      "input_sha256": "1754b4c188dbbe9ba6e1fe135e51cc8d276268e1dca4065f8a0e6a589b03a0c1",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/012.png",
+      "file_sha256": "badb3c08e447522a8ea6e66bd627bce8a03fddc76a47ecf3a5149806fe9f310e",
+      "input_sha256": "9907fbd69eb725691c3a5e38e9b5d5a9bf192de2705a7395c5b8949545d5016e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/013.png",
+      "file_sha256": "01347f6fb7149363c3362fff51856ea24113fce0c10fe559a728ef859bb52b59",
+      "input_sha256": "611761ab538c65a611cd8116f84db60ef226596d70a1a06a5e0d93d92e4122e8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/014.png",
+      "file_sha256": "415d69e6cfd4cf4734b8a139024a66bb6e579a4f0b81daa53aac57908342ed21",
+      "input_sha256": "5e351a5958767badd38ee6230ad5143adc8db613c576c5f0cbda25fb4797921e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/015.png",
+      "file_sha256": "1dc99854d3262cdd0e63bc009dc0e84bb6a606863a649ff75b355dfb33e57fff",
+      "input_sha256": "0fad9518addf1a6dd0c60739cb35953afbb3646d3dcfe190b32ebe9d8cbf648d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/016.png",
+      "file_sha256": "54a24bf2b36351b94a13ff74b4349c3076646fc1209ecb1d20b8c63d2be1eefb",
+      "input_sha256": "65e6852c6da92dddbba3ddd1679e080492cc9d157c4c19ed90f210404e09cd99",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/017.png",
+      "file_sha256": "c2330de1e9da0d0edb4dfc9d693b7fe751d2696812283ed24f91015c1eb2e325",
+      "input_sha256": "5daf6f9e71bff0dc9b45dc18015d0045f0f3d08b41c5cc99c30e83e7beb410af",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/018.png",
+      "file_sha256": "10f56d31352c484ecccfdae4c71326fb25560321597d95766fb420534947fc42",
+      "input_sha256": "459cc8197918cb891074918eaf3e1acbba020a39847e43a75a0c574c720c387f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/019.png",
+      "file_sha256": "c063b3d388c58e89ffec9d06de7f124c8d6fe2946d4f9c577ba22a54120efd85",
+      "input_sha256": "7c5c988192cfc469d6a42fd32b99309966b53b8d6c51bc3cc6724795642b256e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/021.png",
+      "file_sha256": "7d36833cb9128e9611b3bbf4a28f47f96f483b987e2f45b0ee5fef739bba0950",
+      "input_sha256": "52045e126cad60a051ad47099a964908f2c64ce2ad4a010bc54f72a688e6c1d8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/022.png",
+      "file_sha256": "9ac47e1d606042682c1211a8e7a6efcf1bbbd4820636ff0dee43bbb318a65d6c",
+      "input_sha256": "635bb70c02e2ecd48e7ec82c73a0a96fdc410235ddbc9eb9a553745e8abb14d9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/023.png",
+      "file_sha256": "4615dd1a465ad72868bd72a69910cf468d5a1704be4bd42b34dddee0b23d44cc",
+      "input_sha256": "c4dd41badd6cc4dec13466556f4ba2fdea4d5764ac464739cc2da6de24437e1f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/027.png",
+      "file_sha256": "f22c7ec35032e6129bc016787cd795933ba44cc3ae6816b7f3289246760ad121",
+      "input_sha256": "9d33082514b3da1003f2b725c525e4c1d4ef6e478c92e87ba7700c6096486751",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/028.png",
+      "file_sha256": "694d096bea853b1c7be4b576cf2096b8fee438651d397d48eb4ceaf783b55030",
+      "input_sha256": "31d37eaa09f480030de1805ffa1d69d48c36f54999e17ff6b82556273a75e337",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/029.png",
+      "file_sha256": "e48cef5da43d23a1f23a7694d3bd2f45740b1705c12dd80b323aab1ffdefd373",
+      "input_sha256": "2b4a2889fca6bce8dcb1c4c52f832c545848cd471786d159f3d6cba07421ce60",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/030.png",
+      "file_sha256": "ba31d10a6521029052aa3d5ba775646e7cfae28081546f6e98200d44c4e5c977",
+      "input_sha256": "9c437515a015f6eafc92093f424817b6666de0afc51a7c761c12825bf64feda9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/031.png",
+      "file_sha256": "796a2d120879bfe61093b40bca2b332b15fefc2799ab7a7aaac7fdd30ab97893",
+      "input_sha256": "07662207a90279eea8ef000eadd5eea9260e549c65fbfbf9a7b75003e970da99",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/032.png",
+      "file_sha256": "29e774a4c03b94a098a2061cec909ab3aae45d4844c4f2c26f1e6a008efce678",
+      "input_sha256": "b633bbd726f2574f7e55669697b1cf76f12d001b4d9c34f12a2f913d60efe4c4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/033.png",
+      "file_sha256": "6dc669f867ab2d411a65f691130d863368a36d88ccefacb35ffb3f110aa3456f",
+      "input_sha256": "20840d9a8fe5c732dbbfe6aa2962691b40252080f732d74397f1e90dd1a0b8e2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/034.png",
+      "file_sha256": "654fcb231a43f21dd3d57e8089dc123537bdb32a8fb0d3fbcac39e746f1aa515",
+      "input_sha256": "91f9542e870daa61f53260733fde254383d6d5dac1cc5bdc8d68f088ee2f7918",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/035.png",
+      "file_sha256": "14a914db4377481be21bb80735ed36253afe1b359a395a6acc2d547df2b61bc1",
+      "input_sha256": "22708297780373072898617ca9f8aa1e90c2f855f85c027f7c62ea6d77f83a85",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/036.png",
+      "file_sha256": "255cc03ab408dad3a9e2bdd0cfae7c97a7fcd755df4c12497d62acbc2ae567fc",
+      "input_sha256": "d49727b3f69abe69038a6c00a18e4b6b33682aceb2fbcd02a82534a875606ae4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/039.png",
+      "file_sha256": "6a8a8bb53b656692ddb219de9379a866386b3131bf102c1a91a5ec4346c1ce84",
+      "input_sha256": "3eeb91a03ab1ea539015b0fc5adb27647b0e3399e85ea89188f24da69f4d30f4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/040.png",
+      "file_sha256": "96d72517fb9da655ce021b809daf7107bf7c86c1a80efaa26cebad0f350183fe",
+      "input_sha256": "d582e4f33678f9de089e1111e6236a073b4a2b3d473e983f79b578c6b0e7d8d0",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/041.png",
+      "file_sha256": "119fdc7786bc19faed51d504be98b4246e80159ec3e3b543cd91eabc835529ed",
+      "input_sha256": "03b0afd94c1b67b181edb4c2c3a1555d0ae5b673dfe4f3ef0878aa55b1bd7046",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/042.png",
+      "file_sha256": "d9e9b4b204605575f49023df31b861abc8cfd0f9572673db0b6b42a8de016dee",
+      "input_sha256": "84852a59f658547f203a66542173a470fff0a63adc0a73c7924b2e92297c8d91",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/043.png",
+      "file_sha256": "6f31cdebd963598fa231a55d05377662147c92af65ff46e1804993536add53e5",
+      "input_sha256": "d69295e4fe5dece2aeeef7680b57ad2710e557d2eedbbdd2f35f277680e8bb63",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/044.png",
+      "file_sha256": "b210470892750eb9079fc3b632abe177bfe1f081021cd20bd771a0e83cddfb3d",
+      "input_sha256": "f848688a0a8b10ea691180dc4e36c42c0bd24d71656f70a9e97b75f3bc10fed8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/045.png",
+      "file_sha256": "67aa823a2977f14997300bef7f7c45a015662432caab9d46d033ee6f63bfa7f3",
+      "input_sha256": "5b0be8e1f13bab5cdc9bf8e67a9af62387d3d1c33714c690851e484ba55f91ce",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/047.png",
+      "file_sha256": "30b7d40218414b31f52414e142ac85dfc5e0a232dfdef3ce54083bd80f4be60f",
+      "input_sha256": "b83d7b82acf5062cc904db93e21aafcde69e0d42bff23f3064e4889b7a81a099",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/048.png",
+      "file_sha256": "58d117f80393425431220e7d0812e3b311c5201c9fc8d6cf3018c3bc1bdc356a",
+      "input_sha256": "aba3a941ec089bfe8a133bcd87166b4a7310a0e459345e410163240d614346d9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/049.png",
+      "file_sha256": "e3287113d8e62febaa6826e76092ac7ec1aaa3b507b8b714fa05a6d87e735f63",
+      "input_sha256": "51691a311eadc9fea231cd6f5c51afeaf5465c8d4e4b4c76fa428544c9e34adc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/051.png",
+      "file_sha256": "b5fcd3f2904ef1537a48fabaa35498f982858bacfa4bbd12676edeaa546ccc5a",
+      "input_sha256": "b672a724b3adae2fa16d783b6f141c155cf1593f80a9420478021b739dedfa99",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/052.png",
+      "file_sha256": "4e3c80d63b6c558546c64524fcb6b5e6f33433ab449f6b1f46615f4c6f99dae2",
+      "input_sha256": "f41ac40e407da1870f8135f070ce841db389d1032f2e0f2c0de40022bb429f74",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/053.png",
+      "file_sha256": "6dbeb4bdc0eb51c508da7a2359d9d970924a2e626997935a581ea7bcb0844d05",
+      "input_sha256": "4e3ab5ccd3b736c763b1b4ca9c717e4134a6f102d4df27fdc564167cc1d91e40",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/055.png",
+      "file_sha256": "41e09f51242c6ba1502079f5e96bed2f1aff8f3d772a795c4a33c1abd7f43c5c",
+      "input_sha256": "f49407d545b60fbd7c66f33b9686ef577f715b65e3a6021c3d5c1a81c9fbb10a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/056.png",
+      "file_sha256": "72c6a318a47e873a82d2db2f249142c2e614b41dc454cbb8ebafb7fbdf9444b7",
+      "input_sha256": "a29702f433aae4ed311e40d762f75bd7c306968a0a99cd6deef8e0d871c39912",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/057.png",
+      "file_sha256": "3ea76223e891c28ae378bf5335933920c78124832ca640d908d188c0f575ca6d",
+      "input_sha256": "1a195c4611d3d33056c550881bf6ae481fba11159ebb3ef60fcd9eb0f61ce4d4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/058.png",
+      "file_sha256": "7324c79c42807d7f57eaafdceddc735e13584d5a2dbb4dd18184d6ef371388e7",
+      "input_sha256": "a07faa2e81098f48e3113bf807e1c286a857a3f6103e67a01fd219bcb6bb5104",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/059.png",
+      "file_sha256": "e776679cf43cd161738dd9895ec5edc8b1ea9046c64852e23fed1cd9a48d1a48",
+      "input_sha256": "8d30a9b31758c920f4a09450d18573c365dd94fc15a0e24602385a42e6fd69a5",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/060.png",
+      "file_sha256": "0ef1ce90554b9b3bd2ce4f0485b523137415a00dd33110e1e1234267033c01df",
+      "input_sha256": "7ea5457d34921a2a81e147e276564f4fa5bf97f70123367a3059954f120724c2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/061.png",
+      "file_sha256": "43c09360a2a17140a3d323b222521105079a97c16d6221f853df39a6b3780ab6",
+      "input_sha256": "339f519d205331c73dc9adfd21f7241fc3dc5cb48eb531201ecf9190fa40a301",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/062.png",
+      "file_sha256": "09f24c5e6539e6d9bb751b32a80ec2edf9d17a18262235a18efe88939a571c0a",
+      "input_sha256": "4b513b9f5711a57468ca3853d73b699e44a442e6e84f6c693ec2d07697f8e39b",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/063.png",
+      "file_sha256": "a0220bdb2824340a802db0bc18d49b118647426955b36079efe2ee5c48bd4eeb",
+      "input_sha256": "2c3b774cdf93622f55b2be8a56c9ceb4f8deb5e6ab9ea590c33702c0804c1f1f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/064.png",
+      "file_sha256": "70e68f96254385a0426d6dff72511cfc59c26f769b9408a633c6a6e85975b5a7",
+      "input_sha256": "a657335e84e0da3061e4c35e22effc4974554de8afa52cc71055cb0dac058745",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/065.png",
+      "file_sha256": "26078e69173f2afd18498f0f0fc7003269e86d121c781c727602ad8dad0c472f",
+      "input_sha256": "3f84eba8c0da373e5853efbe298c313bcd02c55faf48e2d137a619480cd1552f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/066.png",
+      "file_sha256": "e69eb8681a53cdf785e7e850c4bc1f166185f3f6be836d48ca1c6a4b2793b17d",
+      "input_sha256": "4f6c65c37e41b389b658262894e66a2cfab0eea39adce724aba0efa2b9dbbfcb",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/067.png",
+      "file_sha256": "a0cb6ff3750cbdb406eb6be1eba4dbd08ace4bd6cd70feed79ad5ce0aed1da6c",
+      "input_sha256": "ecce5b60414ba7eb20dac8aae25a82360129dcc9e5f0ea67072e5e315273bfb8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/069.png",
+      "file_sha256": "7973f0dcb3e104afa54c92716eea413442370c6991f320ee037f95f02f088fe0",
+      "input_sha256": "35d872fc501aa7f18a9e220d6870d18d6ca789b2625f9ed42d12de7235167e3e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/070.png",
+      "file_sha256": "ef4f1a50b8743baf142fdc9dea74faa2ea990fd844c352388f03a306505844ec",
+      "input_sha256": "b5fd3852310ea99312184cba7049de78a5175089022edb9c1f9e383290a95384",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/071.png",
+      "file_sha256": "d8062a72ac53ff3659214923fe3be390134986d319206ce5f1ffde49e2dbb9de",
+      "input_sha256": "4d7cdf4ff41324b9b14e599c2018f87fcab1cbbc1b2b7754dd668348e70c29f7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/072.png",
+      "file_sha256": "41f7ecf1b8a4fc630cd98d18d09d47db0c75fe4e1fa170485e5dc5b687cf166c",
+      "input_sha256": "8d2a4c795807e69f86f09c32ce19e523bfffdd45d9473c538bf8757bb6aef5ae",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/073.png",
+      "file_sha256": "33a3cf0657c5418e8d2ef90bdc840b669697c35f28ab6f3b75c6ea2bc81a7db1",
+      "input_sha256": "a1502298d3fff08abd146d143d6dd18b6367714da572c258e92ff62d1d61a2b6",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/074.png",
+      "file_sha256": "5fc992a2326971e550f41649d9ce2cb71c633e4a1f4e3510b45e3f43d21eda83",
+      "input_sha256": "8292f47c711b8f48fd2c60d4e2014d43b689a6f9c02afd5bc9740a63f0118788",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/076.png",
+      "file_sha256": "abe21cd027afb805ee97756022cbc74978bde679276d3073c70c19e3bd068736",
+      "input_sha256": "b4dbabb279e8b2181bd31664364c22bc9e75a1aab49b9111a7ee90899ed62311",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/077.png",
+      "file_sha256": "d1c0e866ee2b648ced40c24e689d9f6bea8f60a8b34b73042a250ac1702193aa",
+      "input_sha256": "5e634f2f308817ef59f8391454dad7e2316f61804c1b515879686461b0fbabc7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/078.png",
+      "file_sha256": "f950504589028fb2fe8b45443773e6ce1eb1cec586a5cae7111c780f33a995d8",
+      "input_sha256": "75f7d46991a6900bcc985dead3445fdeef591360289546e6567b27e24928f63f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/079.png",
+      "file_sha256": "c5c3bf2a078fbd7fbd90316bc64a0b306441d2127e7e42a1770ac8be88b7cb9c",
+      "input_sha256": "adc4122586156938328a32aa2dea46e790adf3895a673c2c3c8e7ab82aa8d488",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/082.png",
+      "file_sha256": "420842897df54365a5d74560644ee12bf4c112d9e640336ba12612c40a97022c",
+      "input_sha256": "3a163549190cd15beb02807957ac2903b748e0d1dbe106baee87930ee00f3998",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/083.png",
+      "file_sha256": "227f4ca5918a7052ce1d5f1ea1c756fc149500431e72503e90a9b65dd71d8393",
+      "input_sha256": "aee379cf043a26af941cf260f8f1bda3121fbdc115874def34e981df12fc2a8f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/084.png",
+      "file_sha256": "ba9f34a85ddfe61520de05508d5398c60938fb4664e47db6da0c0aab749e39fc",
+      "input_sha256": "f27ede0c617b48e94a96317203bad8d5554995cb1f7fd688a7c604fb49f89d82",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/085.png",
+      "file_sha256": "5e3fa57517fa1742fabef8e8e5d0d89987fab3f74226b79172b6a304262ef7dd",
+      "input_sha256": "1f7337f32a1d48779694c6c36a2b600b0b3031fb333951fe89daee3f9042bed2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/086.png",
+      "file_sha256": "53d8d1e59ca17d528c364883e075297a36a9ab033939d5889fbc436641cb37d8",
+      "input_sha256": "ec13320fd6af4ad1f659c3863e5f754762db2ecd2d032b53392ef61386f9028c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/087.png",
+      "file_sha256": "1c4cbb556aa3f6e1105d698c6f2461612b8cf799d0062073fcd56e340cbee2b0",
+      "input_sha256": "9e273465cc81dbcc3dd2449064710d5be000e833e67f023559ef656f812d7e00",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/088.png",
+      "file_sha256": "45bb2abdba66c26618e1d855642bc6c2202f674657ec67ab76c472fbf193627a",
+      "input_sha256": "8bc628f828e3cfcbb722bbe9f672bd05cc06bfbaee92d9c92c52b473c17b5653",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/090.png",
+      "file_sha256": "ed5ac64e663ffc1d6f454b5927af5776fd01069222373397b30042650d003bfb",
+      "input_sha256": "c2885913ebec6445dd6195faf31c1e541ebc616cd0cad95e0e9f5fc0536abd23",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/091.png",
+      "file_sha256": "fa5c87edc8f147daf287fffc5401e17fc8ef7f1f73dfda57a59b0bed3b22d5b3",
+      "input_sha256": "5cf65671c87cad58a2c01a5106c816030286da2d4268175411bbb37220cef14a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/092.png",
+      "file_sha256": "38ba314cf77887c0fb35b4ea0efd9b3d8da1065474b33053bc652e787623e587",
+      "input_sha256": "6776c6d7d2a361212855b7a3f1aeb86801fd1265bbcbdb0090e95b3a51882eea",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/093.png",
+      "file_sha256": "faf475161da7be9d4683ebe4bd5c08e9e7fad7bd15bf2b9ee982276e36d71fd8",
+      "input_sha256": "3b46d04deb06d42df0317a248321b6ee5ff90680fe135cbfb3ba0605039d315f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/095.png",
+      "file_sha256": "3a402052167a0450912c9966defa7e007d7739c28c313b1a20676e47a3ad2062",
+      "input_sha256": "544b7c172c4360554f2dd47ab17e4b614ff35de7eb2cca948d1fb67aaa203717",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/096.png",
+      "file_sha256": "d9849ddeb3b1a21f5bdb0c5ec1fd78cd6182ec0aeeb16d5c7cc1e65dd6ebc822",
+      "input_sha256": "e901e370ed0569f72da8e874dc4cfad6c5b3ba51df5b137c42f963a692a6cff3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/097.png",
+      "file_sha256": "79d10b1408faa004c117985eae505f034770d091354c5b4c41dfd028f3b30ed9",
+      "input_sha256": "d929b27c0dc5dc748ecc51604dc8b00f4a42adc1b071ac2c5f3accc4743b3b1f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/099.png",
+      "file_sha256": "ba64ad5fec07d13050448e5436439e5255c9f576b1e150ca46143449c895eadf",
+      "input_sha256": "00b887a926e579bf37a7f3f3bf0f6f5ebee46073117293140ed59940b379005f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/100.png",
+      "file_sha256": "83fd2f99c66544bc39c1ffdf51c3d48ca76c6a50479756861a3735d5c340f728",
+      "input_sha256": "21ee617996574c9cbdb065a5e873e9a9d7b0f26a51102eb711a3ba84d9c9ff58",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/101.png",
+      "file_sha256": "c9e2154c9bff342ff75dca07c44b55f318458448862699753cfaf2b0ed2413c5",
+      "input_sha256": "b696552eb54f8a3a2419ae239a06f5b9a1ad718d5330ad1043889290232592d7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/102.png",
+      "file_sha256": "b1fbc38ac9eb41f0690e7db06bfa02fde47f4fb13dd376a19a47457542780c0b",
+      "input_sha256": "14a9ee22430072d1ef54f40827a060a19b8f802c4c4f3500a3fc5f0ddc4ce755",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/103.png",
+      "file_sha256": "adf78ab5d30cf03c5b97d2c78a2bd0c40aab1ea6a2ad0c125b49b579af38125f",
+      "input_sha256": "9e80968825a6fbdba88bc08e172dd2c91d7018d1f27c1d65f47af319c60bb2dc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/105.png",
+      "file_sha256": "2d616ff5a5cf5def7db0d61cd7a3b5cad57db988458cc4572ac6002a6a5843d8",
+      "input_sha256": "f3e2ad8314a6294e0c26eb0c216a42d1df362118cd7c397076ad52be7e870dcd",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/109.png",
+      "file_sha256": "06874a54f4a5805b5baf6ecfae96c8efb74a9ef773450184c3013dc7481ccbc2",
+      "input_sha256": "6dba50f7cf4ce7e2eae01274051da7a2f9748c0d8ffd9fb1ab6f74516c4b30d0",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/110.png",
+      "file_sha256": "71ad1e472a3793f3e3023410f76a5921b6f1e7fd597b542d49016d6fa0530a9a",
+      "input_sha256": "70f0d3a3682194c7b37c41d3df396719839f6abd901423ed37a09fd110bf95cc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/111.png",
+      "file_sha256": "129368d558178f1c43d174ca329456bc4ce26e1582d6eeec842027e78d353145",
+      "input_sha256": "913e2da89919da084a318942f78b0f786afa9161a3b28f9398cf69cb35f9f29a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/113.png",
+      "file_sha256": "318066542e9c99ff9293d041e6513e26164172f3a2ca83e48067f3d4683ee254",
+      "input_sha256": "43e44baf2a64a684cbd63cdbc8eae0fe9d039cb705bf835c4a39733eecb280ae",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/114.png",
+      "file_sha256": "66c052c919839b0f3330baf083647dca3510dea9e77b90c556d4b9f240bb59d7",
+      "input_sha256": "2400f5c808e3a409927461417ce7721cec83afbc246da31e54bc9985a485abd2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/115.png",
+      "file_sha256": "13f2d83ee83b80c5ae7a53ead009d48e502b96101194f136ab4325dffea89b65",
+      "input_sha256": "8aa27988d1219287b4cc524dfa5b34f3861f543468acc4bbde46c82454721f62",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/116.png",
+      "file_sha256": "1129f4eb678e8b36f92e744771117e68d691cbdd1347e848426e02d53425cc3b",
+      "input_sha256": "f0b0b1ccafa046f1735574518a972b886fa00f43976b5cac8d8cd89c51ca5197",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/117.png",
+      "file_sha256": "8365d604f2a09fce894a6a9c517fbb4fe9c53ac162fdeffc15d1b54951d90695",
+      "input_sha256": "4c75296ff6b347187acc5c31037c8ef49624bfb03babdf90b22d80a486f5bc92",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/119.png",
+      "file_sha256": "d29c8ab5c4dd69b119084dbde75060686e38cbb6dd389871793e9734dfecf48c",
+      "input_sha256": "87189d83fdbdae5c63161ea4d91bbf0224b3ebf3a9f2c7d4df0b825388d39d0e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/120.png",
+      "file_sha256": "9de14e20e2eb0aef2021657d68b3924024f8a4b5dbb77ae0844338c9594d6041",
+      "input_sha256": "683dbca58e688a2cdd9b6b324c73e27a4e41d1853028f3950895f9385f841dd2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/121.png",
+      "file_sha256": "d896ee9c87c43455a53a18a6826e775a3aa4ed512add60d65fa0079a51ef6cb7",
+      "input_sha256": "5f36d2397dbec0ee4be06948c59d0ea92a1cc9bba425a9caf21270b3587a88d5",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/122.png",
+      "file_sha256": "79bf5d25015658e3df80d9df7b7374d82ce82a62a00a07318e8d567dbb8fdc82",
+      "input_sha256": "888cc3e0c846bf5c3035225092c305af6bb5c95c5588c3a79ff097fd91832a10",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/123.png",
+      "file_sha256": "654c18e7e92c26121fdd636bb3643af1b223ac1ecc2afce34cb719de79788ec5",
+      "input_sha256": "abacb90cd66909694360e3f073c98b430939e919c287b57118aadc7b8c0d1052",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/124.png",
+      "file_sha256": "456deafbdeca8e82ad2fc55df220180c6651af6cd948bde3daac9f9270287137",
+      "input_sha256": "2e8bdbdec679fc3031a7eb1f5dd97725623c9354178a6c77cfde6f17bebedecb",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/125.png",
+      "file_sha256": "cc0b91813d6b44285415c49131763ec74c2502a3d634ec0333c3dae5ee84049b",
+      "input_sha256": "fca7b953feb1426142696dad9d6388ff04f281915aca09654fa90e6eaf444ac7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/126.png",
+      "file_sha256": "501741ba6a78d60af427b1c97e8488f79277ce848c65fdb70ed677d3a2adfc71",
+      "input_sha256": "8d2a744e623bcfdafb057d0cf674a059b25646ceda5f2994c2ed81168433fdb0",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/127.png",
+      "file_sha256": "1c6847f09c249d59bfe30b30c22c0f032b5d8c902dcefeedef69ec60e15e6564",
+      "input_sha256": "10aa92fa303756fab42c7bfe09bd01994f94ffade8a28754f5c4bc7d82f12aaf",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/128.png",
+      "file_sha256": "c30189e98235462641ad0f7b8b255e6eace8a2742dec91b8b4c34d89f00f77ec",
+      "input_sha256": "299ba4ceac6ef91512dd3c7e76d67aaee1a4a864b808e6e9978b8e65503febfd",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/129.png",
+      "file_sha256": "a7316a94ca79c70eb83ac15cbe9fb26e2822c3450cd6a9e7e3eed9584b508fdf",
+      "input_sha256": "ea440071f262d49c39714e6438ecafe218c28e21ef3641a6cb0b00fdaa099594",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/130.png",
+      "file_sha256": "2bad72d5f2e0a905253c485fa29b0480cbe84b0ead1de475970268c5651aa662",
+      "input_sha256": "c2795c609693b867c7f0f522cfd9b0a09c9ff4ff2cb2779c079f06645db6572d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/131.png",
+      "file_sha256": "6a95176c72e9429dd247331e78791e9b45da2895c9a69481963d62180acc7315",
+      "input_sha256": "9934757801a52d9a880386b0206657f1e6f1768cc5cb12d50743539b1eb8acf2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/132.png",
+      "file_sha256": "5cde8aca0497505f53a95db7bfbbd535b2e322d9967f6a1ed3916c9bf7b7f3a2",
+      "input_sha256": "4503a29ec701d978af23b0a54feb9e1488295c6ce93880b39a56cfd172ff1cd7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/133.png",
+      "file_sha256": "e2012015a6a1d9afcabf2593f7d27e345d92ecdb356e47cf00b420526a579f23",
+      "input_sha256": "122236d862b06b0f030b714ab0ca45b033286d29e799432a6d76a19f8a200c4b",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/134.png",
+      "file_sha256": "3fa0303411612644c444b2bd1ccb0982189e2940cf160b5442feac3695ba646c",
+      "input_sha256": "84ef81ba97ed1e19085947b58ae8c3e866d1218210f0a96b732b02c1e1cad059",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/135.png",
+      "file_sha256": "de419128f1b4b455ebb52e76bb541539ef6e23e66111270897217cb905feff0c",
+      "input_sha256": "35438e81ed933df155625ce4e3032a3fc22e7f36e7bc56486ba23524b3d5a2d7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/136.png",
+      "file_sha256": "a751f6eea899e25fd78168d73f37caefb8b21b0bdc566cd0e2faefe631771f9a",
+      "input_sha256": "1c6b621ff52beef73c3925acb7c3636b3a46dbb38e83c59d22ce74f3e4ab775a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/137.png",
+      "file_sha256": "d869f6e1318ae9d32a4eeae1fd261d128efa2c09a94ec1295202b366eb25e5ad",
+      "input_sha256": "567bab8abaa02e1e770334583281a21528f610fefc5309496b6e02113ccda7e8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/138.png",
+      "file_sha256": "171ea2a3edee40070c0b35056b854034c1c48de23f82ff7b0ced1faa30f12366",
+      "input_sha256": "045d2e782dd2d9774819d4d2283cc61c85e51faff118c2ea770c824b9d000829",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/139.png",
+      "file_sha256": "ccb657f4de6c0e50067e828d5f10de6add50ebfc596b236231f0b7dbbd78c36e",
+      "input_sha256": "238731fb589f5fc49aa2aafadc03f53b1b82f645e6d0514ceebdea0afb6331a8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/140.png",
+      "file_sha256": "5da2ec7cec8a10635dd7d1386e1c5d5a210374c4855f460921dcb40858959140",
+      "input_sha256": "34bb0f0b201eaa607d54fbe12a8dc0bc82c0ebf1dd481161143946b88300ddcc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/141.png",
+      "file_sha256": "e7d6a612a43d49e8b1c2d9057ee34bbd3cae823530fc697c78ffd9f6d204171e",
+      "input_sha256": "7cb8be567c306b120ba42b850602b5689733d2a6f7f0742ac2ecb3973a6e2780",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/142.png",
+      "file_sha256": "5f105bf759ec248419d107837215f071567441b191d162a315364541252da51a",
+      "input_sha256": "221e6a66b9ceb3ea29b279f62cadc5e28a83bf0dc967cad08b399a7b79d07655",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/144.png",
+      "file_sha256": "3ff7ee51158703fcdaa3bf6939b889eb588a10c6685760fd8981c57d13e5a95d",
+      "input_sha256": "2275911b9000fde66e04452d5917f45eaf3bc9668627c89f36aebdc7fa0e4969",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/145.png",
+      "file_sha256": "751c35982870ee5adce2a69c72ccd5fa4fd27c574c18e119915b00eb16753167",
+      "input_sha256": "8e4d4232a1942c0fc78cdffd20f9dc9d87e2ee82907fa96a218b4e4ea06e33a1",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/147.png",
+      "file_sha256": "10bf30c15e76b8458f62922f52c3a4f4354bbe5e4daf396fc7acef367db77d3b",
+      "input_sha256": "6543731f0c9e73837dbe3b854207c07aee03d5a1a890d929355471c9f87adb36",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/148.png",
+      "file_sha256": "81120e6179733790e48cdc0982322360112a34ce982576ff44d4e72771815918",
+      "input_sha256": "f9e55311cca73d910dae382d396e69d11cd823208add22cdd5a5a9f34fac01ee",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/149.png",
+      "file_sha256": "53bb626e2e9bf848671321c3ba6441c63801db166b9ce6241bb566e9cde96957",
+      "input_sha256": "15db27c336d6bc0c018973f861fb360071bf9e76b3241763e1a993617376f141",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/150.png",
+      "file_sha256": "fdfea457e9af8a9f052d28581d78d1e73e539c65106f31bed389116694d94c82",
+      "input_sha256": "31c6cfa9ceb140f2e3e35f6c050c7518b26d20ac049597ad74e4426f4ef5f0fd",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/151.png",
+      "file_sha256": "45b726003dbe39f15fd3f75440e17e7940dfce23bc0df6ba0492562708f0cfa1",
+      "input_sha256": "a37b64ecf0809ccf19e9816ab27504d4d40bece71d41e9e8abdd5e8f7dabbf82",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/152.png",
+      "file_sha256": "8e6fa6650a5f6bdf09bc6e3b5b0b983ce88b8737282e799c0d83da732979399f",
+      "input_sha256": "73aa87fb92481a178cc660cab0cb63ef81b8148c4bae786d1d385d495caf0851",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/153.png",
+      "file_sha256": "cfb13c573d66a5640b07ec93af3d2918bbf679845ff54100401ea89408a814ed",
+      "input_sha256": "c5880b1269f60b010b9b1ab58e24391fb1dcd96eebf436660b597545b2345428",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/154.png",
+      "file_sha256": "e45e5e999cdacfc308dd1e1011f367d4b3c814e3fe53ef3090a6a331ac502ade",
+      "input_sha256": "bb1710c19dfa19f3ba765ab4c7e45b2de72f140fce99612c4ace92e190e06c41",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/157.png",
+      "file_sha256": "e6c06ba3d037875a511b90282e98a53a9684c2d8b72b50b5c231b0f87351e49d",
+      "input_sha256": "c3f98a4b1dfdd7a8c98d0ebc3f3f55a53308edfa0c7e468375aadebe77307925",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/159.png",
+      "file_sha256": "8a4ec7b26fe2056547dce35528f59c7e636855825776d17152f168201979e55e",
+      "input_sha256": "f7952450af0193052cca469d5e0bf646b7fa02d16752627ee073f4e48a8f9608",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/160.png",
+      "file_sha256": "dcc41af102c7deb1a1ef2bd27615a89780a82a942163ea345335808134e57fba",
+      "input_sha256": "7ad04dbbed2e59b30a3deb7545d4ee2ab8f79031985434d786f3773cd52324d3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/162.png",
+      "file_sha256": "274ded3591d333879ffbfcf468162cf55b4614e6c93782f89a231657fa55f998",
+      "input_sha256": "c7ab10531e6087ec439de3496f4256d4be59c9fa91229a62fc05750920d28c92",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/163.png",
+      "file_sha256": "263af9c351dc443dc98104248effd27953da0b2d991875e412c5da99e98cea4b",
+      "input_sha256": "7f4e0d1569bc09c4f74f186feced082b65c230cbba366581401f64a5651add0d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/164.png",
+      "file_sha256": "9ba53b1a1776bfa4c45b73905a2a2db4157388effa04fc44785dfc360bb7f814",
+      "input_sha256": "a39a34ce3722bd693fcc527dded875d745c42ffd32b09dbd477d51a0ecb2a624",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/166.png",
+      "file_sha256": "10c00c4f8ec29ba229c249fa6a43371760af3d40eb47d75f72ceb5cb6ced6ba4",
+      "input_sha256": "495010975f05643a1aaf0b93f0a65bbc4f5a9530ad7ec377e9030862920d6a47",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/168.png",
+      "file_sha256": "fcfa648e4b91996d857ce665855583568ed53e31d6e574e76107ccf10ad102ee",
+      "input_sha256": "3ab6df659247f8442fa647de878d9a2c58a0082f41f7a18f9c39234f56fdac54",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/169.png",
+      "file_sha256": "0122a28fc76f98b4596474846b5609161dad37dab76ca08535d780d04020d429",
+      "input_sha256": "628953843836d766611c7089139c0c57bf10bb91f4fb5b3c5150b3d2fa481421",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/170.png",
+      "file_sha256": "b1f616911295cce89f0b3e16acc8ef137186c99ac78f878964e36bd0a3eb3ebd",
+      "input_sha256": "356a58bbdc61f35f76383ba384e22b39aad95999fa063eae0a136d45143b4420",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/171.png",
+      "file_sha256": "a9fe5d9f48d7d7241123ef40dc1f595d0f097eb8638ddb2421550e59bcf0d054",
+      "input_sha256": "72bf46d99dbfab4af787bd409d2918eba7a7f2485e0f8ff1345975a0f31b79d4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/175.png",
+      "file_sha256": "41d56618bb1480cfd3c674c8b87121bac7a13cb9313b3f7a72b6eecae5758f9d",
+      "input_sha256": "54369e55c7488ad1e0ed9ff0978308238824d32ba7b60100479287dfc6ac0cd8",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/176.png",
+      "file_sha256": "0d7124f0229f9cef6485358e9bfbdff2383c79137c0b40336a5ab1a46e572529",
+      "input_sha256": "c9a34fc04e1e1dfd29a857e0cd01b8462c9c4091f15cefe975878770ce3646e4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/177.png",
+      "file_sha256": "1d4ff2500069a0ae97dd29edb8849a3817bbd87333c1f97ac2f5c0bb2e95fbd6",
+      "input_sha256": "c6fada3bd217f92c6ce3defd8312ed618164ff99007cc0de5123bfcb0cb65b5e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/178.png",
+      "file_sha256": "836012f0879840e3197f8a6282d41e09603b8362b24b9a5d0e23857bbc7f2a7a",
+      "input_sha256": "a7cf311f8a26def8cdac2d417162221e86bc27b3549ab002ab70ce74931f2d8c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/179.png",
+      "file_sha256": "563e9a905e9a5276b48b96cba6b646c1cf83badcc9526a36458572bad93a7acc",
+      "input_sha256": "27a39cc3b64929367f7d464d200983e0e83a62fb75e000b5627404d34b31dc3d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/180.png",
+      "file_sha256": "5ac7a19404691ed8d705b2efe6185c40d2ed3e90128b0bd15512f42c39760e6a",
+      "input_sha256": "2f45b71096884676102b3ae7e6036c7a44469676b1732c3ca4c23e37467ca2d7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/181.png",
+      "file_sha256": "51f996169f125783b9e21ee8fbdde5116e7204101964436613e929d755f2dba2",
+      "input_sha256": "85da1fc98625ddb118e37f120fb62f922cb10a7040e102ccf122c88538876718",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/182.png",
+      "file_sha256": "bc156c3a920383afe38def0eb92f380afddd661d5c7c823874a89166714e57b3",
+      "input_sha256": "c6d73c56bbbd212192a19c9a1c924c28b43b4aa74fe2d76430c645240ebe8b48",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/183.png",
+      "file_sha256": "8ea6f31b6f9d564f5044af2225c067a2d370e9e1bd5acc6c4f2601b028040af2",
+      "input_sha256": "73c043927c0ff5df8fbd22d50adf7bf3941873aad5fd698be19e3a712f8e687d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/184.png",
+      "file_sha256": "e93bece4ed6e2834e931179b952f7cd21237b5c0de4fc1ce3fababb5c740d1cd",
+      "input_sha256": "16f0844713c3f10b18e9b2394d97ce11ba27b504014e052d79524feff9252203",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/185.png",
+      "file_sha256": "dc9608136cdbcd36d76ac6a17cd5280e47eb348d56cc0fde1ec3045c2fad3aba",
+      "input_sha256": "3469072f61e41c678c12c9a0402b98220d0c64f4f64d933fd5014ace192535b2",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/188.png",
+      "file_sha256": "bb5ac1cb15e123a8a429cdf5b4a2ca8fa090ff8124eb290bcab9af9dc36ae9eb",
+      "input_sha256": "9fda75d40de293bd4182dcfc2b483a07fdace14ff38a52a6f94d1a1d7e98cdb1",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/189.png",
+      "file_sha256": "a5bc4955d8a2c33fe81ea61c7b1f816d202bce0ee77f6c2ee2ab8b12e9b7a237",
+      "input_sha256": "c8d26a4616b14471b3d6d1c2d5e20e8eb8d702b06c8956fab7c8cc251ed39103",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/191.png",
+      "file_sha256": "1e13f81d9875be130ea3d6d830164b6769494e3355869ae350ce48dbf45354ab",
+      "input_sha256": "101673174793ad3b19c459313181c880377d1775bde9c4a2cc8879dd28e541e0",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/192.png",
+      "file_sha256": "2ca4081c4ab6b7f2b76987da97468e94c95136281ea87ff095022aab04b3f753",
+      "input_sha256": "2e9b38867c7d8e5d12c8070afa7081e31e0d9b683dafa54706d4fb07f95eeaff",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/193.png",
+      "file_sha256": "9821b727791a1b44d3467b11302001cf507f2b5acf6c10c6c5e665138d10ea28",
+      "input_sha256": "908774ff76dd4345e1e54c549e6028b0cc8c14659efc690d7235a8404849146d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/194.png",
+      "file_sha256": "2b7b4d3cafb4857a5b0fd45972932da953e5a6d54f33ee1eaaee2f1d1148a600",
+      "input_sha256": "1d310b234f0d7cdc59789b6daa437b077d5a2f864f749714d8a90002ea8c8b9e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/195.png",
+      "file_sha256": "b064fd9d3009218888206f218372e9b723af8c4337a0e97998dda6d6c76b5c04",
+      "input_sha256": "225b453aec93cbf536ff1936f1c1059315bcb5c5c4192b4d1837d29772fbf7e1",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/196.png",
+      "file_sha256": "235cd1978ac0eb3f9e4bd116ef0d177414733c5a7f1e012bd88a2e3002eb9d8d",
+      "input_sha256": "c489cbb3fa2a6289d94123adb4c6351914f94c1d4c81f821e4f367c4b8bdf415",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/197.png",
+      "file_sha256": "65d7266321e20c063afa6bb4e17213d5ec24e3f82a973005e7c25560c7b10ebf",
+      "input_sha256": "0c306b01547f83429f3582115e75f37ac8fdad8b3a01b3ebdc667df4aab685df",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/198.png",
+      "file_sha256": "623b7a691225bf80aa53d87059a9059ea61295c08bba26fe6317e20c61575732",
+      "input_sha256": "fb5a3ed129e11bb8b1a7e9f8e92cceaeb440645f575b8f21716f779de6cb64f3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/199.png",
+      "file_sha256": "2f6ac0043a73115c73ce9a1575a3d7e4a50ff7ea387e32f0313a901ade818a45",
+      "input_sha256": "2f53fee33d9273e4b7368d59667f83aa70c039909687c48c37a3511a5429faa9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/200.png",
+      "file_sha256": "90aac25d99f9fbfd519738c490040ea50c30be8ba61a3a62856666c9e09c3d57",
+      "input_sha256": "e0bf6afd40d8c6c93711cad699afe38ab2e1867e7dcdf53983853ba03f4d83fd",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/202.png",
+      "file_sha256": "7cf3327068cac81c5517c343eb54b808296bdb9b8323283c6d1fcc512b80b7b9",
+      "input_sha256": "2fd8a1133715330cfb7f2d84e35921f817888f327fdc1cf70a1824a66aebe5c6",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/203.png",
+      "file_sha256": "8cd15aeb34ef0204333c29356132aeb33e36cf4a8f9c038aea93914bb3f3e533",
+      "input_sha256": "230f8b50a98d71f4e2f82944dcb3c35da4b9a6aecc7ab6bbcbd8ba2814f4c19f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/205.png",
+      "file_sha256": "f69bd6c441f08ab1ea0341a4af76e6b70022aab3e39580b48be28c8e4f868a07",
+      "input_sha256": "842a9525969f76d73f4538a5ae53df06613d8772f485f6dd3340ee3f7e72b18c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/207.png",
+      "file_sha256": "0882b06411b0d23d19b7fe10478deb0854dc7c7d8b96df7da2796582fd531c2c",
+      "input_sha256": "6204a633690c019d58b9e418d6fdd9deb99a92616dc6c89e798e8d6b24be390d",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/210.png",
+      "file_sha256": "1496f8eb11f16f28d5c38b86124a1a01c146e3f97bdd8bd0666adb1966ad641f",
+      "input_sha256": "bfaa8f4a4ffba0243c3b6e702be11d5a7c8a8e666a96213501b4f1b1ecbebab9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/211.png",
+      "file_sha256": "8532f4bb020c8e448dc0515ae2491905bc988a8d390ac2249538891cb79ee3e8",
+      "input_sha256": "56bc03eabfd033c3256add020726e6d79ef5044c7e36c36e796d00d376a89956",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/212.png",
+      "file_sha256": "d9547ed779de5e3a22cce9f4a9ca05ea26f055f063d50eebe287f42d42c6a777",
+      "input_sha256": "c3c2bdfa7528b12977b11d4e9aa989e5a94141bee6c7232311718e928a9c992e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "validation": [
+    {
+      "path": "data/transistor/train/good/007.png",
+      "file_sha256": "b876d33f839d77fe0bfeec3d32c788fd120662b48fa7e9fca1f05ec33916c0c2",
+      "input_sha256": "1aaf32c08fa13d5ff00290a2ffdf5a9b61744f6b64f15385271ee5ac0a510ccf",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/009.png",
+      "file_sha256": "6e011216160fa4e0635645848b5d2fdb1c9430264973b939b769567b7378ae40",
+      "input_sha256": "5efb3d4276c24cfea04646d47008f59ca5e1de7243f9a4ec0df4092f4f5407dc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/020.png",
+      "file_sha256": "fc4b8f79e571e1859152526930c4ca56d96f437d3a39548516e4f37179347071",
+      "input_sha256": "b26e50cccf2198e2d34615598218079a1109a72c62ca594c5aecbea36a512bd3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/024.png",
+      "file_sha256": "0101193006ad66e2a237c17f37c1918726d4337561e6314ba9fc8b337a68cec9",
+      "input_sha256": "1b2c0c6083774869885ab217bf96b4fb51aca42f59ad45ca4fe62bf7abd3cfa5",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/025.png",
+      "file_sha256": "ee6295b9eee145fcf4afbcc28fbbab72c820791b658dab0def0b4af451fe4c26",
+      "input_sha256": "f493b237b3b847719b5c518821579dff293d84c457d44246e5f35f3dbc9a1b7c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/026.png",
+      "file_sha256": "4f441ebfd7e64c020b113c5db6339fa793baa7931f62638236a8824e096c23b5",
+      "input_sha256": "e5599ecffe03038f7a56fab833d246590e476e6981f5ae069b7a87a8658250e9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/037.png",
+      "file_sha256": "7540e405fd9c155edea89be4ceb7cbdebce3b34a6284c55e1eee23fad9651e4b",
+      "input_sha256": "173ea7957d9ed91b6f1e6cb8009956ef0ef1be1c5a34b01937268da0d37352e1",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/038.png",
+      "file_sha256": "0c0b6b1da63a42980c20b8e3627e1de23cfecdd4468566a86792bedb3949dbb9",
+      "input_sha256": "772a5310caf0b44e356f6f00a5443a52d29d3636868f2b0435daa25ff017a3b4",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/046.png",
+      "file_sha256": "55c206416286166bf561f783eb16f01941e843858614e72546892454c55d98b2",
+      "input_sha256": "7d5cd16fbcc1e0316425b8d8fc877d3cbf54fd789170e3c6e5b0cc66d6fc2993",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/050.png",
+      "file_sha256": "ec734845b04b079092b690ab4ad7d255e08108e43d0d0bdf5c104a9fc9bed148",
+      "input_sha256": "2b9e4114ce0d99ec0e8dc064a541182035a908c16e1ded86dc6492b67a051e68",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/054.png",
+      "file_sha256": "2c1f0f481a949a3258e52e66a252682756a390cf6ae6cea090c3b1bf2a31f145",
+      "input_sha256": "d90e91d3f9c0c3be6b2e339e54de52d26ce201bc3bea47f352f40d403c8034bc",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/068.png",
+      "file_sha256": "5c1d467eb2f3afa1b2fd660c0495c0d15ace37567a165ed838c71b0cf7528b10",
+      "input_sha256": "635084ad9231e29cbf605cd0f8185dec4ec7d30c01660b527f42ba00729f42ee",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/075.png",
+      "file_sha256": "7ec81acfe1e59883b70d4ca3377823bfe550bd524ac5c1cf655ce519a1039bff",
+      "input_sha256": "f6f7eaf67495df9272cae06d46dd81f0fc05a6374fe0c04ec99fa5a660f63b7c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/080.png",
+      "file_sha256": "4fc604df887bfb28f1568b943c774d00472c3624cc3d3f13bf027e9b38d46013",
+      "input_sha256": "1a310fcbf14ebdeab0ecff5bffb19b241abefadd824b0275b2d5cb63e283d19c",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/081.png",
+      "file_sha256": "2c109bc0127ff37bfeb32e1444b9d681ef38165e5cea720456cf8fbebaf342d6",
+      "input_sha256": "57b19e334d07d8b3a901044f211b243a84aa80472edaba6dd40bbc4e4b84dc32",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/089.png",
+      "file_sha256": "72f608a0afe6778d6f39b2e01f741df91759a6e033bf12e5244d8d48ef73314a",
+      "input_sha256": "4427e7c02d72b8102de3b9f2ea0b6302b9e2a13cce6f1c2d57f6f68c4fcffc8e",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/094.png",
+      "file_sha256": "0d201f7c359f30806e7dd9a77e3b14151dda1d28df2fc1f6af1175e7a9d98d9a",
+      "input_sha256": "fed6d99808171fc0b9875b0d4c6af093645f5a41f12671f060899139cb4946d7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/098.png",
+      "file_sha256": "84efd9154364b6ed32c872e1bd45ccf552088806b8e711368e5204c1a1da4f7e",
+      "input_sha256": "7c5fdf6ae1b4a6bd7b65c0edf7bfde6611716a0e039eb5979f1dc03445cc3f27",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/104.png",
+      "file_sha256": "0d0b6f6b61c7727357760ad4876cf15c3a9cc4646c8a4d0a17749443779faa81",
+      "input_sha256": "0658783d12ac0734c9e5998794e75527f14a6aed3937d2de8044f6f4159e47d7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/106.png",
+      "file_sha256": "ce453c56626ffc8083c40a7f4ca8572c5adff9d5752fbb906a8b8ea683aaad7f",
+      "input_sha256": "dc9e0def52a4854a86ce051e4c74c94cd3f44c4ba4877b7b062e9876e1b6d42f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/107.png",
+      "file_sha256": "b107e14d5c80bc40dbe241c907329dac5f76cf93f1c5105ef6c53917206d64f9",
+      "input_sha256": "c4bdb4911b25fd2c01f1d0749d4370789524247fa3b4ea4c1aafd46b3ecfb7bf",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/108.png",
+      "file_sha256": "ce65e2dc7e77f1ea89ca816a89f27866bb2224a098da137d41f27e5517b9cadc",
+      "input_sha256": "1c0f1439bdf4149354e7a43b1fa25b82783dc8b1403adace464c2ca96184b8b6",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/112.png",
+      "file_sha256": "93c0bfdc0e47f15e9de45d59c2583941aa0e8db200466c3a262a50176a0ce4a5",
+      "input_sha256": "2c5013d1c89fdf713958f2b50100fce2a309861313de8cc77ea297e1be74307b",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/118.png",
+      "file_sha256": "9de62bc238e322bf26fb8dd5b8551cc181c0b73bd9e9f3caa2bd1fedbb1a45df",
+      "input_sha256": "1165111626550a77e4140550dc214f82014c36c8f27b4cb3c060635ce72430da",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/143.png",
+      "file_sha256": "93ce4d426b31b2514428d8795b8140a925fda36606443e214d4224be5d8adffa",
+      "input_sha256": "07ea1d725e7275e51a0bc261ef60152709cfd97808ea9f25066d13e15a05b6b7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/146.png",
+      "file_sha256": "19e9fddafc42dc8317a927536f430b0bd9623c7fc11acaca955abe4ddec61399",
+      "input_sha256": "22bffcaaed60cf2d275efac0cb29eea5da9f6f799ed9c23e8e81412d19620279",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/155.png",
+      "file_sha256": "430d2d3d2cff5e343125e15613c2b072bd76567ba0da84d83280c67291fc2a86",
+      "input_sha256": "9ae699cf90e1d882670ff1438e67f2b84e74510b46158d74d6598df55dee72f7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/156.png",
+      "file_sha256": "ae76afcc2d2c5c5bababd7ba5f4d45456ddad81b7ae564de157551155b5f349c",
+      "input_sha256": "2afd58ecdead910a9aaf7de3a113cb98d1299622623d23a5cd9181c529190839",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/158.png",
+      "file_sha256": "0d4dd902876393546bc0f5922c0990bbe97206d3842d1bb9b6ce2147e79daad7",
+      "input_sha256": "87cd350f60d76fd4446f181be4f67f9590bbd3a642b8e0cde2e773c9de752f9a",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/161.png",
+      "file_sha256": "39278402d66943e9ececf24557870736f59201a90231ff6dd61f78812b72ba0b",
+      "input_sha256": "df43fc3d39520137dc8aa29aff1018f5b45e83b834b0744b24b376a2f7676eca",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/165.png",
+      "file_sha256": "8f7f89bffd1924dd1552ee32b79240c3dc9762141ecf9481d796b4bfa6230fc6",
+      "input_sha256": "631985f5e9711b7540d88825467414e83580f16a98b449ee5b77b29c6c850390",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/167.png",
+      "file_sha256": "190f3f3a100b0b977ce379380e4b0ab303408510fe3393cd892c73847e84cbf7",
+      "input_sha256": "c37fb89979ea1c7eaf3c8e0c5ede45a2d206aee2fbce9af1f5b4512bdbec8f93",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/172.png",
+      "file_sha256": "d0e3d5f2ced219044da7a502e0ec81e836935584f15e4e1b8f3dcc976b01a0bf",
+      "input_sha256": "43ae3e74cdea63046d5efff8d39a0fa9b85d9a71d9e90a589ea1a0761e4ed0f7",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/173.png",
+      "file_sha256": "925f0568de55da7e101189148f9dfa632cc88df28ff17ebb16e3fc7466653c08",
+      "input_sha256": "0ead39599e87eef12871abfaf89939dfe297e2ac323a991fca06ff3b166f1c13",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/174.png",
+      "file_sha256": "cf3b8dd3ed0829186633ebd20f1c5241dfcbd4ac5fa6a884e10e4ecbd13c7aeb",
+      "input_sha256": "50b0405c523fed16af55170f0e4c26a954ce3a6fac2093abfc606e017acab5f9",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/186.png",
+      "file_sha256": "ef7d3d86493d4ebfccdae57e2038b2eec6de53e14e5c973e025a4fcaaa0d56b5",
+      "input_sha256": "0a9b8bca84a9604b77b18b72ec9b7fb920dd0ba0dd2d33aeea7a2af62a5e9739",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/187.png",
+      "file_sha256": "61ff13c3e48ad289b1f3105f972f70f90475b403ce1d5b238e456e914350f1d3",
+      "input_sha256": "b162a14c15785d3143a9911d6a50947604210bc6ff089dd39fd466acc53f2401",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/190.png",
+      "file_sha256": "c63ebd48e905ab47fb8a26c1304b9dbfd33b024646494fc77a6a3cce6ff40d6b",
+      "input_sha256": "1a2e1efc6a1693f04b30baf47cd6d579e61b75494075c441450c4b9d1449fa0f",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/201.png",
+      "file_sha256": "9e84a2fa4c71b7790598be4467143f1fa456709ebdac55e2fc0511347bb4ddb7",
+      "input_sha256": "dca344b644cbb8639e7bb66f4a10ae47993332601a0e21fd6255c044aeabefba",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/204.png",
+      "file_sha256": "fb96f19554029a5d5b9ab4e926533fc561b1ef030c7e73ae2ae0eeb87517bd75",
+      "input_sha256": "aeb9283be0275a44ec80d0aa9ed774d3b050a7b2b7c4971f3fd80840ecd859ca",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/206.png",
+      "file_sha256": "56b2db665228613a3c4c738ed7935d18ba008d2c7f18ee17433cf679f13860fe",
+      "input_sha256": "fa1783bd8d71911471d7841cfcf71aacb1086cced22c06f12149c810207ea323",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/208.png",
+      "file_sha256": "9cbf3efa09e373b8bf1ef6ff976989e40fad53d1b037b9ffe66f0f85c94f1d95",
+      "input_sha256": "2084060422eb8ae7f89259f16c8107d049a0ba23f854788712117f25f865a377",
+      "source_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "data/transistor/train/good/209.png",
+      "file_sha256": "87eb378a7e3648459f3e98c1ba5831d7960991960226c0e5a51ddea7279d4034",
+      "input_sha256": "e78cfda46f5d08461854ae780eae3a66bc164a751a4053f23fa38f4d53abdce3",
+      "source_size": [
+        1024,
+        1024
+      ]
+    }
+  ]
+}

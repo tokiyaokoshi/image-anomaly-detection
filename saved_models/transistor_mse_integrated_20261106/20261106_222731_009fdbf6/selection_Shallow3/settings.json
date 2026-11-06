@@ -1,0 +1,11 @@
+{
+  "task": "selection_Shallow3",
+  "group": "selection",
+  "model": "Shallow3",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "CNN Shallow3",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "initial_state_sha256": "9b79f51105846bfa0b3d717268201e2a63365b821c4accc2e161c47670c8b5a2"
+}

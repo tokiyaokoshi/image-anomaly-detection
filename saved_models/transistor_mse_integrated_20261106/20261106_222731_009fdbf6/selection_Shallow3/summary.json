@@ -1,0 +1,19 @@
+{
+  "task": "selection_Shallow3",
+  "group": "selection",
+  "model": "Shallow3",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "CNN Shallow3",
+  "status": "completed",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "updates": 600,
+  "completed_full_epochs": 100,
+  "last_epoch_batches": 6,
+  "seen_images": 17000,
+  "initial_state_sha256": "9b79f51105846bfa0b3d717268201e2a63365b821c4accc2e161c47670c8b5a2",
+  "sample_order_sha256": "65a4060cd677fcdfee2dfad8ce90d1c292bb1eb1b9cebdeedc9d3ca11f0177e5",
+  "model_sha256": "984bd59070a9ac9e6ebc6d9de5ea815ddb142cf6d51e9c0c07fc659648fe9a45",
+  "seconds": 299.007583300001
+}

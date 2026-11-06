@@ -1,0 +1,11 @@
+{
+  "task": "selection_FC",
+  "group": "selection",
+  "model": "FC",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "FC",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "initial_state_sha256": "63d57a129a49e5b6cdc53007ff61295237d56502adf28659042de3ad958093e6"
+}

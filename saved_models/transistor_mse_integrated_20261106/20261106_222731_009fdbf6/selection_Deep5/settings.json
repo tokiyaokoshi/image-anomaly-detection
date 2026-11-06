@@ -1,0 +1,11 @@
+{
+  "task": "selection_Deep5",
+  "group": "selection",
+  "model": "Deep5",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "CNN Deep5",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "initial_state_sha256": "54fa0755dc9cb34aa3ed2a80a353c4292dcbbcb8a0374e41cded2a9b1dde2831"
+}

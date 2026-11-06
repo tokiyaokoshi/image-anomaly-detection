@@ -1,0 +1,19 @@
+{
+  "task": "selection_FC",
+  "group": "selection",
+  "model": "FC",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "FC",
+  "status": "completed",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "updates": 600,
+  "completed_full_epochs": 100,
+  "last_epoch_batches": 6,
+  "seen_images": 17000,
+  "initial_state_sha256": "63d57a129a49e5b6cdc53007ff61295237d56502adf28659042de3ad958093e6",
+  "sample_order_sha256": "65a4060cd677fcdfee2dfad8ce90d1c292bb1eb1b9cebdeedc9d3ca11f0177e5",
+  "model_sha256": "709f9b71b26d735a338008f887d05dda4e27b0840c6c73648410b8c16c20b7c2",
+  "seconds": 522.8902996999968
+}

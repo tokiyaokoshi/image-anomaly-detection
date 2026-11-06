@@ -1,0 +1,8 @@
+task,group,model,dataset,target_updates,schedule_updates_per_epoch,label
+selection_FC,selection,FC,selection_train,600,6,FC
+selection_Shallow3,selection,Shallow3,selection_train,600,6,CNN Shallow3
+selection_Deep5,selection,Deep5,selection_train,600,6,CNN Deep5
+selection_Hybrid,selection,Hybrid,selection_train,600,6,Hybrid CNN＋FC
+A_normal100,rotation,Hybrid,original,700,7,通常学習100エポック
+B_rotate100,rotation,Hybrid,rotated,6700,67,回転拡張100エポック
+A_normal_matched,rotation,Hybrid,original,6700,67,"通常学習6,700更新"

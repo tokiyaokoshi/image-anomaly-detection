@@ -1,0 +1,1302 @@
+[
+  {
+    "path": "data/transistor/test/bent_lead/000.png",
+    "file_sha256": "82bf661fb868a80558fc45f4fc356c96888bf26827005a57aea6aa707e13483a",
+    "input_sha256": "5b2ecf407ad3359f1967b1e5eba3fe8cbeb36ace89cc06179d67ace7943e622b",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/000.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/001.png",
+    "file_sha256": "d323ab217af2705401d821d0902e0a6e6a970352811b059af4d41bc91b98f581",
+    "input_sha256": "b5d9efda81dbbd6e6bb9f87dcbd3b20784a89d1657380f0a4034729e6e82f9af",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/001.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/002.png",
+    "file_sha256": "df3ea1445492ec319f2f5dc5468db5e083905992777adf8e24694922bee68c9f",
+    "input_sha256": "b7c93f7758653e4dcef20219ea5b37bd6b8fe185623fda901b2d630550a47972",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/002.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/003.png",
+    "file_sha256": "857bbae2a4166fe061bb597b0ed5f9a4bb42acc3a2c018db174bc02de4de59c5",
+    "input_sha256": "a0bcee0e9490462a676f17a2de4bae1d6150f28d212ba0d6c3ea278cdd6f24f0",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/003.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/004.png",
+    "file_sha256": "daf6bae8d0d1c2fd8910ad72e20641047bb684a806e2edb85171b6504c6fb8a6",
+    "input_sha256": "76a525a1e3e0d6e65f377a0e51473f5d1a908230afec7bfd6d4920400d0877c8",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/004.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/005.png",
+    "file_sha256": "b6a69d4503e69581d4846258dee337d0b4d0e6a0d79f702df6bad8ff35b5bb88",
+    "input_sha256": "c5d45825e3ffe11c2dc366695dbc2543a4fa32bae80cabe0ca3334e1fd3eee72",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/005.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/006.png",
+    "file_sha256": "be1c8ab4a558a6d5563d988e1b49fde83c0398947908cb849137d462a2cd0da5",
+    "input_sha256": "3592a823c17a3195d4a4675791f444d68ee47d8cb8a4ecaca2d3b5b5cc460d3a",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/006.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/007.png",
+    "file_sha256": "3d83e7d3b23239b484e62e8fe2c7e0fb2710a04a7d4a9107e38b37df434da172",
+    "input_sha256": "d594a72a2a569c4aba989ebad4e1b5c4d1b9dbce61c3a266fc27ded5a4c1362c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/007.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/008.png",
+    "file_sha256": "a6f2ea8f091943a856bdd48282f4d2b095b25d3b28b9b890ac6572903fda9343",
+    "input_sha256": "f0e619ab5e85855e05f04849c5b2463296a7a6f59e67137b841e9864be0f183f",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/008.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/bent_lead/009.png",
+    "file_sha256": "d94e4336f8c15c41ed1fdbb3a904f4c6d48accb797c0bd0ce424359ad1ad18ec",
+    "input_sha256": "c575539fc8130f12c2a8212283aa97687009e5e8313e7b6605ddc214fb4b7a57",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "bent_lead/009.png",
+    "category": "bent_lead",
+    "category_ja": "端子の曲がり",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/000.png",
+    "file_sha256": "f4ab373b9ffe8a94b0bf4586c17c610b84c5e8e374b90c1bc082a07a7a7b7d8b",
+    "input_sha256": "e5f48abcc5d7517e5d09725dfdb637dbdc9340f146839d14111ec1275f5da46a",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/000.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/001.png",
+    "file_sha256": "76797f50e4cd4bfa1c53dab1f80409c4ee90b75f231a8f545efbef793e1e1fec",
+    "input_sha256": "a74610a9a749e7f123c2c134c68a7fd5fa94a72facbe912b8b7985ea5e565e3c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/001.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/002.png",
+    "file_sha256": "c3d0fdaade0c56377f8aace3549b53ed1b8df2302d444572d2ae5f516db83345",
+    "input_sha256": "56beb6f89b967345295025bc9cfe5d303cdacb3ef7939086a5403b40a704c33d",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/002.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/003.png",
+    "file_sha256": "b7f616807dea69d9ab44caf18b4fd2d2704ad7185d79c04871fb11a762f3e6e9",
+    "input_sha256": "942f2ae85be20ea94a8bdf73473e53cbbbb1619a1d51a447eebf26f9daa52d2b",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/003.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/004.png",
+    "file_sha256": "c4e025310eb9ee2d281e5a704ee6cb43ca2fb4c3a3dd07c4295fcbea29b0db8b",
+    "input_sha256": "ec89c9686e0c3d68e6330a665d21e3e56253ff06ddcc9481c2c7afd7f069ba0a",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/004.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/005.png",
+    "file_sha256": "37d6d29ececc6e1c497d3e67a625c318a2024a0a865aa29df44028d528f35395",
+    "input_sha256": "9c61b7632e7e3bb88926f48f26357b373c386dbe438db98fc11b0cbd6f0cc89b",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/005.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/006.png",
+    "file_sha256": "4beab5fec71718ef9874639b3bd779ef479bf6f0ba8c0e793f8af19171e9a98e",
+    "input_sha256": "236cbd5e1a334a75f92581b9a730189d1e570cb5448827e5eb80ab8214824dda",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/006.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/007.png",
+    "file_sha256": "25d10e06c39285d3305500736455f682855abb491852fa7a3e62c98f98b018df",
+    "input_sha256": "2c47bf168c435ed1c3ebdae9e0c32e35ff998937550cda2336a024df21cf17fd",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/007.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/008.png",
+    "file_sha256": "e4669daa3f1502f03286a449b91c849fdc5f86c8da172754c29c09e167653fd6",
+    "input_sha256": "9a159b5080fdec29a4201a2fa9ece69cce4e7853d28ce38eaca3b96853345993",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/008.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/cut_lead/009.png",
+    "file_sha256": "2dacaa0333191ac09ee4358c8ac4e568b1fd1db8a1926032deffc1a6dcfce780",
+    "input_sha256": "dcddde84ebfd6d6e8cadf9cadad99491a5476f9fb67b83bcab070c97a20267ef",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "cut_lead/009.png",
+    "category": "cut_lead",
+    "category_ja": "端子の切断",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/000.png",
+    "file_sha256": "29b14f810c60417fb81d595ed198f9fb9ff4a7bbdb413f278e21d03dbcc70643",
+    "input_sha256": "9737411cabeb60d9adf6990c768b86608db7e0da0853ec854f31b778e938273e",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/000.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/001.png",
+    "file_sha256": "80f0d646f934adfcb2c1332f94b66a62c5df207840f163e2a330cac4ee9ed71e",
+    "input_sha256": "20adc0015ad62fb169b4abbb0b013cbe07598464b850f3f66511d0c559e8654d",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/001.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/002.png",
+    "file_sha256": "7d5bd841ff7cdabe75c4ce8bf45980f4467b0ebc861efeebbb777b037364e21e",
+    "input_sha256": "63356f27f5c8733106a662eedc3fa2e0536f2e8d7cd43e2100f4b8253100c4a7",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/002.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/003.png",
+    "file_sha256": "e8379a0728738931aa3e03af44219eea3f3bc1884495f767e35f9926ac3f05d3",
+    "input_sha256": "3abe1f478a055b44c3fd416d6390b469166213d817465dd20b9145e5f9141012",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/003.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/004.png",
+    "file_sha256": "daba807599cf3619b324536b15cb1a18dd06ce26e3bb0acc1a455d875929d6f1",
+    "input_sha256": "2aafce381d22e3457608981ea51eccd2d32ddd2d1195d87b4b87da66909fc84b",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/004.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/005.png",
+    "file_sha256": "c635b47f300d0e291ff61ba7724c85cfa4867a0fa33b32c8ac971d170b95b518",
+    "input_sha256": "1fe6677e74be78b1b3b46bfdbde4652d97735411d11c2095ab1c2d5c614b4b10",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/005.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/006.png",
+    "file_sha256": "499bb8c600997248aba0a408eaa442beca38a60c4c4ae43b8b56ed0a2dc39bb0",
+    "input_sha256": "7c85ffa67e7083d5c2146ce37d7bdb8da25747bd04bad0ec765a367de8c83243",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/006.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/007.png",
+    "file_sha256": "a6f5a7c2c97b3c88378d391229a18ca8de82bb263b01b0901a89eb193779e287",
+    "input_sha256": "e0a1827e2235ddd1e36d08d7a653c8cfc923328299346aea3b32fc1688f53eea",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/007.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/008.png",
+    "file_sha256": "cd9c19cd2ff8831b94b5cba61de566726bfc382e9710831fd2831900b6fb641e",
+    "input_sha256": "02e2d09f5ce457cf45673fafb30d0e5349fb9be8975ea86977f8f366932746ff",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/008.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/damaged_case/009.png",
+    "file_sha256": "2bb54f831fe49c7531f197dd673dc22f1aaefdec8f0cb418c43dd1dd359d3257",
+    "input_sha256": "9e9a0088d8f4bf7155543e737030e1abcd7b819cd0add8b54335a04afde1bddf",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "damaged_case/009.png",
+    "category": "damaged_case",
+    "category_ja": "本体の損傷",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/good/000.png",
+    "file_sha256": "b343892f2c2c79017885445e1594c52cba12d939e7c50d3cae083ff2ca33478b",
+    "input_sha256": "ed6537f8bb2fb3edca5f22586dc32f6cc3ff126040214eda9f4986f6672843d1",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/000.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/001.png",
+    "file_sha256": "b3b884f75d62ceb511a7fbc127eed03d6ffdab911fb2ed30b39c90358e812ded",
+    "input_sha256": "62065388f65926cdf02ceef223e26843504c528b2defbf6d589de9e2cf8540c4",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/001.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/002.png",
+    "file_sha256": "812e1d34f47f81b7e333780505739957be9360c0f02855e6ab0697e7ee5fba31",
+    "input_sha256": "d3e2940879a436418fbcb5104e7e7b9eded0bf804cb5644000d0f61777071850",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/002.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/003.png",
+    "file_sha256": "09a05570bfbc2d98b6978e3d52bdeb1a6b1d120caf2285a451f9599b5d1638aa",
+    "input_sha256": "b3e9764e7eb3e33811d9a1dfdbdcb7e100772e50bc284d48b15ceb33894796f4",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/003.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/004.png",
+    "file_sha256": "7c91d10c02199683a7e3b46d88188a8d200c6b065f1af738966fc8892b6242e1",
+    "input_sha256": "510e4072eb458feb581438fffffe8913abf3a517206d239eee2103339a8d57b3",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/004.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/005.png",
+    "file_sha256": "7f2ffb1248a324690f3bf9438c7b64115dd675742c31f710f3e159ef4691e08d",
+    "input_sha256": "e909b6925f11f2ef3bb7d9c981b2bd083d01f33ab7e16b9309001eebe10e0518",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/005.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/006.png",
+    "file_sha256": "ebabca13adbd7eaaefc60711b1c315c5d38f06540fc2ffc6f8484bbea5a0bcf4",
+    "input_sha256": "0cc6f757ece743483a0a1b4b69ba0e0e69cfd7b53292558d6cd7c1b68fe787df",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/006.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/007.png",
+    "file_sha256": "05c7b24367a7bdc03527735fc6dba82817adfd535b23ee1be31c33bd8cf6607f",
+    "input_sha256": "e9ee1d3a382c5684a3813cd02a211a5b48ee7874eac0e5ea4397b7f124dfa96f",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/007.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/008.png",
+    "file_sha256": "aaac4303b5ecf4e91ea0afe13ea55a76bc03c85ea49da1cc305e6eec4b396aa4",
+    "input_sha256": "fe00b7177345d4846bee7449e4a2ab08077aedf5554211ae6d323ec081f422a2",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/008.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/009.png",
+    "file_sha256": "e39ae4c92e5c689ee434f903dffca2e1560d603cd683774588dbc86a81408283",
+    "input_sha256": "23071e946ea5eca32e8a8c362c3e8770e6e13196fbddc8b55f1d4dc59dd76451",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/009.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/010.png",
+    "file_sha256": "4e6203faf405f13e06905fbde08bc1ccd99697305e34823d1e7d335befe68fdb",
+    "input_sha256": "680ad52c4403c60ee9f93d7e804c33e5c06ee1f115a2b48042eb769c69707b16",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/010.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/011.png",
+    "file_sha256": "92071494bed89247dfee942f2d56338783f950972fd0607e91456d7c46d2e378",
+    "input_sha256": "674d9ff8516f05c74702028ef3fe8efc991ca7098ec9a7f9e461c9cc31ab8fe9",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/011.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/012.png",
+    "file_sha256": "ccace7435c9ef0a711a4babe3009a59053ac197993325bccb87937d297d25e8d",
+    "input_sha256": "0f0ae1bbb8875385b3d59c2fff6f2d623e2aeda6591ed30a0ae014e6b656ab93",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/012.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/013.png",
+    "file_sha256": "83c4198707f01a3251300580d1bbb489413d4643862b45974653d1af67d2f509",
+    "input_sha256": "6c9e1de4f513aab3b4b1eea6defcc79206812d062c400505bf8eab452c030686",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/013.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/014.png",
+    "file_sha256": "9d5161f3e42527e1daade2142ce26eeba98d908b77d57fdc2e977b494f8121c7",
+    "input_sha256": "a4703fb6c4fd2d7778baa87b89b26b51061db5f44e6435698cb08af1053bd60c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/014.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/015.png",
+    "file_sha256": "372cd059adb1cfebe3a6db04a21e5a770b24d0ea771527d5c450dcc8aef2ebfb",
+    "input_sha256": "ad70f5c8cd7c4ddd27fee581a1d28006cb2c420f325749830113cedeb9591fb2",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/015.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/016.png",
+    "file_sha256": "09d4bd5977da1ca86da3381cee7d5e648baf7fbe280f12782ca04a428498e7e4",
+    "input_sha256": "c790f8c5f61ae52a8893aca2d04943ac6003a37c472ddd1a6882cecb9aad7955",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/016.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/017.png",
+    "file_sha256": "e80dfed8b06995bcf5dae06ae5d428aa6485af13a4ded48f45d3e574f0214a3b",
+    "input_sha256": "a943491703f02a1005feccd5eb3893377115c39853aa907187b2836c68df2ae8",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/017.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/018.png",
+    "file_sha256": "9b80184db8f6978ac804bce0876278ac4d0140d2b320a0dcd78039728655bc40",
+    "input_sha256": "b1560c0c051ad81c392225fe678b4f3e8192f2bbbf6e2f8d82b9628e8070b7ca",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/018.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/019.png",
+    "file_sha256": "ea1313c1d23ba37aafc552a6391113cc261a4c24f871c2a36a7f0e3be01d4bb1",
+    "input_sha256": "bf6c90e275110c4297364250484ca08b715aa72acda0e1fecc3614674eb7d2ef",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/019.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/020.png",
+    "file_sha256": "373db82d6b2f728236a97b289278e662f03a5ae079c2e4f40e4baa26b4182ce6",
+    "input_sha256": "f863ef9d15a00e42236245e29aec454f1e6176cbe44a21c0e12a9ea46fa8a505",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/020.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/021.png",
+    "file_sha256": "36b7bcab8290fc43a36e2cf535544f5b0a4054d8e7943ebaec226aead2c042d1",
+    "input_sha256": "e4835ded2eb5da6de2da8955305d593df234eb2cb8fdf055e9bb6669bbf16cfd",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/021.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/022.png",
+    "file_sha256": "2c8c4fce80a3d354c5baeba8db235b2e8dfbee1603c4a587c64f8e56df1f6597",
+    "input_sha256": "c0afc3777dc96d337a6789d6819b52249bc1d2eeb7fd49eff03c1af45fa167f3",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/022.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/023.png",
+    "file_sha256": "f21364b1a8a2171e62c5dd1c9743d6495831dd56f3d82f42d67bc5daa79be623",
+    "input_sha256": "283cdea84814c9d892719286d7f785ee5c7ecc7e78a1a2b6c07822cabe0ef629",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/023.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/024.png",
+    "file_sha256": "7bc981d723661e67b4d50afafc8defcd38e3fce441e9d40be069bac48a69de77",
+    "input_sha256": "7e2831ce615060fc3a31c1121af4a1d444dcb8c8877c6189686b605da75887fd",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/024.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/025.png",
+    "file_sha256": "ab390cac11b23426e3e4c9f7b409985fa92937d77f496890f6d107f841536a0a",
+    "input_sha256": "22c5c908a771489d9941c28be10bcf7509f2681add2b7c2cbb1d937423e84532",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/025.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/026.png",
+    "file_sha256": "c206a57ca482146181e13da0b65b2513ce7cdfd5079d5d5d7e9fa66ec4e7570c",
+    "input_sha256": "6fa219bc4ffae3995230412638ae204ad22954cfab521482aa697c3b9e3fcf4a",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/026.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/027.png",
+    "file_sha256": "b8542392ea528dc0736fc858f44e8fb831908644b8a8a81f4f3ca8df04b14296",
+    "input_sha256": "83c133ed672fe1d01a2f8970c9a2ba8eac968a42c2cdc3daf13cc8ce84b7978d",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/027.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/028.png",
+    "file_sha256": "4e56c826c52a47aec159647f44c12e6c9e43b2ae7aba7e1821302a6d88b7a8d4",
+    "input_sha256": "a5720fd4c85ce866e58c1c12b3af3f0e64166d708a78c62684c76338ecebcac8",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/028.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/029.png",
+    "file_sha256": "023c2f5cbb3585caa7b8ad265495d8bc617b3621cac53e176254473971922b9f",
+    "input_sha256": "6b5dadcbe764dfd6188527c11129630522dfdf84ebc520cf3d2bf55dc1a3fb1c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/029.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/030.png",
+    "file_sha256": "bfbe0aa47d3191a40d2f7a44099340d3e42a7d8b4919f01d41709abd3d9350cb",
+    "input_sha256": "9b0a5ad24dbd6a862b3dcddf16a675bff912acb0b1a4220177a3a9696552b301",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/030.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/031.png",
+    "file_sha256": "df9cf207c7b1e141d6e0983025b2d42e64776c3aede8c272481568b7c4f3eff8",
+    "input_sha256": "669beea6d6ad1e138caf793db57a46144e7249c436716b56b399e3c14fe4414e",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/031.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/032.png",
+    "file_sha256": "eac4e4f45e9b7f68b11e7c9601de7f01b323490529759a3faedb6abb77c61e35",
+    "input_sha256": "c4f3bad4141291ab37e3c513b3a282c160907f6e88d2b4851c5a78e77967f3a8",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/032.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/033.png",
+    "file_sha256": "619f982b985494418ede863e2406c1d138ba2a3d63796adfbcb0c45bc4707899",
+    "input_sha256": "62924abee97f55fcedcdba47ed9ab6bd6137baf8414735d854c9212f037e14fe",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/033.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/034.png",
+    "file_sha256": "e9313248835fce819b2aa6c909159a3be7674a5b034a6abf42fa369d7e78a31f",
+    "input_sha256": "ec05e969cb3f4eff919e874cbc2512beb600ae072b04cb28f228e94337512b0e",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/034.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/035.png",
+    "file_sha256": "950ed6b33c78dfcfcd38a0829bb2cefd8a050fdd099230b97177d280a474ea26",
+    "input_sha256": "00c4651a4f5f5cf9f2c0516e4f0486fbeb89b4ea8afe8b160aa1fb98b470994c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/035.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/036.png",
+    "file_sha256": "54f96485d1a314fc9865caf1913f14dc76a1dc9a98397cba53c9c0fb7c79f66b",
+    "input_sha256": "6a381b70f6322fd0c7dbbaa73c3dca33f25166143df1df36fa37f228533a356d",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/036.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/037.png",
+    "file_sha256": "0ea54e13b6968daca380521809d401223da988fb3107575ca2d9aa402431d9e9",
+    "input_sha256": "447449738e0a5f30fb8f53a15c014f4612a1a24861fe52f18e0d4cfb594bcfb6",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/037.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/038.png",
+    "file_sha256": "e49823adb3e86e7e928244ca59136ec23ef05e2f2f1e8fb4330a7a935f7b73e0",
+    "input_sha256": "f4bf8d5b1d76a1d846b7707ba4d79424a030eb8c4c00f695be661ab0fb4c757a",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/038.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/039.png",
+    "file_sha256": "640adebb51e2d88cf5b5b3556b3303af0472b2429eb91b91a8c8c3e84ce8da58",
+    "input_sha256": "11d437e3c2c1de4eedb40f151b2b6c5c928a6d8d2866bc62670fee00e8329912",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/039.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/040.png",
+    "file_sha256": "2b2d88a231011c6b215a916e3d21512d2e5e325f720ced3023253c715836dec8",
+    "input_sha256": "b91b35fe4bd01d5845d8d1cb19e22238dcac7fd6a7f39d00642ac606b1d2f25f",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/040.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/041.png",
+    "file_sha256": "60608a8d07c59b045d15f00dc7e4462f56c3248e4e0fcce3e4c4b8d2f6642242",
+    "input_sha256": "9621c73d185c56981a302d3a9bcaa3b8f5acf29e935a76c58c1e300969187535",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/041.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/042.png",
+    "file_sha256": "427c8433189cba137e4c3be70f3d78931f5e0fcbd459a2385494e2de34cf25ba",
+    "input_sha256": "7dbebe7114f8869c6bc5dd6882af5110fcda4ec766f42229bc5d3a3936a2fc4e",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/042.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/043.png",
+    "file_sha256": "2fdfc5a48b4be0ee07941087df49a82b025f57f886316b8dcc85d4f8feb41980",
+    "input_sha256": "0fede20a681b24f1a39735c126ef74aacfdc552f653334f252e14f58fc32fd24",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/043.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/044.png",
+    "file_sha256": "0cb2a5976a6ff5d0a66915b680b43b74d37ea8e4166fb10756c023ca7b4cb8fb",
+    "input_sha256": "b72985bf187b3e8bc9518683dd3670ca987bd80d8996233313636c6e77b6eb40",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/044.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/045.png",
+    "file_sha256": "20044aa1fd2c5a0f7a779901b2d73480e8eee7d5cd46197d4a11124f135cb803",
+    "input_sha256": "61eac5c95bfe4d50ecba5e54b8b5e28bdae60ad4ba3fd4a02cd5098a8d9964a9",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/045.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/046.png",
+    "file_sha256": "827e69244c8e213841ef917481a5b75e0e540eae0ff2a63d18e7d0691a9610e5",
+    "input_sha256": "7b514a689119e7a9b13c770b68aa50a4358d6350206a8d2dfba08f8c572567c6",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/046.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/047.png",
+    "file_sha256": "fd9d2f0c687f63808c158b1851fc885d4466b36e9c029de8e64e22869adfb3f3",
+    "input_sha256": "e20bcc903a4efa9ec76bd1c2f4a5276de3f2e456b14c0097b5f106293f5cce50",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/047.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/048.png",
+    "file_sha256": "b3594312c1fb5f126e3e95a0e7f48385d6f83d932fa63a56354b1d43555bcb1e",
+    "input_sha256": "610a9d99b2bf922da699c3429a452938065ec78c9824f95b6eca196122d9b194",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/048.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/049.png",
+    "file_sha256": "e1e3b26a9cd9c7c51cc83911019cc3822eeaac34121ed0372f15adbe4a6f7282",
+    "input_sha256": "59393faa76fbc2453924447069d55ff36bc2b668444c0ac81111b8d593862ba8",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/049.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/050.png",
+    "file_sha256": "4f6455e099d35e1c6f238842347af2d4f657f307b0b30d88a9febe0220845a91",
+    "input_sha256": "de2e56ee5518ddce19b99888c50b08d04fb141a34f7fb4e5595614bbb7c911ea",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/050.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/051.png",
+    "file_sha256": "34cb6b38a99116b68059012406f5d216bfd8a67842eff28e2294d7e67dbd6134",
+    "input_sha256": "51781659d9882ba2c3682c3c8ad55524eb7ea2c16008be21705b55e1a69eb318",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/051.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/052.png",
+    "file_sha256": "7cd8dfb6114cd7a906a74ab8874e1848fc32a2e7917154342bfb31cbae5bfd7a",
+    "input_sha256": "9ef52861019c853ab46792d456012e8814b56826b79a1672137aec37453358cd",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/052.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/053.png",
+    "file_sha256": "75e339cf7b01108815f08c10f4e7987a9813e9d27678bd5a6c1c07f6c14826b2",
+    "input_sha256": "274055e931c19bfe578dc316823f711d30ea6d8a41613d6bd01a7c164859cc71",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/053.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/054.png",
+    "file_sha256": "00819dc7f2534c9f58a9d650b035700808748447f37b01b569c272df632c3caa",
+    "input_sha256": "ce6e4c19d16cd146d8e8f9fdda9d35a192cda29b1cf19c6ccb3d688eaa5e56d5",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/054.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/055.png",
+    "file_sha256": "1f4e6a7067dfa5e988d6b1697478cbb3068e4066b22dec5bfbe068f85fb56667",
+    "input_sha256": "258d4dd5b6daa26d9464c03a685174bcdaa95c2f972f46d01d840c45b465206b",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/055.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/056.png",
+    "file_sha256": "48da6154fad0fdd176cfc1619c118da22803cfd2daa74446fc66e888220abf26",
+    "input_sha256": "fc959ed4284ef7771a4a618d887cd79cf882304024bd118e12f81d831a2ab942",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/056.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/057.png",
+    "file_sha256": "d51378df52c64fb5b8532227e5f11eab48f03a35fd7bb07325be6b91f7445122",
+    "input_sha256": "1ada2c654ea4858ebff2acab48df61f71869c077c2069941a5d43ce6b42c2168",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/057.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/058.png",
+    "file_sha256": "2ff00a713914e32e119bac96a0c407f5b3c6e69781bf57f4d637a3b1da62dc23",
+    "input_sha256": "7de692f5490a6c4ceec7c3c215137c09dee1bf0c98915440fae19b140632ac5c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/058.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/good/059.png",
+    "file_sha256": "43fa18f50c54f96d554b44573b933dce9cac1d355df82c84d46bdbac5cb87206",
+    "input_sha256": "7042326a5f716267a64304ccc6afb0e6a2cdb3915b0b95735ee4fed3898663ff",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "good/059.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0
+  },
+  {
+    "path": "data/transistor/test/misplaced/000.png",
+    "file_sha256": "9ff15394285b7c54e7c7c05f668bdf5ba63a8f60fa2703b3234a918114527d10",
+    "input_sha256": "081f230eede19ee76e33a8e397d7d21108b9fee518dfbe31b664728245d0be01",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/000.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/001.png",
+    "file_sha256": "135c5fafb8133a8fb5706a651c3bd2a67e8fa428ba9d827119a41a5766f284e5",
+    "input_sha256": "96062439863189fc7c69c047a67440cb3502fd30c78a607fb8eacc4c271a503c",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/001.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/002.png",
+    "file_sha256": "39aa3785ed25512eec3392723c28015392857cce9e5298ca2474ad998ac540c5",
+    "input_sha256": "b35f77f237607a20f483940f362b3feb721d8c06b67d94f9f9af1b52edb8bf13",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/002.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/003.png",
+    "file_sha256": "aa84cece7d86638f308adf7152a9b5c63ce6de493a87bda96a62df251c9abfec",
+    "input_sha256": "37bf65e31710373c81638251e90a800967b2738b28d937eb962ce79857915b08",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/003.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/004.png",
+    "file_sha256": "4ca5acf99c39ffc86dee85ede75257ae848bca7ee99b7f10eab3d85a7d2517a7",
+    "input_sha256": "e65ec6c65273cf939dfba68b8116944b563c46d869c905d68ff30a79cd577e7e",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/004.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/005.png",
+    "file_sha256": "fa0789d64a9174fe6180c18c718d1aa28c22cd3e760dc643c7f4a2f23603b88d",
+    "input_sha256": "0364414058c50af13659c0eabc94403ce33001879af6a1302ee40c54b481c0b0",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/005.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/006.png",
+    "file_sha256": "bd731cabf35e8081935c73f0076a9e5d5a50149cf767b0cec21f7cfac5916cd1",
+    "input_sha256": "5b0cdfd79fe0d99154c2ac80cb75d26d93b6f28f67e017870a55c8c9c9759bf1",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/006.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/007.png",
+    "file_sha256": "e169b4cf81a2f091c2016499f2616827a82115572d84730c159ae2d71ad112ec",
+    "input_sha256": "63265387d803c8be2e66d51df4783ac1cb9ee1456dbea88d49a204263cfa36bd",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/007.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/008.png",
+    "file_sha256": "ee8b9b5490a6ceb942bdc86bd5a1aa55712366d2b9036e955a081599618d2977",
+    "input_sha256": "2386301bb1e381543bdd087f10ccfa22668512360555e58a8eb18e37e4045abe",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/008.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  },
+  {
+    "path": "data/transistor/test/misplaced/009.png",
+    "file_sha256": "61efe1ad36768581b11432762ebec4ddfa16d8d5fbbad6aaa21d3e72a6b06975",
+    "input_sha256": "1d65f8826897fcd04f4b8147b873ebca7354bb72eb8607e605153bd86d43aff4",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "relative_path": "misplaced/009.png",
+    "category": "misplaced",
+    "category_ja": "配置ずれ",
+    "true_label": 1
+  }
+]

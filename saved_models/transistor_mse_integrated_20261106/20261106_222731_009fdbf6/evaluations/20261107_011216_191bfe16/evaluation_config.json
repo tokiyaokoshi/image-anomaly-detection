@@ -1,0 +1,50 @@
+{
+  "status": "completed",
+  "training_run": "20261106_222731_009fdbf6",
+  "training_contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "weight_sha256": {
+    "selection_FC": "709f9b71b26d735a338008f887d05dda4e27b0840c6c73648410b8c16c20b7c2",
+    "selection_Shallow3": "984bd59070a9ac9e6ebc6d9de5ea815ddb142cf6d51e9c0c07fc659648fe9a45",
+    "selection_Deep5": "60a18a5789e07bb0172f884917e3ea1e3a498bb35496967cb4fefa8a1162c1a0",
+    "selection_Hybrid": "c8742e7d46a5496271087262c0fff31d46d47c05980a72e5eef7eb30852a2ee2",
+    "A_normal100": "e970dbd4dcbe64069fdc22c9c9a86ef14e1862100c45568254620837cbfc0cc2",
+    "B_rotate100": "eeecd6cd3bdb113be6189f3331e4b28db3cdcfea281679ada8f8a1af91e9bdb9",
+    "A_normal_matched": "1bc939b8fff747a0a206d74838ad9995c41e869ac97b63721eaa93f73160dbef"
+  },
+  "test_manifest_sha256": "dae5a7de78a01c726b966b3bb2f43ae90e1f44b9a52051640b3f2ccaa45c0a69",
+  "assignment_seed": 42,
+  "assignment_sha256": "a212269faf5352aac0570ee84660866f4241a3e823d25a60bddc956728d3e341",
+  "test_angles": [
+    36,
+    72,
+    108,
+    144,
+    180,
+    216,
+    252,
+    288,
+    324
+  ],
+  "test_count": 100,
+  "top_k": 130,
+  "ssim_window": 11,
+  "ssim_data_range": 1.0,
+  "anomaly_map": "1-SSIM, full map including boundaries, no clipping",
+  "inference": "posterior mean",
+  "metric": "AUROC only; no threshold optimization",
+  "scenario_tensor_sha256": {
+    "unrotated": "28b020a8af34963de191469205380618d4364a12ee4ddd4184f9a815c149af42",
+    "random_rotated": "991e9079696f33222bd2d083d9328d75989a9a370c5d6a8bfdf80733d42fd94d"
+  },
+  "validation_count": 43,
+  "result_files": [
+    "validation_comparison.csv",
+    "validation_image_metrics.csv",
+    "auroc_comparison.csv",
+    "image_scores.csv",
+    "category_auroc.csv",
+    "angle_assignment.csv",
+    "validation_cache.npz",
+    "test_cache.npz"
+  ]
+}

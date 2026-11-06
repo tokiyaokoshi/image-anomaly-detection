@@ -1,0 +1,123 @@
+{
+  "contract": {
+    "experiment": "transistor_mse_integrated_20261106_v1",
+    "model_definition_sha256": "51de270b653e1501ec08504244cc88c754049ebeee11eb35c5a31a6a9328797e",
+    "plan": [
+      {
+        "task": "selection_FC",
+        "group": "selection",
+        "model": "FC",
+        "dataset": "selection_train",
+        "target_updates": 600,
+        "schedule_updates_per_epoch": 6,
+        "label": "FC"
+      },
+      {
+        "task": "selection_Shallow3",
+        "group": "selection",
+        "model": "Shallow3",
+        "dataset": "selection_train",
+        "target_updates": 600,
+        "schedule_updates_per_epoch": 6,
+        "label": "CNN Shallow3"
+      },
+      {
+        "task": "selection_Deep5",
+        "group": "selection",
+        "model": "Deep5",
+        "dataset": "selection_train",
+        "target_updates": 600,
+        "schedule_updates_per_epoch": 6,
+        "label": "CNN Deep5"
+      },
+      {
+        "task": "selection_Hybrid",
+        "group": "selection",
+        "model": "Hybrid",
+        "dataset": "selection_train",
+        "target_updates": 600,
+        "schedule_updates_per_epoch": 6,
+        "label": "Hybrid CNN＋FC"
+      },
+      {
+        "task": "A_normal100",
+        "group": "rotation",
+        "model": "Hybrid",
+        "dataset": "original",
+        "target_updates": 700,
+        "schedule_updates_per_epoch": 7,
+        "label": "通常学習100エポック"
+      },
+      {
+        "task": "B_rotate100",
+        "group": "rotation",
+        "model": "Hybrid",
+        "dataset": "rotated",
+        "target_updates": 6700,
+        "schedule_updates_per_epoch": 67,
+        "label": "回転拡張100エポック"
+      },
+      {
+        "task": "A_normal_matched",
+        "group": "rotation",
+        "model": "Hybrid",
+        "dataset": "original",
+        "target_updates": 6700,
+        "schedule_updates_per_epoch": 67,
+        "label": "通常学習6,700更新"
+      }
+    ],
+    "train_manifest_sha256": "1c3857c2cad2555f08a35529a26947a1057f8a144d3904750db1c5ab3697066f",
+    "split_sha256": "3b5f5d105050a94ae000e8534b11ff2bc08d6b8bafa7dc1c3dad2b63f83390fc",
+    "seed": 42,
+    "batch_size": 32,
+    "latent_dim": 64,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "beta_final": 1.0,
+    "annealing_epochs": 50,
+    "loss": "pixel mean MSE, latent sum KL, batch mean total=MSE+beta*KL",
+    "kl_rescale_by_pixels": false,
+    "input_size": [
+      128,
+      128
+    ],
+    "source_size": [
+      1024,
+      1024
+    ],
+    "training_angles": [
+      0,
+      36,
+      72,
+      108,
+      144,
+      180,
+      216,
+      252,
+      288,
+      324
+    ],
+    "padding": "reflect",
+    "padding_width": 217,
+    "rotation": "torchvision PIL nearest, keep frame, preserve original support",
+    "preprocessing": "full RGB, high-resolution rotation if requested, LANCZOS resize, grayscale, ToTensor",
+    "training_inference": "posterior sample",
+    "evaluation_inference": "posterior mean"
+  },
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "status": "failed_or_interrupted",
+  "run_id": "20261106_162151_d70cfa1f",
+  "created_at": "2026-11-06T16:21:51.092531+09:00",
+  "device": "cpu",
+  "python": "3.13.14",
+  "versions": {
+    "torch": "2.12.0",
+    "torchvision": "0.27.0",
+    "numpy": "2.4.6",
+    "Pillow": "12.2.0",
+    "scikit-image": "0.26.0",
+    "scikit-learn": "1.9.0"
+  },
+  "error": "KeyboardInterrupt: "
+}

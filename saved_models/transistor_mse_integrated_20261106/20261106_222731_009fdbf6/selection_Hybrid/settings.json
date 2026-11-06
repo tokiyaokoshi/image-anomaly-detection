@@ -1,0 +1,11 @@
+{
+  "task": "selection_Hybrid",
+  "group": "selection",
+  "model": "Hybrid",
+  "dataset": "selection_train",
+  "target_updates": 600,
+  "schedule_updates_per_epoch": 6,
+  "label": "Hybrid CNN＋FC",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2"
+}

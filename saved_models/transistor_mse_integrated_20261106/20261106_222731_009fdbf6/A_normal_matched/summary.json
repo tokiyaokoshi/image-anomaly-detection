@@ -1,0 +1,19 @@
+{
+  "task": "A_normal_matched",
+  "group": "rotation",
+  "model": "Hybrid",
+  "dataset": "original",
+  "target_updates": 6700,
+  "schedule_updates_per_epoch": 67,
+  "label": "通常学習6,700更新",
+  "status": "completed",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "updates": 6700,
+  "completed_full_epochs": 957,
+  "last_epoch_batches": 1,
+  "seen_images": 203873,
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2",
+  "sample_order_sha256": "e08ab45c95ea40104b1fa81a0c67167734b53333dcdaf13481d47c6e76fd9a9a",
+  "model_sha256": "1bc939b8fff747a0a206d74838ad9995c41e869ac97b63721eaa93f73160dbef",
+  "seconds": 3918.2272894000052
+}

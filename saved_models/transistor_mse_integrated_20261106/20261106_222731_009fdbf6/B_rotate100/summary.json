@@ -1,0 +1,19 @@
+{
+  "task": "B_rotate100",
+  "group": "rotation",
+  "model": "Hybrid",
+  "dataset": "rotated",
+  "target_updates": 6700,
+  "schedule_updates_per_epoch": 67,
+  "label": "回転拡張100エポック",
+  "status": "completed",
+  "contract_sha256": "cba1f663e31256c1afcf0417d28fe55c409225271c328c12c6825fa18e502281",
+  "updates": 6700,
+  "completed_full_epochs": 100,
+  "last_epoch_batches": 67,
+  "seen_images": 213000,
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2",
+  "sample_order_sha256": "4615eb6ac0efe9cf1cb56bfd5374c21badff8d0ff572a4cace07aba10a95b496",
+  "model_sha256": "eeecd6cd3bdb113be6189f3331e4b28db3cdcfea281679ada8f8a1af91e9bdb9",
+  "seconds": 3872.2123587000096
+}
