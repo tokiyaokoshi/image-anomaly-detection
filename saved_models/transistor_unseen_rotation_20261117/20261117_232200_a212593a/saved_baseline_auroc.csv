@@ -1,0 +1,5 @@
+condition,scenario,auroc,sample_count,assignment_count,source
+A_original,unrotated,0.82625,100,1,saved_scores_no_inference
+A_original,known_rotated,0.5679166666666667,100,1,saved_scores_no_inference
+B_rotate10,unrotated,0.8066666666666666,100,1,saved_scores_no_inference
+B_rotate10,known_rotated,0.7737499999999999,100,1,saved_scores_no_inference

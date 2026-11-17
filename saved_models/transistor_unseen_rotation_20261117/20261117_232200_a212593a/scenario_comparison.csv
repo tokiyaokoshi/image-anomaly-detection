@@ -1,0 +1,9 @@
+condition,scenario,auroc,sample_count,assignment_count,source,auroc_mean,auroc_std,auroc_min,auroc_max
+A_original,unrotated,0.82625,100,1,saved_scores_no_inference,0.82625,,,
+A_original,known_rotated,0.5679166666666667,100,1,saved_scores_no_inference,0.5679166666666667,,,
+B_rotate10,unrotated,0.8066666666666666,100,1,saved_scores_no_inference,0.8066666666666666,,,
+B_rotate10,known_rotated,0.7737499999999999,100,1,saved_scores_no_inference,0.7737499999999999,,,
+A_original,midpoint,,100,5,new_evaluation,0.5156666666666667,0.05532228805423326,0.43749999999999994,0.5766666666666668
+B_rotate10,midpoint,,100,5,new_evaluation,0.4996666666666666,0.07492901733566833,0.42291666666666666,0.6083333333333333
+A_original,unseen_random,,100,5,new_evaluation,0.5550833333333334,0.054617832608854805,0.5004166666666667,0.6441666666666667
+B_rotate10,unseen_random,,100,5,new_evaluation,0.4343333333333333,0.05075865416086427,0.3533333333333333,0.485
