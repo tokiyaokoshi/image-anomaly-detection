@@ -1,0 +1,13 @@
+{
+  "status": "completed",
+  "condition": "A_normal",
+  "updates": 6700,
+  "epochs_started": 958,
+  "seen_images": 200045,
+  "seconds": 2408.186046700008,
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2",
+  "model_sha256": "b5508253b765fa5efdac13e5475dfed477eb94e2a3ccc5bc13f1bd4c2637f439",
+  "sample_order_sha256": "0973af3c3be420141277600bbb56364bee6c229969c13a2ec0399463e621ce86",
+  "angle_sequence_sha256": "2dcab2658a6fe136b98f6b89cd9d5d45b18d5a881b6efb6bf916d1a12ea3b2ca",
+  "contract_sha256": "11a3aaf18f6e612ab7d20df12d91e180a9ffb2e64341b82f17c690adc12160b0"
+}

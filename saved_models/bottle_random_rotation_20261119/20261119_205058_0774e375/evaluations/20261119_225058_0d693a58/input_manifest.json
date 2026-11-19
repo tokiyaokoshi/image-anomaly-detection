@@ -1,0 +1,3986 @@
+[
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/000.png",
+    "angle": 0,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "732ac98ee5edb454be736cfe15ff9c045681babfe116f54bff4ba57326942fa8"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/001.png",
+    "angle": 0,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "ec982c7238ac1323db1bfb9afb873e47ece43543addf9ba2ed6ef2f5ae9fcc23"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/002.png",
+    "angle": 0,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "0fbda59244486c4bf7481551c2a4a1fe14a49aec7c242f9020529e939429232b"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/003.png",
+    "angle": 0,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "03a67e2a0ba5806913b87c7ed510b3de27aa03be8bf8cbb0ea33a497d1417136"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/004.png",
+    "angle": 0,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "95079346d80a0706452996423c15d889fc2eb9f3913d13ff6a76fc5c9639eede"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/005.png",
+    "angle": 0,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "cfa62d7837a5a86546c002d369f8bc4988ace43afec8238c60f7d31da5d9e3d9"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/006.png",
+    "angle": 0,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "b674f40e380ef128310a54c81a258f6c5e25205e39ea9af83726f80ac7a289ea"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/007.png",
+    "angle": 0,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "bdee2e25febfad0264dad513ed22f2effbdf9f8e0f4df9032c2ce051b06e9d54"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/008.png",
+    "angle": 0,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "b64d9755535a107d808c002edd041315a64287e3aa6bf5825051528735463c38"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/009.png",
+    "angle": 0,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "a11c493dff4e0d938a21a9ce9e1dc2c25b5af1344d7c9fd6c9f93dabf3a98e3a"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/010.png",
+    "angle": 0,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "de37e2c2364ed59cd78d2c5ccaaaea594dd4c887364541f97ec32a34f34a17a7"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/011.png",
+    "angle": 0,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "1265daf9792183a8e69a30dee9b1d5214b3f7b3c247b236cf639f078af7c1b42"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/012.png",
+    "angle": 0,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "79bcbb55606e9ef932a95f76f09a46a6fd00be95c124e9d48cda81ece5aa5546"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/013.png",
+    "angle": 0,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "f59d0b50b315f1ce5595a1d22a1b19b925966bf0f61293cfc29b3c245eed3a90"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/014.png",
+    "angle": 0,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "3986a2a1d68582e37b18d14c56f09261efe388ed1694c5a90ab3dee187213ee9"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/015.png",
+    "angle": 0,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "c3b4067309531a0818d65ad1c84b922d347813ed7d111a299414ce9b976efd57"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/016.png",
+    "angle": 0,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "2f97d6efdffaf8f92901dca6e44ad76ec72b9da36533ebff3ce79ef9062d4bc6"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/017.png",
+    "angle": 0,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "3dc424100c2cbd35a46d8953289127e29e80e1b92ae6225180b85a051fe2c460"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/018.png",
+    "angle": 0,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "f5f46fa68ae365192c016e7fcf2330ef4d0161962580e2991771710345ba8159"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_large/019.png",
+    "angle": 0,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "c15bf8e1501692e3dfc78c63ca1257d1e9484ef14711b15ea2500e27c8f32e74"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/000.png",
+    "angle": 0,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "e2a3f3a1e00f4e90a914d77459070d3de5ecb7430e99c96a48de4b67fc377a65"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/001.png",
+    "angle": 0,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "f1f2a960cf6c6b87bc216e990a969979809d83fdaa2eb1b88fc0f0bfc47d6364"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/002.png",
+    "angle": 0,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "cdc1a6533690635dcc2fe55251bb5d1f8c5c7a78c62c32113e0cccc7067d2a7c"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/003.png",
+    "angle": 0,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "0d19a49cb32819ae2b259a0e1fa4efa0b5cdeaef092ea927b453d9a2e4c97e00"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/004.png",
+    "angle": 0,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "8e4701ebe879f73513364172d6f66cba61c3a78a648b8ff5ef727b2e8f33a675"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/005.png",
+    "angle": 0,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "7bbb282380dc9dd6030cee2750ba39cdf12bf877f01c04ddf9a4bc94c2611b97"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/006.png",
+    "angle": 0,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "1479f84936631c2b24b3888b1953db9ce3f7cd96f5bdf1152cc101d4f46467dc"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/007.png",
+    "angle": 0,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "240f272376b24990f04ed796d887a27daf1a62d4f8ac0a5378a6b98517200d85"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/008.png",
+    "angle": 0,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "825f473ea1ad008276c54799af2acb065862e8d0f053f8f49dacc9814abeb6ee"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/009.png",
+    "angle": 0,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "80aa7d5175ae7ecc42c878671e21d3d37c914efe03ab755a5ee2037968664991"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/010.png",
+    "angle": 0,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "2caefd23658efa8c60b7d1f910ef3d374ed73e376d01750873669b1a4ca4d1a4"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/011.png",
+    "angle": 0,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "90d0f83843c6a100ed2aaff19f0811e05306af59340cfc1dd246e01f4492a54d"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/012.png",
+    "angle": 0,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "4ae078f64607e129c7162f5ee9d8533ab36370e3ca94b0327c35edd953fc196a"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/013.png",
+    "angle": 0,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "f3a000479533a4c5c50f53e9e8490eaae29521ee06c7a849fdac4777ae10b8b9"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/014.png",
+    "angle": 0,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "df684516ac19d8525ca41898f4da30837fad4db0158f55b4656bd2d17ee8bb08"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/015.png",
+    "angle": 0,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "03e7334f442dda768bf8e186f175490b8e008bba38d1b5100ddf193f0dde7fab"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/016.png",
+    "angle": 0,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "81c67531082691f0b81b3d0f354f0526bc42af40986d2cb8b023985255322a67"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/017.png",
+    "angle": 0,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "d7f757c03df934ac5d529f3294439c9c7740590e07d59667b71241ed66c22e11"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/018.png",
+    "angle": 0,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "e51bba38f903cf4b97fc5028bd804a57798e6cf06f562eb3f34342e25455e566"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/019.png",
+    "angle": 0,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "15d8a2e820b8e721aa6a772a4197faf9577a6dbf9b65d30316d9a3a85f7924f6"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/020.png",
+    "angle": 0,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "2f36576db208b3cc88368149d50ce01f6741103f79519511b3c01039598829dc"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "broken_small/021.png",
+    "angle": 0,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "ba805411558420f85e64e4d376bc009734bb8ff60bc0ec03b63e8c46b30a198a"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/000.png",
+    "angle": 0,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "91babaf6d5ef8acd19d1e78768c26b21afeaea0af2a61465fc14eeb833d4c17d"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/001.png",
+    "angle": 0,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "d0a105c3e546ebfe0ae5ce0b81d55c2d575058841c9dbd95d29cdc1bd0f2bd26"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/002.png",
+    "angle": 0,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "6528847d85b365360dedde271e12a5fff66735aa8572c8767da76a8bc222d86b"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/003.png",
+    "angle": 0,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "48ccfd96dc5dcbabc69a9c4d4a46e084a4f24431e6f1bad669bb3d6a717dcaaf"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/004.png",
+    "angle": 0,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "b3b649b1cf4747d6b22a4b69b87445a8d41b6c190b1f77b23d293d9cb59dcc25"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/005.png",
+    "angle": 0,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "39055ea9e05a42977a9ac872c3f264566ba33631137a1e99f57d56b2bbf2e39f"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/006.png",
+    "angle": 0,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "cd89646e90ae0305baab8beb15ad4b64bdc91617b3cd1c7d5c9f84123396142e"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/007.png",
+    "angle": 0,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "c02fe40dd214930834152d30110120229afa95d5149c457f49ea0af83ab26ff9"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/008.png",
+    "angle": 0,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "80aa2140b27663dcd140117d8d08788a887cb8231bf510799f21ba14913f4371"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/009.png",
+    "angle": 0,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "f1c468b66d8dbf4efc34843eb9cf87e7f7ff3c3b0f2a0c278f3b324c2110f267"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/010.png",
+    "angle": 0,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "71ba858d6026bfc5783d1d1c7fb97f38a5db6d2d7e93793962b7c1778399e4a3"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/011.png",
+    "angle": 0,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "249ffd892d90de3e7e03a84fce6423c7107b5e3afb6cd4823126ae5d733cf9ac"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/012.png",
+    "angle": 0,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "6200c10a8ed57a5267f2a97231f1957c0c63f178be7c18495f76cc52abcd6dae"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/013.png",
+    "angle": 0,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "73ad97c150daa5cf884a3fbbea869a87bc5fd15d6a449cbe0b28dc16b1270172"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/014.png",
+    "angle": 0,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "70c95887465ecac3559eb4da3fa3a6f8c34f340e14169878c21e924763249939"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/015.png",
+    "angle": 0,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "d2ac7dcf8084c4c8f65233d7f100d398fc0ce53a7a3d97e6fed47832f05e61fe"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/016.png",
+    "angle": 0,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "a123c967b305555406ea4141bb95fac65debb0031f9e647cdf1814f80f017e53"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/017.png",
+    "angle": 0,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "be94678c46a53c8db6d9f729e05e8b33f616bd7d47be2826026738d6ff107fe7"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/018.png",
+    "angle": 0,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "402158dcd269a1f6e0e4b5f37aa21b979475e384ed9279a6b22abd9f76d98c84"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/019.png",
+    "angle": 0,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "e619da273dd56e7fcef78afc8368c89bcb429d83079c43b81b882fa72357b703"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "contamination/020.png",
+    "angle": 0,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "4d225ae12449f0a78b0165ee6ba380186704b8083f122e8c574a6d474e287b00"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/000.png",
+    "angle": 0,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "1bbb55a8e198e82dd0634e065798a3eddf5a8ec2128bd31bd20717341da05324"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/001.png",
+    "angle": 0,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "3351042cb047cfb99658188df4c4446f3f0cfb78e01cdc8f33a2e22079310ec8"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/002.png",
+    "angle": 0,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "84872de21f8ddb69d4fb83ff8c680769c015481121978b6860531ea6aa6ee669"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/003.png",
+    "angle": 0,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "58e62e899ca61c7fec489d7fed7da48f1ffd6649b7c0c8f754849b84eea2fc65"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/004.png",
+    "angle": 0,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "9631a34a9e0b03e2e8f27d3170aa1ece5b3b2287a388a8bf7d4120ac4bfa2052"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/005.png",
+    "angle": 0,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "ba81522fbdd1ec3b513ab6deb61750fab3b2288a35b1f4b1c1e32da8f82854a7"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/006.png",
+    "angle": 0,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "6c9327a262ef08ddc0207188b23da5f9128d9ef55a544bfb8040f84c7c390c5d"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/007.png",
+    "angle": 0,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "7ed2dd5b0f183f0e1a1b737508357530d6c26485d88265a93152f4c53e82f977"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/008.png",
+    "angle": 0,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "9cd2830105383fc2339732cb800863ab2ec460805e95cd63d46606b16dd2c15d"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/009.png",
+    "angle": 0,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "f4849631d35a11c4e1e9fe53757108fb2e7fde0ea48bdf0ed58b5cdb511fbaee"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/010.png",
+    "angle": 0,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "984a4349a2735e128efe3dfbc5f84f1d8fe78344196bf6598fab41cd8cb23da1"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/011.png",
+    "angle": 0,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "419cde55da06f3f804c580919a693c5546d0b86ead3aadd634d355579535e9ca"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/012.png",
+    "angle": 0,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "914c4cc706a18753f7db1f7b9a63e0b29dc6abcdb8714f4ce3fbfbdf7e505057"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/013.png",
+    "angle": 0,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "b1e276f40b631c406c66a344f05e0d0f49d80b1a2a5a24c92220582318cab43e"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/014.png",
+    "angle": 0,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "5397910000df1af9d7b0dd90cbd37a5975b94eacfa5e2fb51a4a4fdde88e812c"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/015.png",
+    "angle": 0,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "6b9c332221f6b1754b2e5417bbeb0c061f052289655c497a93e8aa00e9dd5309"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/016.png",
+    "angle": 0,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "0a56afa2f6698b7e4843e48e4a9a7ecc5fabe0c80e66a6f974d1851bb771087b"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/017.png",
+    "angle": 0,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "de19d03bbe5d0d1c6ce544cc04bbfcbeb0fca7dbb485f7ebcb861cd824448097"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/018.png",
+    "angle": 0,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "7d64ec578d51416527f49fdeabde1d95f4e556b61874ca6b07daf1862cd063d3"
+  },
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1,
+    "relative_path": "good/019.png",
+    "angle": 0,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "afe5af71d6118bf5fcd5de988d10049e3bec511bd9e7a0b5cd4a3707d5fc2398"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/000.png",
+    "angle": 33,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "4e6cabb5709f3c39415a07a1392fbdd0d29d1d54c11cbf0d8736170b25eb042b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/001.png",
+    "angle": 278,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "db0c75f74bfe6a89a7bd4a499b991c21727eeb09635ee81304cd43252506c8b2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/002.png",
+    "angle": 235,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "bda8db1f8ddf7ce0dfcc988bbdcab26dd9bb7a772f3475775462f6d029886512"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/003.png",
+    "angle": 158,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "fdd06f83660bd25ad56566c04fbe9ed5b9ffad2a0afa4f5368125a7fb34c3b05"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/004.png",
+    "angle": 156,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "bd4cf388a0ad2962fcbf417d2bc6eab6220997b1cb27eeca06526beda493bff4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/005.png",
+    "angle": 309,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "5efd6c1d3adb43885648e92356a86f0baf0a30d9f8e5b261246252b42b4611aa"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/006.png",
+    "angle": 31,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "acd29001419a29f86baa82481748177ae5f072551afd0582cb93fd0c4e269a93"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/007.png",
+    "angle": 251,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "4a8ce9fd576f19ab79e056218edc10c519a03d5903ace38f9b6aeedd5dd782ba"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/008.png",
+    "angle": 73,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "15caf47697f4088acf5646c870542361bf029bbce9375eb94f51a404e101e0e2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/009.png",
+    "angle": 34,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "c83ab2d68458092f14c342a54a2f98ec3739f816db36846ff5e312c7c38226e9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/010.png",
+    "angle": 190,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "0a97bece8d0c1d03a776809b974c91e34f9d0d37e35cf2531f7ff73ce175b6b2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/011.png",
+    "angle": 351,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "f1a7ec570a7f30344456a81414126fbbb046b79fad97cbf9f0408ca09a076170"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/012.png",
+    "angle": 265,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "60f238fa65fe1ffae554ec26e5ee02e23107b5aeb698878f167d65411f8ed620"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/013.png",
+    "angle": 274,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "ff2fd8aaf6e4bf39c473e93abaa099d3da2369a22ddcff0a7fc17c2f4be0bcd8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/014.png",
+    "angle": 258,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "e34545d7b8a34f862748938d0a59e71944d871bac29e02032215cb1ab94ce4f3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/015.png",
+    "angle": 283,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "58dc10db5e1e2d2fea0c8cf398ac857e1b7b42ddb0e388014cd0d71b2e5fa44a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/016.png",
+    "angle": 185,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "0be3ec75cd327cacc2e974b1d266d8842bcf811fbcb57cbe87b0571b464fb689"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/017.png",
+    "angle": 46,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "1faa421c3128007b71d7bf86b9ad97a16562a6a497ff64a230b870b40fa0138e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/018.png",
+    "angle": 302,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "6da60ba28336a0878ab294042d38cb9c2ee94381485296208f17e135792222aa"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_large/019.png",
+    "angle": 162,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "8136bbf9b6192f3a5413b70b6d73692fab8e1d138061240c58600d156569d294"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/000.png",
+    "angle": 180,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "f048b880ebd1b684ae947c146de5c2b93e62506921279b0a0e0a058d8da813f4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/001.png",
+    "angle": 134,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "2a14334b74463fd00c5fd769120f72ad4b397278b1c4992c5ab39eeaebef6fc8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/002.png",
+    "angle": 66,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "77805031a2b7558c0ea950437b8f5d686762b3286a0e5c021c9060812b64705e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/003.png",
+    "angle": 333,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "acd7866b458e004c2d7c56a1fd8ae246f5b182b1e502b28917ea695b3649751e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/004.png",
+    "angle": 281,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "56ebe6224c31a4670e907887f7ec9e1e1d4033611cbf07e3f7d822c60c98c599"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/005.png",
+    "angle": 232,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "ada6f675ded29752bffe0882e5aa9de9c519a66147b1e093fb1bee8f551fab14"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/006.png",
+    "angle": 145,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "8f3d74b3ea24a64e0cd805f63a29bb834c3b6c8f1d80e4f936815708ae71223f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/007.png",
+    "angle": 296,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "3fe94de8d56e3149efad02972e541e6b4e75e10f53df92aced038d8e0dbaad82"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/008.png",
+    "angle": 196,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "9a5f6d785fd75bcfb40b63a94cb2fbfad33f3103923d2c580373156627fca100"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/009.png",
+    "angle": 160,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "ec0490711144a8cd1c293961e01525fd2af35182b5f65c89b26160302a8dc313"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/010.png",
+    "angle": 162,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "e8909617cf2f325c91a919d716c33c49dff0ff7143d78978180bf8c90998e9b4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/011.png",
+    "angle": 82,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "86fb4e389627d86acd68f5dd12d5e70f1f3edd05d96aaa3db0fb18e1b385d659"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/012.png",
+    "angle": 34,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "49aa4944fa3c6c78374e54718a13de6e7cd306671a2b265048bbce4e9109754e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/013.png",
+    "angle": 200,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "bcca6835d0049261c06cd20a3c6a8153dd44f5c93b7c778b7ec27cb018e157b1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/014.png",
+    "angle": 319,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "263524a495c91ac57111c05ffd4715c50dd13d0908ddafd00e1e9da6e7db75ad"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/015.png",
+    "angle": 23,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "d01b8e638931f298d29987fa522766e6e10c9b2225e948497ac8c67d4da788df"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/016.png",
+    "angle": 309,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "e8b79f5e1c08824a853434ae4d76feafc369a08004f43de2468c7dc44bebc82d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/017.png",
+    "angle": 298,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "7472e7d850d68c05c45a449331670a4fb70d94ba03cee7f6149ca37aca7901ef"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/018.png",
+    "angle": 100,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "3f423d1a55e17232a91f2a8238515023b629e1d8fb18c13efababe9c805829be"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/019.png",
+    "angle": 227,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "200bae670d8ad0b135b532cdafb1c7e7810d5fa74e522657d1aaaaaf9ad4c6d0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/020.png",
+    "angle": 60,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "eabf4af378a2a19b5ea958ab199a0fc00dff1970bd9f29e72d1a989325312651"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "broken_small/021.png",
+    "angle": 273,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "91edd375ff414c998fca56f8f4c2a19fe5c9ab9c20f3fe73a6135b277423e77c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/000.png",
+    "angle": 252,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "2f119ff234e60952d730b1d9c87d1c4e50b84a5201003863399fabd1243102cc"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/001.png",
+    "angle": 128,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "c4e520f3921b38ebf989c43db145b1e5c61ba3f73232995348c44c5b3b08b17b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/002.png",
+    "angle": 25,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "fabacbd773b6a71083f13a5c109a32694209b33b8ea7f96d9c9d1ad1b2a3ec29"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/003.png",
+    "angle": 349,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "e2233ee7b30f27d2ceebba7e1a3abd8384f536904fe0e02cd699c83e246bb35a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/004.png",
+    "angle": 161,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "63155092ffa90a4b33d7d6bfab684c0fb9f76dd53bca5c2b7318d292869f68e7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/005.png",
+    "angle": 321,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "14a5711e116477cf8c00e77ff3440e92f3b13cdd7d3fd672fc8afe905af451bd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/006.png",
+    "angle": 244,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "45f5d083592092a5a4db55de86153b490be28be8a5c4d70cba3cd7b6b5b86c84"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/007.png",
+    "angle": 280,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "dbfebf70536bda12eea391e8b61325b9c8f37f0f84b9b725f55cde658edcdb82"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/008.png",
+    "angle": 273,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "5b8ec99e7ecf841e42ba97a1af348560cbac9379da599ebd871b828fa9cb0bf9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/009.png",
+    "angle": 70,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "80543a54304030c2a10c8fba05c965b6d482362f832db822f43ca798b865986c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/010.png",
+    "angle": 131,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "1e87b64c5129c611f84729aa15a9660671dbab2137dfc8c84ac7e15d1e37127c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/011.png",
+    "angle": 168,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "a4cd685dc597543a0b53a1e715d2f50ef53ef2bc2e9b32ef6116bbddf768e5f2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/012.png",
+    "angle": 179,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "44105364d241100cc613a292dbb27b6ca8d0ea824c48b86309fe9fad7e75008e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/013.png",
+    "angle": 16,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "f8b84e87ab191003b6864ab563bdf2d792c4efa9ea9feea92e1bd8dcf7d69472"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/014.png",
+    "angle": 197,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "840d98dcd4895be84b5674f94fcdeabdb4284fae4c333f662f8f238e34e2fb93"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/015.png",
+    "angle": 56,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "3d8a15588ccfe9587e6f2d1e92a192fcf71281489ab178055618141439e719f1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/016.png",
+    "angle": 267,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "ef70ab5c6c850eeb7132ab84961ba072eb917169cbd72c566f51b9f8ffa2bcbf"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/017.png",
+    "angle": 246,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "6b1145bbbd712e894fd7808b1fa63cff368533bca152c922ca5a28906e4e3825"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/018.png",
+    "angle": 332,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "e7ca27e815abd8d535d8478b7f7e97e1b32ac47d17ed24f9bbb0b3b1c9267dcc"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/019.png",
+    "angle": 268,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "77a90a953cce31e924976f082a217fae650fa7501aeab51e91ed01208c5acf80"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "contamination/020.png",
+    "angle": 132,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "e88bbec5f220fefe63e812061d4a314931d2180d56d3729bfbd1884e1138d429"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/000.png",
+    "angle": 348,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "ab7196c1dd2e8a8844b5c9d5f53ba5256d81f4557316ca39de2a36b6eade9ed3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/001.png",
+    "angle": 148,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "6b68960031d198aa0b30184a2d3367465b3c4efd4db5741c093b12136226b159"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/002.png",
+    "angle": 117,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "caa291550c00681cd1c0e2322176e66e343d24f0f6d89404fa78a43e89e466d8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/003.png",
+    "angle": 326,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "e068dd337f42a025245fd5902fa94fe7cda1818d058c7e9bab335311612e12f6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/004.png",
+    "angle": 133,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "f32eefec8ce9d394429bdb616db12274a35f13913da5d8c5a6f795adf79e8e96"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/005.png",
+    "angle": 28,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "8d6aaa35583afda16e120d3f08246c9ea65bbab488827d5c46401b1ab7ca936f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/006.png",
+    "angle": 169,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "b0854f53cc8eecbfea20641d84def8f9f9414beb17d165d371c67c783ebc015d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/007.png",
+    "angle": 286,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "4eb45bdf764a3826e7573654c90cad02b48d605af1ed3b7ab5550223289f4918"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/008.png",
+    "angle": 69,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "fafb0ca532670b65d31d525f4b14569078ee60c1ca4d7c1b9be00b24e6d2a1be"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/009.png",
+    "angle": 167,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "cc9133100193eb4114dfe2d2ed1fdb3ba3e5f8886ae3314c756b3bafa3eb740f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/010.png",
+    "angle": 47,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "cb0424c80cb513e9ea6c792bbab05dcb8fa0abda62e17aff368b3af8113b0c96"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/011.png",
+    "angle": 247,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "56670936c41f3a022c692a9323d76111cfe9d91ce7eff2077f3c3701d287533d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/012.png",
+    "angle": 171,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "547e4fd88c0f10b8738f47774da72d490c033cc1c8cf57c3160671c511e20ec0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/013.png",
+    "angle": 119,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "14dbfa63da922fdc32babb7b13f858c460419930a64c06094c2c008a4f3fb708"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/014.png",
+    "angle": 82,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "2e7f3d4702d33c04521cae23f414eff61796c3b370edabe9285d60f32f343d70"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/015.png",
+    "angle": 203,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "201f60a05a2056f8d14ab45f5330c117eacbe5e3151936f28dc5e7b8cd20ab31"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/016.png",
+    "angle": 241,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "cd1bf77192a2668da6373a30136b595bbd9d942fbbb440703a6ef3df6abc59bd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/017.png",
+    "angle": 338,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "ba2de2947dd888df13c00e3448e20da47a2e4e459da808f3460ce1072b19da8a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/018.png",
+    "angle": 157,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "aff30642884d6c39f6fdb75389d2dedef7fddf4aef1f5ec8806f3a1714269cc1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 42,
+    "relative_path": "good/019.png",
+    "angle": 58,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "aaebe3309d91f805a594a6cee10f929706dbb51aa1d42220102330c3ef684168"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/000.png",
+    "angle": 182,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "3d234cb12205e2d8a5e0be09b51cd2f8c6bd6efc01d03ce63a8e6ac11c05d255"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/001.png",
+    "angle": 235,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "68ce091c6d867a2931fa52c823cf5f8b5347665383352ecfebbe715c90701430"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/002.png",
+    "angle": 145,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "817e51c9fbb5a9ee7801259b3cceb7e4188e25c9ea5bd3f12318d8f3fdcd17ea"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/003.png",
+    "angle": 16,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "ef33ba933bec1e75dec9031865c70cdfbee83a64b67ce78ada276427f5c4f8e5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/004.png",
+    "angle": 208,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "942face0862263c62d218af5d44af0570155c7718c3315fcb21c62f41dfaa5f3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/005.png",
+    "angle": 8,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "aa34b3a6084fee242e71e6e8ee92415a875b7ce5867a17ac86aa1a64eb8f2844"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/006.png",
+    "angle": 100,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "29800a2e8c800ce81f8441e545e7a41b49a6408780e910c25f4498f4c1097fa4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/007.png",
+    "angle": 302,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "9441a238719a3b1f69971de64c0dc2b070a140be945dbf56ae782f456f8c0ecc"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/008.png",
+    "angle": 167,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "c30c37060380d602e02c5d6dc61befd6b0df75cc381f2fb1be1c86099e54818e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/009.png",
+    "angle": 211,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "a383d0c4884899557c4856e7eed40d42da41f69f806ee8ceefe19e4c67764113"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/010.png",
+    "angle": 347,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "fc1375225f7691f42199ca8fc2a069847bc635e5f2702d95e77d66d96b417bd8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/011.png",
+    "angle": 81,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "6eb5cd6cedf7e252a2b1b4330bd99714bdf3cd5d12a1988d36538e6254ceaae3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/012.png",
+    "angle": 304,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "2fd7c8575fee2950c925c8a15fdd7aca51e6f0c8ba27fd436f38a1b18dbb9415"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/013.png",
+    "angle": 270,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "b39d17bf9c8c5abd16359e7ec0ff4cf3da271adb037ad9ed719fd3d66cbd20ff"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/014.png",
+    "angle": 137,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "b7ac0fe90ddd9673f6fc2877d0b100a2247bf56663b37ea8397b21ae934467a8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/015.png",
+    "angle": 95,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "384d73ebca60ab7f9a55afd2ee84822a494fa06cea79bb34def4fd31ef82b06c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/016.png",
+    "angle": 99,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "8abecff088e0c9be06f0c865261afb770be8088008a43bf02df98f14bdb3d116"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/017.png",
+    "angle": 151,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "a62f900fe209ca89fb78e04c8bfdc12c56f5e7dc2c633552fe68bc190b47e5ed"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/018.png",
+    "angle": 230,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "b9f66e1868e7efdf64fa3119cca7cd710f3eeeb3b483792eedc6af13281c4d0e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_large/019.png",
+    "angle": 162,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "8136bbf9b6192f3a5413b70b6d73692fab8e1d138061240c58600d156569d294"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/000.png",
+    "angle": 53,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "d59fad61d0c08fac5610a330fd77eefd5f55aa227434e0a2a322990cd836dc6b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/001.png",
+    "angle": 343,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "7d69bf70560d6f9351c976e7cf88dd4ff356034373520b4ccd02949c5a2ca789"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/002.png",
+    "angle": 140,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "403c3b5a8e37d0590e6a7413d634699a7590203b7817967a0bb48f0ebf6dfdf8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/003.png",
+    "angle": 321,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "8c58385e74b3ed2f211be01853f2b129b9902121baf725cc87d29c1b3021501b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/004.png",
+    "angle": 68,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "211d6ab1f6f3705bce12d7fcf39b39519fa9a291d472547a4ca15deb14bbc577"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/005.png",
+    "angle": 101,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "25e4c4f635af7c9f80b9bebf6b80dcf11b76c0d857376bf941b18143b5d1ac25"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/006.png",
+    "angle": 279,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "3385bbe9e75839021d2e20573fd8cbe03010900aeb7a6872e1417135e0b52102"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/007.png",
+    "angle": 100,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "9f32b75799ef67f0c311413c2cf4ebad4c719e34cd09c8e7547ae6675a73d612"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/008.png",
+    "angle": 322,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "566bce2fd0d4f8b4498edf721310389394760e51d35ed7aa54e37c0f33131fc5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/009.png",
+    "angle": 152,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "6c925f0f6b674b93ca83b7f2d05baa844a0fa6ca6db48045f0d9f33095dcc694"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/010.png",
+    "angle": 165,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "a558df8746573ff2f2558baa3983cc7e495123bed2fb49ac60a0b57a877d17b6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/011.png",
+    "angle": 2,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "369bd863900da8252a4659206f566066c450a0ead455d6b109bfeafd982a74e0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/012.png",
+    "angle": 152,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "817b3f7f4a56cd53080e621f161efedd41d374da456b2c61fe9f99e7b7dd498e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/013.png",
+    "angle": 111,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "603c3d578e8158bb098d2ff78efac42ccd3b39df6a826e2a299275ebd83f9bfd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/014.png",
+    "angle": 197,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "5eb2d6324332ac8e4b0513ac2964bf36ad6f70cb68dad2c77b0c1fbd251af64b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/015.png",
+    "angle": 342,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "c8ce55c6e7e9af6dd036b1292e78ced1678b9bb053a8ff74a37628617541b045"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/016.png",
+    "angle": 6,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "bee5f0b00bc4c7541f0c3fa9101fc4e6796b632a7f831eb9a371f284843e3153"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/017.png",
+    "angle": 301,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "cf4e9688e57ed6f023622c98e624cce263c5792577e38fc0d7cf54b95f68f6ef"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/018.png",
+    "angle": 144,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "92b169b8bf1ff88ccde3be9053b52b0c9db0b467edef1e540a1b3376f9a59890"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/019.png",
+    "angle": 193,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "b321e1e2425c514222969b54c5157574a55ded534d8b91ef04e1b4f454791308"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/020.png",
+    "angle": 169,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "ce1afa7c0850bee890efd066b6b78d412204f8dd6cb9a27ff2e08e7d6b58befe"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "broken_small/021.png",
+    "angle": 175,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "86ac9732491e29569d0266f93f329c64aa7c88049e66b957e9884c4194dae258"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/000.png",
+    "angle": 297,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "523b8c3c9a173243c849298e5158f287c71b25ad1347e0db57ae03c6a1adc9a6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/001.png",
+    "angle": 340,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "bc0e3b8141fa7f63ee35b7a496b74d76fdad302f5ed4b874eb8cda61d1b034e1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/002.png",
+    "angle": 356,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "b0910f8a0298e037d5a0393915b86a67f17a3a6a8c9f2737ad1485dbad951f9a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/003.png",
+    "angle": 213,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "4b52567bd40e10dd6b7870bf549c2deed3ffa3c9ccb33a5f8e8712b15416dff7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/004.png",
+    "angle": 252,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "3358be5fdc1dcd925257608ae9e40d8e3d0f7b828edad6d01ce9f9fe4cdb6e27"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/005.png",
+    "angle": 339,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "30a77001d6db13e9396fb2c54623c936bf4bb98e4bc24844fea2efb4402e6189"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/006.png",
+    "angle": 335,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "f20d74d8aa48a409759180d88a3216fd46d69cc80714bb00a44bc6812eed0a8c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/007.png",
+    "angle": 359,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "28cea4f9d2604dbd8f380b7c9dea2a8617eb5ca90558cfe616ca4e1af2e57483"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/008.png",
+    "angle": 17,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "ba139a1656571259dfe5dfa337144f93c1483b6d20f593ab971bbbf4277e8041"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/009.png",
+    "angle": 13,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "7a6b969e70cdc050914f960773bd52107a6a6444455638fb3f2acfede04f09e4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/010.png",
+    "angle": 209,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "b0375dc7d3cb2a10bfe0c51e7993543eee54749d2eb808a9ff56623814641251"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/011.png",
+    "angle": 43,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "6f5ca255b1096fff62cf2a9db421e579839c64f3ec7e9054c221d12b79d7435d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/012.png",
+    "angle": 311,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "fe9a650bfe1a3e50133487484aedc1bdf4d476540186400eaca1a88a84613c54"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/013.png",
+    "angle": 274,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "39d9fd8a7a1101d18ceb8fe1bec1944832dea5c635530b5f10e35ae9a456d5c9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/014.png",
+    "angle": 46,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "a0590f2e5ec2b55e35e739ebf1be78679637820894fc36499b84044a6431a2e6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/015.png",
+    "angle": 46,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "f3c66cdc87acfd19038bcd4665e21ed7c4de21a6b2ee49eea33ffa040ac13356"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/016.png",
+    "angle": 38,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "2098ba1cf9ece4bd03b94dc365cf282c600820120796a3c1ca0c9d12982a5880"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/017.png",
+    "angle": 123,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "000ad9374bde80276bb47c26837be27e8c1e7e2338e05b2cd345e0e755ce6bb9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/018.png",
+    "angle": 304,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "03a23d456f069199208a43d1175090015978c9f22480f0669f7c9b7ba88738a8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/019.png",
+    "angle": 108,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "83b53206c9d9d2189cb69dd68dd447aae62ca448fa935978a310f5df884c0c53"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "contamination/020.png",
+    "angle": 253,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "ca907c43ef7fbf2d5eefd965506284e8d337a746df1271466d7b87aef76d1ffa"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/000.png",
+    "angle": 198,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "408d75af05d7e99699432b6a4907671deebdaf612334fe28b9a2a94479748e76"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/001.png",
+    "angle": 217,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "a13d013b053e7607781d623a47dc0d643fc630030306c2e536ba9a515439b54c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/002.png",
+    "angle": 19,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "ef42ca7a9f0fdbd74bcf92d3001a1be1a1a6858ee0a1913ff275f61ad9263c3b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/003.png",
+    "angle": 243,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "b18a00ba7213f801ded52a349f483093748f0b149d67f3e4cbe347e468d49179"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/004.png",
+    "angle": 162,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "a53eb3f3fbbe085b12f114a83f9e14ae87ee1ee73f15e55d89f257c448fc2484"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/005.png",
+    "angle": 51,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "2bbdc9a3e7b696d6c9906b37f535733422c4a2f254780348e00f25c5abbfdf8f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/006.png",
+    "angle": 200,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "5bc23ac782ebfefaf6eff189d5ae8c156a7265a5596ce010da002bcf8da5814f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/007.png",
+    "angle": 219,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "b10e27485569951be0e8aa8d6bee3e5c6050d2eaf390dce96533a8179a2d2440"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/008.png",
+    "angle": 43,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "266018e3bc4fab4406f7d60e60ab73ef8b06f633cc69a419ab493c99790f84c5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/009.png",
+    "angle": 180,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "ca60050db9cb284c00cc25da611201a74d0d4ec550ac1b212f0daf6ce998279b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/010.png",
+    "angle": 123,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "9cba805dc57e74a89625f6618b39a2d6717fe52bf4244cc823128064cf9c12d3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/011.png",
+    "angle": 271,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "43767073e2b74100db5b7b394e2dbc40cce09e20f8f7b155fa1d746afe61b5c9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/012.png",
+    "angle": 182,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "e8b8267b4490f03751d69a4e047d1a206c01b9f5117945c817266c11598ff10b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/013.png",
+    "angle": 13,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "772f439e49a4e15eca495faf9903d095ed51de8f33f5718003779f905d5dacf2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/014.png",
+    "angle": 110,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "6f56fee15220b5e6b3d34e06d16aea7394117b1f36b3d4052428ba669864aff7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/015.png",
+    "angle": 203,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "201f60a05a2056f8d14ab45f5330c117eacbe5e3151936f28dc5e7b8cd20ab31"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/016.png",
+    "angle": 151,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "c4d7afd7123e9429b587f8288228d64e79c2d6076f202722f580b8f3f36383d9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/017.png",
+    "angle": 96,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "ce4229b9d85408e3fb497fb26559d2e772f26676e5342a3c0848e16c617f6809"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/018.png",
+    "angle": 149,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "6f6749ead0006fd20b62dc6460bbe30c8a33e6e3c7ba06e734239f9ab678eb9d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 43,
+    "relative_path": "good/019.png",
+    "angle": 118,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "2897be30e7705dffbca786ef223095a6837afd7a0461f738c2f7157d4a2e0001"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/000.png",
+    "angle": 240,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "19ca7a1900fc8d8a3a0f06528b3bf5a91643b7d675bd25506ae7b9b76f33af43"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/001.png",
+    "angle": 45,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "2c35aebf01c8ecb24beec719b3baa4a15cea0da53cccfa7e7dc33464a1193c04"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/002.png",
+    "angle": 295,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "e53d070df08c7acad4ac8dfae14e7d56a8e2de1fcc2593e0cd19e0b7c2128898"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/003.png",
+    "angle": 93,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "228a8d0be350005159578946ea9f94ac800b39c64b0236b034eab617132f9c6e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/004.png",
+    "angle": 240,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "c2bfd955a938e2aee542e885ad0636323fb5d931e28ef8c5b4b5cd32f86ddad5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/005.png",
+    "angle": 146,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "3b29530e609066874fb181362780b58169980703b70d3af42e453c428a6ef092"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/006.png",
+    "angle": 32,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "c7382a50feabe347ce9d210a4c7eadd5a81f161a7c28af0185cde234ea8e2974"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/007.png",
+    "angle": 348,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "05293ad64a3d6a186205ddecd3ebdda258e30e8e3a61016d5773c16db92453b3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/008.png",
+    "angle": 192,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "bdecac96c2e2ba0b2d56ca67a63dff128ee459b5824cb55ea07ea742cf0ec3a0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/009.png",
+    "angle": 59,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "ad274680d3507b7ec8d8f5e520644f0622c011b4e2d0d7691d49e68fd4a8e10c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/010.png",
+    "angle": 357,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "679d06c46c3cfddd5e1b54b44a94c1882d7d8d3c22eeb654c13514bfac2c5157"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/011.png",
+    "angle": 308,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "f2b116b727ec4826c3897be2f1043d7c40c72fc6c791b1e69be0f09ad95caca2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/012.png",
+    "angle": 7,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "10d2e91228e3fa8bf0e2eda90d857c6ec9eadcd927d5b079539089e17090cab2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/013.png",
+    "angle": 59,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "b931590f410a693f519af9444bad643e9d741c5ad5a8dfd804c7d124db0ef34d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/014.png",
+    "angle": 37,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "4ce1f07b836b4db8b197afeaa3ccd919c18fca7dd5d8fa43073b6beeb113d0eb"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/015.png",
+    "angle": 122,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "6a7ef35578ab072b1465d7cf09891c3835048e1d0c0f4d7558111e53e22de930"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/016.png",
+    "angle": 145,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "37bd26f7431fac71555ed4f3813448210412a6d0ac6dc78e182e705d3092489c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/017.png",
+    "angle": 244,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "8f97e9b9b8b9342e458e65b87b835bc978480a2f6b18aea18fee4c0b87f264c2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/018.png",
+    "angle": 264,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "78994f99bb7aa31aa3638de77d1cacf54d673d63a98a8b15b8bdf8cb0fb7e2e4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_large/019.png",
+    "angle": 222,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "e95676b55392ba613573c61f081e2b6ffc68ba0973487b5ec82fd2d00f6a162a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/000.png",
+    "angle": 159,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "ffccedbefc7f3b93f4bf54ab3a3c78e6694befb3573a9bc0063a7035f0875b5f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/001.png",
+    "angle": 343,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "7d69bf70560d6f9351c976e7cf88dd4ff356034373520b4ccd02949c5a2ca789"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/002.png",
+    "angle": 135,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "2a52de4df53027f0007a04a458cf74c5a65e702d716a8642d22e9b2923c1144b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/003.png",
+    "angle": 148,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "a74cd59255ffc4b372d1a30c88add70a63600c0b6909ccc0b921906f418e41fb"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/004.png",
+    "angle": 145,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "cca9d6565e642a1cd92295a2b138e3bd6a8403f1c866c31a73dd2261a475bfda"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/005.png",
+    "angle": 338,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "ea76f88759aaced97e33358107e25d57d7d6c96151e60b98648e481cf2e8f862"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/006.png",
+    "angle": 355,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "e9f1ec541f5b4e99744c18d7f779d54d5c286c2b5f9e1772910c2b081d5e7c0e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/007.png",
+    "angle": 333,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "8039804f687e1fb6d245dc35c8fd9e42790684605ca3dd7d8c78543853da86f5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/008.png",
+    "angle": 211,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "4200b6ede4688a14fa27df2bfb29161d4635d02ff19d3abef2b928e4d7e635a3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/009.png",
+    "angle": 257,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "5f0f3f6573636550bfd75c92f063c89930faf433c0308dbb968c59ce8917468c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/010.png",
+    "angle": 148,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "caeefcdf3011860c16af92af441546c8e5674211dd073dc15a63e62b1201e22c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/011.png",
+    "angle": 7,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "057b877767719ada109a39ac0c5eae67bc8bc5515b167fb07bfbf107564d7db8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/012.png",
+    "angle": 213,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "197a9d3f61a628a83dc240426fef7f7665c2c7fba1b416c8d5986cdb4de6b726"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/013.png",
+    "angle": 287,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "0a834ba0994a1aa209645ba1d9a8b722d9efdc228ccdad1154e4f1287babe0da"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/014.png",
+    "angle": 39,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "165ce2b6b607c9299fe43a7c0e634d128e9ba15bacf1f9b6efc1dc09805cebd4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/015.png",
+    "angle": 324,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "77b6acb2b5cb36e875a9ec1bdf0304a1ac9aaa5c5209b4dbf42dfd428a1fdc01"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/016.png",
+    "angle": 196,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "e2ea247c9916bfdf558656f8badeae87d7196b99bc242c3febfb811cd17c7081"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/017.png",
+    "angle": 189,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "4f2bc197ad9b1fdb5ff03cf5fccaba4caabbf2844b5db4920b8d6e3ef3238ef7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/018.png",
+    "angle": 307,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "ae1edd2b596b1fc511858e2c83b35aedde3093eb07de41ec6ee980c86493f9eb"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/019.png",
+    "angle": 71,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "9518bf6bc4c9c2f11d70c080c2ac57b003c2e6c3696259daa1a126018bd2abeb"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/020.png",
+    "angle": 348,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "864d0762637f798a841c213f8f7a829d83bae2f5af0b3a70da06141c069c8222"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "broken_small/021.png",
+    "angle": 65,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "49dcc844e6ce0e3ab2b35b1298ac571baaba8d5c4b22eb0c3027cc14026e9e53"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/000.png",
+    "angle": 267,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "81f5225c845e0a1e90556e16f561a32d41df28f892ff8a92386608dc158e7dd4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/001.png",
+    "angle": 304,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "ed49dbb303e30d0ea78f1d1dbaec68231f1244527ea8aeccced47ad4ee004cf6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/002.png",
+    "angle": 235,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "ff695b64c5fcb1dec9c8cf1bde63c96687b6c54f6e90976406af49b633395248"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/003.png",
+    "angle": 32,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "2d7f265c2b599a8b4b9aa50fec19887fc366f1fe9b1b9834696b4137f970b098"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/004.png",
+    "angle": 249,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "a1674f8a76ca0d9ebd62c2e6af09bef0d63751ee0accaa06cb85d56490c39c0a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/005.png",
+    "angle": 197,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "c463bcc5b4714c2eab8b89c3db7df3a4057168b874c600bb8fbf6151502d508b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/006.png",
+    "angle": 356,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "8021040d72f0349606eac522f2215073b3d62e7768924081e0f46f0f72f2c635"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/007.png",
+    "angle": 74,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "af9f74e0f2257041c2e01e640e7799f722a28d49352875a435370a8f211cc149"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/008.png",
+    "angle": 79,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "ae8cfccf46c2e67985143b94d8414f09b084292e5b9ff55c56a85cd3565b9447"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/009.png",
+    "angle": 109,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "4b0d113c3a075d1453c7bfb5b77646da993635c7b6a0e02dd4ed4cc153e9c2bf"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/010.png",
+    "angle": 301,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "6d5b6f8815de761069fe790b832b16b959836ef4d6aeae37a3ddd83142878324"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/011.png",
+    "angle": 351,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "60e6d639fccb6cc13546f29f4bb74747b4f6b0f295db156f1450f07ac14484b6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/012.png",
+    "angle": 348,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "4d55fcd12b9a0527da2741f38d6f0b3e3925957f9551c41630daf750e0ac5c22"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/013.png",
+    "angle": 100,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "a5100e601dfa10356fe2a6e1438a1c18d8adb28d9cbc354f55be6e8e77ab9d7a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/014.png",
+    "angle": 257,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "9bdf05f3fd46bae793803d3f2641d9842cca17e1e1eed411ea15000a68e425f7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/015.png",
+    "angle": 246,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "8543f828500691570fc05c113b076e07083a5fdc38015ac484e5495d9cfcf3a1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/016.png",
+    "angle": 114,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "8b6b416f5e4c093bf7fdcd6f954fcfac2650d43c1c19ae6f7d69ff873c38eff0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/017.png",
+    "angle": 276,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "9e976752805b5a889639ad6801da9e7e517ab836079d2a850c1aa77c92857909"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/018.png",
+    "angle": 236,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "f46336b2006f8763532107dacea94b09450a4ceacb3d4cc2855a19a0ce609ec9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/019.png",
+    "angle": 104,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "a5f19775ffa1446a3ead89d378be15ca48e24f56d8ff52d9a01da5c7f038e81c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "contamination/020.png",
+    "angle": 124,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "967403df3c4d3dc98b53c7b71b037c4cd2100e5fcb8c5aec20ea84e99a1db74f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/000.png",
+    "angle": 53,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "dcf8d8211a87a9b5ff826f9d3c1a517b4b96dc8c727f16cf5c39f2a0ac01c82d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/001.png",
+    "angle": 144,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "768e3b2b9a624cc8884044532f2dbda034cff72617db064f2cc83640883188cd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/002.png",
+    "angle": 278,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "dda71da4e1dde2a19b454784fdb513b8b4894cf891c5fbdb7ed30470dace63fd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/003.png",
+    "angle": 211,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "1d61fbaa14f947d4c3dceef200aba29b25ee46c179388c6c3116c39802bcae69"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/004.png",
+    "angle": 163,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "fed1565d43dd57c1b30e38a844ddda46b72900c7c1c8de8b9f3412f7ad8c0b3a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/005.png",
+    "angle": 300,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "b451295eb7c0ab2ca11117e0a632a171bbbd2b9fa75931ca6805ab31c61ae2ec"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/006.png",
+    "angle": 104,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "69222dfa44fbfede1bcee8807c731d8ad03a569c4c13d08e45279190ffa5dcad"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/007.png",
+    "angle": 68,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "3a7164f29d8dd1ac32b180ab090df3a7a6f9f1bda26f82188bfea778a6318108"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/008.png",
+    "angle": 76,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "b19fc419b9996df9012cf8b748edfee569efc4dc913ebf767b076f5394f8a769"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/009.png",
+    "angle": 158,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "67366a98fb253bd69a8d0f8f79f0a8a22addf8947a2e95c000d14059de4c9f02"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/010.png",
+    "angle": 354,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "34c12fe9ba986c417593602375e212f4520ca5c9384e1e4743296d1bc98e3638"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/011.png",
+    "angle": 199,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "ece79c3198b1b24bb105587de78678e994ff59b7a8af9c8f5351ab786eaa1762"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/012.png",
+    "angle": 233,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "5e755ea85bbfd238f610dfdbb3125fe4daa96694d21421488d85628082cf2e96"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/013.png",
+    "angle": 303,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "f7470973899e289ca4bc0585b2282160efa32b040b7561c8b2b7fad4e9a14c45"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/014.png",
+    "angle": 188,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "ad5566bb0a816787f6912edc00e1ffbe329e96d90cbb5b3cf57323e3391bb345"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/015.png",
+    "angle": 206,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "fd8c57bfa55c77272a65dd55a1fea3546f18ef789036ef6bf7a2bcfd2140829e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/016.png",
+    "angle": 41,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "3bf2eecf433cc0d7259200de46d60cb0adf8f209bc0faef3386a3d38e3de0243"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/017.png",
+    "angle": 106,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "8bf69874bcc4c50c214eedb5da51572c5e969db22a2d536715c408e36d180d1b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/018.png",
+    "angle": 328,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "3de3682867369f61fa2c15cc17b6d0d3f7b7e01e82b3471fed98e2c70c5555d0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 44,
+    "relative_path": "good/019.png",
+    "angle": 266,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "84f3fb92146f74694461da97467b68bc3956bcf04fff0d406425f64fd961b686"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/000.png",
+    "angle": 332,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "d587cdd3e9e8f3fd1ad5c0521d65c7435c533625a0f3bf3cf5acb54bc8581250"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/001.png",
+    "angle": 206,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "78313f5cefa846aa5ae36aef0c60784162025747d6eed22b782c56a5098e8836"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/002.png",
+    "angle": 263,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "88ff3e2f72b70fba26511aac06274a0bba3a9f5e3820f68ae882ed48f0931b90"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/003.png",
+    "angle": 190,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "ba65a1dc7949888433a7f6b9d989c189979ac7441521cbb5d4fd9d67992062aa"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/004.png",
+    "angle": 191,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "9499afab91d7fa8b1d6356872f3e7b3ce3ac74725c8b6864e65cbeb8b52963e0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/005.png",
+    "angle": 275,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "3c95726e17a81b2d74d4b8126affbc1f5704f9cab14af0102bd7573b287b4126"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/006.png",
+    "angle": 254,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "9aab16c930bc40e9955a467e90f71d1799da6dad4d334264e8700f0984da5484"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/007.png",
+    "angle": 292,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "ef74315f307084558c9fb2c4140f7dcd7f4ed887928158c05018819e170c269f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/008.png",
+    "angle": 202,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "c33201dbf97abc86684e37c18177a96377e2e2b331c8f3d5837852cc3742aa9b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/009.png",
+    "angle": 184,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "c04322c399f3ba4cc5ba6d5abe891135ac2b2f08e1dea6dde6bc239b14c8f82d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/010.png",
+    "angle": 153,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "a4471a70e3ba68c905233356265a42d2ff0a796a9f7bd9e4ec2560144b35eaff"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/011.png",
+    "angle": 280,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "4fb1363435c5deedefffb9bc7a84fbb7270f03db6548517af9c9ec27eec7fbfd"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/012.png",
+    "angle": 204,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "153e0e0a771c9bd8af45f69d936ec1b613d6b5d221b5d09a3a9b33ce0ae5f13e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/013.png",
+    "angle": 286,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "53d87422fa5c66b98a5b5b0bc7103ab9368128d52bdf3cd1b9171648547de5af"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/014.png",
+    "angle": 279,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "6a253744cf5787ac86ba060bcf414daae1b49bd346c4947188e35d2e0c162196"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/015.png",
+    "angle": 214,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "c4daa050153b2a8712911218b22d306f63726811f9d1b620b9f4c23b39b937e7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/016.png",
+    "angle": 102,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "10234de005c0de618b35da6239f39ef6297048709292b7d1765762386a433bfc"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/017.png",
+    "angle": 147,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "f27c34d882a56f0a5dee1696d264ebcfa509799d4f1a6cad0bc55663e98bbf6b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/018.png",
+    "angle": 193,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "5f14b6b11494def4d32cc15ba0b7197ba5ad0186d5c498f6456b0560501fac86"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_large/019.png",
+    "angle": 241,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "aed76b3d60c861b2405a78b63133bffef9ca4b360a963150c848b2b93fbd2cf3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/000.png",
+    "angle": 185,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "13d2e2764110420fe592fcb57458bdd628f3ae24c8b19a0ad75198ae050fbe8e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/001.png",
+    "angle": 226,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "6b0874c973b8a4223d5a42ba7f8b75f823f8cb659685526c3ed423a1eaa0e981"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/002.png",
+    "angle": 295,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "ad65994067a691129a8f8a635e127d62d6d8b9eb3aaa145e25355d094204eaa5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/003.png",
+    "angle": 302,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "9dca93b5aa32d17a0d180986e93544e9690e6f26871c8adfbf980f98aee5ec77"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/004.png",
+    "angle": 43,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "c2d9dcd89a23cf0dd7218287ed93cdd8f1bb60bd6c24c3123e8ad2d93f89cc84"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/005.png",
+    "angle": 260,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "c5f6f5bb5e97cf9584f20a5ac1f5b81923d96e5a9cd3b427ce697b32ddfa75b4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/006.png",
+    "angle": 338,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "17c2600c0b6f238a36bbcf5cbc03eeb73d9458afe228a7c95ab3f2198201156e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/007.png",
+    "angle": 190,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "de8bcb27b397972ce6c85f317418cdb345dcfde3608549ab899702f58e4d1e08"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/008.png",
+    "angle": 206,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "9ec2de1148e1059c83e9961630bb0b5e69dd315c48732a6ea35a6b4bb8eeea53"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/009.png",
+    "angle": 347,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "fdaf01a07609ce8f96ed020f711375f61f97d20ac2410ac6820ade09b217b0b0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/010.png",
+    "angle": 175,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "af2c7e27acfec0aa1210730267d9f8cce835bfc874d5620e5a88d9ff9c30e98e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/011.png",
+    "angle": 169,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "5ca1d5a04ca875f761aab3a7cf659a199a2af9ccbb3fd2a3dc16de92fabb3ff6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/012.png",
+    "angle": 150,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "816e7cf3dc25e2f45e215761084631367943546982fe509dd59453861709716e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/013.png",
+    "angle": 292,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "4d353560e0eeec78c4830d88ca959a325790e9c76cade657e005fde6d5007383"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/014.png",
+    "angle": 276,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "ea4326b37ec102af03b9f7b79002ab10969d0ae193eeaf43670822c24cbdec8a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/015.png",
+    "angle": 311,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "911d5400ef9b579b5a119beb1858c5af8253ef434975a5b3f150a03b764b5c67"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/016.png",
+    "angle": 130,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "669f649d489425201a6c9168348b4f2ce56a7b8e7e6b686bd765032ccebfd805"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/017.png",
+    "angle": 227,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "b603be77060ee87980db1af44d45a41cc5fe747b6c0ee5c5403522866f3f7c0c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/018.png",
+    "angle": 304,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "3b8b2b0b602bcbb5065e8ae5299822749f68959f4b830dda068cfdf2967a2685"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/019.png",
+    "angle": 17,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "4801d4af5f663b02f1adcfde5f3aed35c202a3c961d6062b2d0ece1d2ba5e1b3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/020.png",
+    "angle": 154,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "cc00bc83c390772b247333083bc32c02ccaf74b8ed48db98bba8dcb786ba64b0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "broken_small/021.png",
+    "angle": 20,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "524b83cfe1d75d3f642c5633aa5e9825e113cf661c0f293577e8ad9d1b94de8c"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/000.png",
+    "angle": 107,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "1e59097f5c2df461bade85292e72bb3572ac64ac62f291bd697cc53af080c790"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/001.png",
+    "angle": 44,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "01d9994ae3669c795eda14e26dc284147665cb8c44fb15321f4647e17721293f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/002.png",
+    "angle": 150,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "e1f6cd78c85aab702a2e45b48d8388d5bbabc995c52e75fa954f6bf0cf7f001a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/003.png",
+    "angle": 253,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "594386cabb37ecf194c1350e1f51011e5f26677cd035144e30cc5a818df033d1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/004.png",
+    "angle": 148,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "bae171bb573efc205896622692a9758a7f9bddf322a9f93fb9528104c43a6144"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/005.png",
+    "angle": 16,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "37aa809fa249262183bc62a39ba561f0267cc6a8b106a2b777e223f42429a735"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/006.png",
+    "angle": 123,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "01bb9c7aabf1844c3072b6f3e60df50ce3dd1232868306efa717339c335a4070"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/007.png",
+    "angle": 252,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "15d9f9da012f12f476b833ae38fce611116625a90c121b6018127e232dee5174"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/008.png",
+    "angle": 292,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "528b4c48e98717e6db7d9d45e715cdb64e6e9df3594cbe0594ff521e886154ba"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/009.png",
+    "angle": 151,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "82956a58e38f7497c2d79a8fe5e1baa75c7556a48a313d891a09f177ec3aef87"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/010.png",
+    "angle": 333,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "26db2dba23afb8f647c01b3101f6ef8363962a563ba68e44478ac23c32bb36c2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/011.png",
+    "angle": 133,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "47c15f3b6f1c96fa3e806c2e04ad258423bcd3eaf6a66a937551701ed6a54610"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/012.png",
+    "angle": 23,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "9939872a8eca1ebb33e5edc684dc5339c00cb352e49d78d8d11a44b72a4f805e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/013.png",
+    "angle": 56,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "bf1b07aaa69e61345aa63f0c01d2976f31addb9dd0f122ebf232a25a401922d9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/014.png",
+    "angle": 199,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "00c02433ec1963969942ca498c7e9fe1dba47e1479f01a5e4f6e20bd0eb75f56"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/015.png",
+    "angle": 39,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "29dbc1c210cfa130a36fc616f6c21985b45c477c3457cf32834b1c6d7cd34ed0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/016.png",
+    "angle": 65,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "4074b8d1c5496ad4061bcf327771285a9f877ecb4c67ac50e874057483178fe9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/017.png",
+    "angle": 46,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "90400ad0c8099665b1c8372f9c0738feb647886784cdfa6bbe7cdab649c80610"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/018.png",
+    "angle": 112,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "e8ca8c75de8f04136878f65d1ee0be1c6f754ab0b595649845f36f0b0e8c0100"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/019.png",
+    "angle": 280,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "97b42a2cdf0f8f195021b4b45302386c2fa9e2300564a771ce5f04abc4538778"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "contamination/020.png",
+    "angle": 305,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "4ba662677afd1d0a59f8a480e9dac7efdd805bcab9f7485ff5cbba48492cde6e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/000.png",
+    "angle": 63,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "949295fc1a9282f91e58bbff863192b19857d4bb7718a651c997b685418b5ce4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/001.png",
+    "angle": 70,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "7d88378b83e16b5e386b613f8c6fc604d904d0b753862b117d5483c670efc784"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/002.png",
+    "angle": 255,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "b6a3cdd5a2a3037ea6868e92eee6436c2c9697833737d2cc6779c67743a186ad"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/003.png",
+    "angle": 95,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "52bd1cf3b0d40ad65320e6b3b01625d0a6ae4e859b44982d879a6b4050ff9d41"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/004.png",
+    "angle": 252,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "52f4ae9509a783f849ada2eb78d6f4fad62d4ddaf8b0513640a444a8fb3d0ca8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/005.png",
+    "angle": 158,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "661797a595ae429ca42d7daaa4dc83b386d203846842aa5de30dac23070b8694"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/006.png",
+    "angle": 188,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "bb07cf9af2267c6ebe02dff29097e9be719fd9c3b25b4b17a4b9857bd6942524"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/007.png",
+    "angle": 314,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "cbab186de0dbcba3ef2487b145c36a04de00a9a4059efc64b0cd5ef59ffd1507"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/008.png",
+    "angle": 345,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "1c909875d2f88eaa21cb2d608fa97ad0ae128f1534198c3b0551bcbc88e908f1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/009.png",
+    "angle": 266,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "28e756b0e867477b568b037629392eec93864f5f4d4f61b189bc8361bba190ab"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/010.png",
+    "angle": 135,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "b9c14e458d64dd32970eb18de76d87be41e61ac40755e35abda5ecd5578557ee"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/011.png",
+    "angle": 63,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "9decb14bf845ba0c42c951cd0e2ce82da88f0b6aa6acc70443649cc7a89c77ff"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/012.png",
+    "angle": 13,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "1aed62f354ed13d389ab4b7281c939c31b6c4b21429b8b34f90feaccff039fd6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/013.png",
+    "angle": 7,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "7ea67980aaa6df549428a9dc1d5914a1fc8d61a33979deedbc045f47a28b0a7d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/014.png",
+    "angle": 178,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "1258cf2e6e7e31ed32e9be774f27e27ef6761e9a1e315cbb86737821c5dfa78e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/015.png",
+    "angle": 136,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "528d24be9473777c43ebb607dd8738fa3120aa0c8476f99627311a5f52d99b13"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/016.png",
+    "angle": 73,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "98c42fd3889bf14f95641d1ccbc479752a106afb25b87ebdd4b06c526a794ff4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/017.png",
+    "angle": 12,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "a9901b26af35dfc88f81494d324a7f9e76e1f640d4c524332518b0e81e3914af"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/018.png",
+    "angle": 45,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "3ed8e074a55cbceb2d633593f42c6abaa4da1e27f3786d7d6359240983edfdb6"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 45,
+    "relative_path": "good/019.png",
+    "angle": 117,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "e37914a7626a501515fe311ac8c46d2b23a8d0033b8ea43c15480e6d32c58bbc"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/000.png",
+    "angle": 181,
+    "source_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "preprocessed_sha256": "39b8731cad90caed84658d11ef7d4f48937c339a953ee8211722554d9451b445"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/001.png",
+    "angle": 326,
+    "source_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "preprocessed_sha256": "8cad2685f2502d42bf0032531fefdf82578434f4776eaf530a518e85cd13ec5e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/002.png",
+    "angle": 79,
+    "source_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "preprocessed_sha256": "444eb3f9d72efbb15bc62ad2f60bd87a75559f9fc0a2be1ca5062d6921236f00"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/003.png",
+    "angle": 28,
+    "source_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "preprocessed_sha256": "d7eccc9c58e0040f426931da988a1d61c3a5f6bf087e03305aa13697e4631108"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/004.png",
+    "angle": 198,
+    "source_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "preprocessed_sha256": "90c81957d31afb4e23b1b484f358cd5b554d34142f82ccd6a5112a9cc04e9867"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/005.png",
+    "angle": 98,
+    "source_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "preprocessed_sha256": "c806079f4eeb03b0ae8d6db6909cb07449da63436c6f52401a8ac6ab72fb96f7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/006.png",
+    "angle": 90,
+    "source_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "preprocessed_sha256": "d2871b0de0a47ab72a604be7a2246612bc62b57ebbb777fb3aaa2bedaa2f9426"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/007.png",
+    "angle": 224,
+    "source_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "preprocessed_sha256": "b5e34cba07d02686d414bf14d28949d45f1866566d1d538911e507be9e0af848"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/008.png",
+    "angle": 50,
+    "source_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "preprocessed_sha256": "30f56a42d6711f22611da960f61024a92eddc759cb6dc81831cc9efd7916f2a4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/009.png",
+    "angle": 336,
+    "source_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "preprocessed_sha256": "47b3f30701b6806182c048ceae23e5bcdf958fac5f5346443a224c43581a215f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/010.png",
+    "angle": 289,
+    "source_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "preprocessed_sha256": "369dec0ad1d6afe0be02c6cbaee712fbe11c37efa883bd35eb010dfd463f9ec2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/011.png",
+    "angle": 31,
+    "source_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "preprocessed_sha256": "40416d39108f606cd6efa267b0f6d836822651cff41ac1aa2b795b4adbc25577"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/012.png",
+    "angle": 276,
+    "source_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "preprocessed_sha256": "2ee0fcd74fdd92dce582ec7172b74c105e42ec8339313bc66832a9a5512a3df1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/013.png",
+    "angle": 226,
+    "source_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "preprocessed_sha256": "88acce87652f5b965c8c9fd5cf716e67e79b1e3595b081803b356f76f0dc4faf"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/014.png",
+    "angle": 291,
+    "source_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "preprocessed_sha256": "44b6e9d3aefb2f3d50dacc017e9eb78bd03a383c0e895166b24bc971f4fa7ca3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/015.png",
+    "angle": 279,
+    "source_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "preprocessed_sha256": "c92ea98b591dd71cadbc4b236f0b9372cad4167608468c34728398242da1935d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/016.png",
+    "angle": 85,
+    "source_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "preprocessed_sha256": "b57767eb83db91ae6922b233a3c66dc107a0987457c3f26d1db17cd2787a9e42"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/017.png",
+    "angle": 184,
+    "source_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "preprocessed_sha256": "685303382348aee95ea5ef60da6980d7d63463f955e7a0dfb4c91e5ba26ce758"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/018.png",
+    "angle": 165,
+    "source_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "preprocessed_sha256": "f04205037ba0c0ee2c71b873cd25f2321ff4bb40e3e4d43af70bb5ee784a439b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_large/019.png",
+    "angle": 269,
+    "source_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "preprocessed_sha256": "de10fb9dd9f19a606b3738aeae94abc2cd6a889b705924fac4b383075e83d9e3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/000.png",
+    "angle": 261,
+    "source_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "preprocessed_sha256": "710f1f466882afce5c470471464db3a0133868f3d8abbfbce5cc2dffe3f7c75e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/001.png",
+    "angle": 317,
+    "source_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "preprocessed_sha256": "dde3406fcd2592a55fb9deefcb7d9808127ac9681af565225855429c15038a33"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/002.png",
+    "angle": 206,
+    "source_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "preprocessed_sha256": "124d667c9c2f7103540b82dd5615c71b8ea8acbd907b536e1c9b24eb6487e728"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/003.png",
+    "angle": 180,
+    "source_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "preprocessed_sha256": "32bbb0a505a892a085e3c0fb0ac06fae86af4149ba7490e917fec3b8ec933cc8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/004.png",
+    "angle": 185,
+    "source_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "preprocessed_sha256": "c09342b3e09fc90903604c9ba9ab026921d8a61182278c187a5d4c8ef45dd078"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/005.png",
+    "angle": 286,
+    "source_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "preprocessed_sha256": "99f45396b7afe0a3b064c977c5b1d27aab7d7cd00307d9d39af5ee75fed2f9e8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/006.png",
+    "angle": 279,
+    "source_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "preprocessed_sha256": "3385bbe9e75839021d2e20573fd8cbe03010900aeb7a6872e1417135e0b52102"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/007.png",
+    "angle": 20,
+    "source_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "preprocessed_sha256": "95848177f4323ea701bcdc25a4a636dd40760d0c3a83a489a00fd3e9eeda6f39"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/008.png",
+    "angle": 224,
+    "source_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "preprocessed_sha256": "d2e607a2dc45f701230804ced8f0f1f62d1debf9ab2aa649e5980b879ca1e6b5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/009.png",
+    "angle": 263,
+    "source_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "preprocessed_sha256": "d1559e234a6f0376e61c8c8c25ee9f05f72bc267e4d2fb034e7770bed5341887"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/010.png",
+    "angle": 59,
+    "source_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "preprocessed_sha256": "ef7c44145d2b2a4ae61d65638321a10401ce493b9d95b80fe0de709b11a14518"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/011.png",
+    "angle": 278,
+    "source_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "preprocessed_sha256": "847424c6772a4e6e46f0b69c950bc63587f5b81ab8a5ff10aba96a69a7c8d67a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/012.png",
+    "angle": 283,
+    "source_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "preprocessed_sha256": "d98757c9a7369ebc9b75dfe0e9ee3383f019f74749b1ab98a68393443b677326"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/013.png",
+    "angle": 24,
+    "source_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "preprocessed_sha256": "16eb6f68eac3e17c0288abb5f80cab9cc00f9ac14a9830e86ef918afce59aeb0"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/014.png",
+    "angle": 335,
+    "source_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "preprocessed_sha256": "6bd1821b966f50f39b14351477ca42ef36efd71cd206853906686d960dc5dd3b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/015.png",
+    "angle": 38,
+    "source_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "preprocessed_sha256": "2e5d7fb640f28df2e913ec8f1f284e1fbd36128d1e25d208e6c8f047887c7b12"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/016.png",
+    "angle": 89,
+    "source_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "preprocessed_sha256": "21f9a600f5e912da1c9fc91d6b1a0258a77cfac88cea2da53977a29fb04fbac4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/017.png",
+    "angle": 141,
+    "source_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "preprocessed_sha256": "f3258447991275fca111707bf0fef2dd148fe4da6bf0992e1fc704f751a9130e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/018.png",
+    "angle": 97,
+    "source_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "preprocessed_sha256": "41ac0ab3975b84d5fb55bb657ca93b427b7b7cc2e4c5fd390c5f7059654e610b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/019.png",
+    "angle": 118,
+    "source_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "preprocessed_sha256": "874f1faa3b82c6aee4832a36234c34aed97845f7fe48ee3b3bc702d7a71c8239"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/020.png",
+    "angle": 313,
+    "source_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "preprocessed_sha256": "e18999452ac02bdbb31fc5da7bfa4de8edf67d3d1d8fcccfb3a52390e7dc959e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "broken_small/021.png",
+    "angle": 91,
+    "source_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "preprocessed_sha256": "7bacdca15cfbb0f845a3c70034433418fc10174d4efdfa72c49e58f6190801e9"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/000.png",
+    "angle": 116,
+    "source_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "preprocessed_sha256": "c945ccaecb68230f39da2d5b6a32babdbfe68db74c728903f8347284913f8d76"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/001.png",
+    "angle": 303,
+    "source_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "preprocessed_sha256": "d6d63b9127239e8c032f4fbf97be19191bff1596ea8f5e232db46cbfa6e9c269"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/002.png",
+    "angle": 347,
+    "source_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "preprocessed_sha256": "42f839e5f934377208f28408cc9d904101fdb1654d85b129ac72ef0930096a11"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/003.png",
+    "angle": 3,
+    "source_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "preprocessed_sha256": "9f8e965cef4b6a1033beba3abb306fbcc58ff8f51b7e637943884947894df56d"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/004.png",
+    "angle": 86,
+    "source_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "preprocessed_sha256": "1e38ad314b56e3db772e648807777bdbf3d21ec7a7e8b8e3141eef8ca77a9ff2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/005.png",
+    "angle": 66,
+    "source_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "preprocessed_sha256": "03c722bb86ee55ad30fe99b94109d32cf3171306c5f7806b04560b840c4b9c50"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/006.png",
+    "angle": 124,
+    "source_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "preprocessed_sha256": "6dd3e743a959e2cb213a35267102ef34b99dc3ae78ab2f4b5d5e5afe10195fc3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/007.png",
+    "angle": 230,
+    "source_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "preprocessed_sha256": "d791a614d15758507b0bf9c08f86f3cfffb4b7b780b4fc838ed904d3a24713e4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/008.png",
+    "angle": 225,
+    "source_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "preprocessed_sha256": "8715b57ee08cca141e6744eda8f66b034cf8183e9901ef01d283c30a0092a7c5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/009.png",
+    "angle": 172,
+    "source_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "preprocessed_sha256": "4b59144fbf949214356cf14382db6c7a40deb0ac9bab9bd283219eba931117de"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/010.png",
+    "angle": 6,
+    "source_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "preprocessed_sha256": "b83e88e3f075984c1083a8974313df0f135bc0a39bd7fbe0e06a53071f2d4cf5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/011.png",
+    "angle": 180,
+    "source_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "preprocessed_sha256": "bd9f086236a3f0e8234541aa71ad2fe7d70910653574c6b3a19d62fd3025ff6f"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/012.png",
+    "angle": 69,
+    "source_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "preprocessed_sha256": "2eb412e886b0f574ce9edc33945bacd9a8044f2363f3c84bd467d6ce3a72fbc2"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/013.png",
+    "angle": 245,
+    "source_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "preprocessed_sha256": "f1d773163aec67a79231160334c1e92f4313f961e88077c60417ff16e39b4de4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/014.png",
+    "angle": 118,
+    "source_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "preprocessed_sha256": "9daa16defa2b78887e9ad3498414be8c3377c963d4d3e0b6672034f83bae781b"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/015.png",
+    "angle": 20,
+    "source_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "preprocessed_sha256": "32f464a57ff47485561e24e8c7af0441cdfd4a56cc479041fc2a2ab680e12a44"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/016.png",
+    "angle": 344,
+    "source_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "preprocessed_sha256": "197893d615a5a271b631e539f5f4a248090582c8e34e4d8c8fadb8ca05cd45d8"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/017.png",
+    "angle": 264,
+    "source_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "preprocessed_sha256": "15779bf906a037755d64a765b875393727ecbbebca01936a5c041848e6ba6cc1"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/018.png",
+    "angle": 220,
+    "source_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "preprocessed_sha256": "9074699e2a74fc2d9754f557e01fe67d3df483cc1df5b188f7811806091b0fe3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/019.png",
+    "angle": 235,
+    "source_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "preprocessed_sha256": "71d7bb1a76660d3d7a19a0fd8cc14105b9a7001df1a2b4ff01b4410f6ec24b17"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "contamination/020.png",
+    "angle": 249,
+    "source_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "preprocessed_sha256": "222c94666e3cf18062496576a5ff0bf62023146adb143b61757ee5d9c2a73ad3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/000.png",
+    "angle": 324,
+    "source_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "preprocessed_sha256": "34d1fbdb24ecf1a9fd08aa2b1024b9a6135329b5e056f11ffaf42e230c377f56"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/001.png",
+    "angle": 294,
+    "source_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "preprocessed_sha256": "f64c74b140752163aef063885c83401167ab9105fc9836aca973eaf2b90a3ea5"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/002.png",
+    "angle": 224,
+    "source_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "preprocessed_sha256": "942e0939b7a6d97029b07bb6371e8508d2d8d9dc2f09ea9fdafcb593895b2fbb"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/003.png",
+    "angle": 348,
+    "source_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "preprocessed_sha256": "7d7cc8764c463f81c06022ff086ddaa37df8c04a2c16092300f8487f165b5598"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/004.png",
+    "angle": 356,
+    "source_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "preprocessed_sha256": "9fe5d8a4ad7b44becb1fde962d6de22c512e7ce6ef27f2ee25c876d3063f56df"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/005.png",
+    "angle": 303,
+    "source_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "preprocessed_sha256": "e2a513bb473a65764c37f2e80c6ae0d84bd6457e1ae856b685697d7449882295"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/006.png",
+    "angle": 179,
+    "source_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "preprocessed_sha256": "f56a9aea4c7d554b8cada59b9c0a44d500ddc424b73930b0fd57f69c019e165a"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/007.png",
+    "angle": 189,
+    "source_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "preprocessed_sha256": "1111c537e85f0cc54250450bbb6747bfae20c7177622849f608df1d177982caa"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/008.png",
+    "angle": 259,
+    "source_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "preprocessed_sha256": "586d65adc2c60478e2edbc4bf0e23ee932e2619de999db17de5521a57d520dc7"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/009.png",
+    "angle": 58,
+    "source_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "preprocessed_sha256": "e5454217e6fbfda6d00a009029e9e6d6f0f2e8da9973eabbbbe54e266ff36557"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/010.png",
+    "angle": 16,
+    "source_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "preprocessed_sha256": "7a73c6199e6c94cadc397751f4c62235c73cb2cef44fb0370a1b3c7aef85dfa3"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/011.png",
+    "angle": 229,
+    "source_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "preprocessed_sha256": "88c936d3a042ed1159d95b52f646583795cb034843a7419c2c3f50b95ee37a14"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/012.png",
+    "angle": 94,
+    "source_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "preprocessed_sha256": "31e3236ec1ed609c29a0cbbb4d14a16468b5595138b1d76bb99edf3d457eb8be"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/013.png",
+    "angle": 252,
+    "source_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "preprocessed_sha256": "65417127985a646e22d9cca08a9fc67bab495f0bc8e0dc11dee94c942399f744"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/014.png",
+    "angle": 63,
+    "source_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "preprocessed_sha256": "436b9d97143302ce91c39703ca5aa0ea8f75250e83264fe87f594be7f831a052"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/015.png",
+    "angle": 279,
+    "source_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "preprocessed_sha256": "c078e9ad74c8d56e65b37a89cc960b489dc1dd4ffa234fa5372deb8c56164b1e"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/016.png",
+    "angle": 196,
+    "source_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "preprocessed_sha256": "8db77f349fedf4c56119a5df044e1fcc8cf94247ed8c5a8b4d63bda940468fab"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/017.png",
+    "angle": 140,
+    "source_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "preprocessed_sha256": "8665edde33dee873f1a2f16fdf042cb2708a79c78966d8e3e2e9e9050f1da0af"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/018.png",
+    "angle": 161,
+    "source_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "preprocessed_sha256": "703deeb60ff14c2737e960ed829dd5d8a973b2a27baed180060f1b8240b071c4"
+  },
+  {
+    "scenario": "random_rotated",
+    "assignment_seed": 46,
+    "relative_path": "good/019.png",
+    "angle": 49,
+    "source_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "preprocessed_sha256": "426d3861c82f4ae66cd523394221707f4a6d48912d5b025d813080663db651e6"
+  }
+]

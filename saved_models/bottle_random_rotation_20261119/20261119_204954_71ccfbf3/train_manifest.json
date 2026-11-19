@@ -1,0 +1,3973 @@
+[
+  {
+    "repo_path": "data/bottle/train/good/000.png",
+    "relative_path": "000.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8a25eb07475a5102f4823fefd82662dd65f8f2a0a333bf958124ceeee38f0e38",
+    "cropped_rgb_sha256": "fe85746803da45079013dc2d1668d431b7d39a69ff29d9a444d267f843629fd0",
+    "preprocessed_sha256": "5cb3b12be26454ccda18c74f3ca4682be535c81559850b0dfef437e0ed285d4b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/001.png",
+    "relative_path": "001.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ba13b82fc8c732a02277816521fe93a0fee00c524f2742bbb3feed0a31cda8df",
+    "cropped_rgb_sha256": "450c2968ec831735dd55b54d6adfb232ea7adfc32f92816c74113f099de62195",
+    "preprocessed_sha256": "411e7dbbe55ad40c801f8178c56122c4a0a0d2f38b8e6635a3c3f98fbb87e2d7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/002.png",
+    "relative_path": "002.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7de0414f1744aaf5cec488928ee3b761509e4bad4f607dc4f6d41ad7862dab69",
+    "cropped_rgb_sha256": "479517ab79168a92042b8399c66669224aa4c2a14cb68c686e6dea292dfa4556",
+    "preprocessed_sha256": "a12d48b43dcaf206286aa544705edbd64df58b0eb0d6f4e91372d88230a5992c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/003.png",
+    "relative_path": "003.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "83a8754d0215c4512cdba27caa15d478f21e4314ac85efa639d4d31d1a82122d",
+    "cropped_rgb_sha256": "9acb8d0b570f0be67c4a7d296a82fa5277730362e13af5bf07bedbe2c988017c",
+    "preprocessed_sha256": "f24a8ce20f0e974c3bbee38f2f8a1d7e34780895ce23082f826e8dd81ee8b759"
+  },
+  {
+    "repo_path": "data/bottle/train/good/004.png",
+    "relative_path": "004.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e322ab1ce2714be77610b25209d5ce91df9ef3f434403cf3dc5041f469d2ade3",
+    "cropped_rgb_sha256": "32354131326575c26b1619f7d3b5e97e2876d4077c71f8a2709140b28070f8c3",
+    "preprocessed_sha256": "4b87fe2c7895ae15718c570f1f5a5014ded8a49797a71cc454da769fdaac0e3d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/005.png",
+    "relative_path": "005.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ce025f228af389707430c4ff417bb0a4ccf4324b9cef4f60e4ad87ed75c735b6",
+    "cropped_rgb_sha256": "2f0dda1f96bbc90368aa37398b8fb343fa3bd901f739acd6ca8341855af4d57f",
+    "preprocessed_sha256": "1a2b6dc77f27da4fd1c771a4cb32857128df0fb5c1556a86033bad3bf102b183"
+  },
+  {
+    "repo_path": "data/bottle/train/good/006.png",
+    "relative_path": "006.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "037acb142ec7494e749da9a46de367df92df345ea3c9c4d0e0e5fe24f8b93461",
+    "cropped_rgb_sha256": "a0c6e1f3d66320abda689f13ce85104c22d12e8bc5bad770ff5b328207d55c34",
+    "preprocessed_sha256": "d70531a2e68376c5d9fc982fc1b2bb165b46f0c7c5f6f5f4c026886c4680d679"
+  },
+  {
+    "repo_path": "data/bottle/train/good/007.png",
+    "relative_path": "007.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "070d4cbe696071aabc660f9362273d79f0cf36b2b60084f6d545902fa455c254",
+    "cropped_rgb_sha256": "8a3007614b3ed7e3509abc57a5b617738612f0446d0012728d911be3d08b9dc5",
+    "preprocessed_sha256": "01b4ad8475567c888976961076a67774d00415d8c216e12a8bb34f3f706a67d5"
+  },
+  {
+    "repo_path": "data/bottle/train/good/008.png",
+    "relative_path": "008.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "fbdca6b40932e967780ba859bb752eeed1996e874581c47d29da7d23f33048be",
+    "cropped_rgb_sha256": "68a77bb7c61700c198849d3067edcde17eacada6b72162de71a5de75864762c0",
+    "preprocessed_sha256": "32bd711bda0e11be0999c82d15d3784c1eac43908d057072dc0a00b75a9c4895"
+  },
+  {
+    "repo_path": "data/bottle/train/good/009.png",
+    "relative_path": "009.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "935dd12766cf96bbdeb48ba5801a896cbd7047212f601077d1adef0db9a6ae57",
+    "cropped_rgb_sha256": "fa4118dd1c4fd4d6c11129f441c9db3ff2c4fe612ce0fa7785b63720e69d1af3",
+    "preprocessed_sha256": "db05b23425ad9718cf09d32b2b8c38891fa16100ab064393f1407cd98a629fab"
+  },
+  {
+    "repo_path": "data/bottle/train/good/010.png",
+    "relative_path": "010.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ad500d6c2c625ecc17f8b276a597f76ce5cabfece6326fd39682b5d6b9192db0",
+    "cropped_rgb_sha256": "d0ca0cfe174fbf36f674ef880150d43087b07b90a42e72ab657dbc982dac0486",
+    "preprocessed_sha256": "9d35411c5611b68b7fc0948a0ebfcc8f6a58ce95277acb773d6059883220fb85"
+  },
+  {
+    "repo_path": "data/bottle/train/good/011.png",
+    "relative_path": "011.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8493f6eb590418997ff950e1a2cfbe5f31ebbf49a8d075b838a98abfe851ae26",
+    "cropped_rgb_sha256": "3556ec3c9e97bf0e730c768bad039351acd420aab4e9226b0cbe9fcd18d5f96b",
+    "preprocessed_sha256": "b2f010e879b0f84a36c8ce4fc790ca462ff8c71bb723b8a35530de74d1c4a162"
+  },
+  {
+    "repo_path": "data/bottle/train/good/012.png",
+    "relative_path": "012.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0c45f021e169dc8b27120c4c70ea09c0a4e3391482ed4dda4a04baf7b2098b85",
+    "cropped_rgb_sha256": "7503c3b5c0d6cf3cabeb6221165fd55ae34dd1c1caca9e17286ef289b652e9fc",
+    "preprocessed_sha256": "cea8ea1f6e556627c8168f01464000afc43b1338d73050ababc27874eee39afb"
+  },
+  {
+    "repo_path": "data/bottle/train/good/013.png",
+    "relative_path": "013.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "13d287cd1cc8b7e7e09ecb74594f7a30d94c35fd5e95b9421b2081d9ead6aa36",
+    "cropped_rgb_sha256": "2510644775120c32e34208682d0ef8f5033bf3375c44963d9a9ad40fa715dc51",
+    "preprocessed_sha256": "9feffead8531d93a407e375175699ff94aed46cd0118468a94926a043ec43cf0"
+  },
+  {
+    "repo_path": "data/bottle/train/good/014.png",
+    "relative_path": "014.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "a8826579631c43c66b2e0d33f00cf6d5beac3dcab0cadf50bec3c8837a329288",
+    "cropped_rgb_sha256": "1cf3247baaee45fda0e994b5fa8bf6dc37c81c4f1a72f1122373de934f112951",
+    "preprocessed_sha256": "ea11be4b4e05a824accf3607d0ee02fe5c9ac357439740e94d8d3072859c49b4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/015.png",
+    "relative_path": "015.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8ce929a477e23b50c37913300541f324eaf6073155e4abea524a3fdd9d7c49b2",
+    "cropped_rgb_sha256": "824168998c40fa53a967b3fa3ee445ea667abc2655e5cc7ebc77aa354b93690b",
+    "preprocessed_sha256": "e8daa08f6721f1bb4f196dda48fc51d635b2fff04055c2fefd8eefb7de93334d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/016.png",
+    "relative_path": "016.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "92a6d4b311360bcd5c96ae630a377ea2ebcb29d9b9a39e2f0c1c3ad1f1b88a9a",
+    "cropped_rgb_sha256": "0ca8977478bfa16193f31fa6fdb17513c31d3aefa2629a4fc836acfc68bad738",
+    "preprocessed_sha256": "6dd84a797508124bda29527c1b0206bf19bc91ebb1910ff90d0beff19953f571"
+  },
+  {
+    "repo_path": "data/bottle/train/good/017.png",
+    "relative_path": "017.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7d546aa84dbfe0c37b19346fa88e579d6b45b3075073e0ba3f1e2e8657e6cefb",
+    "cropped_rgb_sha256": "92e570c682d84e403277a0b149374914bbf7123607e072365ca0a7b1c7f7ed85",
+    "preprocessed_sha256": "599775a0815c81bb7cbae11dfc6bb5df7efb734e6d6e3b5959dfb6af5f4b1436"
+  },
+  {
+    "repo_path": "data/bottle/train/good/018.png",
+    "relative_path": "018.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "83b1d0683d6c9dbf41ab72464838991bbb931dff24d644cd8e4bf7582ef784ce",
+    "cropped_rgb_sha256": "23008eda4fe53d126f45ee23164f86f85ba67bea1c1390d04bd093cde98cc4ba",
+    "preprocessed_sha256": "dd343e35c0dc8e255db60590ff47c4cc02f6d3dc6d375bb19640e9c95df01b4c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/019.png",
+    "relative_path": "019.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "a12a98cfa582797afce9dd170f5f6795747df8672deaed80d03c7e26406c1aa0",
+    "cropped_rgb_sha256": "8fd1ab08f39f423f4ba451c8bb33612cc4eed9c7a1f792801668412b28493844",
+    "preprocessed_sha256": "4778e0520f1b9a3f47a4b0eb72d7970cea1b745c4ba938c74294b83d49743df8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/020.png",
+    "relative_path": "020.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "96a7e24ec9ca27a9ff389ccba0260d6d78d6762968803260804aef65f26fe077",
+    "cropped_rgb_sha256": "c27b6c7f9252d4c834118e0deb81cee8082d776104afa6ecbd296bac032427ee",
+    "preprocessed_sha256": "254098aedcf65be636428b87e028cc95ae3a2521b0c5e58af8a7348feb0f4477"
+  },
+  {
+    "repo_path": "data/bottle/train/good/021.png",
+    "relative_path": "021.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "92fe0a4a396df3bc95852130a063c241486dccb21ac54017145265a1a5dd72f2",
+    "cropped_rgb_sha256": "a73917847d6c326068530ae8fc03a6fc1781463f6438b01a90d3f33dd0c95bc4",
+    "preprocessed_sha256": "e98b17e6b79bc0f9c5c191ede1986341dcb7585e0683f3ea9d0cb75a4787b090"
+  },
+  {
+    "repo_path": "data/bottle/train/good/022.png",
+    "relative_path": "022.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f8e1ece1086cc7e75dcacffdb7ac5485f767a7a53cb2f92033fc29f58e2708ba",
+    "cropped_rgb_sha256": "f27e59acf608b7d2530c22419c894225eeb23276531cd4014efdc158cf6c6296",
+    "preprocessed_sha256": "8bb0f53b6bc808fb036a4019f8745718b636bfbc0dc5a558ddcb633e3a4ca376"
+  },
+  {
+    "repo_path": "data/bottle/train/good/023.png",
+    "relative_path": "023.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "5bebcd96862ca137cf0a1be85230cffb0098bd06636747c98dd3109c223dd3a0",
+    "cropped_rgb_sha256": "312457f57258a6c92afb30631e5f69609a930a3d5388c0318d65cce7ece60f7b",
+    "preprocessed_sha256": "1f3bcb5765b7cfb1bf3d9cffa2f48ba107d66c98c408be9fd69c2d423f1707a9"
+  },
+  {
+    "repo_path": "data/bottle/train/good/024.png",
+    "relative_path": "024.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0e59918793e8ad42caa415776b381f5366afbd11a9fff2511970dbc1389b8ddf",
+    "cropped_rgb_sha256": "0f0e1626a4a7800e2076979e1e4822d679556311cc8b6207688fe4c56c78cef1",
+    "preprocessed_sha256": "46448c8975235c511cce61346609b59c1507e30201a61a4ab94920fb2d82fc93"
+  },
+  {
+    "repo_path": "data/bottle/train/good/025.png",
+    "relative_path": "025.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "311f88b86169b4516486999726e702ebca6c8f12c2500cc0449158ffbe0f929b",
+    "cropped_rgb_sha256": "52b044c98141e879536a9548f55f6e7c83ea011f9dd40867fbf9347dfc4203ab",
+    "preprocessed_sha256": "326e9d45278a73d70c01aba1dc06369ce3863e5ae5e333072af81d69ce97d594"
+  },
+  {
+    "repo_path": "data/bottle/train/good/026.png",
+    "relative_path": "026.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8c9ae9da77c9a3add73dae83d25abbd444ee9445d4e4c6f1d27d946421fa6542",
+    "cropped_rgb_sha256": "389739e8d6e9a96b08ea01ee2562957448f2dd614827ac84338c54fb1ff33bcb",
+    "preprocessed_sha256": "91cffe8b99799a54192fdb3314bca0c32c907ee9d6c8d5a63dbf99ed82ed4b28"
+  },
+  {
+    "repo_path": "data/bottle/train/good/027.png",
+    "relative_path": "027.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c3d7ae38ba8602d8effc716068bb71a4e67d4c0acddd9caf5ec761d3f2853372",
+    "cropped_rgb_sha256": "bb3c9890455c6d050a4fc36663a6c6ae999e3f29ba6e70c2f076f20ccae12101",
+    "preprocessed_sha256": "58acd865ca4c9e5d3c48f1037abff29ea33331b717f1e14ad252a4a1a9e265cd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/028.png",
+    "relative_path": "028.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "20ad78aefe7af62b170a569a2c96b95f12621af240e259bb1b32ba142d87638e",
+    "cropped_rgb_sha256": "6317d62b5bc743510bef01aab930105398582988fdc82f484bb783eff2e0af70",
+    "preprocessed_sha256": "d8f4c10371629eb908543c6e7f398a4d1482399f563f011a4b40270ea3983f5f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/029.png",
+    "relative_path": "029.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b8253d5c07aaf8c58f8d0d4a1884ea4e7e7f26b8529b27e6b55e9392db97f67f",
+    "cropped_rgb_sha256": "ec4b005fdafb14d3ad19e9188985703090e9c6a9fe4d48f45b1ea6ca0a90ef8a",
+    "preprocessed_sha256": "75e6823471d74725aeea94989bf01149f26a7ff3f8a91c00458d5d42e124717e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/030.png",
+    "relative_path": "030.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "2ae6e2e8ca1e90f4e0804e28faeb9bb51cd3c130bda50ed0bafe05fb4533cfd0",
+    "cropped_rgb_sha256": "4585587255c2ceb0d67e158fecb3e86238588e2fff49d3444bf47cd163832806",
+    "preprocessed_sha256": "678a455d4b441b0213e317961d51ee0a02d54136733d3edced51c5d0bdcfc789"
+  },
+  {
+    "repo_path": "data/bottle/train/good/031.png",
+    "relative_path": "031.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "47980ffc9411c7ef921b750051640587d829f34b2326e08144b0ac3a5e28c106",
+    "cropped_rgb_sha256": "b7ba1dc9cfb630f09f759c50160b6d1e0cb0d3385afcbc2316d49788b02d4b7e",
+    "preprocessed_sha256": "84db4a0260c7faa672eed24600e67ff1f686107e83c407e67eca2246c10b0032"
+  },
+  {
+    "repo_path": "data/bottle/train/good/032.png",
+    "relative_path": "032.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "22ea2f7d08c0a5ba4f1494737bdc198375760ce42eed8fe29b68436acf2ceb7c",
+    "cropped_rgb_sha256": "7a6c6d9e50607effe29546ba5361757e38d8c11fdde5bbcf50208d9d7b36a1bd",
+    "preprocessed_sha256": "185a28a20fa29a50b1e15a83de70306480d2a9d9b6558f2470d71c88acb82536"
+  },
+  {
+    "repo_path": "data/bottle/train/good/033.png",
+    "relative_path": "033.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "16e52b8b32fcaa6295840300340287fed67abcaf1d4ee9d8edd5e674e46b17ca",
+    "cropped_rgb_sha256": "a4166e912212b49922cbc4665c61e6ea8ca51bcb2842b9ea2bd02ade1c6ed3b6",
+    "preprocessed_sha256": "406e3669b8e6bd5a98212d702b55d3b080003940b5ab43cba3f9c5cb6574c40e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/034.png",
+    "relative_path": "034.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4a44f447a81d1a9c18577b667e5dd3131b10205d2a739deedf45490f277a402b",
+    "cropped_rgb_sha256": "46002a29bd9534da56cfae37c6d1aa5a9656e1958d48504c3a2d7810718ccb80",
+    "preprocessed_sha256": "74f67bdba89d394a1a13bde37c976caada4065d39bb1f7c512bc9a39d4ae2fa3"
+  },
+  {
+    "repo_path": "data/bottle/train/good/035.png",
+    "relative_path": "035.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1ee9369e10c7f3d73b6a03e2bf3e648ccf29b52e47de99141cbd74603fbd76f0",
+    "cropped_rgb_sha256": "bc24245b4b59cc7542b422549ad451fad4d183e94fda88e11139de02747296f5",
+    "preprocessed_sha256": "fca39f4075938d2e8f31dd497200d15f6d041fb9b6d6350116f2890fcb51cd4e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/036.png",
+    "relative_path": "036.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "9302580815770c06ed9fccad8512b25d3e80053c35dfeb35d743dd5c907761ee",
+    "cropped_rgb_sha256": "fe9ff93c6042ef0d3c24cde56cf5d8d1499407de14595576a360d772d41cef7a",
+    "preprocessed_sha256": "aaf7d72e3941b86fd3ae66c0ef925233db541e13c97468ab60a4ec1272ef739a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/037.png",
+    "relative_path": "037.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3575e4f0785d679737e5d870d4ab308be47ea1565c0b4b6c8d76af502f9a080b",
+    "cropped_rgb_sha256": "96ccd5354fa4c9d0fbed8ffbfe26f90187aefb904b7043778d42401b7b1ca1ae",
+    "preprocessed_sha256": "f82c5a88a9f5fe88c09c760f556dfe6299dead445c11a9fef57e8d48349b2b15"
+  },
+  {
+    "repo_path": "data/bottle/train/good/038.png",
+    "relative_path": "038.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "905e9e23f2c982de65f7687ad31d35c750f4812cf681b7263b6cd072548d474d",
+    "cropped_rgb_sha256": "1e991bd6f58bbb09d9811b363f5e2a76523f1385166b2255b4c8e8036d996f59",
+    "preprocessed_sha256": "461fb7ccf93f97ef10b64a7debfe8bcd4f8d48d7f656a5a9988b9dc91842ee2f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/039.png",
+    "relative_path": "039.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "663b485f3c271b3c7fd83c3312339c09010e7bc81dcb95d5a4f5646bb776aaaf",
+    "cropped_rgb_sha256": "dd6448e926c9d31df9a8b7469c3ba71510e560c948e61ce510eb1d6bf25e0a99",
+    "preprocessed_sha256": "e3aa7d43d91c86286dc754b1b0a252fb8a047cfd56828a73885cd5800dea16bd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/040.png",
+    "relative_path": "040.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0981ee2efcd397b9881f46d2bf9a568b94f31b5905e8cd787116e9e4cea47603",
+    "cropped_rgb_sha256": "e1c0358cbb49295577d211ded454fcb9d213edac3fd7d58dcc0095d346faea91",
+    "preprocessed_sha256": "c8fe61c83ae97d8f985ae94e48d135ad6302a4436dac2f9889ecffc792f4377b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/041.png",
+    "relative_path": "041.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "52c84bab48a67573f1bf589366ad7a882b1c7c866c09e3f4fffa3693bf4a69c3",
+    "cropped_rgb_sha256": "96ddeed9491f9c85bbe2af9716d1b590e887ff6b996a7e6ef7e23ecb3b5814d6",
+    "preprocessed_sha256": "a18ffbe314a18452c27fbafea0b23a2789b46996e54cad13765e2c73d6d2f06c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/042.png",
+    "relative_path": "042.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "034e70851f06468c7c48fee1845a890074f96887beaa08c0d72b86b10aa4343c",
+    "cropped_rgb_sha256": "6ba5e953d578c575492b82de861a228a937d959f71894f31ff44209fccfd59fe",
+    "preprocessed_sha256": "9222ae2c329b19b503db871b564918bf9fc6cf68e6d74759aaa2544cbb41a8e5"
+  },
+  {
+    "repo_path": "data/bottle/train/good/043.png",
+    "relative_path": "043.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "6174ef1513643d78ff3228e0e117208b55febcd10b2b86e16c65c26ad9df3c0c",
+    "cropped_rgb_sha256": "8569fbbbff3f0f77c13ce18955095b1310dfe2fb2e49b62e8ab7be987c34873f",
+    "preprocessed_sha256": "ea28a596f4890710c5fdba8fcc88d8de545b68dd6eda143a2b500ac1bccc2dbd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/044.png",
+    "relative_path": "044.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4ec7f7015c79583007984f83a57df369c6f81551d095386d3c3e9a4554be3aee",
+    "cropped_rgb_sha256": "ab3981d815b6fc4929d5fabc72364a5c1981e56ca08df578cf94ec6c64963f1b",
+    "preprocessed_sha256": "b1d5f6decda452770ccd9cbe84e2c3420b4da375beeb14b5f82b37f457973210"
+  },
+  {
+    "repo_path": "data/bottle/train/good/045.png",
+    "relative_path": "045.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e49f59e90918e7d94cd5439eb595e019722a3b254e12ea6ccf901bab2a25112a",
+    "cropped_rgb_sha256": "2a983e37c9643d8177478352335a5d5fb82cee39d48229445fd1731984dfeef8",
+    "preprocessed_sha256": "41edcc99eddff4111330167d2317529486904c9f731b78c9864972efeff54ae4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/046.png",
+    "relative_path": "046.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1adba5092ba0706b293e0ce283629a1af776e46d8c809acb2cd084cf9d49d127",
+    "cropped_rgb_sha256": "e3ff93f3023a13765549b9071a558a086ea77152118322bd09ab5f3ea146cf28",
+    "preprocessed_sha256": "81becdc3da3414a65e8d31c89d49ce36bbc77564363f9e2b6e496dd041a163f8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/047.png",
+    "relative_path": "047.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "87038a5973815117ec24b5cca8cd798dc31d738a0cb6f2efd5803d62f6ef9f1c",
+    "cropped_rgb_sha256": "faeaa7d3a240dea978680803e291bc901568e8b61ccfb02198f5ff692e53fb8b",
+    "preprocessed_sha256": "276ee4e475aebb1fd4303bc57dab170f54b25c8707a61f6cc25a59d493a5a135"
+  },
+  {
+    "repo_path": "data/bottle/train/good/048.png",
+    "relative_path": "048.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "15fa6566a8c01bfcd546f0cf2b34f7e351c9f10126b77ea3ad6ddb9200e21398",
+    "cropped_rgb_sha256": "028349e6b94b32b15f8e11ce017910c773a813f13434962d0e58c299cf7e1969",
+    "preprocessed_sha256": "efa7c2c0355034466513ead1b9e23e646bd8577bd9b364b83a61720c1b9b1fb5"
+  },
+  {
+    "repo_path": "data/bottle/train/good/049.png",
+    "relative_path": "049.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "59233798220711bc931bbb9f4c88a7a42e933e831749df316f949b7572f3f5a1",
+    "cropped_rgb_sha256": "d1a6ad70887b904ab08c8795271660d1dbb5e034b508fa4e0c1fbaa9e2382dcb",
+    "preprocessed_sha256": "e5b6bf602384a50e4cd0e2d35675d77276e05b3588a1eb8f9b8b2cae34b2e458"
+  },
+  {
+    "repo_path": "data/bottle/train/good/050.png",
+    "relative_path": "050.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "fe999421df95604555b3c253f524e4a6328f16dc8dfe24de6eb66a34fda43d97",
+    "cropped_rgb_sha256": "e3ec5fa2de97b43768777f69753c44e200bc3fcd59ea581c0723d99505be1dce",
+    "preprocessed_sha256": "34b600d58300cebdc1fab456618babab915b9616ddbd6b4ed317b9918a15e24d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/051.png",
+    "relative_path": "051.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0e3eeb97862eaa2125829f6f6336036b3ce72ab6e8bcf8795bce2c28d8ea425f",
+    "cropped_rgb_sha256": "c92145cd94c3f5e4c5272cbfce66526ed1e98f8dfa04f09abdaa6a6caaca575d",
+    "preprocessed_sha256": "912a3f64471a515c9a4295522abb5d9edb968cb4e03b34827a471cc9462b6fbd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/052.png",
+    "relative_path": "052.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "af57768856d61b24bfdd780989cc5a6623a14c3fd66be2d755af16560fe0e8db",
+    "cropped_rgb_sha256": "a2c7d4216ec877e1ee8359cbcc627afa6a15f88ae4577a48133474f2ac975ba9",
+    "preprocessed_sha256": "a8bd3268a1e91d25176b2e9555b3ece0761690e12c5da3652cee8adab08088f0"
+  },
+  {
+    "repo_path": "data/bottle/train/good/053.png",
+    "relative_path": "053.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "60b6cc8478b5638a07677159ddb2d9310eafb8ec86458661ad9163693a0dbab8",
+    "cropped_rgb_sha256": "601fcc4847807a55ddbc3136994fa530b0655c9bc0cf2d46d99ea238aa64e994",
+    "preprocessed_sha256": "5382e1e0a49229707410cb1764442060216b15351ff70b326eee014135b7ef30"
+  },
+  {
+    "repo_path": "data/bottle/train/good/054.png",
+    "relative_path": "054.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7ed6a41a7d4b684bfbfb89fbe3989ce90c7ea1179bbf4abec4964d15a91f28ec",
+    "cropped_rgb_sha256": "f2ad7f25eac842e6df2b0f7f1b83c28e54fee7a7c880af66fe0d4801d0272e5e",
+    "preprocessed_sha256": "cc8f253deda43c8e2e290a1c814a625efb3516fc362579bb8883a557277be8e4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/055.png",
+    "relative_path": "055.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7e2044cf73cb8df6b2d728553ab2a5d0366e93374beabe22a3e412ddd9d9907e",
+    "cropped_rgb_sha256": "d0ba0ed583076759dba70a2767ddcf1784eaccf62aabcfc6e4d025643198c759",
+    "preprocessed_sha256": "4a86b5bc6e2980e04279e3bdf4f9bc794bff2b8e73fd23e6506fd840887dee98"
+  },
+  {
+    "repo_path": "data/bottle/train/good/056.png",
+    "relative_path": "056.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ccd542b186751026009fc32ecbd8f9f48fee61cf6274ecd0b4c8ca2b4e53f1f4",
+    "cropped_rgb_sha256": "c32645898989afb8aca822b77d1ec7b6f91f4c97c24ac02f9d74275344dadfe4",
+    "preprocessed_sha256": "ed13eb5dc1405fcac9865c5439785a38c6db95105944b684a590a20940a1a9a4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/057.png",
+    "relative_path": "057.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ff41fa6adf5452d5f2d3abf0939aacac53779b4f70de4db2a816843a3179a171",
+    "cropped_rgb_sha256": "8818ab702810eeaea1665ba90224ec435662312b7762679c6eae5929e475de57",
+    "preprocessed_sha256": "4e0bf3d51ad8600d3efe002c47e981fbabba8b640baed6bab9888cb382cda33a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/058.png",
+    "relative_path": "058.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "af31fae36d103e0142ba02f91359e963a50277d8af341d738e8463560dafdf86",
+    "cropped_rgb_sha256": "8dd5d5f9f27dc59f0fca45ea10f82e3bef63448da4e51f0a46892d027d4510eb",
+    "preprocessed_sha256": "54ffac2b30850c35f7fe6c2916885a410acb5198689957f88c8879ad062ebc18"
+  },
+  {
+    "repo_path": "data/bottle/train/good/059.png",
+    "relative_path": "059.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1ba282c78f37753d7036a8d36c79a37707f46108346e88051d84e18d924cee2e",
+    "cropped_rgb_sha256": "6794f150adeb8e01601114ced0a39315acaa9602be7231b0184a4f24175deef0",
+    "preprocessed_sha256": "cefed2e6b4ad168e06a79fd0a51a0728e0e831cf21ae2d5bc3153daa816dd53b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/060.png",
+    "relative_path": "060.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "d325b1ada72a37bae2b950f5e5077637144f30ab4c91ce31768f0edfddd76dab",
+    "cropped_rgb_sha256": "8b3489bf8250df1c2d980c195e6b50f42f18dd9ec7c1de5725e9ce454453fc00",
+    "preprocessed_sha256": "a8a99bf4021727b0d40ffe777dfb11135e8f98fada86e192ab43906c6c656b3c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/061.png",
+    "relative_path": "061.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f40106f40a441d24b6ef04228cab8572b81ef0daaad134b65bfe07aefa622322",
+    "cropped_rgb_sha256": "7a29b5a8f8af04a03c06beac89e2902edb978c791be6cd270e88e6ceb090b632",
+    "preprocessed_sha256": "2855a01a67981a0a812e487b45108f89386bfe1b53ed92afb48852ad6fb696ac"
+  },
+  {
+    "repo_path": "data/bottle/train/good/062.png",
+    "relative_path": "062.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "bfafe9b9838a8668983da26610405ea0e5f31c3564a4746e80a79722085f56a2",
+    "cropped_rgb_sha256": "7c078f6afb72f73f4cff0bd496cb3e70f9f17e6a20336ea8bc76a5c9a57a4efb",
+    "preprocessed_sha256": "eb578b58a03d6f09830e6dd1cb09f03a38c6c5afefa1cdea4e43e890297c4111"
+  },
+  {
+    "repo_path": "data/bottle/train/good/063.png",
+    "relative_path": "063.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "28ce3e5c3cbc27ecd934bf1eb3117122baa2fd4c37a036b128771b910920b3b9",
+    "cropped_rgb_sha256": "038ebdf23843389016ec7723b10faf1ee102782f2559b7e416d1b892396e2d26",
+    "preprocessed_sha256": "34cb3968624265bd100102fd394883d4e1487f86f699aa6472f3f5f91c76934b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/064.png",
+    "relative_path": "064.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7d8468608a182806104633419bb09162dbc314247e1040226199f594ee6b6e8e",
+    "cropped_rgb_sha256": "a37a7af7671368cdada5f6a342ce4b0d56b5c49fa2ba1cec81ff23eeb4fa9354",
+    "preprocessed_sha256": "24bd8bd39d729937b4ed1e7001aee7bdb3bea6a5dbe4bfecd84dd261af5867e6"
+  },
+  {
+    "repo_path": "data/bottle/train/good/065.png",
+    "relative_path": "065.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e3e3f61e8377655bef0a6f54c775f128d37160ddb78bc53da0a360aac572a21a",
+    "cropped_rgb_sha256": "5b96de4e38f3554a7cc0dd4583faca0fd2babfe492420c3b54d9fa3860296617",
+    "preprocessed_sha256": "101082394eaf70e5ae09035da774de5fa0a82ac4c10f1ea3bc7e96662a792e18"
+  },
+  {
+    "repo_path": "data/bottle/train/good/066.png",
+    "relative_path": "066.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "534a0841762a1bc90995a3e59ab7de332b127daed8208644819e9d28de706450",
+    "cropped_rgb_sha256": "e0b89523a75b4d03432272cd93471057353b46dc160b270b7af6776f8e00023f",
+    "preprocessed_sha256": "3dc94716b29dc47cf9554d0c34d4ce4fb9631719c056ec4b4bc7005a4531935b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/067.png",
+    "relative_path": "067.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0dff6a5f0dbc1cff776a090aa6fac8943497081470e6c454d38239b625bc8daa",
+    "cropped_rgb_sha256": "242ce85b72dbce1ea6250cef4bb5aef2f15ba33d548bf2e984cce56966f872b5",
+    "preprocessed_sha256": "6e8261b8c5998270f4cbc07dfcf76acab8221fe84f678be9adbf4952382bef71"
+  },
+  {
+    "repo_path": "data/bottle/train/good/068.png",
+    "relative_path": "068.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "93ade48246691fc145a13d531819652b915eeb5da738add2615c40f5590bcc5f",
+    "cropped_rgb_sha256": "f89b5cb0bc2a3c885326b19ef5ba660cf71b5604ca7946f3270ff4599e50c609",
+    "preprocessed_sha256": "f82ae69810eb65bcc50a9f74eff247ea781c42cfc79d60f108f84d97bf4967eb"
+  },
+  {
+    "repo_path": "data/bottle/train/good/069.png",
+    "relative_path": "069.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "40802acb289937ab895aa716810049c5fa1a6d3f7129820eb55dc48ba63c4324",
+    "cropped_rgb_sha256": "4198631196c032fc5ef68e8188db82ae5aa61b5cf4bee5ce683872dbbd89424a",
+    "preprocessed_sha256": "ab75889e8beab23eebcfa603cb3c064b7ec082c4e58ae353762e8def9460fe0a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/070.png",
+    "relative_path": "070.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3689f72faebef73b1697dd8cf5e62614d06c305c84befe0655eefd0e6a4f7d45",
+    "cropped_rgb_sha256": "9b251dd03cda030bb0d472da45d3efec6f024a6e5ffe8ec2ae24dcbddeb8b2c5",
+    "preprocessed_sha256": "57e3a2d52263899dfa00acf3db611909ffd1627329a96a36811d8f7c80ebac72"
+  },
+  {
+    "repo_path": "data/bottle/train/good/071.png",
+    "relative_path": "071.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ae1e456faaa780be0379f6ae80207d27be94369deef26e26d4cc9a62fc0dc872",
+    "cropped_rgb_sha256": "15ef1ec8ebc4c612d5122efe4222fc34783726e8d345f4b2cedf103f47923ba6",
+    "preprocessed_sha256": "75a9a701d05bfa3559673a3562652ced558cb1128774af556191a8ba0a1f5d8a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/072.png",
+    "relative_path": "072.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e5f4084f3a58ea10d75f9baa674e830ab07658920d10dcd90f25d332fdc650c8",
+    "cropped_rgb_sha256": "10b8df0560607fefc11288e5e4596b3a03c9b300dd9db08acce6ff0e02161fa0",
+    "preprocessed_sha256": "cd2c61fcc3aa5a265c94a0206f2b8b977fee5376955a8c073b05912cd534dafd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/073.png",
+    "relative_path": "073.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "afdbf14a9e365688685b3bf1ece84ae649927fa96a14cbf8fa546b481aa6af78",
+    "cropped_rgb_sha256": "9ebbf1a22d1cc2c1675e3fb758d32e3c1de47ec2cee7766a6ba18e9f6e54f08c",
+    "preprocessed_sha256": "76bb91002891b70980dacf4396e7402164b4d1382e9c9c3fd65c0e44584323ff"
+  },
+  {
+    "repo_path": "data/bottle/train/good/074.png",
+    "relative_path": "074.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0db6035ac38a14a842ca2fb4d9f761dcf0b633437b73b1e1de89d53cfb859b76",
+    "cropped_rgb_sha256": "a8c5e9a915956e20152ec80f8cad6437a6682cbb58427c87870e90fdde3e2975",
+    "preprocessed_sha256": "74cf24e2d937676fa3c9a0735f7c86c94a16ccc457e60077d1710135021fa854"
+  },
+  {
+    "repo_path": "data/bottle/train/good/075.png",
+    "relative_path": "075.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1f87cfa2cc3e2152ee3593e2092cc48e23132c4aaea23de20ef4547a2bb612a9",
+    "cropped_rgb_sha256": "3b8ab2ccc55f487a0b0c606d7aad61dfd81045e9f2ce84227b237fbc903f16cf",
+    "preprocessed_sha256": "553e73a5c9febaf10c3dafb6ac7ef0a2381ff59a759bc027c47c5205aa229f87"
+  },
+  {
+    "repo_path": "data/bottle/train/good/076.png",
+    "relative_path": "076.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "446fa2757b9850abe43f25a02c97fee4e187f7ba093e4684adfb227a4f70ae94",
+    "cropped_rgb_sha256": "c29c345d059d2a74c8944057a4e39d6e33d0b1b94b1a1ed3506281e01231bf04",
+    "preprocessed_sha256": "1173bf4aea9bd2ec589ab9525b40ba19fc08a7eded971a38fefa629dfee1ca36"
+  },
+  {
+    "repo_path": "data/bottle/train/good/077.png",
+    "relative_path": "077.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f37ab3e128c33f16326fc701a53a91afd2a7787e8686ca6efdbe78efe22fdcd5",
+    "cropped_rgb_sha256": "efc5245c6c000f9b40d67155bae9f9050d5f5b3999005e139ee88005897f9cf7",
+    "preprocessed_sha256": "f9b0537c1f016833ce137c71f912ee46bf23426008ea9fafcdd8cc47d7ad8fbb"
+  },
+  {
+    "repo_path": "data/bottle/train/good/078.png",
+    "relative_path": "078.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "fb3190cddbc2de31ae046c672fe9959c02dcce3b7942795bbd3a1b294418ed5d",
+    "cropped_rgb_sha256": "62ba4dbe999da020a78e5d9a1463f54e3ae71550635176ffd2c80e4bbb382474",
+    "preprocessed_sha256": "1fe1f31e6a0d7fb3c95d95119bdef67d9c031267187e4dafb48baf57fa205f00"
+  },
+  {
+    "repo_path": "data/bottle/train/good/079.png",
+    "relative_path": "079.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "408802ee90d3dadd130284d54bd702d2d3e79bd1ffbf4c3c6668731229e5cf06",
+    "cropped_rgb_sha256": "e8dbaf8863fee1b826083f41b2634c0fcc55afb5110d78259db6e1b2e08f434f",
+    "preprocessed_sha256": "af8282b7b2e96f9f201ca5481717e4b1c6c7a23555b6c6ac94f5a65e83941f38"
+  },
+  {
+    "repo_path": "data/bottle/train/good/080.png",
+    "relative_path": "080.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8c9594232eb77990d314c9cccc953bc375917f677b9abf283417f2e26c1d0bd8",
+    "cropped_rgb_sha256": "78b4a80f61a6a61746f041d0a438aa5cb56c01d4625865524f3afffa5f62c834",
+    "preprocessed_sha256": "54a43a5de569338d6c5644dc49f6d16b08f753fbc1e3874a9fef818a6c10d865"
+  },
+  {
+    "repo_path": "data/bottle/train/good/081.png",
+    "relative_path": "081.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7cb0735f9914baa21ceda3699215a8e15665639b181703f3cec94b8f27e1b1a6",
+    "cropped_rgb_sha256": "9dec6f8a170c26a46038f345dff2c8398f1fe20defc57dc186faf0f4e2341130",
+    "preprocessed_sha256": "1b324181ef6e015eea830f87462e8656854edea93e9199f77d6712c2ca61b9f3"
+  },
+  {
+    "repo_path": "data/bottle/train/good/082.png",
+    "relative_path": "082.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ea1e99464a55dffd111a3de3a415e8a2e0191e045cfc8a8fd8f52408f5680cb0",
+    "cropped_rgb_sha256": "134851fe93ce56cc373775426a4a8c7d0ce5f7ae47cc8760d33a293042132779",
+    "preprocessed_sha256": "d1c280c3b8775c34c9242233eaf361d1222e498feccb7d55f7d3319d5d10a757"
+  },
+  {
+    "repo_path": "data/bottle/train/good/083.png",
+    "relative_path": "083.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "2ad85b709cd69e57a816f46ef33da97056a47ed4311a4c6b1d81878bf169fe4e",
+    "cropped_rgb_sha256": "4b550aa12988c043ece5d7313defd452637b06e11b364553124a11bc913ac9bd",
+    "preprocessed_sha256": "2795938d2677c64668f2019aa159a6dae71cef32456dac07d51d8b4ee303f522"
+  },
+  {
+    "repo_path": "data/bottle/train/good/084.png",
+    "relative_path": "084.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "bb3c89c1d05c96c49283f1143b56695e0374741d18e40902b7d5cb857a778e0c",
+    "cropped_rgb_sha256": "f98bfad99d3254b415eb2a5cc99887d5c77b3660b8d847b88fd58ca975818edb",
+    "preprocessed_sha256": "f2f5a678241e6961eff182405357ee3c50fb2fca01328318f1d87157d204116c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/085.png",
+    "relative_path": "085.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8d93da99228a622b5be23bbd3edc5e434648bcd86b7b803c67fee86160c587dc",
+    "cropped_rgb_sha256": "3aaf2acdb86303946f07f76eb15b0f97a1eb1366ee0892144b3b3c5ef27560ce",
+    "preprocessed_sha256": "76cd0e0f666269a0cb9e3433d7d59b4d5fc9a6aabbb79ece9bf3ed676dd9e803"
+  },
+  {
+    "repo_path": "data/bottle/train/good/086.png",
+    "relative_path": "086.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b440fd1c2dc1b8621dae3697a59b75be7046675045c8bc91715f755962435738",
+    "cropped_rgb_sha256": "7ac717daaf08e1bbfbdf1346196358558fca91505026a9df617508af33a4ff25",
+    "preprocessed_sha256": "a4b89dbf36ff89c1072df4f596f2aa1f05c0d026734b829a32f8e79b488b43cd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/087.png",
+    "relative_path": "087.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "d90d26b8cf6ae5684cc3d15a7f1648a2bc7bac59af7646d933a8b8f0924a2999",
+    "cropped_rgb_sha256": "7db5220e20686fdf2a32aafcd2a576d07e111f146f4b2671baa312197f8f77cb",
+    "preprocessed_sha256": "16c3b0409175e558100f7912ce4305e489b62f1327754a6a7a8fcc64c9ab69be"
+  },
+  {
+    "repo_path": "data/bottle/train/good/088.png",
+    "relative_path": "088.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "53c201c39528e848f3b046eb2c29ff7f02c6bd4933c330a5394ab3a1af5b1879",
+    "cropped_rgb_sha256": "c78d3e4f0fd7829065615c75e9e4d12658bd28df54d4ffd940b82400a7d34f2b",
+    "preprocessed_sha256": "a35fd10913625e48b4eefd27e33526311bde40c659e608f6eea21970e7d3f8c1"
+  },
+  {
+    "repo_path": "data/bottle/train/good/089.png",
+    "relative_path": "089.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e9861f73abb873306db658ae65a7c240974c4ee5453d22ecbe6dd460c7762979",
+    "cropped_rgb_sha256": "458f7d332ef3934a8f4aa5df75b9361ff67c4122fce853a71a0bc848f9171700",
+    "preprocessed_sha256": "c701acdc6622dc3c2815fd67fb3616049d9106487f435862eaa1c9b8b0f06f3d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/090.png",
+    "relative_path": "090.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3237e873613706a97f28c8279f1b78188a51318c39b1d1ce019ab01cf170ceab",
+    "cropped_rgb_sha256": "4b9c2c89a693b3e3d0dd5955667fb597a389cacd221ac321c01aa613ce1ab668",
+    "preprocessed_sha256": "0fe9570a3812a29b9d1dff966d81b9bcdfc9db43d3a4e3c5631de67a7fa93bc3"
+  },
+  {
+    "repo_path": "data/bottle/train/good/091.png",
+    "relative_path": "091.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f12a6e2cc58c98b93b6aba11e6bda12af38b75216f876709e6544733072dfb68",
+    "cropped_rgb_sha256": "8d428c44e4da63d10ffe1b274d181153babf065da7dbc659b25719380be939dc",
+    "preprocessed_sha256": "0ead22b962bd77ecff61c1ead48d4abad8de09ff3a826b1ee0b288de90979cf1"
+  },
+  {
+    "repo_path": "data/bottle/train/good/092.png",
+    "relative_path": "092.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "aef55a3c7a99c440ec4b449236be122888dab71ec5bed8d1b8bcd97b92a8591b",
+    "cropped_rgb_sha256": "85cc3d3cdf01f08205b8737ac99fa8f2f9aebbd00a9e5cdbfd556cc0d907e02e",
+    "preprocessed_sha256": "64fedf8375caa7685cc301ae75c513755fc1eca5bc7eb2712f961d51da1b4e66"
+  },
+  {
+    "repo_path": "data/bottle/train/good/093.png",
+    "relative_path": "093.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "6e3c4a472fca99a3e843fa141a0fdf5190b63e492cc58ec711437701f899bf80",
+    "cropped_rgb_sha256": "4ba85645c164b7ca6e6e9ff59a7d483fb5cca1ae2b4fccdf4672ac46cceb1978",
+    "preprocessed_sha256": "1caf9de4a20a1579604e0c2bad9033c1d3162b72c0c9391da64fb8c91dc2f336"
+  },
+  {
+    "repo_path": "data/bottle/train/good/094.png",
+    "relative_path": "094.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "60d532f4ed02d61a11b1f27f729adada0f39b793cca317f5d39a8deb794a3b16",
+    "cropped_rgb_sha256": "d7cb198ee3b9ede9d152db36518efe00250f0ad5793bc24c462d31098b0a6739",
+    "preprocessed_sha256": "7dfe7e4205ff444d1118909e938bc18a1ecf8ae106e58694746adf6104a00b4f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/095.png",
+    "relative_path": "095.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3c7a20d8570806e20856fc9abde069a46cfdf9a51c7176bf9c1f49246a3de6f8",
+    "cropped_rgb_sha256": "abcdb4b51f0b04dad48a8505f3900ce415fe9a6386de5f0851fbfb639d632194",
+    "preprocessed_sha256": "4c35dba6c0077f6534f39cce2d8b0bae4d7f3fde54cca8acd19a8328a4639f42"
+  },
+  {
+    "repo_path": "data/bottle/train/good/096.png",
+    "relative_path": "096.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4fb0a3c26dc80d417473f52c3d6d5c7c410bac411b8e86391b0e23a5b0eec5cb",
+    "cropped_rgb_sha256": "8e3f6d77e7d4c64f2c3eeb3a7ff31b2c7bada47df05193803ca9aa86de90eb03",
+    "preprocessed_sha256": "895642bd1a47022be40e77f9c12291b7f212d160b180bfb463d748a9054c80c3"
+  },
+  {
+    "repo_path": "data/bottle/train/good/097.png",
+    "relative_path": "097.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c56961852e48d230edf7edb841f5ca8644cf0c37c6669ac9e604fb674b6e4ada",
+    "cropped_rgb_sha256": "7fb434080a2dbc4b953e53fa27a9a155484a685c518dbfa88476794a07269264",
+    "preprocessed_sha256": "61d3daef48cea9a079678ff93a98ce8afb661b4adc83550d72433bbf026a433e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/098.png",
+    "relative_path": "098.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "d11ced0126ff870d2a31c52f0884d1f7fdc8db3c6a6d7ebbef00b3eaecd1cdef",
+    "cropped_rgb_sha256": "f9a9c32579979d2d5affe0bf2e784057e023fd4dce5fce0828b40c0c7214174f",
+    "preprocessed_sha256": "ee5d532f2fbc5a0fc697f5bd0b7ce9d698e0ab6a75469062b4ef7f4b67403c6f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/099.png",
+    "relative_path": "099.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e1a4c992c162158ced8b193ba0a9f6633fa2ed317f345946db4d46733de9eddb",
+    "cropped_rgb_sha256": "9d12feaeca79eeb3e4a356970fef801ad0051761886d0c7fd220cdec361f3b07",
+    "preprocessed_sha256": "6c3c1054db40a4e6473adfe5f956c940f16d24b314e1c922455ebd19e68fd826"
+  },
+  {
+    "repo_path": "data/bottle/train/good/100.png",
+    "relative_path": "100.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f3b65510a1f6480b73b7072ccd05d154cd66dda782de1628ea68045a50c129d0",
+    "cropped_rgb_sha256": "67994e45f8fa4e3a569ca29044811eeafda2c18c9f6a18edbcdaa1520acee23e",
+    "preprocessed_sha256": "81a8ada953ca119b22dbeedb9de2d498d74e6c6f890608a9b03206336d63c601"
+  },
+  {
+    "repo_path": "data/bottle/train/good/101.png",
+    "relative_path": "101.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "2d7c15f07db47803d9f631772b08b32d33df095df5d51c32a2ace9c1c7883568",
+    "cropped_rgb_sha256": "2cbe96565e66a92f7e26a5885fd6519ed0ec09909b266b3bb74656423d8bfbbe",
+    "preprocessed_sha256": "aecdb0fc05ec6701c025bf74f274ce662afb55ad67c5a4440e2571d28c6546bc"
+  },
+  {
+    "repo_path": "data/bottle/train/good/102.png",
+    "relative_path": "102.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "5386d806e16ce5d9d015cd90fe1b191c335b6b6e64026f41fa7bf14e603dc65e",
+    "cropped_rgb_sha256": "5319296c087af4eb55ddc88516ca3cafecf43928114659fb77ce9cdca1f1b842",
+    "preprocessed_sha256": "c9ab8ed2f7eb435b1d6c97b54fd5699485fc257f62a475477e7a7e6315f75874"
+  },
+  {
+    "repo_path": "data/bottle/train/good/103.png",
+    "relative_path": "103.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "46ca5e6ad7e75e3289a64eb6e8ac045253c9b6fe730dc1a0c913ec3a89c54803",
+    "cropped_rgb_sha256": "5a68f876c32f309aeaa87226989c5e7ba28878510be9901b9489543d3cc2ea05",
+    "preprocessed_sha256": "4926e886f7d6f476f85c3892582dd9203e72cf8f5822f37793b3211fec298790"
+  },
+  {
+    "repo_path": "data/bottle/train/good/104.png",
+    "relative_path": "104.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e5647ac4f4f8bd8b2a717efabfa810e88760718a3e9e402e130db44b2f0bc58a",
+    "cropped_rgb_sha256": "f55fcb5a69af40e6c12c02f5bad261c2be085e0733ca3062daf2e0dafe8be456",
+    "preprocessed_sha256": "99ad4144eb3ba96a7858ae8420228ad2b0d1936f0d59794f3aa8f02e188cbc2d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/105.png",
+    "relative_path": "105.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c4de3ba2c7d63be43db74b68fa16188f3e00cb4a2c7d51a8e37b84ab02c1b4d2",
+    "cropped_rgb_sha256": "37fd5c58974db1b3fea67b529bf5ed6e5d493c25c798b3e56d853dae83935cc2",
+    "preprocessed_sha256": "6239e243d43865bddf08c5b1700c14f13e1d8d64a3611b319454bdbf8a502627"
+  },
+  {
+    "repo_path": "data/bottle/train/good/106.png",
+    "relative_path": "106.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3a2700ef2b72514e52b11af74a2b1e9a8bc22155391e6dd2a45540b91c682e53",
+    "cropped_rgb_sha256": "2c6f63829df59eb6c333de5fb8bcc6dddf0b8fa13354bf57e96e31d54c21588e",
+    "preprocessed_sha256": "9fb0b1cd84634520cf9c58a9bf0e6fe10c145a0e9dfb06677235910b62facc90"
+  },
+  {
+    "repo_path": "data/bottle/train/good/107.png",
+    "relative_path": "107.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "a5a5db9a4c258216dfdfef27343b7b51bb866556927f08c2aa475be9afd00ab9",
+    "cropped_rgb_sha256": "6541d751766472d6520f5694a902ed00839c88794c2a6243dda1b9f4bc1fc710",
+    "preprocessed_sha256": "c9b96ae77d511cbb860c4ef0ebef4f3e831169b1d342bac483d21fc88e3f1666"
+  },
+  {
+    "repo_path": "data/bottle/train/good/108.png",
+    "relative_path": "108.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c2af50f74c6d58638e645a9fb055ab56439d0e67a4da8daa63d00e61220c47b0",
+    "cropped_rgb_sha256": "dfaa67d9defe74258050de563cb2f7d4120adca71c76cb942c30c42b1d1cb41b",
+    "preprocessed_sha256": "de14d60cbd1ce9547721bea95aeb223dbfac1a0588826129854ffd39b07f33ce"
+  },
+  {
+    "repo_path": "data/bottle/train/good/109.png",
+    "relative_path": "109.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "21762b7de09dcabc7934dc0c493575036cf26830ebf23492ecd6f6ce15c056c9",
+    "cropped_rgb_sha256": "ced2fa2662c2bc1b696e223ff1337fb614cf80b0e88ccd518ad3d5023f7840ef",
+    "preprocessed_sha256": "52a58fbd290b69373161ae0f4677cbeaa9c9ccde8d764a2a503ffb8f0d6f2866"
+  },
+  {
+    "repo_path": "data/bottle/train/good/110.png",
+    "relative_path": "110.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "319d8fecca8a1c0f16a3e809598c8fead6716184b74d29a43a8de4dd0d4d6408",
+    "cropped_rgb_sha256": "07d541b163d99df7a83ba66e0d3e9c80642d2de689a96661126be21e2f504e1d",
+    "preprocessed_sha256": "518a48e649b567cd2b0678e2814f1f1f7dcd60744d24f45be7388e33cc74e6c4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/111.png",
+    "relative_path": "111.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "141e42f26599992fea73fa005382ad25bb75518aeabbfd8d705ac83bfca1ecae",
+    "cropped_rgb_sha256": "c262a17cf7dbb660d98241cd000b308ca0380d15b01c569cde87d3af7dedef21",
+    "preprocessed_sha256": "0eb770f5f342133e46472bd9eb103d038b8c1c4d08271572c02685584010530c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/112.png",
+    "relative_path": "112.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "54f1cbac4964908eea641c2c61a283c98055b5330a7ae85596abb75b883041ec",
+    "cropped_rgb_sha256": "28ed04c6dbb5a5e692ee519781cfed2738230f01eee0a93c75b29fc9152db9cb",
+    "preprocessed_sha256": "d1db87f53694ec670fa2ddef6a602ec3838df60ac7c6153d271cabf5dc1816b0"
+  },
+  {
+    "repo_path": "data/bottle/train/good/113.png",
+    "relative_path": "113.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8799b98307e89010a0266eaccdacc20c72048b5866d2e9c01119375cd94c8d03",
+    "cropped_rgb_sha256": "1c30cfb8a913a8e9531de4acf11f745b074fe58dfc4d88f033aff80bc4ebfc0e",
+    "preprocessed_sha256": "b3562e1adf86472ff270864258b4ada0d41dd74c5a9839ef8d0021c24545ddcc"
+  },
+  {
+    "repo_path": "data/bottle/train/good/114.png",
+    "relative_path": "114.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "36d4e92d88ef92c638b5dbf17667a001b98beb6213acd7eeaf411be54c930bca",
+    "cropped_rgb_sha256": "6fb7e6bbbeb75b90eba5736e652caed959fd7fda4ee5682e26ae6d2e1f23d53f",
+    "preprocessed_sha256": "77de9977a5d92a7202ca1b717df98a464af68a71f9007639c7ef76224d27aa11"
+  },
+  {
+    "repo_path": "data/bottle/train/good/115.png",
+    "relative_path": "115.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "458a7e5623885f31ec175d1bd517e3e60b21f1e06de113573c00f6c917f8bd69",
+    "cropped_rgb_sha256": "32943052d0377d5b1b96307128bdda1407b99af4a566247d33d3d4e27b5b7008",
+    "preprocessed_sha256": "d0754a08c8ab76aca51d303bab151dd9e703b7dfc30b6a2db1ffdfe93a9ce135"
+  },
+  {
+    "repo_path": "data/bottle/train/good/116.png",
+    "relative_path": "116.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4ddfaaeec9edb8483cd037577e3f78a1642737f2894189b128327c3bf19fa485",
+    "cropped_rgb_sha256": "19697c4a76f481a304e3619bff7aac6be7e9392fc10c0ed57ac11b0938518378",
+    "preprocessed_sha256": "144af9657df4cb76537d170c526d929b2c7b1f07afac7ccdf7b624d04132f2e7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/117.png",
+    "relative_path": "117.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "94ce4a1ae16cea15ec2cd49deb1fde4461ad3b17956019c428904d1480fac2c2",
+    "cropped_rgb_sha256": "fb4aa6a53ccafbccec217f1cd39439b24efe8c1138d3335dbf3d2ee401ad0683",
+    "preprocessed_sha256": "2b8ab9cf7f84a1cf2b25cc0d5d4949643b53735d1fdf2858490367d2b87bb566"
+  },
+  {
+    "repo_path": "data/bottle/train/good/118.png",
+    "relative_path": "118.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "786cbe4aa69cdba4b0f1dcc1aecb37b47cd6f8e0558c2fd73b9a8c811efddae1",
+    "cropped_rgb_sha256": "6a907f21b7940ff0dd1f69449ce6bb5b37c14ff3960a9cac5513526127107179",
+    "preprocessed_sha256": "c3d57ae4676fa0c8354e0436560270ca9bf1bf1aa02f1f54a9c30a07c5e08530"
+  },
+  {
+    "repo_path": "data/bottle/train/good/119.png",
+    "relative_path": "119.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "cf1cdb1de9963e0acb7d97d8f26d7b78902026d65408b5d43b2e851aaffb81d4",
+    "cropped_rgb_sha256": "cec4677f5b31846275e3612a07f1b63742127f0240ad1a2bca2e15e21d425b1a",
+    "preprocessed_sha256": "713ffe83bb00ab0470cd3259d771af90d6a0fa324f97b1c581556d9e7d7c641f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/120.png",
+    "relative_path": "120.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b569d619e8e419448ff8ea6e708a3f999e348efed72d19895cd947a25c398315",
+    "cropped_rgb_sha256": "267260b7b5fbad3346a6f610f9c8666d065ac2c1248bea8f6aa31cbd51ea3810",
+    "preprocessed_sha256": "13cad24d3ec4a5cc1d3b9bf6e246154fc0bfca82a87a9741ba7038b1f37e4590"
+  },
+  {
+    "repo_path": "data/bottle/train/good/121.png",
+    "relative_path": "121.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e776eef773529b358c1c300eabb3840115b8d30bf9e4c0e349d7c84fe0360433",
+    "cropped_rgb_sha256": "6f7dc13e383f821b493140e9f9740d57ae833096f14eea88752535da1bc712b8",
+    "preprocessed_sha256": "3481498ca7b471c53f5ee5c326ae58ef900e3ee2aa8d134f623273cfe17d0963"
+  },
+  {
+    "repo_path": "data/bottle/train/good/122.png",
+    "relative_path": "122.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "31d47d2f89ce2d347e5bf13a30263e57845a2afa1ce942b8b7c09a5d5d3b0828",
+    "cropped_rgb_sha256": "55fa2822fa44864586d75a430b45f5d06cacf558fbe876b10a37fbd7b9063fd6",
+    "preprocessed_sha256": "775d99a4d7505666e4135740551214d00a19e60700bfa06b55137340d6a4d9c4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/123.png",
+    "relative_path": "123.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3b43b81d89c9e3ba46c91ba2eef5c86c932626d91e8ed1ecf53b2a657075f0cd",
+    "cropped_rgb_sha256": "d39a773ada5e6247e32b23e95f9a7e058aa968266351c8d1a9231a2a52efb23e",
+    "preprocessed_sha256": "839e52efb615305305a24b99e06117ecdedc20e99e13dcd2a6ca52a7d2fd4f29"
+  },
+  {
+    "repo_path": "data/bottle/train/good/124.png",
+    "relative_path": "124.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "6a58ec43b155b45b76d076437925e4f167f04091748a508048d5ff96c1104136",
+    "cropped_rgb_sha256": "bd479cea9f66a734f4a5eab09cb3cac9aa761679c3c9050b5b5521ff418207d7",
+    "preprocessed_sha256": "a4b44c2b99cff533b10e50696bac37ca1c9583a28ed77b9867fbc40dc6aa155f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/125.png",
+    "relative_path": "125.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8d3909fa8bf034d1cdb026bcb216a498debc272c20d5f78f2ad6a0a788be7eb3",
+    "cropped_rgb_sha256": "5c4f916446644013e9afca45a57594a6fb5251156fd15f8f0bd0cce13c2167f6",
+    "preprocessed_sha256": "c2be384e57243ea841dee1d3c5ac04ec8a22a20184983b456c048d3e1a6c4bb8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/126.png",
+    "relative_path": "126.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "944059e23461e9720ccf90348e03ae5d401bc470d96e5f2ff6f2609a851c5afb",
+    "cropped_rgb_sha256": "97a8c3aa3f2379b2dcccdd00e1e4a589be5c308ca27c9fa171906325b8a7c51d",
+    "preprocessed_sha256": "a69926082fcbe572b4d7963a52c786e159796f8aa43648567d8b621782358789"
+  },
+  {
+    "repo_path": "data/bottle/train/good/127.png",
+    "relative_path": "127.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f21003dd0ed9f30ed6dee799023e198c5acd034c96c0b902acb6f71ca978cd2d",
+    "cropped_rgb_sha256": "8a0251c9b37bc4eead50f42a17641199581ebb4924be4b0e81f4e8f2a4f77e38",
+    "preprocessed_sha256": "e410024da621cd8a03e1f4d0fcb1ab463645b93501f7fea5b6224f610911ce07"
+  },
+  {
+    "repo_path": "data/bottle/train/good/128.png",
+    "relative_path": "128.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "80de6ae7a48146eb91e9e8cc51d107f6fa1d2114598156e625b7ba1ab2d894bc",
+    "cropped_rgb_sha256": "e5f93849c4e9993d86ea7aa7fe6516a7e5068b16211093cb4036f99e4db72055",
+    "preprocessed_sha256": "c94f32bd5c02e218b8dcd6d06c0124e0d1dec898f044902abf9c332b0c3c0a10"
+  },
+  {
+    "repo_path": "data/bottle/train/good/129.png",
+    "relative_path": "129.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0c4c543d0d3f770119334e438b619b649fa84316225ee323bd3c2a558ce35c4f",
+    "cropped_rgb_sha256": "7880cf16647dbbab605a483f4d0d747f2d05cd1f30b3c3566e75c56a6b78b9af",
+    "preprocessed_sha256": "13e469147574c0a1098bae3d5ce81bb2b09db78c609f82de01f61b4274d510d2"
+  },
+  {
+    "repo_path": "data/bottle/train/good/130.png",
+    "relative_path": "130.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "dd2b011340ba2b28f471e25c24cd70e86cf5501f6a7d4f413c568503a15721fe",
+    "cropped_rgb_sha256": "0be43fec934a76425f1b4e3a28dd2191ee49e7bd37d311808fca88a061bb2d71",
+    "preprocessed_sha256": "3f01f6affeb659848ebb0bf5d1a10ac3d43e5be3ea6d921e99b3690230d52f62"
+  },
+  {
+    "repo_path": "data/bottle/train/good/131.png",
+    "relative_path": "131.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0c3bd83326c85b3ecec654964a8fec78e16010777146ac5709028ff3c430db76",
+    "cropped_rgb_sha256": "ebacbc1d382e629238a267159cf6cc4355d960c9b379bb079c82153d043ba9e2",
+    "preprocessed_sha256": "67f83c503c5c78aab070bfa954d42291f6b359b0a9f8fb945d01eba86b3f2b05"
+  },
+  {
+    "repo_path": "data/bottle/train/good/132.png",
+    "relative_path": "132.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "fb22cbb08c73151c8aa89c415d88b23688dccf394444243f04e9c192f2de83b1",
+    "cropped_rgb_sha256": "6946e94293f19a3add5b16f3d25172e281fb2c72977b9c2cd4d4a1fd437ab1f2",
+    "preprocessed_sha256": "9666da5dcc80c8419cba630eda8d6312bb885f6fc2a5556a559fa4955b8c5b67"
+  },
+  {
+    "repo_path": "data/bottle/train/good/133.png",
+    "relative_path": "133.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7406eeb9d09eacdcf9ea6c54637e5586d188a0be44615cba24723bafbd547029",
+    "cropped_rgb_sha256": "e9a65c141dbd6bdca6f01d8f27282489d8fbd8fe9160e9058f1e6dcb4ec20699",
+    "preprocessed_sha256": "769af6b1844ceec24e806e672fd0336ecaf499bcda07bffd0b8b207ed2d6fe2c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/134.png",
+    "relative_path": "134.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ce3d2d784e15987c508213c87ea538e4dd82639856ce1ffd5701b175143249d4",
+    "cropped_rgb_sha256": "7cb9a0dc9b25c0581c581a9cd7459e4d6ad3448e9aaeaac0a100ae9a6728d54e",
+    "preprocessed_sha256": "655639e70838baaf42325e9507b929d99d13efba3e835f0caf06ebcecee87d69"
+  },
+  {
+    "repo_path": "data/bottle/train/good/135.png",
+    "relative_path": "135.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0340069a42fff669cc7b902d001cad76c636a65cbd47e521dfe21172fcc244fb",
+    "cropped_rgb_sha256": "2e7dd621384001e6502d9fdbc711245f57c1831c925c96805d50471db95d3155",
+    "preprocessed_sha256": "390e1df1165637e138f2f1c54c0b6e12f3b29df3f34edd9a845b4af7382b2875"
+  },
+  {
+    "repo_path": "data/bottle/train/good/136.png",
+    "relative_path": "136.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "dee19a0c68ba61c18615ed8516ece0b6f072427e77ba57b93aca4798cfb1b979",
+    "cropped_rgb_sha256": "c3505c6ecfef561b3a4409631696a680e202d02f9f22375343f63170166a05eb",
+    "preprocessed_sha256": "9ceb910ac721260a15cdd78b7b0ec11903fe5da61137b1a1f7b119e6f6ce540d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/137.png",
+    "relative_path": "137.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "73af601ed1d53e3ef2d320bf9e9d37f66190b372ee12a183a0e163d4b7301e4b",
+    "cropped_rgb_sha256": "0bb2dd0b4d7b594e4bad18c1efd319df7c299f5b72b12b0cbde8d50534328893",
+    "preprocessed_sha256": "7021c9dbc01d1cee1e8bc4fcfc5666d8d7c687770dd72cc399549a6fc7d44f2e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/138.png",
+    "relative_path": "138.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "be3e7df715fd4d0072670f7058c70c7374475700272b8af7c95846d0eed75766",
+    "cropped_rgb_sha256": "a3b98bd6309dcea050c97ea6ed0c65183b33847c1bf9c7638a3090e51605b5e0",
+    "preprocessed_sha256": "dc11dc1393fc0c2650b0319d5d8f83578ae7eb1e0e9acb0a63b1ba300d97d7ab"
+  },
+  {
+    "repo_path": "data/bottle/train/good/139.png",
+    "relative_path": "139.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1072c0c297215735147490bdc7cf954a3d2703a897d7455b67e8684f353e4ed9",
+    "cropped_rgb_sha256": "8e1adede2662e49c225d0a48d14c8f043dce8c09cebab0590c5e13c2de88ea17",
+    "preprocessed_sha256": "7d193938245de52a7f21e61caa5820eff2c00dbeac262fab31932a20835acd7d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/140.png",
+    "relative_path": "140.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f2719c759aefc178d546217dc97640fb0f641b3dbba5735f3ce5629249cb3c47",
+    "cropped_rgb_sha256": "d806cb80a28f9fb5f655525bda767abe8c96cb92481cc523906b5b205ee469eb",
+    "preprocessed_sha256": "157dda4b14a247dee62b304a59c070f986406a4304f6bc4d23d68082a72997d1"
+  },
+  {
+    "repo_path": "data/bottle/train/good/141.png",
+    "relative_path": "141.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3ae2b333497d25fb2bc7833a9cf99591c85c0ce8b857eb13c84fe6ff8fa99886",
+    "cropped_rgb_sha256": "5f48685c3b814ff794f027805bfe28a622275a8ac9e529f6c129aa5d49ba7e8e",
+    "preprocessed_sha256": "4f4a330eeb04a99be57e8f30cae374df49457297d62dd828786d8e72dbf1a463"
+  },
+  {
+    "repo_path": "data/bottle/train/good/142.png",
+    "relative_path": "142.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "a814867244980bcb110736f1dde7dcca3eb17e710f0a7bae4d2b1f5efe06f005",
+    "cropped_rgb_sha256": "598834fe654b2efb6043055210de320691180b0c254cab0455059c0e75530c5a",
+    "preprocessed_sha256": "29354269cf886afaa78bce24119d309b91dcc1ada60b31ea7a756e153e112f1b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/143.png",
+    "relative_path": "143.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ec15d8a9a4d1a476b96e03ffbaf3607362f6f80f42c6f968a17d7984c63d3794",
+    "cropped_rgb_sha256": "54c58e3fc557a24520417f6c83b21488afcda689d38d2b2951112f543ae4d170",
+    "preprocessed_sha256": "5dab2df4429229828aea0183b18f0189495259535ee07a1a677542b874e4d912"
+  },
+  {
+    "repo_path": "data/bottle/train/good/144.png",
+    "relative_path": "144.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "73891507bcb540604d8bf4269ec73bb8121cd088813b70857f386330c07ce1ed",
+    "cropped_rgb_sha256": "0138eb3c3ed0f569286fee6d60cd6c86052b4a23b62d49c65d7076599630f50c",
+    "preprocessed_sha256": "bc6ce516c9b7fb0e3a6c835802c66008d32c5dba30631d7204580a56abbf9bb7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/145.png",
+    "relative_path": "145.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "964f0ba0b2bd34352267b72b4d8d4aa5bc447b7accdb3ac30c30b3f59d73c5fa",
+    "cropped_rgb_sha256": "2dcf8b34c5a63ff600013ef6f994877ef20430032f65dd62691ec90461d49f51",
+    "preprocessed_sha256": "40678a36a1ceae5773304e28d56ea57237cc26898a8a27908d69d9121f8eb8ce"
+  },
+  {
+    "repo_path": "data/bottle/train/good/146.png",
+    "relative_path": "146.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "227c97eca0417a674392776fd7656d30a52af454835b84fdfb021dcbcdae5ec4",
+    "cropped_rgb_sha256": "eef16e5f2c80e167486a89307a8dec7d370fb58ef1b6458b67cb525f955dfb72",
+    "preprocessed_sha256": "bd2644cf4c1fa79d91c457a2257055df15ec775d4e31e3c5bb49147d8e4066cc"
+  },
+  {
+    "repo_path": "data/bottle/train/good/147.png",
+    "relative_path": "147.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "effbfa26216c3804c353abf7fa8a15b802612706fc929d6176bef6ce17882652",
+    "cropped_rgb_sha256": "3c972592ca5808109134afd4d020a9c43b2fd56ae8c98a9db9d5bb3996ca8ef7",
+    "preprocessed_sha256": "cd8294ccb932e635e5da213259e12d87c1d1e817c0406913ec385d499b4318eb"
+  },
+  {
+    "repo_path": "data/bottle/train/good/148.png",
+    "relative_path": "148.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "23b47753e2badee3fa340475d4896b2a17677c3d11d276a9a251c10e155bd36c",
+    "cropped_rgb_sha256": "162616bd78647deef3fffc425c939723c07400ead88771af1a52ebb3fc732e83",
+    "preprocessed_sha256": "785c987249d5eba54e713069d71da92564854629001a7e5c499ec18c7896eb00"
+  },
+  {
+    "repo_path": "data/bottle/train/good/149.png",
+    "relative_path": "149.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "444a2d7be71e2cc32928cbdbe379c3f3c9e219362e4c6189ac188e5029e404d4",
+    "cropped_rgb_sha256": "2c5282cda2f61d53e61c67dd2e6776d7d44aedc0172a22ca6bc597f51076c0c3",
+    "preprocessed_sha256": "fa636849792b34a4baccc7333d9d0c4d0cb7d79b3d71b81f18fde8b78ad04138"
+  },
+  {
+    "repo_path": "data/bottle/train/good/150.png",
+    "relative_path": "150.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7933da0e3fe172474fe04c5e7fc75f5121275c5d04d539a9af8d212a89e8034b",
+    "cropped_rgb_sha256": "2b9b208b0fa6aff925720f490a2e199cdb4d4d6071596b9a54173699085d3489",
+    "preprocessed_sha256": "a0748b13b4c031f1926ab252c5deabc879415d2abfbfc8965009ca40aecc2c38"
+  },
+  {
+    "repo_path": "data/bottle/train/good/151.png",
+    "relative_path": "151.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "9963bf9ef414a7e822b51a61dc817c113c309c661d4d619a24771da1a25e52b3",
+    "cropped_rgb_sha256": "08257765b3661442ff459e3269212d14b847742e5ef7c4971bb49a90c595d58e",
+    "preprocessed_sha256": "f45ca4554e43e3049ab5ad1e9e463c6ae92d83c915056fd815fc191965000a70"
+  },
+  {
+    "repo_path": "data/bottle/train/good/152.png",
+    "relative_path": "152.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ba7d31e40f6a3eed3dfb2d38ddc14785bbe81ad579b16368e3208a748d8da84c",
+    "cropped_rgb_sha256": "2c2b23a38773e9c4b95bc514161efb8e24b6e7b9bc998c5fef9c5366bb01ca28",
+    "preprocessed_sha256": "761f40debfcfa22831159bdcefef32ae23faea7f92387348ee042457cead2e58"
+  },
+  {
+    "repo_path": "data/bottle/train/good/153.png",
+    "relative_path": "153.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4efc403ad8589117d6707151da82beb4a0f2d50ba96c35beabbd4a88fc4798d8",
+    "cropped_rgb_sha256": "8cf5b536f3b89959959580167a1a65a16802d2284de478d5caa35cf378781c71",
+    "preprocessed_sha256": "6f1ce68064b3af6d48cf18ccb97a66965375da407e0be0aeb307c928f06be832"
+  },
+  {
+    "repo_path": "data/bottle/train/good/154.png",
+    "relative_path": "154.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "240f78d67c686abbbd1e96066a1e4d2d128778431e9088a26ab20807247dd75f",
+    "cropped_rgb_sha256": "a79bd86e833568098b36e758c81b955cde90bc53561ca2730a5e4ce950f22780",
+    "preprocessed_sha256": "79c0c63b3a0fee78c930685b62a3bcef951e0b31bd5ed97b5f2dab5184a00041"
+  },
+  {
+    "repo_path": "data/bottle/train/good/155.png",
+    "relative_path": "155.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c931f3c7a8335fa857f2b0573bd5e261ec27ee1292f76f085132a2b4b03181de",
+    "cropped_rgb_sha256": "71fe276d076e0525b41953a5b8cc343e6f91aee65095d1ae12dcea9ceb2f0793",
+    "preprocessed_sha256": "89390e9284c9cfd16ae63084e2ae414c953c38d903985fbad76f476cf5ad581f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/156.png",
+    "relative_path": "156.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8c49d86dee53b3ce63e8269c8c2ee2c83258ec34528b082e5ccb4b7e1fb61fb6",
+    "cropped_rgb_sha256": "f02494f7a86dbb096ec78dde4c12d50211c2b35c7fa948744db3b090cd55c28e",
+    "preprocessed_sha256": "54846654234b03934e360a9bd1ed7e5c61562656585dcac938953a613ed78695"
+  },
+  {
+    "repo_path": "data/bottle/train/good/157.png",
+    "relative_path": "157.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e4a5c2f8ddb99cb6836996835134ce3a112dbc6ea7e124607263a7a6e310ee16",
+    "cropped_rgb_sha256": "effb14e51439156db122db7ce724479bee43c3412a931a2822115465f7300b97",
+    "preprocessed_sha256": "43bbf77d1ceb1b6c4af639caac8c8e41637948de19c73b271335cb7df95dee56"
+  },
+  {
+    "repo_path": "data/bottle/train/good/158.png",
+    "relative_path": "158.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "395472854e57a8a7209202e88bbf76247a3ce2a434b015ee47ef53cde574da77",
+    "cropped_rgb_sha256": "e70abbce9716a84d4b61865252cd727be2d13397df0b9581bf85c3258ac0af78",
+    "preprocessed_sha256": "4dedc480c509f4ce5a4a4a49342c82d49f0968dc03152d5ba0a921496fb46efa"
+  },
+  {
+    "repo_path": "data/bottle/train/good/159.png",
+    "relative_path": "159.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1d01990504bc24efb343097f16c83ff63563cd71a9257e35d1226774b1c84d50",
+    "cropped_rgb_sha256": "8e6e8200fc9fcbd0bcaf9a0705ceb7edec404c24d65baeb701045f30a2a830fb",
+    "preprocessed_sha256": "48b7e95437acbde7e43ca1c2bcee45fcab46a4027223836d761786a4dbce8d50"
+  },
+  {
+    "repo_path": "data/bottle/train/good/160.png",
+    "relative_path": "160.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "041466aef5f025bef0f0f39a73caae2ba4bc78fbfc1158391bb45fdd98deaa62",
+    "cropped_rgb_sha256": "c50455f163bb9b16f9ad5a4a0ebd7760b2736eef3fb4983baa821fd6d0bff62e",
+    "preprocessed_sha256": "af54e41fde53562f46d5676ff13a3856b049b29882c9dfd449fd30dbfd6a47a7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/161.png",
+    "relative_path": "161.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "c701921f9544bf7e6025faf7947357cdaacdb469cee2dd8757f33107c3370e63",
+    "cropped_rgb_sha256": "8549702c710910eb230fac68c3160b8b9e42a11dd52f3efc5fd649480b99cca2",
+    "preprocessed_sha256": "bde2999102e370f7626c1b35d4dfb4e986df88254c57b57fab8c9ee345d3fc1f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/162.png",
+    "relative_path": "162.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "867f712355bb3b48debff36ae7aa6959a04c2886ce1fee7dbde8966302ac8b61",
+    "cropped_rgb_sha256": "1db3e1189a7ae4d97608acaa9b12602341dfb3fce0b319a0388cbd21060700e1",
+    "preprocessed_sha256": "7acd135addb0527471dd67f5e70676a443b141b0015cee4e5a0f0e3488a920dd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/163.png",
+    "relative_path": "163.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "88821dc57a174f12252872f3bfd03dde2acc0c941bc9425035911ce969523249",
+    "cropped_rgb_sha256": "f35d2b6279071eb613d4894f1bd6467d464c84bff673037167898edfddc4f336",
+    "preprocessed_sha256": "d2be9f6d45caf85e1280aa556b8604b4c7575f9f21000592f427512a4682e42c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/164.png",
+    "relative_path": "164.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "27eda00fe8bd67fe8fb723ad5bd6074782d618f099c8831d3b365dc12c45f756",
+    "cropped_rgb_sha256": "cfb20669e29f3eaf50d498332de54a0a0d3df41195b5b2f1506e82351ec2e391",
+    "preprocessed_sha256": "b065334b60bbc56bef5dd6a0d82f528e69c44b217f372f7c01cb720cca9f7f1a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/165.png",
+    "relative_path": "165.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "a8d92b29bad7077db7eded58bed35b8fe1e49faf3bc3d0886f01144d03d551ae",
+    "cropped_rgb_sha256": "d162c91f3af9d6dff53b9ab88432a2818b6fe70af13347cf80f02ae3176c10d6",
+    "preprocessed_sha256": "4ae18fc80409d71d0a65571f02712d50adc018fb5ddec18fddf927eb95b14267"
+  },
+  {
+    "repo_path": "data/bottle/train/good/166.png",
+    "relative_path": "166.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e182aaaada3d6b701fa542289bb70854036b7183a9b8749342f50f51a75e3590",
+    "cropped_rgb_sha256": "96e85f56eb42ec417121c659d9548ac577ebc699b7fd86ae14b41708e39c3482",
+    "preprocessed_sha256": "ab1023d1c91fff426b98cbde2f95e4c78adf05e835da90e54ad3b4143d55622f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/167.png",
+    "relative_path": "167.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "17655246a2a4e78f10854ffb65786de5b9ca49bbe1a38e1e0149c6235b6942ad",
+    "cropped_rgb_sha256": "9c9267f8dd708124057e5c052d102bc82aa52de3ad7cd602df92648dd46fec84",
+    "preprocessed_sha256": "e4df5a1a0c3614fbdfcaa707a817fd9a73a0fa46a1f94ca24da19680cd3f5289"
+  },
+  {
+    "repo_path": "data/bottle/train/good/168.png",
+    "relative_path": "168.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "79cc0a25256a33f2091c6e28c0092b6747105f7498cedea841f500c12e7eb0e7",
+    "cropped_rgb_sha256": "230f35e84e835e4439165d2a42ee4e04b460b2ef43e3063db0eea917c68d2f66",
+    "preprocessed_sha256": "1bf20af24a8c9cdbd4e392323395b059196ad9c610cfe2b5d8833e81bd34331a"
+  },
+  {
+    "repo_path": "data/bottle/train/good/169.png",
+    "relative_path": "169.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1bf3ad96b67849c864e3efac2e90cda2d2cc51a9299c2ea3af4c39cd03366a4d",
+    "cropped_rgb_sha256": "7ca8f0f18fe7e4927fb9c9ce08633edae43504ada66222679a0da08cba9ffa80",
+    "preprocessed_sha256": "f2c3e7a2590fca59297cf73adb7f277a97b32b34747f9587be4b4511e00f737c"
+  },
+  {
+    "repo_path": "data/bottle/train/good/170.png",
+    "relative_path": "170.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "f5656d35f7bcfffd99c88b525d62964e60950143fce0c7fee7a76be09448e656",
+    "cropped_rgb_sha256": "2f46d27a908af3ae882a3174c93c2946802de6ae4dc4fd59e1610cd2b39ed729",
+    "preprocessed_sha256": "db988b5db9dbee5ac53b523214d01d0e532277fb1b273dc2db362e5f10799708"
+  },
+  {
+    "repo_path": "data/bottle/train/good/171.png",
+    "relative_path": "171.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b16c0230ee604e6dd068ce3a43e21c81c6db9686e291cfa12c5848dd8d69b335",
+    "cropped_rgb_sha256": "e74cc41a83ff5ef438262848d42329df1d42e437af3b07fb9ca1e2d388b180d8",
+    "preprocessed_sha256": "48a784d357404bfb3ba7d0b57182f2ed84d6576978036e6457a593587fa98586"
+  },
+  {
+    "repo_path": "data/bottle/train/good/172.png",
+    "relative_path": "172.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "7b045f9d28f363ab8a73a86b06deb41f80533a46ebc07c5c803a36fe92c72b71",
+    "cropped_rgb_sha256": "bd051af92e9a8aa9f1b440c098a0c0170869df7f63157d6ed35008f9e4596e01",
+    "preprocessed_sha256": "4770467a3653f558551c21b8e05bc76455b1d197708d20e84f32ce3fb38a29b8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/173.png",
+    "relative_path": "173.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e5b4469783dba8533f176214f2cc98f888c7a500f0246ddfc3c3edd88f00f87b",
+    "cropped_rgb_sha256": "4436e0d21f6b302a1e6d0024bdb1fa199ffa99ffa6a178aafe8ccc60cf4d6e42",
+    "preprocessed_sha256": "f37a25f9f2938620cf811a6ca35d0d9e89a570cd3fd9cda2b59d1afb833729b8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/174.png",
+    "relative_path": "174.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "2fc95a18e00634fd3ccb286cf04ce92f945d817368caf7865462434103f820b8",
+    "cropped_rgb_sha256": "b145c02e71525b8cc591c62bdbda27e8a6d6ff9cad77a03d618aa20a16481b44",
+    "preprocessed_sha256": "eae64b42734459cacd587bb1d4fb7bd5bc918d68313554a5ec02bd93fa9805e3"
+  },
+  {
+    "repo_path": "data/bottle/train/good/175.png",
+    "relative_path": "175.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "99c43c84a67ee65a17a25d324fef1853dc04459eaf6d0e03fa7ebc20962918ca",
+    "cropped_rgb_sha256": "bf28ae500a5db9de1fb9cd95205e5ab7fda3570b6d1e7a01fe43fad5230d30e8",
+    "preprocessed_sha256": "05913c75cb7aeda56f2944d119888258ecb590c28afe57de2c3ba3533c72e876"
+  },
+  {
+    "repo_path": "data/bottle/train/good/176.png",
+    "relative_path": "176.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "342f28d113515dcb2bd68a71e33112377c95b9fe78bde3612db290f58e96e971",
+    "cropped_rgb_sha256": "56d2409ceb5952852e366163f55145eb07a0fc5309145c93d41e14d5dd07bcae",
+    "preprocessed_sha256": "03e0eb1e387b2eab995e23129f5c47b9d693a990a2000770164acaf7fe302119"
+  },
+  {
+    "repo_path": "data/bottle/train/good/177.png",
+    "relative_path": "177.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "6701c975a0815a9cda6b56967a252c50a88ea03fdd95f945849611f836d45db0",
+    "cropped_rgb_sha256": "36df617f180087c92fad46b1d916fd49eaeac1796fe532d334dfb3ee8cd4836a",
+    "preprocessed_sha256": "4981325472c4f528d22a97824cbe98f6933277abe646f5f8bee5c10e3eb185f2"
+  },
+  {
+    "repo_path": "data/bottle/train/good/178.png",
+    "relative_path": "178.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "2f0bb978b83cf3bd2ff5f991a2978343d9604090d7255ff27557ab3888e49692",
+    "cropped_rgb_sha256": "f97c94a9814499bb6bbbc44c654a806c1efbd8d4f776c1ecdbb2b3457d5a21ea",
+    "preprocessed_sha256": "3afce5e11591956fbb907b48bfef87af1b270c58746fa6a542e623be6f0fde6b"
+  },
+  {
+    "repo_path": "data/bottle/train/good/179.png",
+    "relative_path": "179.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e54b7f1f22c1ed5795b3a09a426c15eac516fd712df3744223a0cd6440321c48",
+    "cropped_rgb_sha256": "df9733df336363e5ed131b523e813fd090475b30ee597be83f15251b99b113b3",
+    "preprocessed_sha256": "18b86f8bb7b5d7c5f342c005399c004e73b5f76333b6154d88d08fdb222d75db"
+  },
+  {
+    "repo_path": "data/bottle/train/good/180.png",
+    "relative_path": "180.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4abbc0205890a0501807ffedcd2525d554ec057c8f57bc9dbb906144b4d5563b",
+    "cropped_rgb_sha256": "eabc3ac9290a1d0e0a54d6b87fa1b59b2f028adf0259cccca255f3afef266467",
+    "preprocessed_sha256": "58343b8d28226fe36484dbd4ed23cd072d758340cf70b983243516fa7776cb37"
+  },
+  {
+    "repo_path": "data/bottle/train/good/181.png",
+    "relative_path": "181.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "066c05b681ca052fbe526ed2a60e6f21009e2858afe3066ad4d9f1809e9a093a",
+    "cropped_rgb_sha256": "bb74a74b26d54cae790604e8b3758799c973bfe5888b2fad77ac38cbd33148ef",
+    "preprocessed_sha256": "069c72592579271eee68efe612a1b93d02e1856823277487fba2d68216ff9903"
+  },
+  {
+    "repo_path": "data/bottle/train/good/182.png",
+    "relative_path": "182.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "74d3e9c93703ce8d8e75cc27bacd72a7cb6ae3b02c3ef24594dc557a22af335e",
+    "cropped_rgb_sha256": "e39f8d85f4c6d5f397385766a11e284d786ec30fc0b4b34285bc9a89c34a5f4f",
+    "preprocessed_sha256": "a00dd6ab5b3e22220ebbb50e7e42fd956ab4cfc55333684909ed1f6c67bc2f8d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/183.png",
+    "relative_path": "183.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "dfa04efa0b98ce6a73981b1bc971ee1e3ede3b43741cf6366e785454513dd5c4",
+    "cropped_rgb_sha256": "9a76188b8292fac2007b9a6ce55831e2dcf5e0f3ca637d41cd26986e16a00d96",
+    "preprocessed_sha256": "b148cb5ce12e6e67597ba6489704e03a30888353921176f7d9ba64d33153f772"
+  },
+  {
+    "repo_path": "data/bottle/train/good/184.png",
+    "relative_path": "184.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e6a95fe96793a6eb825151968f468aea0d6bbc243f415cf53e70a487e74901c1",
+    "cropped_rgb_sha256": "dbab7508f0e3395a21d0ae11dea7fb0f07c725835c7009c24ad9f0dae5d0fc02",
+    "preprocessed_sha256": "16ffd946f3e4ce007da3312cd2ca1aedf64e7e4f8a58e765da0d51de134eceab"
+  },
+  {
+    "repo_path": "data/bottle/train/good/185.png",
+    "relative_path": "185.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0769d698118a46bcab667178818940ffc7984f7cc0f2d356c539ae810bbd510e",
+    "cropped_rgb_sha256": "93af5cd543a58fae0827533ba73c4a55522a80ccab13add8ee460543ae3f59ee",
+    "preprocessed_sha256": "b528d905d485024f360c95a0aa758cc87ac5ba1525d6f73e677a2bf5353419f7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/186.png",
+    "relative_path": "186.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "16e4ef828af6867ac5592a1c70cf0412518316d9d5ba90db98d9b3222db46b20",
+    "cropped_rgb_sha256": "33873fc581a3effa922cf83f02ca12dfdbad1bf8d4b7c9378bd65c036f58a626",
+    "preprocessed_sha256": "94e9ad8b8e2d910b9f3588d8e5491b31857c699d3dac818b4edc6537a38b04ea"
+  },
+  {
+    "repo_path": "data/bottle/train/good/187.png",
+    "relative_path": "187.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e10abf9d218aeac81d3cced1fd6367e7728c3abfb7072e003c8de3ea1a71eb34",
+    "cropped_rgb_sha256": "e8f5706e47127a5152a7cb48aeb15d9473c07aa7a8884e66f579fb93d3ae99bb",
+    "preprocessed_sha256": "1546c725afbaee104912364152f7a15f3ff2b103645bbce08182f8d3f3a6a641"
+  },
+  {
+    "repo_path": "data/bottle/train/good/188.png",
+    "relative_path": "188.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "e8b29ec37dae399f398c4792aa8bf9821023a512ba49eb8936198ce8789f8353",
+    "cropped_rgb_sha256": "fe546cb771dc74ff0e34a381fd5ee34d563b13f268e53e30a527fb9c331a4c38",
+    "preprocessed_sha256": "a6ee35ceb2fd73d4113823f97e235a9a3a8ffdc9c161b09cd4e5854ed2000725"
+  },
+  {
+    "repo_path": "data/bottle/train/good/189.png",
+    "relative_path": "189.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "3da89d6594be3ec58b05f9135b08dc7cbddf4326597c4f204fa4b61efb45f24c",
+    "cropped_rgb_sha256": "e77f217cfda6a31ff6b3d0bb2dae04ea3deb34f957d47fcf3a6239f251da2b9c",
+    "preprocessed_sha256": "d847ba2c03dc99c31593a7cbf5cda2d9825759c6a15cb0b995fe8f7b89c90f2e"
+  },
+  {
+    "repo_path": "data/bottle/train/good/190.png",
+    "relative_path": "190.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "817fbc9e317c1f5072fb3b39af398e951a6432b01ddd049daa3af264d1b56095",
+    "cropped_rgb_sha256": "f84d6f96e93d8c7a62f4694cebd739fdebc7e22b9eb9e312b6effa9e6cd26038",
+    "preprocessed_sha256": "f60bd29d80112fb0a58b032c01f823536b81b75a63c44837c4323717ca3b1e03"
+  },
+  {
+    "repo_path": "data/bottle/train/good/191.png",
+    "relative_path": "191.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "aa2be01b4b501f33fa2b9c69b150774255302f39c29ed517326b9fce7fe4ece8",
+    "cropped_rgb_sha256": "8d63b3119131940efdee6c91c14b85e16d59fdc26b9afbdfa8e9eb3dcf81e289",
+    "preprocessed_sha256": "8d21686c5e9cdccdf96d0e7d3fae0924e2ea3ece60154fb54e528cce6c9089cd"
+  },
+  {
+    "repo_path": "data/bottle/train/good/192.png",
+    "relative_path": "192.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "465ba527bdf40e00325285abe7b6028813661a7420a59e3dadd287c0290c8f87",
+    "cropped_rgb_sha256": "f2c039bde82bd905e7a1320c1f4adba6edb13fb9fcecf994e84f00461ba12619",
+    "preprocessed_sha256": "80e5496b4b14a38b0ae494b0ad5c0193b03ff6be4efead3479225d7eef649b77"
+  },
+  {
+    "repo_path": "data/bottle/train/good/193.png",
+    "relative_path": "193.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "1c1a127ff79f2de3391a8cb1bf93e87a4bd396b73fdacee8990b297e97c0601b",
+    "cropped_rgb_sha256": "47f43fdd817c1db18f200141c6eb7134d3194bd4f50d1833416883f49f5f951f",
+    "preprocessed_sha256": "85958e9469d477c7243ef15d4b89d2a3f2b20dc576400e08d4c4a5670dbfa2a7"
+  },
+  {
+    "repo_path": "data/bottle/train/good/194.png",
+    "relative_path": "194.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "bf8a182c3a5396d584aabc9c46e8f1bc422536eabb462306439d616770958fd8",
+    "cropped_rgb_sha256": "2812c2740df3ff03a74c6d0b20912e85878f04bcd7bfa6ebdf14f005104c5000",
+    "preprocessed_sha256": "29a2bfee45dbec9a06e5c2b423bb9513aef176c64549a3b896e2764d8a2f755f"
+  },
+  {
+    "repo_path": "data/bottle/train/good/195.png",
+    "relative_path": "195.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "9fa40de41750f9e07991f2b81e157b0a24778cc3a0f891a4a4a3b66a6dac5f47",
+    "cropped_rgb_sha256": "525a5b72d7b30301b382303ba5d15fd12049a900b81604533650d070be84e1a8",
+    "preprocessed_sha256": "6983f78a13b6fa65636691f484bf8be5a31e979d9f8cdad1e206755706535e03"
+  },
+  {
+    "repo_path": "data/bottle/train/good/196.png",
+    "relative_path": "196.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "5b2178c5d9c14f180faa21a3ed4f1f5210b8b9b539eeb31df44df5bb71b181ed",
+    "cropped_rgb_sha256": "b46acec646ea59cab826a13a9faa8044b427708a3ec921a143c988885388bec5",
+    "preprocessed_sha256": "143785028850e4780ede991717864c448ec381d81410fa1a0b2a575d48ddc415"
+  },
+  {
+    "repo_path": "data/bottle/train/good/197.png",
+    "relative_path": "197.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "852d1cf77861a48bfd88ebc23a0667fc062786e527ecbd385cfa5692213c96dc",
+    "cropped_rgb_sha256": "25817f53919e1d3f627cbf068a5b432412ec03edf0375d29b6260590b2950959",
+    "preprocessed_sha256": "86c4f46f9b6a2c2bb4a3270509ef0cb18fd1b3f11d9d59a369c68cc774619735"
+  },
+  {
+    "repo_path": "data/bottle/train/good/198.png",
+    "relative_path": "198.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "4646f9fbdec0168c37f122a338968ad7b97db18ccaa35c4281a997e0d2f4cb67",
+    "cropped_rgb_sha256": "117ca8d4d76c0bccfdc25c7c7e8bf96c04ba777ace1540dca8ff86172834f1a6",
+    "preprocessed_sha256": "3943e83375a11f0634859ff9a4bcd23d5762a438ee95c67727d619a25e359df8"
+  },
+  {
+    "repo_path": "data/bottle/train/good/199.png",
+    "relative_path": "199.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b2f9680e1c915daf3d8f705834f32382e0ddd2bf1196d228993e9644adeb7a00",
+    "cropped_rgb_sha256": "28925317676fe44e3da0c3ab6fe7c3a5f80868cfda17d2bf2a4f7a69e8d377e5",
+    "preprocessed_sha256": "cf6e5ba23c84e19562705e8b80f9b880ed30b322c3960596a84d5665205b1457"
+  },
+  {
+    "repo_path": "data/bottle/train/good/200.png",
+    "relative_path": "200.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "62ff9c208bd7f59f04a1efe090f78aeb94507de20f6a71b80f31706677048338",
+    "cropped_rgb_sha256": "15c991440f6d95ac62915642b443452496e0007090c9b3f327ad0a3f39656482",
+    "preprocessed_sha256": "5dae84e1b44c0f74780b94bae92a39b7f08143c805339486cdc1bb128cbcb191"
+  },
+  {
+    "repo_path": "data/bottle/train/good/201.png",
+    "relative_path": "201.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "0e17e4c4825b1a2b44d605dcd5dee4d6cd0030c48d6cd407892e5ffc7af8e774",
+    "cropped_rgb_sha256": "eb5489a9b16fe0e4b929ed68205064aa1ce68be050285b70206e24c88d88b432",
+    "preprocessed_sha256": "00ba18d3cf8524ba9ecff2ef2fe98e342af3d46b6c4eeb5b6d07080b57d7c234"
+  },
+  {
+    "repo_path": "data/bottle/train/good/202.png",
+    "relative_path": "202.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "b8b4c42700a70431f50627b0f2d92ba6d2ba5505a4f17d2c8e54a07323e91cd2",
+    "cropped_rgb_sha256": "ec3da9ba4b8c1eae25cd8a62f3a49e6fbc7abfefe1ce8f4fc9b4b0f792266461",
+    "preprocessed_sha256": "109d329ee08ccf9286a764fcbe6f3c45f2142cc313543aa8fe20e8651270ae7d"
+  },
+  {
+    "repo_path": "data/bottle/train/good/203.png",
+    "relative_path": "203.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "d67173e677dc3934521819b986d131f158e776e6c22935b516a97d821f82385a",
+    "cropped_rgb_sha256": "ca97650713a7a38e4e05e996ab0831541cfca8c89901f4f9c8a7cb7cb90d0c32",
+    "preprocessed_sha256": "c4eae2a3a8325cf0eb6023d4b33212029bc67c7c74d56e74b0a35950f6b21331"
+  },
+  {
+    "repo_path": "data/bottle/train/good/204.png",
+    "relative_path": "204.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "503dfd1395d4ae17446c55bf77d9b611d2923ac4d44f80167fe7d4424c15614d",
+    "cropped_rgb_sha256": "f45cb55843ada2d6d8b8f39b82d498db522c0996c75b743db64518ee5f59ed7d",
+    "preprocessed_sha256": "be18a41ff14b10c260070ce16290a868c33ed34905731f04b4733eedb223c4c0"
+  },
+  {
+    "repo_path": "data/bottle/train/good/205.png",
+    "relative_path": "205.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "ebf6d056a9534420d51d13516ee3b46468b5d1c2a5198823b577f8e00bace25a",
+    "cropped_rgb_sha256": "3ee511203c1f64709caca6de6eaa3fa3b91ae9f1e0c14e1b878eec121bcb2bef",
+    "preprocessed_sha256": "0ad69dd227fc569249fd46722124d6d19ce92d79d978a07704486ac16851b1c6"
+  },
+  {
+    "repo_path": "data/bottle/train/good/206.png",
+    "relative_path": "206.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "d8c79bc8793403ad4a731bfda783b34126396f27ded0268392c2eea6ba6d3280",
+    "cropped_rgb_sha256": "71bb046b82e9bf3313e710b83133805a755b1e6f8c459a2b4c7ecc45d67590f7",
+    "preprocessed_sha256": "bb6b819707dae10aaffe8ea64414f8c9a42fd5ff8489da02b22946bfad1971f1"
+  },
+  {
+    "repo_path": "data/bottle/train/good/207.png",
+    "relative_path": "207.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "8d3a37405af7d2713754db40c487a6f7d6abcc5968cabb36870ddafdfd682303",
+    "cropped_rgb_sha256": "32291a82c0f17ed124547fc5554213289ac22433191cd51aab57e5ca41519f85",
+    "preprocessed_sha256": "cb7f5c1b2202173f1636209b7fd80d0e382038450032a324b1211043fb04cfd4"
+  },
+  {
+    "repo_path": "data/bottle/train/good/208.png",
+    "relative_path": "208.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "rotation_pad_width": 174,
+    "file_sha256": "87bd5efa31f4d982b18104060c2a105c3981fa91f47b28b6be8fac2170b1b80d",
+    "cropped_rgb_sha256": "f2332fbbb0bde3040077ac188ecc45c57a18554cfa15eec83a6b42504a3214e5",
+    "preprocessed_sha256": "58660bc32afbe50fe65f4eb5b74da00692c0c3fee989d4d7840c524f515fe64f"
+  }
+]

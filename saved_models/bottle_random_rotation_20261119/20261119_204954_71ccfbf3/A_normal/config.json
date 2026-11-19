@@ -1,0 +1,8 @@
+{
+  "status": "failed_or_interrupted",
+  "condition": "A_normal",
+  "contract_sha256": "a669752b158658ec6c49ea71eb79dfc55bc7d41fdc7857cc026eb8219d10fcea",
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2",
+  "error": "KeyboardInterrupt: ",
+  "updates": 63
+}

@@ -1,0 +1,13 @@
+scenario,condition,category_ja,auroc_mean,auroc_std,assignment_count
+unrotated,A_normal,大きな破損,1.0,,1
+unrotated,A_normal,小さな破損,0.9886363636363638,,1
+unrotated,A_normal,汚れ・異物,0.930952380952381,,1
+unrotated,B_random,大きな破損,1.0,,1
+unrotated,B_random,小さな破損,0.9750000000000001,,1
+unrotated,B_random,汚れ・異物,0.9095238095238095,,1
+random_rotated,A_normal,大きな破損,0.923,0.03063902739970705,5
+random_rotated,A_normal,小さな破損,0.8254545454545454,0.03690645982561192,5
+random_rotated,A_normal,汚れ・異物,0.7828571428571428,0.06211959060888096,5
+random_rotated,B_random,大きな破損,1.0,0.0,5
+random_rotated,B_random,小さな破損,0.9800000000000001,0.00518261556863243,5
+random_rotated,B_random,汚れ・異物,0.9028571428571428,0.011468185313135542,5

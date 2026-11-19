@@ -1,0 +1,66 @@
+{
+  "status": "completed",
+  "run_id": "20261119_205058_0774e375",
+  "created_at_jst": "2026-11-19T20:50:58.720669+09:00",
+  "contract": {
+    "experiment": "bottle_random_rotation_20261119_white_v2",
+    "model": "Hybrid CNN + FC",
+    "model_definition_sha256": "546d83343d03107deffc7f46c4b34c4996f419f807f0a799d524a28931e4f7a2",
+    "conditions": [
+      "A_normal",
+      "B_random"
+    ],
+    "seed": 42,
+    "sampler_seed": 1042,
+    "augmentation_seed": 2042,
+    "train_manifest_sha256": "47141fe45f7ca87ffb2e6c7b7fc07403bf472f2dbaf434d4bdf8719aa5820c5c",
+    "test_manifest_sha256": "4d397cec33ba7103aa0f4f2e3e2025247d50ba49769610cfd0a92187c83a34bb",
+    "latent_dim": 64,
+    "batch_size": 32,
+    "target_updates": 6700,
+    "images_per_epoch": 209,
+    "updates_per_epoch": 7,
+    "drop_last": false,
+    "num_workers": 0,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "adam_betas": [
+      0.9,
+      0.999
+    ],
+    "adam_eps": 1e-08,
+    "weight_decay": 0,
+    "loss": "pixel SSE sum + beta * standard normal KL latent sum; batch sum",
+    "beta_rule": "min(1,(one_based_update-1)/(3350-1))",
+    "beta_max": 1.0,
+    "warmup_updates": 3350,
+    "beta_sha256": "9bc09eb334ea378751f27ebe566198258865bb4f1dc76be2e7471053c7dcf9de",
+    "preprocessing": {
+      "crop": "Pillow centered RGB820; round offsets",
+      "resize": "LANCZOS128 then L mode",
+      "input_dtype": "float32 / 255",
+      "rotation_stage": "after_crop_before_resize",
+      "rotation_background": "constant_white",
+      "rotation_fill_rgb": [
+        255,
+        255,
+        255
+      ],
+      "rotation_interpolation": "NEAREST",
+      "rotation_expand": false,
+      "rotation_padding": false,
+      "random_angle": "independent continuous uniform [0,360) every use"
+    }
+  },
+  "contract_sha256": "11a3aaf18f6e612ab7d20df12d91e180a9ffb2e64341b82f17c690adc12160b0",
+  "versions": {
+    "torch": "2.12.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "Pillow": "12.2.0",
+    "scikit-image": "0.26.0",
+    "matplotlib": "3.10.9"
+  },
+  "python": "3.13.14",
+  "device": "cpu"
+}

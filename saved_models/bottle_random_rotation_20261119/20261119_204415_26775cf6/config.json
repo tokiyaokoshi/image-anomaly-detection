@@ -1,0 +1,63 @@
+{
+  "status": "failed_or_interrupted",
+  "run_id": "20261119_204415_26775cf6",
+  "created_at_jst": "2026-11-19T20:44:15.651350+09:00",
+  "contract": {
+    "experiment": "bottle_random_rotation_20261119",
+    "model": "Hybrid CNN + FC",
+    "model_definition_sha256": "546d83343d03107deffc7f46c4b34c4996f419f807f0a799d524a28931e4f7a2",
+    "conditions": [
+      "A_normal",
+      "B_random"
+    ],
+    "seed": 42,
+    "sampler_seed": 1042,
+    "augmentation_seed": 2042,
+    "train_manifest_sha256": "f822fd98d2d30ace8e7d07d46587f6e85bc2cc3b84b8b53b3439dc8793c29dee",
+    "test_manifest_sha256": "96a0ed972d54af64a3717c79f7e3682da6a0bfa328e74290593cca82eaa27d77",
+    "latent_dim": 64,
+    "batch_size": 32,
+    "target_updates": 6700,
+    "images_per_epoch": 209,
+    "updates_per_epoch": 7,
+    "drop_last": false,
+    "num_workers": 0,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "adam_betas": [
+      0.9,
+      0.999
+    ],
+    "adam_eps": 1e-08,
+    "weight_decay": 0,
+    "loss": "pixel SSE sum + beta * standard normal KL latent sum; batch sum",
+    "beta_rule": "min(1,(one_based_update-1)/(3350-1))",
+    "beta_max": 1.0,
+    "warmup_updates": 3350,
+    "beta_sha256": "9bc09eb334ea378751f27ebe566198258865bb4f1dc76be2e7471053c7dcf9de",
+    "preprocessing": {
+      "crop": "Pillow centered RGB820; round offsets",
+      "resize": "LANCZOS128 then L mode",
+      "input_dtype": "float32 / 255",
+      "rotation_stage": "after_crop_before_resize",
+      "rotation_background": "reflect",
+      "rotation_interpolation": "NEAREST",
+      "rotation_expand": false,
+      "preserve_supported_pixels": true,
+      "pad_width": 174,
+      "random_angle": "independent continuous uniform [0,360) every use"
+    }
+  },
+  "contract_sha256": "a669752b158658ec6c49ea71eb79dfc55bc7d41fdc7857cc026eb8219d10fcea",
+  "versions": {
+    "torch": "2.12.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "Pillow": "12.2.0",
+    "scikit-image": "0.26.0",
+    "matplotlib": "3.10.9"
+  },
+  "python": "3.13.14",
+  "device": "cpu",
+  "error": "KeyboardInterrupt: "
+}

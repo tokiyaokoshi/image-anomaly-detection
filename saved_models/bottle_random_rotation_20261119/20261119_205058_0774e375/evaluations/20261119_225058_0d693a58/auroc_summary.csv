@@ -1,0 +1,5 @@
+scenario,condition,auroc_mean,auroc_std,assignment_count
+unrotated,A_normal,0.973015873015873,,1
+unrotated,B_random,0.9611111111111111,,1
+random_rotated,A_normal,0.8422222222222222,0.041339989223446984,5
+random_rotated,B_random,0.9606349206349206,0.004715381199210431,5

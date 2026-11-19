@@ -1,0 +1,13 @@
+condition,scenario,assignment_seed,count,auroc
+A_normal,unrotated,-1,83,0.973015873015873
+B_random,unrotated,-1,83,0.9611111111111111
+A_normal,random_rotated,42,83,0.826984126984127
+B_random,random_rotated,42,83,0.9619047619047618
+A_normal,random_rotated,43,83,0.8333333333333334
+B_random,random_rotated,43,83,0.9666666666666667
+A_normal,random_rotated,44,83,0.888888888888889
+B_random,random_rotated,44,83,0.9571428571428572
+A_normal,random_rotated,45,83,0.8761904761904763
+B_random,random_rotated,45,83,0.9547619047619047
+A_normal,random_rotated,46,83,0.7857142857142857
+B_random,random_rotated,46,83,0.9626984126984126

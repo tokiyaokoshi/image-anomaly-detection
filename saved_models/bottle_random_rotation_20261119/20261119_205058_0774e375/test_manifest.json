@@ -1,0 +1,1496 @@
+[
+  {
+    "repo_path": "data/bottle/test/broken_large/000.png",
+    "relative_path": "broken_large/000.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb",
+    "cropped_rgb_sha256": "0b19fb3363f9e3a594d4aebe6d80dcf2e9246f7d25db0c8a95b2b4d999c79b3f",
+    "preprocessed_sha256": "732ac98ee5edb454be736cfe15ff9c045681babfe116f54bff4ba57326942fa8"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/001.png",
+    "relative_path": "broken_large/001.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f",
+    "cropped_rgb_sha256": "9a978d8d7ceb8fdb1c9747bc6d448eb0e8798b695661239102fd5ceb06b7f6ca",
+    "preprocessed_sha256": "ec982c7238ac1323db1bfb9afb873e47ece43543addf9ba2ed6ef2f5ae9fcc23"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/002.png",
+    "relative_path": "broken_large/002.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2",
+    "cropped_rgb_sha256": "2d8bc7654dc05bfd6f9ae6e531cd438a3d387aee2e7180d4935818069ae2f1ff",
+    "preprocessed_sha256": "0fbda59244486c4bf7481551c2a4a1fe14a49aec7c242f9020529e939429232b"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/003.png",
+    "relative_path": "broken_large/003.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4",
+    "cropped_rgb_sha256": "372b16044ea77e3eb99d4b1fa6812eed8c50adbd72d71eaf768c9e9152a2cf31",
+    "preprocessed_sha256": "03a67e2a0ba5806913b87c7ed510b3de27aa03be8bf8cbb0ea33a497d1417136"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/004.png",
+    "relative_path": "broken_large/004.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0",
+    "cropped_rgb_sha256": "a8ad26460a34d2f2effb0d781fb46691480463940f99d439c455a89fa263fb18",
+    "preprocessed_sha256": "95079346d80a0706452996423c15d889fc2eb9f3913d13ff6a76fc5c9639eede"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/005.png",
+    "relative_path": "broken_large/005.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553",
+    "cropped_rgb_sha256": "a1572f676fc21b95268bd31f4f539440bc6a59f5b7ba1f72bfb256ecc8086d45",
+    "preprocessed_sha256": "cfa62d7837a5a86546c002d369f8bc4988ace43afec8238c60f7d31da5d9e3d9"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/006.png",
+    "relative_path": "broken_large/006.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae",
+    "cropped_rgb_sha256": "c3a1bd3d2a123f40351a62f41284762765084be5fc4637ec657a54fb1f45541f",
+    "preprocessed_sha256": "b674f40e380ef128310a54c81a258f6c5e25205e39ea9af83726f80ac7a289ea"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/007.png",
+    "relative_path": "broken_large/007.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2",
+    "cropped_rgb_sha256": "11d0c4ac77017921cb6fde299a31eab5b5c17466c42f6c0130ac8f758374a29e",
+    "preprocessed_sha256": "bdee2e25febfad0264dad513ed22f2effbdf9f8e0f4df9032c2ce051b06e9d54"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/008.png",
+    "relative_path": "broken_large/008.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334",
+    "cropped_rgb_sha256": "c0dab4fe320b4f7bf462b77f750b2b929bc28fa23f7cc72282773148b6ef6b8f",
+    "preprocessed_sha256": "b64d9755535a107d808c002edd041315a64287e3aa6bf5825051528735463c38"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/009.png",
+    "relative_path": "broken_large/009.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0",
+    "cropped_rgb_sha256": "c26b6f1f9c5df593035386a616c971bd2182f306a754f6a8a6b8e82501207d54",
+    "preprocessed_sha256": "a11c493dff4e0d938a21a9ce9e1dc2c25b5af1344d7c9fd6c9f93dabf3a98e3a"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/010.png",
+    "relative_path": "broken_large/010.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6",
+    "cropped_rgb_sha256": "009fab1da4222cde239031255ea97591d46f84481c94378dcc55a5d6fd417e31",
+    "preprocessed_sha256": "de37e2c2364ed59cd78d2c5ccaaaea594dd4c887364541f97ec32a34f34a17a7"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/011.png",
+    "relative_path": "broken_large/011.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb",
+    "cropped_rgb_sha256": "efae8118b11e3f75a7b4a2157e87409dd7c869ea2c2930f325e3dda1f74a9680",
+    "preprocessed_sha256": "1265daf9792183a8e69a30dee9b1d5214b3f7b3c247b236cf639f078af7c1b42"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/012.png",
+    "relative_path": "broken_large/012.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db",
+    "cropped_rgb_sha256": "eb2cd482af0ae88f5ac963adbd2fb606bab2eb5ee0fef068a8e0bc655c474631",
+    "preprocessed_sha256": "79bcbb55606e9ef932a95f76f09a46a6fd00be95c124e9d48cda81ece5aa5546"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/013.png",
+    "relative_path": "broken_large/013.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373",
+    "cropped_rgb_sha256": "7e6e93c48963c53c10c63ed4e1fc33ca5ee11c0815afb2f3b6e77cc3f0208ff9",
+    "preprocessed_sha256": "f59d0b50b315f1ce5595a1d22a1b19b925966bf0f61293cfc29b3c245eed3a90"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/014.png",
+    "relative_path": "broken_large/014.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8",
+    "cropped_rgb_sha256": "74c0cf7a50c5c90d4f4779e15244f52c89e8bc51a5b03ed6d99f0c52f7c37afc",
+    "preprocessed_sha256": "3986a2a1d68582e37b18d14c56f09261efe388ed1694c5a90ab3dee187213ee9"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/015.png",
+    "relative_path": "broken_large/015.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc",
+    "cropped_rgb_sha256": "f0d70745b3afae1c34399990099311d106ffadb7668363d8598efc15b3982d45",
+    "preprocessed_sha256": "c3b4067309531a0818d65ad1c84b922d347813ed7d111a299414ce9b976efd57"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/016.png",
+    "relative_path": "broken_large/016.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779",
+    "cropped_rgb_sha256": "57ad0d58280dd45b9e93fc3cc46343d2684b05f31a42642b59aa164868692c4b",
+    "preprocessed_sha256": "2f97d6efdffaf8f92901dca6e44ad76ec72b9da36533ebff3ce79ef9062d4bc6"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/017.png",
+    "relative_path": "broken_large/017.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315",
+    "cropped_rgb_sha256": "2777224d79b12f206724fd81b2d2193bb4dd4126321c460087f7bf1f2d9ff667",
+    "preprocessed_sha256": "3dc424100c2cbd35a46d8953289127e29e80e1b92ae6225180b85a051fe2c460"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/018.png",
+    "relative_path": "broken_large/018.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e",
+    "cropped_rgb_sha256": "c1510268e1500aab0b5c2330bd2d4e0d9cab60134936f439e90fef4b1f68745f",
+    "preprocessed_sha256": "f5f46fa68ae365192c016e7fcf2330ef4d0161962580e2991771710345ba8159"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_large/019.png",
+    "relative_path": "broken_large/019.png",
+    "category": "broken_large",
+    "category_ja": "大きな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695",
+    "cropped_rgb_sha256": "bc8bb5b242f2dcd3de09f08e80d0df486affe0e703cddb307b01172dc2209105",
+    "preprocessed_sha256": "c15bf8e1501692e3dfc78c63ca1257d1e9484ef14711b15ea2500e27c8f32e74"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/000.png",
+    "relative_path": "broken_small/000.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e",
+    "cropped_rgb_sha256": "b5d4425f099d134a2b73e7404476fda507d82a8a22f82b3afdb55dfde17b4c22",
+    "preprocessed_sha256": "e2a3f3a1e00f4e90a914d77459070d3de5ecb7430e99c96a48de4b67fc377a65"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/001.png",
+    "relative_path": "broken_small/001.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759",
+    "cropped_rgb_sha256": "8ad208ee83afe4544eb6de40f4d648f432ce2315e4d1095298661bac5b538a2a",
+    "preprocessed_sha256": "f1f2a960cf6c6b87bc216e990a969979809d83fdaa2eb1b88fc0f0bfc47d6364"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/002.png",
+    "relative_path": "broken_small/002.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e",
+    "cropped_rgb_sha256": "e8d42b190459504be8b77dd2a486e64ef01eba08d0925a9474ffd8488aa97d9a",
+    "preprocessed_sha256": "cdc1a6533690635dcc2fe55251bb5d1f8c5c7a78c62c32113e0cccc7067d2a7c"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/003.png",
+    "relative_path": "broken_small/003.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57",
+    "cropped_rgb_sha256": "f4e20429e11caaaf46c8e83359bf19f9ec96c159220ad69a546e022f3d7cd171",
+    "preprocessed_sha256": "0d19a49cb32819ae2b259a0e1fa4efa0b5cdeaef092ea927b453d9a2e4c97e00"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/004.png",
+    "relative_path": "broken_small/004.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142",
+    "cropped_rgb_sha256": "b03ade7dc45aca6ade85282eaa2bc92f0cd1ed08e4621722859db8c9e15e18b2",
+    "preprocessed_sha256": "8e4701ebe879f73513364172d6f66cba61c3a78a648b8ff5ef727b2e8f33a675"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/005.png",
+    "relative_path": "broken_small/005.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950",
+    "cropped_rgb_sha256": "d84996daad2c47fa50912768764ace9c3e1811cf796cbf864d644e78f13161c0",
+    "preprocessed_sha256": "7bbb282380dc9dd6030cee2750ba39cdf12bf877f01c04ddf9a4bc94c2611b97"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/006.png",
+    "relative_path": "broken_small/006.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54",
+    "cropped_rgb_sha256": "2def090497a92f9c018d5f793c2de67673c1496dc15c15a19873b72c8a7eb295",
+    "preprocessed_sha256": "1479f84936631c2b24b3888b1953db9ce3f7cd96f5bdf1152cc101d4f46467dc"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/007.png",
+    "relative_path": "broken_small/007.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6",
+    "cropped_rgb_sha256": "39b6f051e768a9521a0aaabf79377d2a8abfc255f22a4b506ed416116894c53f",
+    "preprocessed_sha256": "240f272376b24990f04ed796d887a27daf1a62d4f8ac0a5378a6b98517200d85"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/008.png",
+    "relative_path": "broken_small/008.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3",
+    "cropped_rgb_sha256": "1fb72e48746cd745805145da0a75d80c738dd62237b304e7c96a8a3920a1d244",
+    "preprocessed_sha256": "825f473ea1ad008276c54799af2acb065862e8d0f053f8f49dacc9814abeb6ee"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/009.png",
+    "relative_path": "broken_small/009.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7",
+    "cropped_rgb_sha256": "66f08e6095b8abb29db5bbfc0e1074076eba5cf1cb7a1bbae5322f7d4bb72c2a",
+    "preprocessed_sha256": "80aa7d5175ae7ecc42c878671e21d3d37c914efe03ab755a5ee2037968664991"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/010.png",
+    "relative_path": "broken_small/010.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c",
+    "cropped_rgb_sha256": "5ee1a04399db125cc0a3ae92abf98ce670a00482418da29162a388abc120d3c3",
+    "preprocessed_sha256": "2caefd23658efa8c60b7d1f910ef3d374ed73e376d01750873669b1a4ca4d1a4"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/011.png",
+    "relative_path": "broken_small/011.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9",
+    "cropped_rgb_sha256": "fbe433b1557addf13fbb796aaaf90969e156ac0987a0bed1ee91bddfc7d56440",
+    "preprocessed_sha256": "90d0f83843c6a100ed2aaff19f0811e05306af59340cfc1dd246e01f4492a54d"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/012.png",
+    "relative_path": "broken_small/012.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc",
+    "cropped_rgb_sha256": "8f7ef598c2ad8744af1a44c055d0daca119eb3a0ab1b10642b4de8c92faaa09d",
+    "preprocessed_sha256": "4ae078f64607e129c7162f5ee9d8533ab36370e3ca94b0327c35edd953fc196a"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/013.png",
+    "relative_path": "broken_small/013.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1",
+    "cropped_rgb_sha256": "1a8a0188a752ba07e21f6709cd52747416c5cdbb0e476391f672214e27efd060",
+    "preprocessed_sha256": "f3a000479533a4c5c50f53e9e8490eaae29521ee06c7a849fdac4777ae10b8b9"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/014.png",
+    "relative_path": "broken_small/014.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8",
+    "cropped_rgb_sha256": "7d7fc7f13bdc22ae8acd8c8c9a94d52250f77d73a2e989066fc37a3b8b0b1042",
+    "preprocessed_sha256": "df684516ac19d8525ca41898f4da30837fad4db0158f55b4656bd2d17ee8bb08"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/015.png",
+    "relative_path": "broken_small/015.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da",
+    "cropped_rgb_sha256": "6625b36bf747f834a7496efee4bb44e62d887bd28b7b2f2d359a265f40144e91",
+    "preprocessed_sha256": "03e7334f442dda768bf8e186f175490b8e008bba38d1b5100ddf193f0dde7fab"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/016.png",
+    "relative_path": "broken_small/016.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba",
+    "cropped_rgb_sha256": "e4c0aa08226b95e8563344e55f772ac9c75e4ea47e7c93d993a367fe80a8da78",
+    "preprocessed_sha256": "81c67531082691f0b81b3d0f354f0526bc42af40986d2cb8b023985255322a67"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/017.png",
+    "relative_path": "broken_small/017.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b",
+    "cropped_rgb_sha256": "d152aa47bd066731fc987b451e3361ea94b8605e28bc1a3b9798248461f4dca8",
+    "preprocessed_sha256": "d7f757c03df934ac5d529f3294439c9c7740590e07d59667b71241ed66c22e11"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/018.png",
+    "relative_path": "broken_small/018.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af",
+    "cropped_rgb_sha256": "e17832308614defdd66d696836663cc855779dd74158e221bf65be8ffe5d77eb",
+    "preprocessed_sha256": "e51bba38f903cf4b97fc5028bd804a57798e6cf06f562eb3f34342e25455e566"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/019.png",
+    "relative_path": "broken_small/019.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34",
+    "cropped_rgb_sha256": "4e3c5731f3624727192b6fb0288530804aa6edd1a2eef0b15be2735f3fd50676",
+    "preprocessed_sha256": "15d8a2e820b8e721aa6a772a4197faf9577a6dbf9b65d30316d9a3a85f7924f6"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/020.png",
+    "relative_path": "broken_small/020.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a",
+    "cropped_rgb_sha256": "575c2cd8d227f0c4515c21c5d08707eaafccaaffddfba65065dca9190744575b",
+    "preprocessed_sha256": "2f36576db208b3cc88368149d50ce01f6741103f79519511b3c01039598829dc"
+  },
+  {
+    "repo_path": "data/bottle/test/broken_small/021.png",
+    "relative_path": "broken_small/021.png",
+    "category": "broken_small",
+    "category_ja": "小さな破損",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d",
+    "cropped_rgb_sha256": "8f17be0b43b5e8c81f1d8d8f1ce119b68d283a6af7e081d4e70a92cc6e04ccd4",
+    "preprocessed_sha256": "ba805411558420f85e64e4d376bc009734bb8ff60bc0ec03b63e8c46b30a198a"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/000.png",
+    "relative_path": "contamination/000.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea",
+    "cropped_rgb_sha256": "689a2ebc668b41c86614af1cfb480a08c6c671d4433c325934cf0b648d4b8617",
+    "preprocessed_sha256": "91babaf6d5ef8acd19d1e78768c26b21afeaea0af2a61465fc14eeb833d4c17d"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/001.png",
+    "relative_path": "contamination/001.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a",
+    "cropped_rgb_sha256": "1561c574b7815ac676d7d02d16d787a6934dfe220060fda8b62aa6b4956380c0",
+    "preprocessed_sha256": "d0a105c3e546ebfe0ae5ce0b81d55c2d575058841c9dbd95d29cdc1bd0f2bd26"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/002.png",
+    "relative_path": "contamination/002.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05",
+    "cropped_rgb_sha256": "b02f7095193553939dcb7769f7e626ba082f8ff7e56f637469dcf4d356f2c4c0",
+    "preprocessed_sha256": "6528847d85b365360dedde271e12a5fff66735aa8572c8767da76a8bc222d86b"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/003.png",
+    "relative_path": "contamination/003.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a",
+    "cropped_rgb_sha256": "0a4020637655fdc35a58dfd9f934f9b03404cab8362a6abce93b1247101883ce",
+    "preprocessed_sha256": "48ccfd96dc5dcbabc69a9c4d4a46e084a4f24431e6f1bad669bb3d6a717dcaaf"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/004.png",
+    "relative_path": "contamination/004.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c",
+    "cropped_rgb_sha256": "6d0656ed3f9e561a81e7d0c85586b34311591373d77eb6e9a437dbcb20a88b5d",
+    "preprocessed_sha256": "b3b649b1cf4747d6b22a4b69b87445a8d41b6c190b1f77b23d293d9cb59dcc25"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/005.png",
+    "relative_path": "contamination/005.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e",
+    "cropped_rgb_sha256": "41a68407dcba731f7483b00628826d5f6f83127b0d1ae3f1c531f55a814e33aa",
+    "preprocessed_sha256": "39055ea9e05a42977a9ac872c3f264566ba33631137a1e99f57d56b2bbf2e39f"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/006.png",
+    "relative_path": "contamination/006.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03",
+    "cropped_rgb_sha256": "c898a3ee7f7ca17468e385931a064905234b5e7a6cc48caeab04c2a489a4c418",
+    "preprocessed_sha256": "cd89646e90ae0305baab8beb15ad4b64bdc91617b3cd1c7d5c9f84123396142e"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/007.png",
+    "relative_path": "contamination/007.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a",
+    "cropped_rgb_sha256": "99cee635b025475ae7a226a44266c355f811a77aa27fbb5c8fb7d89341582e77",
+    "preprocessed_sha256": "c02fe40dd214930834152d30110120229afa95d5149c457f49ea0af83ab26ff9"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/008.png",
+    "relative_path": "contamination/008.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00",
+    "cropped_rgb_sha256": "6080e7b1e292b98791d949cca0366d4f45851dce4aa1c8012c2b11c1746f8662",
+    "preprocessed_sha256": "80aa2140b27663dcd140117d8d08788a887cb8231bf510799f21ba14913f4371"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/009.png",
+    "relative_path": "contamination/009.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc",
+    "cropped_rgb_sha256": "567534be6c2a644d006029301273fefe43f03df087aeea37b8798894b067a501",
+    "preprocessed_sha256": "f1c468b66d8dbf4efc34843eb9cf87e7f7ff3c3b0f2a0c278f3b324c2110f267"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/010.png",
+    "relative_path": "contamination/010.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe",
+    "cropped_rgb_sha256": "70586f884c496d04b0ade9d65d96c223b4a35c368b156286fffcdff43112c0b4",
+    "preprocessed_sha256": "71ba858d6026bfc5783d1d1c7fb97f38a5db6d2d7e93793962b7c1778399e4a3"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/011.png",
+    "relative_path": "contamination/011.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317",
+    "cropped_rgb_sha256": "199b0cfb4ddd6a7ca51eeea715f4364d73df607f0fdbf78065cb70d5cb7702fe",
+    "preprocessed_sha256": "249ffd892d90de3e7e03a84fce6423c7107b5e3afb6cd4823126ae5d733cf9ac"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/012.png",
+    "relative_path": "contamination/012.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c",
+    "cropped_rgb_sha256": "7a5101a33ed38ff27b8eb5ee84d3e83f098bf21c48a0b29f82d59aab64df369f",
+    "preprocessed_sha256": "6200c10a8ed57a5267f2a97231f1957c0c63f178be7c18495f76cc52abcd6dae"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/013.png",
+    "relative_path": "contamination/013.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165",
+    "cropped_rgb_sha256": "c2a280c43b386890127ab79df96f9a661e28705136d16c8520c484136e27e7e3",
+    "preprocessed_sha256": "73ad97c150daa5cf884a3fbbea869a87bc5fd15d6a449cbe0b28dc16b1270172"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/014.png",
+    "relative_path": "contamination/014.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a",
+    "cropped_rgb_sha256": "7e3e0d24022227faac69b336f3f171de8edb90bedac9f5ec73a937b9e4e1a57f",
+    "preprocessed_sha256": "70c95887465ecac3559eb4da3fa3a6f8c34f340e14169878c21e924763249939"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/015.png",
+    "relative_path": "contamination/015.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be",
+    "cropped_rgb_sha256": "5de5e689c5ad6584b213d9154e554d4683288a96403193ff419e570d08050964",
+    "preprocessed_sha256": "d2ac7dcf8084c4c8f65233d7f100d398fc0ce53a7a3d97e6fed47832f05e61fe"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/016.png",
+    "relative_path": "contamination/016.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1",
+    "cropped_rgb_sha256": "259fcfc62ad91cdf0d7168a3019a2a8595a41279969f1f5fa3961d8b00b668fd",
+    "preprocessed_sha256": "a123c967b305555406ea4141bb95fac65debb0031f9e647cdf1814f80f017e53"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/017.png",
+    "relative_path": "contamination/017.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8",
+    "cropped_rgb_sha256": "657dff069cc19239ef5144a6d30eba131d0379095643efb9031e129f71fe3d4e",
+    "preprocessed_sha256": "be94678c46a53c8db6d9f729e05e8b33f616bd7d47be2826026738d6ff107fe7"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/018.png",
+    "relative_path": "contamination/018.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc",
+    "cropped_rgb_sha256": "8fb5c9ed723babb9605ec7420c8be52d06ebca221e2f6ce0f0da2691382ff7ff",
+    "preprocessed_sha256": "402158dcd269a1f6e0e4b5f37aa21b979475e384ed9279a6b22abd9f76d98c84"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/019.png",
+    "relative_path": "contamination/019.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c",
+    "cropped_rgb_sha256": "7e7eae04fd822635f3affa208f636f5b1f5c4067a43b282b6e874c31085190c2",
+    "preprocessed_sha256": "e619da273dd56e7fcef78afc8368c89bcb429d83079c43b81b882fa72357b703"
+  },
+  {
+    "repo_path": "data/bottle/test/contamination/020.png",
+    "relative_path": "contamination/020.png",
+    "category": "contamination",
+    "category_ja": "汚れ・異物",
+    "true_label": 1,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b",
+    "cropped_rgb_sha256": "ab8e8cac43e89b425dda1a71e791c2ca56360717e55932250d346190ee2a8d41",
+    "preprocessed_sha256": "4d225ae12449f0a78b0165ee6ba380186704b8083f122e8c574a6d474e287b00"
+  },
+  {
+    "repo_path": "data/bottle/test/good/000.png",
+    "relative_path": "good/000.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b",
+    "cropped_rgb_sha256": "1bcf7810ab286a8d77042e78b2dfebcc4e96012c5818d5937a86ab33a55273fb",
+    "preprocessed_sha256": "1bbb55a8e198e82dd0634e065798a3eddf5a8ec2128bd31bd20717341da05324"
+  },
+  {
+    "repo_path": "data/bottle/test/good/001.png",
+    "relative_path": "good/001.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78",
+    "cropped_rgb_sha256": "957794d74105a5e2d0c62dd924e4021c6453f49bc91dc14cee0311d0ce00f7d5",
+    "preprocessed_sha256": "3351042cb047cfb99658188df4c4446f3f0cfb78e01cdc8f33a2e22079310ec8"
+  },
+  {
+    "repo_path": "data/bottle/test/good/002.png",
+    "relative_path": "good/002.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8",
+    "cropped_rgb_sha256": "67e9d5e9babcabc30eb5affa0ae7d5a05ace2fb312b694a84b087b0b32fee3c6",
+    "preprocessed_sha256": "84872de21f8ddb69d4fb83ff8c680769c015481121978b6860531ea6aa6ee669"
+  },
+  {
+    "repo_path": "data/bottle/test/good/003.png",
+    "relative_path": "good/003.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978",
+    "cropped_rgb_sha256": "f6300cbd6a76132924304eef111cb3c1a7a43c385c2cde21b2dd2d0c73f1c438",
+    "preprocessed_sha256": "58e62e899ca61c7fec489d7fed7da48f1ffd6649b7c0c8f754849b84eea2fc65"
+  },
+  {
+    "repo_path": "data/bottle/test/good/004.png",
+    "relative_path": "good/004.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea",
+    "cropped_rgb_sha256": "4c473d26f2eed1ce70911dff2d019b449a1fa33f823a658ee01a8ec1cabea35f",
+    "preprocessed_sha256": "9631a34a9e0b03e2e8f27d3170aa1ece5b3b2287a388a8bf7d4120ac4bfa2052"
+  },
+  {
+    "repo_path": "data/bottle/test/good/005.png",
+    "relative_path": "good/005.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807",
+    "cropped_rgb_sha256": "d89f7666f2c2460333f20011b062c027d09eff8070bec34422b99a2ef3b23f38",
+    "preprocessed_sha256": "ba81522fbdd1ec3b513ab6deb61750fab3b2288a35b1f4b1c1e32da8f82854a7"
+  },
+  {
+    "repo_path": "data/bottle/test/good/006.png",
+    "relative_path": "good/006.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35",
+    "cropped_rgb_sha256": "05ed2870177ec8c9657341a98f4862b9e050558454ab67db82cb6c8cb8ed77c3",
+    "preprocessed_sha256": "6c9327a262ef08ddc0207188b23da5f9128d9ef55a544bfb8040f84c7c390c5d"
+  },
+  {
+    "repo_path": "data/bottle/test/good/007.png",
+    "relative_path": "good/007.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921",
+    "cropped_rgb_sha256": "ad4688d9ae6c6550458185d3ff3fcfe99deb2d842c50afa4490200a1beffb60f",
+    "preprocessed_sha256": "7ed2dd5b0f183f0e1a1b737508357530d6c26485d88265a93152f4c53e82f977"
+  },
+  {
+    "repo_path": "data/bottle/test/good/008.png",
+    "relative_path": "good/008.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7",
+    "cropped_rgb_sha256": "ba6adfc2ada6e9f12bd86778a1f3fb26448d7600ad9983cbca3be1532af36fdb",
+    "preprocessed_sha256": "9cd2830105383fc2339732cb800863ab2ec460805e95cd63d46606b16dd2c15d"
+  },
+  {
+    "repo_path": "data/bottle/test/good/009.png",
+    "relative_path": "good/009.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b",
+    "cropped_rgb_sha256": "1d4631b967d7c5d83cad08d81bd5dae535664c733e03447a591268964508a949",
+    "preprocessed_sha256": "f4849631d35a11c4e1e9fe53757108fb2e7fde0ea48bdf0ed58b5cdb511fbaee"
+  },
+  {
+    "repo_path": "data/bottle/test/good/010.png",
+    "relative_path": "good/010.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963",
+    "cropped_rgb_sha256": "c4bb9fea97f5c4ced2bfb33b861858aec36c1bc217ae9336b91ea405431e4eac",
+    "preprocessed_sha256": "984a4349a2735e128efe3dfbc5f84f1d8fe78344196bf6598fab41cd8cb23da1"
+  },
+  {
+    "repo_path": "data/bottle/test/good/011.png",
+    "relative_path": "good/011.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a",
+    "cropped_rgb_sha256": "4ac17ed7a9506f88c0acccdae0ef04315fae8bd188fb7634e4d3f9323ef3ae82",
+    "preprocessed_sha256": "419cde55da06f3f804c580919a693c5546d0b86ead3aadd634d355579535e9ca"
+  },
+  {
+    "repo_path": "data/bottle/test/good/012.png",
+    "relative_path": "good/012.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50",
+    "cropped_rgb_sha256": "a4d11daf05170839631e43cbab41553e754955109c616cbdec556cdf59d0416c",
+    "preprocessed_sha256": "914c4cc706a18753f7db1f7b9a63e0b29dc6abcdb8714f4ce3fbfbdf7e505057"
+  },
+  {
+    "repo_path": "data/bottle/test/good/013.png",
+    "relative_path": "good/013.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73",
+    "cropped_rgb_sha256": "5e9c2819a73b96ebbe825280ea8e6444450f2ee9ff769881e89f45e910746aa3",
+    "preprocessed_sha256": "b1e276f40b631c406c66a344f05e0d0f49d80b1a2a5a24c92220582318cab43e"
+  },
+  {
+    "repo_path": "data/bottle/test/good/014.png",
+    "relative_path": "good/014.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8",
+    "cropped_rgb_sha256": "9cd640f22b3f0e2545ef14d9d30391980e74586971f3317a206722d6bea8c62a",
+    "preprocessed_sha256": "5397910000df1af9d7b0dd90cbd37a5975b94eacfa5e2fb51a4a4fdde88e812c"
+  },
+  {
+    "repo_path": "data/bottle/test/good/015.png",
+    "relative_path": "good/015.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc",
+    "cropped_rgb_sha256": "18566c67a7bd315777168b2b270338387d67fe38ad141b5d45334524255c8e15",
+    "preprocessed_sha256": "6b9c332221f6b1754b2e5417bbeb0c061f052289655c497a93e8aa00e9dd5309"
+  },
+  {
+    "repo_path": "data/bottle/test/good/016.png",
+    "relative_path": "good/016.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561",
+    "cropped_rgb_sha256": "c139ff2d577608b963a60d56ef38eaf7b35738b31948965076b51aeac06b1d16",
+    "preprocessed_sha256": "0a56afa2f6698b7e4843e48e4a9a7ecc5fabe0c80e66a6f974d1851bb771087b"
+  },
+  {
+    "repo_path": "data/bottle/test/good/017.png",
+    "relative_path": "good/017.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d",
+    "cropped_rgb_sha256": "5d4d61de3d4ac1ab3b9d1b4b5f7f846251a40464ebd1f6d325b2f6dc00c4f724",
+    "preprocessed_sha256": "de19d03bbe5d0d1c6ce544cc04bbfcbeb0fca7dbb485f7ebcb861cd824448097"
+  },
+  {
+    "repo_path": "data/bottle/test/good/018.png",
+    "relative_path": "good/018.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df",
+    "cropped_rgb_sha256": "ea4bed9971da2627d80ed4d0c50ef2e76bed72a304726939ddf39044595a3096",
+    "preprocessed_sha256": "7d64ec578d51416527f49fdeabde1d95f4e556b61874ca6b07daf1862cd063d3"
+  },
+  {
+    "repo_path": "data/bottle/test/good/019.png",
+    "relative_path": "good/019.png",
+    "category": "good",
+    "category_ja": "正常",
+    "true_label": 0,
+    "source_size": [
+      900,
+      900
+    ],
+    "crop_size": [
+      820,
+      820
+    ],
+    "file_sha256": "44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd",
+    "cropped_rgb_sha256": "3fc1738c8f29a6a0e1c2067b73cdab6b1437e7cecb8aea7753971797b414ec46",
+    "preprocessed_sha256": "afe5af71d6118bf5fcd5de988d10049e3bec511bd9e7a0b5cd4a3707d5fc2398"
+  }
+]
