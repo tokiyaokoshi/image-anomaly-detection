@@ -1,0 +1,50 @@
+[
+  {
+    "scenario": "unrotated",
+    "assignment_seed": -1
+  },
+  {
+    "scenario": "known_rotated",
+    "assignment_seed": 42
+  },
+  {
+    "scenario": "midpoint",
+    "assignment_seed": 42
+  },
+  {
+    "scenario": "midpoint",
+    "assignment_seed": 43
+  },
+  {
+    "scenario": "midpoint",
+    "assignment_seed": 44
+  },
+  {
+    "scenario": "midpoint",
+    "assignment_seed": 45
+  },
+  {
+    "scenario": "midpoint",
+    "assignment_seed": 46
+  },
+  {
+    "scenario": "unseen_random",
+    "assignment_seed": 42
+  },
+  {
+    "scenario": "unseen_random",
+    "assignment_seed": 43
+  },
+  {
+    "scenario": "unseen_random",
+    "assignment_seed": 44
+  },
+  {
+    "scenario": "unseen_random",
+    "assignment_seed": 45
+  },
+  {
+    "scenario": "unseen_random",
+    "assignment_seed": 46
+  }
+]

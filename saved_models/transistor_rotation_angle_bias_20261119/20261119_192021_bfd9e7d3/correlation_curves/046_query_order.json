@@ -1,0 +1,511 @@
+{
+  "relative_path": "good/046.png",
+  "reconstruction_queries": [
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "condition": "A_normal",
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "condition": "B_fixed",
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "condition": "C_random",
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "condition": "A_normal",
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "condition": "B_fixed",
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "condition": "C_random",
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "condition": "A_normal",
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "condition": "B_fixed",
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "condition": "C_random",
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "condition": "A_normal",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "condition": "B_fixed",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "condition": "C_random",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "condition": "A_normal",
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "condition": "B_fixed",
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "condition": "C_random",
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "condition": "A_normal",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "condition": "B_fixed",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "condition": "C_random",
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "condition": "A_normal",
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "condition": "B_fixed",
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "condition": "C_random",
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "condition": "A_normal",
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "condition": "B_fixed",
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "condition": "C_random",
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "condition": "A_normal",
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "condition": "B_fixed",
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "condition": "C_random",
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "condition": "A_normal",
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "condition": "B_fixed",
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "condition": "C_random",
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "condition": "A_normal",
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "condition": "B_fixed",
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "condition": "C_random",
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "condition": "A_normal",
+      "input_angle": 183.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "condition": "B_fixed",
+      "input_angle": 183.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "condition": "C_random",
+      "input_angle": 183.0
+    }
+  ],
+  "calibration_queries": [
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unrotated",
+      "assignment_seed": -1,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 0.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "known_rotated",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 108.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 126.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 306.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 18.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "midpoint",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 234.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 42,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 313.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 43,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 247.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 44,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 310.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 45,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 169.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 0.0,
+      "input_angle": 183.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 1.0,
+      "input_angle": 183.0
+    },
+    {
+      "relative_path": "good/046.png",
+      "scenario": "unseen_random",
+      "assignment_seed": 46,
+      "additional_blur_sigma": 2.0,
+      "input_angle": 183.0
+    }
+  ]
+}
