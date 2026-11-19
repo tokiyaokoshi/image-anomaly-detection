@@ -1,0 +1,5 @@
+scenario,condition,all_scores_close,max_score_difference,previous_auroc,current_auroc,auroc_close
+unrotated,A_original,True,2.220446049250313e-16,0.82625,0.82625,True
+unrotated,B_rotate10,True,2.220446049250313e-16,0.8066666666666666,0.8066666666666666,True
+known_rotated,A_original,True,2.220446049250313e-16,0.5679166666666667,0.5679166666666667,True
+known_rotated,B_rotate10,True,2.220446049250313e-16,0.7737499999999999,0.7737499999999999,True

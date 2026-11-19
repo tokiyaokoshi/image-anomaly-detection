@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "input_hashes_equal": true,
+  "score_atol": 1e-06,
+  "score_rtol": 1e-06,
+  "auroc_atol": 1e-12
+}

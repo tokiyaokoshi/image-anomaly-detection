@@ -1,0 +1,33 @@
+{
+  "normal_paths": [
+    "good/000.png",
+    "good/001.png",
+    "good/002.png",
+    "good/003.png",
+    "good/004.png"
+  ],
+  "angles": [
+    0,
+    9,
+    18,
+    27,
+    36,
+    45,
+    54,
+    63,
+    72
+  ],
+  "training_angles": [
+    0,
+    36,
+    72,
+    108,
+    144,
+    180,
+    216,
+    252,
+    288,
+    324
+  ],
+  "preprocessing_check_passed": true
+}

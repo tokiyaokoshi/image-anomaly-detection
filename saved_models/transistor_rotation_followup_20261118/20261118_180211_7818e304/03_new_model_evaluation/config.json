@@ -1,0 +1,78 @@
+{
+  "status": "completed",
+  "training_dir": "saved_models/transistor_rotation_followup_20261118/20261118_180211_7818e304/training",
+  "training_contract_sha256": "f65968ce3091ccee51da3d7c62a7cc0ef9c97f7649b8d80a25ec8427a7c76cb0",
+  "model_hashes": {
+    "A_normal": "9e425b61f659bdaaa375ef8996aa557ce4bd79c9cde0a116f633de283e003f8c",
+    "B_fixed": "341306d8da153a0ca16be001c98a7ccaafa4d0d9a307ed1f68059055d3d84e5b",
+    "C_random": "c0e96d1f58f13c1d4629c0e57cf2f35c6ef6e1153cda94afc1d0bab06dc7a7e5"
+  },
+  "unseen_source": "saved_models/transistor_unseen_rotation_20261117/20261117_232200_a212593a",
+  "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82",
+  "test_cases": [
+    [
+      "unrotated",
+      -1
+    ],
+    [
+      "known_rotated",
+      42
+    ],
+    [
+      "midpoint",
+      42
+    ],
+    [
+      "midpoint",
+      43
+    ],
+    [
+      "midpoint",
+      44
+    ],
+    [
+      "midpoint",
+      45
+    ],
+    [
+      "midpoint",
+      46
+    ],
+    [
+      "unseen_random",
+      42
+    ],
+    [
+      "unseen_random",
+      43
+    ],
+    [
+      "unseen_random",
+      44
+    ],
+    [
+      "unseen_random",
+      45
+    ],
+    [
+      "unseen_random",
+      46
+    ]
+  ],
+  "inference": "posterior mean",
+  "metric": "AUROC",
+  "top_k": 130,
+  "window": 11,
+  "representative_seed": 42,
+  "versions": {
+    "torch": "2.12.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "Pillow": "12.2.0",
+    "scikit-image": "0.26.0"
+  },
+  "completed_at_jst": "2026-11-19T02:28:19.358246+09:00",
+  "model_score_count": 3600,
+  "test_source_count": 100,
+  "case_count": 12
+}

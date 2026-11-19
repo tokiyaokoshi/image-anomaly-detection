@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "condition": "B_fixed",
+  "contract": {
+    "model": "Hybrid CNN + FC",
+    "model_definition_sha256": "546d83343d03107deffc7f46c4b34c4996f419f807f0a799d524a28931e4f7a2",
+    "seed": 42,
+    "latent_dim": 64,
+    "batch_size": 32,
+    "target_updates": 6700,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "adam_betas": [
+      0.9,
+      0.999
+    ],
+    "adam_eps": 1e-08,
+    "weight_decay": 0,
+    "loss": "pixel SSE sum + beta * standard normal KL latent sum; batch sum",
+    "beta_rule": "min(1,(one_based_update-1)/(3350-1))",
+    "beta_max": 1.0,
+    "warmup_updates": 3350,
+    "beta_schedule_sha256": "9bc09eb334ea378751f27ebe566198258865bb4f1dc76be2e7471053c7dcf9de",
+    "train_manifest_sha256": "fdac0b8555a3900d30142b75124e868deae6422e3c9b26b6ba72c62bc2856de1",
+    "test_manifest_sha256": "d7d8a95c32050c0e968424b9d628a4da8b25e68f9db30f2daaa40790ca46db82",
+    "train_conditions": [
+      "A_normal",
+      "B_fixed",
+      "C_random"
+    ],
+    "fixed_angles": [
+      0,
+      36,
+      72,
+      108,
+      144,
+      180,
+      216,
+      252,
+      288,
+      324
+    ],
+    "random_angle": "independent uniform float in [0,360) on every __getitem__; private NumPy RNG",
+    "sampler_seed": 1042,
+    "augmentation_seed": 2042,
+    "workers": 0,
+    "preprocessing": "Pillow direct: RGB1024 / reflect / NEAREST / preserve supported pixels / LANCZOS128 / L / float32 / 255"
+  },
+  "contract_sha256": "f65968ce3091ccee51da3d7c62a7cc0ef9c97f7649b8d80a25ec8427a7c76cb0",
+  "initial_state_sha256": "86747cc5f781217e5741815eb9bc6a1ccf3eb509bf908e733b6c526f66e956b2",
+  "images_per_epoch": 2130,
+  "updates_per_epoch": 67
+}
